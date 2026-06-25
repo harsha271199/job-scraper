@@ -8,8 +8,9 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
+    timeout-minutes: 10        # ← hard kill after 10 min no matter what
     permissions:
-      contents: write       # needed to push README.md updates
+      contents: write
 
     steps:
       - name: Checkout repo
