@@ -1,6 +1,39 @@
 # 📢 Job Listings for Harsha — June 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-25 20:55:01
+
+📊 **12 new jobs this batch:**
+- Airbnb: 1 job
+- Booz Allen Hamilton: 3 jobs
+- Comcast: 1 job
+- DoorDash: 1 job
+- Exact Sciences: 1 job
+- Intel: 1 job
+- KLA: 1 job
+- Motorola Solutions: 1 job
+- Natera: 1 job
+- Pinterest: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Airbnb** | Remote, Brazil | Android Software Engineer, Quality Platform | [Apply](https://careers.airbnb.com/positions/7744247?gh_jid=7744247) | 2026-03-24T11:06:30-04:00 |
+| **DoorDash** | United States - Remote | Revenue Data Analyst | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8024408) | 2026-06-25T15:21:20-04:00 |
+| **Pinterest** | Toronto, ON, CA | Software Engineer II, Web | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8024883) | 2026-06-25T15:54:16-04:00 |
+| **Natera** | US Remote | Software Engineer - Patient Experience | [Apply](https://job-boards.greenhouse.io/natera/jobs/6033356004) | 2026-06-25T15:54:12-04:00 |
+| **Booz Allen Hamilton** | Camp Lejeune, NC | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Collaborative-Services-Developer_R0240941) | Posted Today |
+| **Booz Allen Hamilton** | Fort Meade, MD | Data Scientist Network Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist-Network-Analyst_R0243036) | Posted Today |
+| **Comcast** | PA - Philadelphia, 1800 Arch St | Software Engineer 2, Agentic AI | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Software-Engineer-2--Agentic-AI_R434800-1) | Posted Today |
+| **Booz Allen Hamilton** | Langley AFB, VA | Full Stack Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0243053) | Posted Today |
+| **Exact Sciences** | US - CA - San Diego | Associate Research Scientist I | [Apply](https://exactsciences.wd1.myworkdayjobs.com/en-US/Exact_Sciences/job/US---CA---San-Diego/Associate-Research-Scientist-I_R26-13583) | Posted Today |
+| **Intel** | US, Arizona, Phoenix | AI Software Engineering Intern | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/AI-Software-Engineering-Intern_JR0282641) | Posted Today |
+| **KLA** | Ann Arbor, MI | Data Engineer - Palantir | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Data-Fabric-Engineer_2634937-1) | Posted Today |
+| **Motorola Solutions** | Los Angeles, CA | Machine Learning Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Machine-Learning-Engineer_R64440) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-25 18:59:48
 
 📊 **22 new jobs this batch:**
