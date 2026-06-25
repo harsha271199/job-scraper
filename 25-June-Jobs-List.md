@@ -1,6 +1,55 @@
 # 📢 Job Listings for Harsha — June 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-25 18:59:48
+
+📊 **22 new jobs this batch:**
+- Affirm: 2 jobs
+- Anthropic: 1 job
+- Benchling: 1 job
+- Booz Allen Hamilton: 5 jobs
+- CVS Health: 1 job
+- Coinbase: 1 job
+- Comcast: 2 jobs
+- CrowdStrike: 1 job
+- Esri: 1 job
+- General Motors: 1 job
+- Kodiak: 1 job
+- Mastercard: 1 job
+- Mixpanel: 1 job
+- Northrop Grumman: 1 job
+- OpenAI: 1 job
+- YipitData: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Benchling** | San Francisco, CA | Software Engineer, Insights | [Apply](https://jobs.ashbyhq.com/benchling/259613a6-686a-4756-82fd-e653d53e9904) | 2026-06-25T16:15:20.381+00:00 |
+| **OpenAI** | New York City | Full Stack Software Engineer, API Experience  | [Apply](https://jobs.ashbyhq.com/openai/66288824-8b77-4774-bc57-6825d3e6221e) | 2026-06-25T17:02:07.525+00:00 |
+| **Affirm** | Remote Canada | Software Engineer II, Machine Learning (Feature Platform) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7785602003) | 2026-06-25T12:40:05-04:00 |
+| **Affirm** | Remote US | Software Engineer II, Machine Learning (Feature Platform) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7785600003) | 2026-06-25T12:40:04-04:00 |
+| **Anthropic** | New York City, NY; San Francisco, CA | New York City, NY; Washington, DC | Data Scientist, Policy | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5232055008) | 2026-05-27T12:27:23-04:00 |
+| **Coinbase** | Remote - USA | Software Engineer, Frontend (Consumer - Card) | [Apply](https://www.coinbase.com/careers/positions/8028985?gh_jid=8028985) | 2026-06-25T14:47:56-04:00 |
+| **Esri** | Redlands, CA | DevOps Engineer II - Geocoding Services | [Apply](https://www.esri.com/careers/5056941007?gh_jid=5056941007) | 2026-03-03T10:54:20-05:00 |
+| **Kodiak** | Mountain View, CA | Software Engineer, Motion Planning | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4243323009) | 2026-05-07T16:48:43-04:00 |
+| **Mixpanel** | San Francisco, US (Remote) | Software Engineer, DevInfra | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941929) | 2026-06-25T14:43:29-04:00 |
+| **YipitData** | US Remote | Data Product Analyst, Corporate | [Apply](https://job-boards.greenhouse.io/yipitdata/jobs/7998077) | 2026-06-10T18:00:43-04:00 |
+| **Booz Allen Hamilton** | San Diego, CA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Engineer_R0235323) | Posted Today |
+| **Booz Allen Hamilton** | Columbia, MD | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Columbia-MD/Software-Engineer_R0243033) | Posted Today |
+| **Booz Allen Hamilton** | Melbourne, FL | Azure Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Melbourne-FL/Azure-Cloud-Engineer_R0239471) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0243023) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | Full Stack Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Full-Stack-Software-Engineer--Mid_R0243009) | Posted Today |
+| **Comcast** | VA - Reston, 11951 Freedom Dr Ste 900 | Python or GoLang Software Engineer (Tier-2) - 2 Days Onsite in Reston, VA - FreeWheel | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Python-or-GoLang-Software-Engineer--Tier-2----2-Days-Onsite-in-Reston--VA---FreeWheel_R438826) | Posted Today |
+| **Comcast** | VA - Reston, 11951 Freedom Dr Ste 900 | Java Software Engineer 1 - Reston, VA - Freewheel | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Java-Software-Engineer-1---Reston--VA---Freewheel_R439842) | Posted Today |
+| **CVS Health** | TX - Work from home | Sr Software Development Engineer - AI Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Sr-Software-Development-Engineer---AI-Engineering_R0954698) | Posted Today |
+| **CrowdStrike** | USA - Remote, NY | Sr. Backend Engineer II (Hybrid) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-NY/Principal-Engineer--Hybrid-_R23913) | Posted Today |
+| **General Motors** | Milford, Michigan, United States of America | Brake Control Software Engineer | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Brake-Control-Software-Engineer_JR-202606910) | Posted Today |
+| **Mastercard** | Salt Lake City, Utah (Holladay) | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Salt-Lake-City-Utah-Holladay/Software-Engineer-II_R-275505) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | DevOps Engineer 3/4 - Secret | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/DevOps-Engineer-3-4---Secret_R10234098) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-25 16:13:30
 
 📊 **13 new jobs this batch:**
