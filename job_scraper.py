@@ -17,34 +17,136 @@ from datetime import datetime
 from pathlib import Path
 from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# ─── KEYWORDS TO MATCH (job titles you want) ─────────────────────────────────
-KEYWORDS = [
-    'data engineer', 'data engineering',
-    'data scientist', 'data science',
-    'machine learning', 'ml engineer',
-    'ai engineer', 'artificial intelligence',
-    'software engineer', 'software developer', 'sde', 'swe',
-    'platform engineer', 'cloud engineer',
-    'backend engineer', 'backend developer',
-    'data analyst', 'analytics engineer',
-    'mlops', 'llm', 'generative ai', 'genai',
-    'nlp engineer', 'applied scientist',
-    'data infrastructure', 'big data',
-    'python developer', 'python engineer',
-    'intern', 'internship', 'new grad', 'entry level',
-    'associate engineer', 'junior engineer',
+# ─── KEYWORDS TO MATCH ───────────────────────────────────────────────────────
+# Only roles relevant to Harsha's Masters in Data Science
+# Targets: Internship (Fall), Co-op, Full-time entry/mid-level
+
+# ROLE keywords — must match one of these
+ROLE_KEYWORDS = [
+    # Data Engineering
+    'data engineer',
+    'analytics engineer',
+    'data infrastructure',
+    'big data engineer',
+    'etl engineer',
+    'pipeline engineer',
+
+    # Data Science
+    'data scientist',
+    'applied scientist',
+    'quantitative analyst',
+    'research scientist',
+
+    # AI / ML
+    'machine learning engineer',
+    'ml engineer',
+    'ai engineer',
+    'mlops',
+    'llmops',
+    'llm engineer',
+    'generative ai',
+    'nlp engineer',
+    'applied ml',
+    'ai platform',
+
+    # Software Engineering (broad — for SDE roles)
+    'software engineer',
+    'software developer',
+    'sde',
+    'swe',
+    'backend engineer',
+    'platform engineer',
+
+    # Cloud / Infra
+    'cloud engineer',
+    'devops engineer',
+    'site reliability',
+    'sre',
+
+    # Analytics / BI
+    'data analyst',
+    'business analyst',
+    'business intelligence',
+    'bi engineer',
+    'bi analyst',
+    'analytics engineer',
+    'product analyst',
+    'growth analyst',
+    'reporting analyst',
 ]
 
-# ─── KEYWORDS TO EXCLUDE (roles you don't want) ───────────────────────────────
+# LEVEL keywords — must also match one of these (internship OR full-time)
+LEVEL_KEYWORDS = [
+    # Internship / Co-op (Fall 2025 / Spring 2026)
+    'intern',
+    'internship',
+    'co-op',
+    'coop',
+    'co op',
+    'fall 2025',
+    'fall 2026',
+    'spring 2026',
+    'summer 2026',
+
+    # New Grad / Entry Level / Full-time
+    'new grad',
+    'new graduate',
+    'entry level',
+    'entry-level',
+    'associate',
+    'junior',
+    'early career',
+    '0-2 years',
+    '1-2 years',
+    '1-3 years',
+    '2-3 years',
+    'recent graduate',
+
+    # Mid-level (2+ years exp — you qualify with LTI Mindtree)
+    'mid level',
+    'mid-level',
+    'software engineer i',
+    'software engineer ii',  # SDE-I / SDE-II
+    'engineer i',
+    'engineer ii',
+    'analyst i',
+    'analyst ii',
+    'scientist i',
+    'scientist ii',
+    'level 3',
+    'level 4',
+    'l3',
+    'l4',
+]
+
+# ─── KEYWORDS TO EXCLUDE (noise you never want) ──────────────────────────────
 NO_KEYWORDS = [
-    'senior', 'sr.', ' sr ', 'staff', 'principal', 'director',
-    'manager', 'lead', 'vp', 'vice president', 'head of',
-    'c++', 'embedded', 'firmware', 'hardware',
-    'sales', 'marketing', 'recruiter', 'finance',
-    'security engineer', 'network engineer',
-    'mechanical', 'civil', 'electrical',
-    'nurse', 'legal', 'accounting',
-    'ui/ux', 'ux designer', 'graphic',
+    # Seniority you're not targeting
+    'senior', ' sr.', ' sr ', 'staff engineer', 'principal',
+    'director', 'manager', 'lead', 'vp ', 'vice president',
+    'head of', 'chief', 'distinguished', 'fellow',
+    'software engineer iii', 'engineer iii', 'engineer iv',
+    'level 5', 'level 6', 'l5', 'l6',
+
+    # Wrong tech domains
+    'c++', 'embedded', 'firmware', 'hardware engineer',
+    'fpga', 'asic', 'rf engineer', 'mechanical', 'civil',
+    'electrical engineer', 'manufacturing',
+
+    # Non-tech roles
+    'sales', 'marketing', 'account executive', 'account manager',
+    'recruiter', 'talent acquisition', 'hr ', 'human resources',
+    'legal', 'accounting', 'finance analyst', 'controller',
+    'nurse', 'doctor', 'physician', 'clinical',
+    'ux designer', 'ui designer', 'graphic designer',
+    'copywriter', 'content writer', 'social media',
+    'customer success', 'customer support', 'customer service',
+    'supply chain', 'logistics', 'procurement',
+    'paint', 'cnc', 'material handler', 'technician',
+
+    # Defense / security clearance (hard to get on OPT)
+    'clearance required', 'secret clearance', 'ts/sci',
+    'top secret', 'dod ', 'defense contractor',
 ]
 
 # ─── ERROR LOGGING ────────────────────────────────────────────────────────────
@@ -57,10 +159,38 @@ def log_error(company, message):
 
 # ─── KEYWORD MATCHING ─────────────────────────────────────────────────────────
 def keyword_match(title):
-    title_lower = title.lower()
-    has_positive = any(k in title_lower for k in KEYWORDS)
-    has_negative = any(nk in title_lower for nk in NO_KEYWORDS)
-    return has_positive and not has_negative
+    """
+    A job passes if:
+      1. Title contains a ROLE keyword (data engineer, ml engineer, etc.)
+      2. Title contains a LEVEL keyword (intern, new grad, engineer i, etc.)
+         OR the title is a clean role name without a seniority indicator
+         (e.g. "Data Engineer" with no level = likely entry/mid, include it)
+      3. Title does NOT contain any NO_KEYWORD
+    """
+    t = title.lower()
+
+    # Hard exclude first
+    if any(nk in t for nk in NO_KEYWORDS):
+        return False
+
+    has_role  = any(rk in t for rk in ROLE_KEYWORDS)
+    has_level = any(lk in t for lk in LEVEL_KEYWORDS)
+
+    if not has_role:
+        return False
+
+    # If it has a level keyword → definitely include
+    if has_level:
+        return True
+
+    # If no level keyword but also no seniority signal → likely entry/mid, include
+    # (e.g. "Data Engineer" or "ML Engineer" posted by a company = open to all levels)
+    seniority_signals = ['senior', 'staff', 'principal', 'director', 'lead',
+                         'manager', 'head', 'vp', 'chief', 'sr.', ' sr ']
+    if not any(s in t for s in seniority_signals):
+        return True
+
+    return False
 
 # ─── US LOCATION FILTER ───────────────────────────────────────────────────────
 def is_us_location(location):
@@ -273,14 +403,37 @@ def update_daily_markdown(new_jobs):
 def send_telegram(new_jobs, bot_token, chat_id):
     if not new_jobs:
         return
-    msg = f"🚀 *{len(new_jobs)} NEW JOBS — {datetime.now().strftime('%b %d %H:%M')}*\n\n"
-    for j in new_jobs[:15]:  # Telegram has message length limits
-        msg += f"🏢 *{j['company']}*\n"
-        msg += f"💼 {j['title']}\n"
-        msg += f"📍 {j['location']}\n"
-        msg += f"🔗 [Apply]({j['link']})\n\n"
-    if len(new_jobs) > 15:
-        msg += f"_...and {len(new_jobs) - 15} more. Check README._"
+
+    # Categorize jobs for cleaner notification
+    interns = [j for j in new_jobs if any(k in j['title'].lower()
+               for k in ['intern', 'internship', 'co-op', 'coop', 'co op'])]
+    fulltime = [j for j in new_jobs if j not in interns]
+
+    msg = f"🚀 *{len(new_jobs)} NEW JOBS — {datetime.now().strftime('%b %d %H:%M')}*\n"
+    msg += f"📋 {len(interns)} Internships | {len(fulltime)} Full-time\n\n"
+
+    # Show internships first
+    if interns:
+        msg += "━━━ 🎓 INTERNSHIPS / CO-OPS ━━━\n"
+        for j in interns[:8]:
+            msg += f"\n🏢 *{j['company']}*\n"
+            msg += f"💼 {j['title']}\n"
+            msg += f"📍 {j['location']}\n"
+            msg += f"🔗 [Apply]({j['link']})\n"
+
+    # Then full-time
+    if fulltime:
+        msg += "\n━━━ 💼 FULL-TIME ━━━\n"
+        for j in fulltime[:8]:
+            msg += f"\n🏢 *{j['company']}*\n"
+            msg += f"💼 {j['title']}\n"
+            msg += f"📍 {j['location']}\n"
+            msg += f"🔗 [Apply]({j['link']})\n"
+
+    total_shown = min(len(interns), 8) + min(len(fulltime), 8)
+    if len(new_jobs) > total_shown:
+        msg += f"\n[👉 View all {len(new_jobs)} jobs on GitHub](https://github.com/harsha271199/job-scraper#readme)"
+
     url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
     try:
         requests.post(url, json={
@@ -289,6 +442,7 @@ def send_telegram(new_jobs, bot_token, chat_id):
             "parse_mode": "Markdown",
             "disable_web_page_preview": True
         }, timeout=10)
+        print(f"📱 Telegram sent: {len(new_jobs)} jobs")
     except Exception as e:
         print(f"Telegram error: {e}")
 
