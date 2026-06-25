@@ -1,6 +1,36 @@
 # 📢 Job Listings for Harsha — June 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-25 16:13:30
+
+📊 **13 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- CrowdStrike: 1 job
+- Guidehouse: 5 jobs
+- Mastercard: 3 jobs
+- Northrop Grumman: 2 jobs
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Stripe** | US-Remote | Risk & Control Health Data Analyst | [Apply](https://stripe.com/jobs/search?gh_jid=8013657) | 2026-06-25T09:58:36-04:00 |
+| **Booz Allen Hamilton** | San Antonio, TX | Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Analyst--Mid_R0242987) | Posted Today |
+| **CrowdStrike** | Romania - Remote | Data Analyst (Remote, ROU) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Romania---Remote/Data-Analyst--Remote--ROU-_R28297) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | ServiceNow Business Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/ServiceNow-Business-Analyst_35742) | Posted Today |
+| **Guidehouse** | US - VA, McLean | Business Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Business-Analyst_40669) | Posted Today |
+| **Guidehouse** | US - DC, Washington | Data Scientist (Analytics & Automation) | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Data-Scientist--Analytics---Automation-_40970) | Posted Today |
+| **Guidehouse** | US - VA, McLean | Data Engineer - Managing Consultant | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Data-Engineer---Managing-Consultant_41103) | Posted Today |
+| **Guidehouse** | US - VA, McLean | Software Developer - Managing Consultant | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Software-Developer---Managing-Consultant_41106) | Posted Today |
+| **Mastercard** | Remote - Mexico | Site Reliability Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Remote---Mexico/Site-Reliability-Engineer-II_R-275688) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer - Level 2 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-2_R10237625) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer - Level 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-4_R10237623) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Site Reliability Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/BizOps-Engineer-II_R-271215) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Site Reliability Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/BizOps-Engineer-II_R-272970) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-25 13:56:00
 
 📊 **1 new jobs this batch:**
