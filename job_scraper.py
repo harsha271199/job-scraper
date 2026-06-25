@@ -305,11 +305,13 @@ def scrape_workday(url, company):
         sub, wd, site = match.group(1), match.group(2), match.group(3)
         api = f"https://{sub}.{wd}.myworkdayjobs.com/wday/cxs/{sub}/{site}/jobs"
         offset, page = 0, 20
+        max_pages = 5          # ← cap at 5 pages (100 jobs) per company max
+        pages_fetched = 0
         headers = {'Content-Type': 'application/json', 'Accept': 'application/json'}
-        while True:
-            time.sleep(random.uniform(1.5, 3.0))
+        while pages_fetched < max_pages:
+            time.sleep(random.uniform(0.3, 0.8))   # ← reduced from 1.5-3.0s
             r = requests.post(api, json={"appliedFacets": {}, "limit": page,
-                              "offset": offset, "searchText": ""}, headers=headers, timeout=15)
+                              "offset": offset, "searchText": ""}, headers=headers, timeout=8)
             if r.status_code != 200:
                 log_error(company, f"Workday {r.status_code}")
                 break
@@ -327,6 +329,7 @@ def scrape_workday(url, company):
                     results.append({'company': company, 'title': title,
                                     'location': location, 'link': link, 'posted': posted})
                     old_links.add(link)
+            pages_fetched += 1
             offset += page
             if offset >= data.get('total', 0):
                 break
