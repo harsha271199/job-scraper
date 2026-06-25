@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — June 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-25 05:56:40
+
+📊 **2 new jobs this batch:**
+- Anthropic: 1 job
+- KLA: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY | Data Scientist, Supply | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5212119008) | 2026-05-07T14:16:13-04:00 |
+| **KLA** | Milpitas, CA | System Software Engineer (HPC) | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/System-Software-Engineer--HPC-_2637682-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-25 01:51:44
 
 📊 **552 new jobs this batch:**
