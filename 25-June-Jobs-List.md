@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — June 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-25 22:14:03
+
+📊 **6 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Roblox: 1 job
+- Twilio: 1 job
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Data Engineering | [Apply](https://careers.roblox.com/jobs/8025021?gh_jid=8025021) | 2026-06-25T17:04:19-04:00 |
+| **Twilio** | Remote - US | Machine Learning Engineer | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7059734) | 2026-01-21T12:16:52-05:00 |
+| **Booz Allen Hamilton** | McLean, VA | DevOps and Site Reliability Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-and-Site-Reliability-Engineer_R0242915) | Posted Today |
+| **Booz Allen Hamilton** | Scott AFB, IL | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/Cloud-Engineer_R0243063) | Posted Today |
+| **Boeing** | USA - Daytona Beach, FL | Associate Mission Systems Software Developer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Daytona-Beach-FL/Mission-Systems-Software-Developer--Experienced---Senior-_JR2026492503-1) | Posted Today |
+| **Workday** | USA, CO, Boulder | Software Development Engineer, AI Platform | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/Software-Development-Engineer--AI-Platform_JR-0107870) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-25 20:55:01
 
 📊 **12 new jobs this batch:**
