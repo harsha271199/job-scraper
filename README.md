@@ -1,2 +1,8 @@
-# job-scraper
-A Python-based job scraper to collect and filter job listings from various sources
+# 🚀 Harsha's Job Scraper
+
+Scrapes 80+ company ATS systems every hour. New jobs appear here automatically.
+
+> Set up Telegram bot to get phone notifications instantly.
+
+---
+*No jobs yet — run the scraper to populate this file.*
