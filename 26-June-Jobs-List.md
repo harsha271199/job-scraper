@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — June 26, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-26 13:54:21
+
+📊 **1 new jobs this batch:**
+- DoorDash: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **DoorDash** | San Francisco, CA; Seattle, WA | Software Engineer, Cloud Infrastructure | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8010827) | 2026-06-26T08:00:41-04:00 |
+
+---
+# 📢 Job Listings for Harsha — June 26, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-26 08:45:13
 
 📊 **3 new jobs this batch:**
