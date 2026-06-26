@@ -1,6 +1,46 @@
 # 📢 Job Listings for Harsha — June 26, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-26 20:25:06
+
+📊 **17 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 4 jobs
+- CVS Health: 1 job
+- CrowdStrike: 3 jobs
+- Fiserv: 1 job
+- Guidehouse: 1 job
+- Northrop Grumman: 1 job
+- Notion: 1 job
+- Reddit: 1 job
+- Salesforce: 1 job
+- Workday: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Notion** | San Francisco, California | Software Engineer, Data Product Platform | [Apply](https://jobs.ashbyhq.com/notion/53fb4637-d1d6-4411-8a87-52865db5a11c) | 2026-06-26T19:29:53.967+00:00 |
+| **Reddit** | Remote - United States | Machine Learning Engineer, Ads Optimization & Ads Marketplace Quality | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8029120) | 2026-06-26T15:47:57-04:00 |
+| **Zoox** | Foster City, CA | Software Engineer - Robot Link Platform | [Apply](https://jobs.lever.co/zoox/44136143-ba13-4839-bdc5-26a7633080a3) | 2026-06-26 19:53 |
+| **Booz Allen Hamilton** | Arlington, VA | AI/ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-ML-Engineer_R0241833) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Engineer_R0243210) | Posted Today |
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243190) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0243183) | Posted Today |
+| **Boeing** | USA - Seal Beach, CA | Experienced Software Engineer – Vehicle Management Systems | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Experienced-Software-Engineer---Vehicle-Management-Systems_JR2026516293-1) | Posted Today |
+| **CVS Health** | IN - Work from home | Machine Learning Engineer | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IN---Work-from-home/Machine-Learning-Engineer_R0930355-1) | Posted Today |
+| **CrowdStrike** | USA - Sunnyvale, CA | Sr Software Engineer, Cloud – Platform Foundations (Hybrid) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer--Cloud---Provisioning-Platform--Hybrid-_R29021) | Posted Today |
+| **CrowdStrike** | USA - Sunnyvale, CA | SRE/Dev Ops Engineer (Hybrid, Sunnyvale) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/SRE-Dev-Ops-Engineer--Hybrid--Sunnyvale-_R28583) | Posted Today |
+| **CrowdStrike** | USA - Redmond, WA | Sr Software Engineer, Cloud - E2E Test | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Redmond-WA/Software-Engineer--Cloud---E2E-Test_R28957) | Posted Today |
+| **Fiserv** | Berkeley Heights, New Jersey | Software Engineering .NET Developer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/Senior-full-stack-Net-Developer_R-10383219) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Palantir Data Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Palantir-Data-Engineer_41109-1) | Posted Today |
+| **Northrop Grumman** | United States-Maryland-Linthicum | Integration & Test Software Engineer – Level 3 or 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/Integration---Test-Software-Engineer---Level-3-or-4_R10237953) | Posted Today |
+| **Salesforce** | Washington - Bellevue | Software Engineering PMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR347863) | Posted Today |
+| **Workday** | USA.VA.Reston | (Sr) Site Reliability Engineer (US Federal) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/XMLNAME--Sr--Site-Reliability-Engineer--US-Federal-_JR-0108251) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 26, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-26 18:20:07
 
 📊 **17 new jobs this batch:**
