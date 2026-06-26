@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — June 26, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-26 21:59:17
+
+📊 **6 new jobs this batch:**
+- Dialpad: 1 job
+- Salesforce: 2 jobs
+- SpaceX: 2 jobs
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Dialpad** | Anywhere, US | Sr AI Engineer - Agentic Systems | [Apply](https://job-boards.greenhouse.io/dialpad/jobs/8610775002) | 2026-06-26T17:24:43-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8605075002?gh_jid=8605075002) | 2026-06-26T16:27:46-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer, Vehicle Operations (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8609228002?gh_jid=8609228002) | 2026-06-26T17:41:12-04:00 |
+| **Upstart** | United States | Remote | Software Engineer, Verifications Platform | [Apply](https://careers.upstart.com/jobs?gh_jid=7544233) | 2026-02-20T15:46:13-05:00 |
+| **Salesforce** | Washington - Bellevue | Software Engineering PMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS_JR349476) | Posted Today |
+| **Salesforce** | California - Redwood City | Software Engineer (Backend) - MTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Software-Engineering---Backend----MTS_JR340716) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 26, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-26 20:25:06
 
 📊 **17 new jobs this batch:**
