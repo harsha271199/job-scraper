@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — June 27, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-27 23:50:04
+
+📊 **1 new jobs this batch:**
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Nvidia** | US, CA, Santa Clara | Quality Assurance Software Developer Engineer in Test, GeForce GPU | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Quality-Assurance-Software-Developer-in-Test-Engineer_JR2011328) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 27, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-27 01:51:55
 
 📊 **6 new jobs this batch:**
