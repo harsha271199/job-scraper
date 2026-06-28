@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — June 28, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-28 21:51:24
+
+📊 **2 new jobs this batch:**
+- Cursor: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Cursor** | San Francisco | Software Engineer, Storage | [Apply](https://jobs.ashbyhq.com/cursor/299ce422-0281-4282-aadd-bc22553be0b5) | 2026-06-28T21:38:54.013+00:00 |
+| **Cursor** | San Francisco | Software Engineer, Services Platform | [Apply](https://jobs.ashbyhq.com/cursor/6eef7144-f2cc-48a8-b065-01f04e4c70ff) | 2026-06-28T21:38:56.671+00:00 |
+
+---
+# 📢 Job Listings for Harsha — June 28, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-28 20:48:42
 
 📊 **1 new jobs this batch:**
