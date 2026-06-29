@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — June 29, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-29 20:46:21
+
+📊 **11 new jobs this batch:**
+- Booz Allen Hamilton: 7 jobs
+- Guidehouse: 1 job
+- Nvidia: 1 job
+- Salesforce: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Waymo** | Mountain View, CA, USA | Machine Learning Engineer, ML Flywheel | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7426598) | 2025-12-03T12:08:38-05:00 |
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243332) | Posted Today |
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243331) | Posted Today |
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243330) | Posted Today |
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243329) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Full Stack Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Full-Stack-Software-Engineer--Mid_R0243316) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | Remote Sensing Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Remote-Sensing-Software-Engineer_R0243286) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | Remote Sensing Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Remote-Sensing-Software-Engineer_R0243285-1) | Posted Today |
+| **Guidehouse** | US - MD, Bethesda | Structural Biology Research Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Structural-Biology-Research-Scientist_41279) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Data Engineer, Document AI – Finance | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Data-Engineer--Document-AI---Finance_JR2015111) | Posted Today |
+| **Salesforce** | California - Redwood City | Platform Engineer — Cloud Infrastructure (SMTS) | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---Redwood-City/Platform-Engineer---Cloud-Infrastructure--SMTS-_JR347709) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 29, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-29 18:55:53
 
 📊 **14 new jobs this batch:**
