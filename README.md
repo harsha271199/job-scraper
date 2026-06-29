@@ -1,6 +1,40 @@
 # 📢 Job Listings for Harsha — June 29, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-29 18:55:53
+
+📊 **14 new jobs this batch:**
+- Booz Allen Hamilton: 4 jobs
+- Citi: 1 job
+- Cox Enterprises: 1 job
+- Fiserv: 1 job
+- Guidehouse: 2 jobs
+- Morgan Stanley: 1 job
+- Nvidia: 1 job
+- Ramp: 1 job
+- Waymo: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Ramp** | New York, NY (HQ) | Software Engineer, Developer API | [Apply](https://jobs.ashbyhq.com/ramp/42527ca9-03b9-499e-a5c4-18e4245af138) | 2026-06-29T17:10:36.236+00:00 |
+| **Waymo** | Mountain View, CA, USA; San Francisco, CA, USA; Kirkland, WA, USA; New York City, NY, USA | Foundation Model Data, Software Engineer | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8031883) | 2026-06-29T14:49:55-04:00 |
+| **Waymo** | Mountain View, CA, USA | Machine Learning Engineer, ML Resources | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7424806) | 2025-11-26T15:49:41-05:00 |
+| **Booz Allen Hamilton** | Honolulu, HI | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Analyst_R0238065-1) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0243318) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | Power Platform Business Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Power-Platform-Business-Analyst--Mid_R0240705) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0243304-1) | Posted Today |
+| **Cox Enterprises** | Austin TX | Software Engineer II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-II_R202678671) | Posted Today |
+| **Citi** | New York New York United States | Credit Quantitative Analyst | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Credit-Quantitative-Analyst_26956153) | Posted Today |
+| **Fiserv** | Berkeley Heights, New Jersey | Product Analyst, AI | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/Product-Analyst--Advisor-I_R-10393603) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | ServiceNow Business Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/ServiceNow-Business-Analyst_41295-1) | Posted Today |
+| **Guidehouse** | US - VA, Norfolk | Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Norfolk/Data-Scientist_39228) | Posted Today |
+| **Morgan Stanley** | New York, New York, United States of America | Associate, Software Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR025652) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | System Software Engineer - Performance Lab | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance-Lab_JR2019929) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 29, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-29 16:31:02
 
 📊 **49 new jobs this batch:**
