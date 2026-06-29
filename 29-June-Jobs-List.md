@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — June 29, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-29 22:02:15
+
+📊 **3 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Mastercard: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Boeing** | USA - Seattle, WA | Mid-Level Software Developer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seattle-WA/Mid-Level-Software-Developer_JR2026516991-1) | Posted Today |
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0243328) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-281340-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 29, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-29 20:46:21
 
 📊 **11 new jobs this batch:**
