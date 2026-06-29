@@ -1,6 +1,30 @@
 # 📢 Job Listings for Harsha — June 29, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-29 23:49:34
+
+📊 **7 new jobs this batch:**
+- Airbnb: 1 job
+- CrowdStrike: 1 job
+- Guidehouse: 2 jobs
+- Medtronic: 1 job
+- Northrop Grumman: 1 job
+- Scopely: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Airbnb** | Remote - USA or Canada | Software Engineer, Cloud Networking | [Apply](https://careers.airbnb.com/positions/8037090?gh_jid=8037090) | 2026-06-29T19:30:14-04:00 |
+| **Scopely** | US - Sunnyvale, United States | Associate Data Scientist | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5284874008?gh_jid=5284874008) | 2026-06-29T18:43:03-04:00 |
+| **CrowdStrike** | Canada - Remote ON | Sr. Software Engineer II, Endpoint AI Framework (Hybrid, Canada) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/Canada---Remote-ON/Principal-Software-Engineer--Endpoint-AI-Framework--Remote-_R24794) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | ServiceNow Business Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/ServiceNow-Business-Analyst_40998) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Data Infrastructure Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Data-Infrastructure-Engineer_37773) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer - Level 1 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-1_R10238172) | Posted Today |
+| **Medtronic** | Tempe, Arizona, United States of America | Automation Software Engineer II - LabVIEW/TestStand | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tempe-Arizona-United-States-of-America/Automation-Software-Engineer-II---LabVIEW-TestStand_R70740-2) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 29, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-29 22:02:15
 
 📊 **3 new jobs this batch:**
