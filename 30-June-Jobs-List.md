@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — June 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-30 23:01:20
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Citi: 1 job
+- Northrop Grumman: 1 job
+- Snowflake: 1 job
+- Stripe: 1 job
+- Traba: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Traba** | New York City, NY | Software Engineer (AI Agents) | [Apply](https://jobs.ashbyhq.com/traba/99cf8122-4bbb-42db-be24-f379559c0e6f) | 2026-06-30T21:20:29.371+00:00 |
+| **Snowflake** | US-CA-Menlo Park | Analytics Engineer | [Apply](https://jobs.ashbyhq.com/snowflake/41d8e346-2919-40bf-b5f3-22e3b34ed34c) | 2026-06-30T21:28:46.067+00:00 |
+| **Stripe** | Seattle | Software Engineer, Product Security Data Platforms | [Apply](https://stripe.com/jobs/search?gh_jid=8039800) | 2026-06-30T18:11:48-04:00 |
+| **Booz Allen Hamilton** | San Diego, CA | Unmanned Systems Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Unmanned-Systems-Software-Developer_R0243439) | Posted Today |
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | BANAMEX Risk Data Analyst | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Risk-Data-Analyst_26973148) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | Algorithm Software Engineer - Level 3 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithm-Software-Engineer---Level-3_R10237728-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-30 21:21:22
 
 📊 **9 new jobs this batch:**
