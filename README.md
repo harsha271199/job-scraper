@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — June 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-30 17:45:21
+
+📊 **9 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Dropbox: 1 job
+- Medtronic: 1 job
+- Mixpanel: 1 job
+- Motorola Solutions: 1 job
+- Northrop Grumman: 2 jobs
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Dropbox** | Remote - Mexico | Infrastructure Software Engineer, Release Systems | [Apply](https://jobs.dropbox.com/listing/8031442?gh_jid=8031442) | 2026-06-30T12:00:06-04:00 |
+| **Mixpanel** | San Francisco, US (Hybrid) | Software Engineer, AI Product Insights | [Apply](https://job-boards.greenhouse.io/mixpanel/jobs/7941930) | 2026-06-30T12:05:30-04:00 |
+| **Upstart** | United States | Remote | Data Analyst, Home Lending HMDA | [Apply](https://careers.upstart.com/jobs?gh_jid=8038452) | 2026-06-30T11:29:02-04:00 |
+| **Booz Allen Hamilton** | Arlington, VA | AI Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Software-Engineer_R0242886) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | AI Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Software-Engineer_R0230233) | Posted Today |
+| **Motorola Solutions** | Salt Lake City, UT (UT17) | Software Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineer_R64168) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Aurora | Research Software Engineer Level 1 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Research-Software-Engineer-Level-1_R10237693) | Posted Today |
+| **Medtronic** | Lafayette, Colorado, United States of America | Software Engineer II | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-II_R59740-2) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | Algorithm Software Engineer - Level 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithm-Software-Engineer---Level-4_R10238241) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-30 15:28:44
 
 📊 **10 new jobs this batch:**
