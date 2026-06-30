@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — June 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-30 21:21:22
+
+📊 **9 new jobs this batch:**
+- Abnormal Security: 1 job
+- Booz Allen Hamilton: 3 jobs
+- Glean: 1 job
+- Palantir: 1 job
+- Scale AI: 1 job
+- Target: 1 job
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Abnormal Security** | Remote - USA | Software Engineer II - Full Stack | [Apply](https://abnormal.ai/careers/jobs/7786309003?gh_jid=7786309003) | 2026-06-30T15:33:16-04:00 |
+| **Glean** | Mountain View, CA | Software Engineer, Cloud Infrastructure | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4709327005) | 2026-06-30T16:28:53-04:00 |
+| **Scale AI** | San Francisco, CA; New York, NY | Software Engineer, Identity | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4710484005) | 2026-06-30T16:51:01-04:00 |
+| **Upstart** | United States | Remote | Sr Software Engineer - Lending Platform  | [Apply](https://careers.upstart.com/jobs?gh_jid=8039568) | 2026-06-30T16:43:09-04:00 |
+| **Palantir** | Chicago, IL | Forward Deployed Software Engineer, Internship - Commercial | [Apply](https://jobs.lever.co/palantir/d5486403-c050-4920-b2e0-91b69b61ebb2) | 2026-06-30 20:01 |
+| **Booz Allen Hamilton** | Chantilly, VA | Kubernetes Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Kubernetes-Platform-Engineer_R0242275) | Posted Today |
+| **Booz Allen Hamilton** | Ashburn, VA | Generative AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Generative-AI-Engineer_R0243416) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0242665) | Posted Today |
+| **Target** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Data Analyst - Digital & E-commerce (experimentation, ML, Math/Stats) | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Data-Analyst---ECommerce-Product-Analytics--experimentation--ML--Math-Stats-_R0000442291) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-30 19:27:41
 
 📊 **8 new jobs this batch:**
