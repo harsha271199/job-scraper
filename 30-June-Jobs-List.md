@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — June 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-30 13:00:51
+
+📊 **1 new jobs this batch:**
+- GE HealthCare: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **GE HealthCare** | Haifa HEALTHCARE HA IL 2 | Software Engineer | [Apply](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Software-Engineer_R4040206-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-30 06:03:34
 
 📊 **2 new jobs this batch:**
