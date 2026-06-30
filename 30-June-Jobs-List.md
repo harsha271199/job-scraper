@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — June 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-06-30 19:27:41
+
+📊 **8 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Coinbase: 1 job
+- HP: 1 job
+- Salesforce: 1 job
+- Upstart: 1 job
+- Waymo: 1 job
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Coinbase** | Remote - USA | Software Engineer | [Apply](https://www.coinbase.com/careers/positions/8022068?gh_jid=8022068) | 2026-06-30T14:24:29-04:00 |
+| **Upstart** | United States | Remote | Software Engineer, Conversion | [Apply](https://careers.upstart.com/jobs?gh_jid=8014391) | 2026-06-30T15:00:46-04:00 |
+| **Waymo** | Mountain View, California, USA; San Francisco, California; USA; Pittsburg Pennsylvania, USA |  Software Engineer, Planner (L4) | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8039191) | 2026-06-30T14:18:55-04:00 |
+| **Booz Allen Hamilton** | San Diego, CA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist--Mid_R0241184) | Posted Today |
+| **Boeing** | USA - Saint Charles, MO | Real-Time Software Engineers (Associate or Experienced) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Saint-Charles-MO/Real-Time-Software-Engineers--Associate-or-Experienced-_JR2026507547-1) | Posted Today |
+| **HP** | Vancouver, Washington, United States of America | Data Engineer - CSS, AIP and HPX Analytics | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Data-Engineer---CSS--AIP-and-HPX-Analytics_3162778-1) | Posted Today |
+| **Salesforce** | Georgia - Atlanta | Software Engineer II, Datastores | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Georgia---Atlanta/Software-Engineer-II--Datastores_JR349661-1) | Posted Today |
+| **Workday** | USA, CO, Boulder | DevOps Engineer | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CO-Boulder/DevOps-Engineer_JR-0108209) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — June 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-06-30 17:45:21
 
 📊 **9 new jobs this batch:**
