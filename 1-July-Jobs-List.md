@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — July 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-01 16:13:37
+
+📊 **7 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Fireblocks: 1 job
+- Northrop Grumman: 2 jobs
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Fireblocks** | New York | Data Analytics AI Engineer | [Apply](https://www.fireblocks.com/careers/4684691006?gh_jid=4684691006) | 2026-06-01T12:53:13-04:00 |
+| **Boeing** | USA - Berkeley, MO | Consultant Software Engineer - Lab Provisioning & Integration | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Consultant-Software-Engineer---Lab-Provisioning---Integration_JR2026515392-1) | Posted Today |
+| **Booz Allen Hamilton** | King George, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/King-George-VA/Software-Engineer_R0243463) | Posted Today |
+| **Booz Allen Hamilton** | Fort Meade, MD | Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Software-Developer_R0236271) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer - Level 2 or 3 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-2-or-3_R10238507) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Aurora | Full-stack Software Engineer Level 3 or 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Full-stack-Software-Engineer-Level-3-or-4_R10231410) | Posted Today |
+| **Target** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Sr Data Analyst - Digital and Ecommerce (Experimentation, Math/Stats, A/B testing, ML) | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Data-Analyst---Digital-and-Ecommerce_R0000437894) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-01 13:29:40
 
 📊 **4 new jobs this batch:**
