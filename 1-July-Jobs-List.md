@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — July 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-01 13:29:40
+
+📊 **4 new jobs this batch:**
+- CrowdStrike: 1 job
+- Guidehouse: 1 job
+- Morgan Stanley: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **CrowdStrike** | India - Remote | AI Engineer - 2.00 pm to 11.00 pm IST (Remote, IND) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/India---Remote/AI-Engineer-Remote--IND-_R29106) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | AI/ML Software Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/AI-ML-Software-Engineer_41132-1) | Posted Today |
+| **Northrop Grumman** | United States-Maryland-Annapolis Junction | 2026 -  Associate Cyber Software Engineer - Annapolis Junction MD | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10238328) | Posted Today |
+| **Morgan Stanley** | Alpharetta, Georgia, United States of America | Associate, Software Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR033706) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-01 10:41:55
 
 📊 **2 new jobs this batch:**
