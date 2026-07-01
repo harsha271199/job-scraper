@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-01 10:41:55
+
+📊 **2 new jobs this batch:**
+- GitLab: 1 job
+- Mercury: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **GitLab** | Remote, Canada; Remote, United Kingdom | Backend Engineer (Ruby), AI Engineering: Duo Agent Platform Tools | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8605283002) | 2026-07-01T05:08:46-04:00 |
+| **Mercury** | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Software Engineer - Product | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6101145004) | 2026-07-01T03:00:00-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-01 07:00:25
 
 📊 **3 new jobs this batch:**
