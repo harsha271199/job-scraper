@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-01 20:32:03
+
+📊 **3 new jobs this batch:**
+- Anthropic: 1 job
+- Guidehouse: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY | [P] Data Engineer, Safeguards | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5240422008) | 2026-07-01T16:26:10-04:00 |
+| **Guidehouse** | US - VA, Arlington | Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Scientist_38181) | Posted Today |
+| **Northrop Grumman** | United States-Virginia-McLean | Software Developer – Mission Planning Team | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/Software-Developer---Mission-Planning-Team_R10238562) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-01 18:53:21
 
 📊 **19 new jobs this batch:**
