@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — July 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-01 07:00:25
+
+📊 **3 new jobs this batch:**
+- Thinking Machines Lab: 1 job
+- Workday: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Thinking Machines Lab** | San Francisco | Software Engineer, Research Acceleration | [Apply](https://job-boards.greenhouse.io/thinkingmachines/jobs/5106416008) | 2026-02-02T20:54:37-05:00 |
+| **Workday** | USA, GA, Atlanta | Sr Site Reliability Engineer | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Sr-Site-Reliability-Engineer_JR-0108530-1) | Posted Today |
+| **Workday** | USA, MA, Boston | Sr Cloud Engineer | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-MA-Boston/Sr-Cloud-Engineer_JR-0108521-2) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-01 02:02:47
 
 📊 **5 new jobs this batch:**
