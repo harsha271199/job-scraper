@@ -1,6 +1,47 @@
 # 📢 Job Listings for Harsha — July 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-01 18:53:21
+
+📊 **19 new jobs this batch:**
+- Anthropic: 1 job
+- Booz Allen Hamilton: 9 jobs
+- Citi: 1 job
+- Datadog: 1 job
+- DoorDash: 1 job
+- Mastercard: 1 job
+- PayPal: 1 job
+- Salesforce: 1 job
+- Snowflake: 1 job
+- SpaceX: 1 job
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Snowflake** | US-CA-Menlo Park | Software Engineer, Full Stack - Marketplace | [Apply](https://jobs.ashbyhq.com/snowflake/8fab4433-4a3f-4a14-8dfe-d497702c4be4) | 2026-07-01T18:27:02.986+00:00 |
+| **Anthropic** | New York City, NY; San Francisco, CA | New York City, NY | Data Scientist, GTM | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5196852008) | 2026-05-31T04:18:08-04:00 |
+| **Datadog** | New York, New York, USA | Software Engineer (Full Stack) - Compliance Engineering | [Apply](https://careers.datadoghq.com/detail/8041817/?gh_jid=8041817) | 2026-07-01T13:06:51-04:00 |
+| **SpaceX** | Redmond, WA | Site Reliability Engineer — HPC & Automation (Silicon Engineering) | [Apply](https://boards.greenhouse.io/spacex/jobs/8614963002?gh_jid=8614963002) | 2026-07-01T13:04:20-04:00 |
+| **Upstart** | United States | Remote | DevOps Engineer, Cloud Platform | [Apply](https://careers.upstart.com/jobs?gh_jid=8030908) | 2026-07-01T13:48:33-04:00 |
+| **DoorDash** | Austin, TX; Baltimore, MD; Chicago, IL; Denver, CO; Boulder, CO; Hartford, CT; New Haven, CT; Philadelphia, PA; Providence, RI; Miami, FL | Analytics Engineer, Data Science | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7967918) | 2026-06-01T20:29:28-04:00 |
+| **Booz Allen Hamilton** | San Diego, CA | Data Scientist, Junior | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist--Junior_R0243527-1) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0243537) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0243541) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0243536) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0243535) | Posted Today |
+| **Booz Allen Hamilton** | Fort Meade, MD | AI/ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-ML-Engineer_R0241767) | Posted Today |
+| **Booz Allen Hamilton** | Fort Meade, MD | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Engineer_R0241771) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | DevOps Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0243520) | Posted Today |
+| **Booz Allen Hamilton** | Springfield, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist_R0243519) | Posted Today |
+| **Citi** | Irving Texas United States | Digital Software Engineer | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Digital-Software-Engineer_26971428) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Business Rule Author - Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Business-Rule-Author---Software-Engineer-II_R-281849) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Machine Learning Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0136787) | Posted Today |
+| **Salesforce** | Washington - Bellevue | Software Engineering LMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR349462-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-01 16:13:37
 
 📊 **7 new jobs this batch:**
