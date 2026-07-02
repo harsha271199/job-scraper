@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — July 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-02 21:56:18
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Northrop Grumman: 1 job
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Fort Belvoir, VA | Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Platform-Engineer_R0243699) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/DevOps-Engineer_R0243690) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | DevOps Engineer - Level 3/4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/DevOps-Engineer---Level-3-4_R10238835) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Robotics Software Engineer - Robot Simulation and Benchmarking | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Robotics-Software-Engineer---Robot-Simulation-and-Benchmarking_JR2020637) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-02 20:49:09
 
 📊 **12 new jobs this batch:**
