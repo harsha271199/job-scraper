@@ -1,6 +1,38 @@
 # 📢 Job Listings for Harsha — July 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-02 20:49:09
+
+📊 **12 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Browserbase: 1 job
+- CVS Health: 2 jobs
+- Citi: 1 job
+- CoreWeave: 1 job
+- DoorDash: 1 job
+- Glean: 1 job
+- Northrop Grumman: 1 job
+- Nvidia: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Browserbase** | San Francisco | Software Engineer (Dashboard) | [Apply](https://jobs.ashbyhq.com/browserbase/be6c011e-9bb1-4be0-93c2-ed615ef070d8) | 2026-07-02T20:29:11.379+00:00 |
+| **CoreWeave** | New York, NY | Data Scientist | [Apply](https://coreweave.com/careers/job?4694223006&board=coreweave&gh_jid=4694223006) | 2026-07-02T16:33:23-04:00 |
+| **DoorDash** | San Francisco, CA; Seattle, WA; Sunnyvale, CA; New York, NY | Software Engineer, Spark Platform | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8044370) | 2026-07-02T15:22:51-04:00 |
+| **Glean** | San Francisco, CA | Software Engineer, Cloud Deployment Infrastructure | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4711861005) | 2026-07-02T16:11:57-04:00 |
+| **CVS Health** | TX - Richardson | Cloud Engineer | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/Cloud-Engineer_R0958073) | Posted Today |
+| **CVS Health** | MD - Work from home | DevOps Engineer (Remote) | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/MD---Work-from-home/DevOps-Engineer--Remote-_R0950434) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Scientist_R0243682) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0243614) | Posted Today |
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | BANAMEX IT Business Analyst - Ciudad De Mexico - Híbrido | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-IT-Business-Analyst---Ciudad-De-Mexico---Hbrido_26966546) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | Algorithms Software Engineer - Level 2 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer---Level-2_R10238820-1) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | GPU Development Tools System Software Engineer | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Development-Tools-System-Software-Engineer_JR2015871-1) | Posted Today |
+| **Nvidia** | US, CA, Remote | Software Engineer, NVIDIA OpenShell | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Remote/Software-Engineer--NVIDIA-OpenShell_JR2017604) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-02 19:04:32
 
 📊 **7 new jobs this batch:**
