@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-02 09:56:39
+
+📊 **1 new jobs this batch:**
+- Wiz: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Wiz** | New York City | Expert Backend Engineer | [Apply](https://www.wiz.io/careers/job/4615213006/:title?gh_jid=4615213006) | 2025-11-24T08:08:02-05:00 |
+
+---
+# 📢 Job Listings for Harsha — July 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-02 06:58:12
 
 📊 **1 new jobs this batch:**
