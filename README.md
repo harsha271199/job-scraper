@@ -1,6 +1,36 @@
 # 📢 Job Listings for Harsha — July 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-02 17:23:23
+
+📊 **11 new jobs this batch:**
+- Boeing: 2 jobs
+- Booz Allen Hamilton: 3 jobs
+- CLEAR: 1 job
+- Gusto: 1 job
+- Intel: 1 job
+- MongoDB: 1 job
+- Northrop Grumman: 1 job
+- PayPal: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **CLEAR** | New York, New York, United States | Fullstack Software Engineer | [Apply](https://job-boards.greenhouse.io/clear/jobs/8043865) | 2026-07-02T12:08:31-04:00 |
+| **Gusto** | San Francisco, CA | Data Scientist, Risk  | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7656216) | 2026-03-26T11:14:53-04:00 |
+| **MongoDB** | Palo Alto; Seattle | Software Engineer 3, Voyage Control Plane | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8041664) | 2026-07-02T13:10:46-04:00 |
+| **Booz Allen Hamilton** | Alexandria, VA | High Side Operations Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/High-Side-Operations-Software-Engineer_R0240985) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Engineer_R0241255) | Posted Today |
+| **Boeing** | USA - Herndon, VA | Experienced Data Scientist | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Herndon-VA/Experienced-Data-Scientist_JR2026511038-1) | Posted Today |
+| **Boeing** | USA - Maryland Heights, MO | Entry-Level Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026516748-2) | Posted Today |
+| **Booz Allen Hamilton** | Pensacola, FL | Training Equipment Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pensacola-FL/Training-Equipment-Data-Scientist_R0243598) | Posted Today |
+| **Intel** | US, Texas, Austin | DTCO Data Engineer Intern | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/DTCO-Data-Engineer-Intern_JR0285341) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | 2026 Associate Software Engineer / Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Software-Engineer---Software-Engineer_R10233692) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer, Backend Java | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer--Backend-Java_R0135819-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-02 15:02:28
 
 📊 **5 new jobs this batch:**
