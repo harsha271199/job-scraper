@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-02 22:54:45
+
+📊 **3 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Pinterest: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Pinterest** | San Francisco, CA, US; Remote, US | Security Software Engineer II, Detection and Response | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8015490) | 2026-07-02T18:39:35-04:00 |
+| **Boeing** | USA - Maryland Heights, MO | Associate Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026516673-1) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | Signals Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Signals-Data-Analyst--Mid_R0243645) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-02 21:56:18
 
 📊 **4 new jobs this batch:**
