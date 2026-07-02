@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-01 23:59:59
+
+📊 **3 new jobs this batch:**
+- Airbnb: 1 job
+- Booz Allen Hamilton: 1 job
+- YipitData: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Airbnb** | United States | Machine Learning Engineer, Relevance and Personalization | [Apply](https://careers.airbnb.com/positions/7708224?gh_jid=7708224) | 2026-05-08T17:39:54-04:00 |
+| **YipitData** | US Remote | Data Analyst II | [Apply](https://job-boards.greenhouse.io/yipitdata/jobs/8024859) | 2026-07-01T18:39:16-04:00 |
+| **Booz Allen Hamilton** | San Diego, CA | Foundry Business Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Foundry-Business-Analyst--Mid_R0243580) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-01 22:10:45
 
 📊 **4 new jobs this batch:**
