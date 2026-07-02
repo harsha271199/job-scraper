@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-02 06:58:12
+
+📊 **1 new jobs this batch:**
+- CrowdStrike: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **CrowdStrike** | USA - Remote | Data Engineer, Go to Market (Remote) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Engineer--Go-to-Market--Remote-_R28625) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-02 03:26:46
 
 📊 **2 new jobs this batch:**
