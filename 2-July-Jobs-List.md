@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — July 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-02 23:53:18
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Sierra: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Sierra** | San Francisco, CA | Software Engineer, Agent - Insurance | [Apply](https://jobs.ashbyhq.com/Sierra/000618f7-e0d0-43dc-ae15-2b20d948852f) | 2026-07-02T23:23:22.452+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Agent - Financial Services | [Apply](https://jobs.ashbyhq.com/Sierra/ab98160c-9918-483c-af74-310535448972) | 2026-07-02T23:16:06.001+00:00 |
+| **Booz Allen Hamilton** | Buckley AFB, CO | Signals Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Buckley-AFB-CO/Signals-Data-Analyst--Mid_R0243646) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-02 22:54:45
 
 📊 **3 new jobs this batch:**
