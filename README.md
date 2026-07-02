@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — July 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-02 19:04:32
+
+📊 **7 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Comcast: 1 job
+- Commure: 1 job
+- Fiserv: 1 job
+- Nvidia: 1 job
+- Spring Health: 1 job
+- Thinking Machines Lab: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Commure** | Mountain View, CA | Software Engineer, R&D | [Apply](https://jobs.ashbyhq.com/commure/288a59e7-27d6-49e2-af00-87f02fc3b3ed) | 2026-07-02T18:56:32.499+00:00 |
+| **Spring Health** | Remote | Data Analyst II, Core Ops (Alma) | [Apply](https://job-boards.greenhouse.io/springhealth66/jobs/4711690005) | 2026-07-02T13:29:12-04:00 |
+| **Thinking Machines Lab** | San Francisco | Software Engineer, Full Stack, Tinker | [Apply](https://job-boards.greenhouse.io/thinkingmachines/jobs/5290314008) | 2026-07-02T13:24:57-04:00 |
+| **Booz Allen Hamilton** | San Diego, CA | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Analyst_R0243644) | Posted Today |
+| **Comcast** | PA - Philadelphia, 1800 Arch St | Comcast Platform Software Engineer Co-op | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1800-Arch-St/Comcast-Platform-Software-Engineer-Co-op_R435979) | Posted Today |
+| **Fiserv** | Berkeley Heights, New Jersey | 10x Java Developer/AI Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/XMLNAME-10x-Java-Developer-AI-Engineer_R-10393149) | Posted Today |
+| **Nvidia** | US, MA, Westford | Software Engineer - DPU Platform | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/Software-Engineer---DPU-Platform_JR2015949-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-02 17:23:23
 
 📊 **11 new jobs this batch:**
