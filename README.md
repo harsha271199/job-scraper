@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — July 06, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-06 17:32:25
+
+📊 **10 new jobs this batch:**
+- Booz Allen Hamilton: 5 jobs
+- Fiserv: 1 job
+- Salesforce: 1 job
+- Waymo: 2 jobs
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Waymo** | Mountain View, CA, USA | Software Engineer, Bulk/Interactive Inference | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7466529) | 2025-12-16T15:47:12-05:00 |
+| **Waymo** | Mountain View, CA, USA | Software Engineer, Labeling Infrastructure | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7416895) | 2025-11-26T15:48:46-05:00 |
+| **Booz Allen Hamilton** | Dayton, OH | Remote Sensing Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Remote-Sensing-Software-Engineer_R0243807) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | AI/ML Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/AI-ML-Engineer--Mid_R0243806) | Posted Today |
+| **Booz Allen Hamilton** | Fayetteville, NC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0243800) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0243793) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | DevOps Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0243777) | Posted Today |
+| **Fiserv** | King of Prussia, Pennsylvania | Sr Software Engineer - Java | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/King-of-Prussia-Pennsylvania/Sr-Software-Engineer---Java_R-10396925) | Posted Today |
+| **Salesforce** | Washington - Bellevue | Software Engineer MTS — Automation & MuleSoft Agentic Cloud Services | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineer-MTS---Automation---MuleSoft-Agentic-Cloud-Services_JR345537) | Posted Today |
+| **Workday** | USA.VA.Reston | Software Engineer, DBaas - US Federal | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--DevOps---Lifecycle-Platform--US-Federal-_JR-0097425) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 06, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-06 14:49:33
 
 📊 **3 new jobs this batch:**
