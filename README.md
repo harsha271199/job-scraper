@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — July 06, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-06 22:57:39
+
+📊 **6 new jobs this batch:**
+- General Motors: 1 job
+- Motorola Solutions: 1 job
+- OpenAI: 1 job
+- Salesforce: 1 job
+- SpaceX: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, Engineering Acceleration | Consumer Devices | [Apply](https://jobs.ashbyhq.com/openai/ae3a32af-b862-45db-838c-7fb49d4bc27e) | 2026-04-17T17:04:42.529+00:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer, High Performance Computing | [Apply](https://boards.greenhouse.io/spacex/jobs/8621463002?gh_jid=8621463002) | 2026-07-06T17:24:21-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer, Product Development (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8621621002?gh_jid=8621621002) | 2026-07-06T18:40:35-04:00 |
+| **General Motors** | Sunnyvale, California, United States of America | Software Engineer AV HIL Platform and Services (Early Career)) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer-AV-HIL-Platform-and-Services--University-Grad-_JR-202604577) | Posted Today |
+| **Motorola Solutions** | West Valley City, UT, More... | Software Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/West-Valley-City-UT/Software-Engineer_R66421-1) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering SMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR350380) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 06, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-06 21:17:36
 
 📊 **6 new jobs this batch:**
