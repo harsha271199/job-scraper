@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — July 06, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-06 19:27:05
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Notion: 2 jobs
+- Stripe: 1 job
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Notion** | San Francisco, California | Software Engineer, Early Career | [Apply](https://jobs.ashbyhq.com/notion/297b4ece-765f-4eea-b1b8-46057cb6501f) | 2026-07-06T18:37:35.161+00:00 |
+| **Notion** | San Francisco, California | Software Engineer, Early Career (AI) | [Apply](https://jobs.ashbyhq.com/notion/85947779-6b87-466a-98bc-30a640448c28) | 2026-07-06T18:37:42.434+00:00 |
+| **Stripe** | NYC, Toronto, Remote in Canada | Backend Engineer, Financial Connections | [Apply](https://stripe.com/jobs/search?gh_jid=8047083) | 2026-07-06T15:24:30-04:00 |
+| **Booz Allen Hamilton** | Beavercreek, OH | Software Engineer and Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer-and-Developer_R0243811) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | Computer Vision Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Computer-Vision-Software-Engineer--Mid_R0243809) | Posted Today |
+| **Target** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Sr Data Analyst - FP&A Reporting & Analytics | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Data-Analyst---FP-A-Reporting---Analytics_R0000436524) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 06, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-06 17:32:25
 
 📊 **10 new jobs this batch:**
