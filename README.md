@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — July 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-07 13:59:27
+
+📊 **6 new jobs this batch:**
+- General Motors: 1 job
+- Lyft: 1 job
+- Mastercard: 3 jobs
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Lyft** | New York, NY | Data Scientist, Optimization - Pricing | [Apply](https://app.careerpuck.com/job-board/lyft/job/8615368002?gh_jid=8615368002) | 2026-07-07T09:58:11-04:00 |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer || | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer---_R-275823) | Posted Today |
+| **Mastercard** | Arlington, Virginia | Software Engineer II - Backend/Platform Agentic AI | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II---Backend-Platform-Agentic-AI_R-279643-1) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-281530) | Posted Today |
+| **General Motors** | Warren, Michigan, United States of America | AI/ML Data Scientist (GPSSC) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/AI-ML-Data-Scientist--GPSSC-_JR-202608411-1) | Posted Today |
+| **Northrop Grumman** | United States-Arizona-Chandler | Software Engineer: Automation/AI - Level 2 or 3 (Chandler) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Chandler/Software-Engineer--Automation-AI---Level-2-or-3--Chandler-_R10237384) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-07 08:13:28
 
 📊 **1 new jobs this batch:**
