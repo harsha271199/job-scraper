@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-07 04:40:14
+
+📊 **1 new jobs this batch:**
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Workday** | USA, GA, Atlanta | Sr Analytics Engineer | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-GA-Atlanta/Sr-Analytics-Engineer_JR-0108667-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-07 00:01:05
 
 📊 **1 new jobs this batch:**
