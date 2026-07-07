@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-07 08:13:28
+
+📊 **1 new jobs this batch:**
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, Codex Security | [Apply](https://jobs.ashbyhq.com/openai/eefeb527-4e36-432e-a787-88e4672e29e1) | 2026-07-07T05:36:29.100+00:00 |
+
+---
+# 📢 Job Listings for Harsha — July 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-07 04:40:14
 
 📊 **1 new jobs this batch:**
