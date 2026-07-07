@@ -1,6 +1,40 @@
 # 📢 Job Listings for Harsha — July 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-07 18:53:10
+
+📊 **13 new jobs this batch:**
+- Anthropic: 1 job
+- Baseten: 1 job
+- Boeing: 2 jobs
+- Booz Allen Hamilton: 2 jobs
+- Citi: 1 job
+- Cox Enterprises: 1 job
+- DoorDash: 1 job
+- Northrop Grumman: 2 jobs
+- OpenAI: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Baseten** | San Francisco | Software Engineer- GPU Fabric Observability | [Apply](https://jobs.ashbyhq.com/baseten/cf7fa477-0290-4846-9294-f7bc006ae997) | 2026-07-07T16:50:09.338+00:00 |
+| **OpenAI** | Seattle | Software Engineer, Infrastructure - Core Experimentation  | [Apply](https://jobs.ashbyhq.com/openai/823a05bf-33fb-4d94-9dd8-571723d27b1a) | 2026-03-17T00:56:17.258+00:00 |
+| **Anthropic** | San Francisco, CA | New York City, NY | Data Scientist, Developer Productivity | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5197529008) | 2026-05-06T02:22:41-04:00 |
+| **Waymo** | Mountain View, CA, USA | Software Engineer, ML Tools | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7926984) | 2026-05-15T14:36:31-04:00 |
+| **DoorDash** | San Francisco, CA | Software Engineer, Planning & Controls - Autonomy & Robotics | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8046982) | 2026-07-07T14:17:39-04:00 |
+| **Booz Allen Hamilton** | Honolulu, HI | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Software-Engineer_R0242268) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | Computer Vision Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Computer-Vision-Software-Engineer_R0234815) | Posted Today |
+| **Boeing** | USA - Seal Beach, CA | Reliability Data Analytics Engineer (Associate or Experienced) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Reliability-Data-Analytics-Engineer--Associate-or-Experienced-_JR2026516772-1) | Posted Today |
+| **Boeing** | USA - Oklahoma City, OK | Software Engineer – Simulation (Associate or Experienced) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Oklahoma-City-OK/Software-Engineer---Simulation--Associate-or-Experienced-_JR2026509211-1) | Posted Today |
+| **Cox Enterprises** | Atlanta GA | Sr Software Engineer - Mobile Development | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Sr-Software-Engineer---Mobile-Development_R202678612) | Posted Today |
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | BANAMEX - Data Engineer Jr - Officer | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Data-Engineer-Jr---Officer_26976764) | Posted Today |
+| **Northrop Grumman** | United States-New York-Rome | Associate Cloud Engineer (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/Associate-Cloud-Engineer--AHT-_R10239166) | Posted Today |
+| **Northrop Grumman** | United States-Virginia-Dulles | DevOps Engineer – Level 2 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/DevOps-Engineer---Level-2_R10239152) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-07 16:28:05
 
 📊 **8 new jobs this batch:**
