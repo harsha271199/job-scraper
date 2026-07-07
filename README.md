@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — July 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-07 16:28:05
+
+📊 **8 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Coinbase: 1 job
+- Guidehouse: 2 jobs
+- Northrop Grumman: 2 jobs
+- Nvidia: 1 job
+- Scale AI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Coinbase** | Remote - Brazil | Machine Learning Engineer, CX Intelligence | [Apply](https://www.coinbase.com/careers/positions/8031260?gh_jid=8031260) | 2026-07-07T10:21:00-04:00 |
+| **Scale AI** | San Francisco, CA; New York, NY | Software Engineer, Gen AI | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4591300005) | 2025-08-05T13:53:36-04:00 |
+| **Booz Allen Hamilton** | Atlanta, GA | Technical Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Technical-Business-Analyst_R0243864) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Health AI ML Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Health-AI-ML-Data-Scientist_41653) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Epidemiologist Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Epidemiologist-Data-Scientist_41640) | Posted Today |
+| **Nvidia** | US, MA, Westford | VLSI Design Automation Software Engineer | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-MA-Westford/VLSI-Design-Automation-Software-Engineer_JR2016784) | Posted Today |
+| **Northrop Grumman** | United States-Virginia-Dulles | Software Engineers (Level 2 or 3) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Development-Engineers--Level-2-or-3-_R10236310) | Posted Today |
+| **Northrop Grumman** | United States-Virginia-McLean | Software Engineers (Level 2 or 3) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-McLean/Software-Development-Engineers--Level-2-or-3-_R10239034) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-07 13:59:27
 
 📊 **6 new jobs this batch:**
