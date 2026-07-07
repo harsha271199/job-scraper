@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — July 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-07 20:43:28
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- DoorDash: 1 job
+- Glean: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | Seattle | Software Engineer, Product - Core Experimentation | [Apply](https://jobs.ashbyhq.com/openai/73e56947-5d8b-414d-a0ac-9dc9b04e2406) | 2026-03-17T00:54:56.512+00:00 |
+| **Glean** | Mountain View, CA | Software Engineer, Billing & Revenue Platform | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4656281005) | 2026-02-02T19:48:20-05:00 |
+| **DoorDash** | San Francisco, CA | Software Engineer, Robotics Infrastructure - Autonomy & Robotics | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8046909) | 2026-07-07T15:38:40-04:00 |
+| **Booz Allen Hamilton** | Alexandria, VA | High Side Operations Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/High-Side-Operations-Software-Engineer_R0243907) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-07 18:53:10
 
 📊 **13 new jobs this batch:**
