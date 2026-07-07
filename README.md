@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — July 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-07 22:03:10
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Washington, DC | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer_R0243926) | Posted Today |
+| **Booz Allen Hamilton** | Honolulu, HI | OSINT Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/OSINT-Data-Scientist_R0243913) | Posted Today |
+| **Salesforce** | Washington - Seattle | Data Engineer - MTS/SMTS/LMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Data-Engineer---MTS-SMTS_JR338891-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-07 20:43:28
 
 📊 **4 new jobs this batch:**
