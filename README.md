@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — July 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-07 23:43:09
+
+📊 **7 new jobs this batch:**
+- Chime: 1 job
+- Hadrian: 1 job
+- Motorola Solutions: 1 job
+- OpenAI: 1 job
+- PayPal: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Hadrian** | Los Angeles, CA | People Data Analyst  | [Apply](https://jobs.ashbyhq.com/hadrian-automation/75677f9b-d3e4-4140-9822-cd12e6f0b944) | 2026-07-07T22:26:40.668+00:00 |
+| **OpenAI** | San Francisco | Research Engineer / Research Scientist - Personal AGI, Personality and Model Behavior | [Apply](https://jobs.ashbyhq.com/openai/a86d9477-0277-498c-9647-02a257747607) | 2026-07-07T23:17:31.191+00:00 |
+| **Chime** | San Francisco, CA, USA | Software Engineer, Membership | [Apply](https://boards.greenhouse.io/chime/jobs/8614188002?gh_jid=8614188002) | 2026-07-07T19:31:03-04:00 |
+| **Motorola Solutions** | Oregon, US Offsite | Software Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Oregon-US-Offsite/Software-Engineer_R66421-1) | Posted Today |
+| **PayPal** | Chicago, Illinois, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Software-Engineer_R0137067) | Posted Today |
+| **PayPal** | Austin, Texas, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137063) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137056) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-07 22:03:10
 
 📊 **3 new jobs this batch:**
