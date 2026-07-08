@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — July 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-08 15:05:38
+
+📊 **9 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Fiserv: 1 job
+- Guidehouse: 1 job
+- Motorola Solutions: 2 jobs
+- Northrop Grumman: 3 jobs
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | McLean, VA | Cybersecurity AI/ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cybersecurity-AI-ML-Engineer_R0243936) | Posted Today |
+| **Fiserv** | Sunnyvale, California | SDET System Integration Tester for Android | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/SDET-System-Integration-Tester-for-Android_R-10391875) | Posted Today |
+| **Guidehouse** | US - VA, Norfolk | Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Norfolk/Data-Scientist_41677) | Posted Today |
+| **Motorola Solutions** | Ontario Remote Work, More... | Junior Software Engineer, AI Agent Platform | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ontario-Remote-Work/Junior-Software-Engineer--AI-Agent-Platform_R66146) | Posted Today |
+| **Motorola Solutions** | Ontario Remote Work, More... | Sr Software Engineer, AI Agent Platform | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ontario-Remote-Work/Sr-Software-Engineer--AI-Agent-Platform_R66145-1) | Posted Today |
+| **Northrop Grumman** | United States-Arizona-Gilbert | Software Engineer - Level 3 or 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Arizona-Gilbert/Software-Engineer---Level-3-or-4_R10239054) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | 2027 Intern Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10239275) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | Associate Software Engineer / Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10239254) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | System Software Engineer, Distributed Systems | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Distributed-Systems_JR2013472) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-08 12:11:05
 
 📊 **3 new jobs this batch:**
