@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-08 23:57:13
+
+📊 **3 new jobs this batch:**
+- Anthropic: 1 job
+- Medtronic: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | Research Scientist, Life Sciences (Experimental Biology) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5285250008) | 2026-07-08T19:14:37-04:00 |
+| **Northrop Grumman** | United States-California-Palmdale | Associate Data Scientist/Data Scientist | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Associate-Data-Scientist-Data-Scientist_R10238493) | Posted Today |
+| **Medtronic** | Fridley, Minnesota, United States of America | Software Engineer II – PH – Fridley/Rice Creek, MN (Onsite) | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Software-Engineer-II---PH---Fridley-Rice-Creek--MN--Onsite-_R70203-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-08 21:55:49
 
 📊 **1 new jobs this batch:**
