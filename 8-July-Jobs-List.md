@@ -1,6 +1,34 @@
 # 📢 Job Listings for Harsha — July 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-08 20:52:28
+
+📊 **10 new jobs this batch:**
+- Boeing: 2 jobs
+- Chime: 1 job
+- Cox Enterprises: 1 job
+- Gusto: 1 job
+- Motorola Solutions: 1 job
+- Northrop Grumman: 1 job
+- SpaceX: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Chime** | San Francisco, CA, USA | Software Engineer, Support Foundations | [Apply](https://boards.greenhouse.io/chime/jobs/8607195002?gh_jid=8607195002) | 2026-07-08T16:50:02-04:00 |
+| **Gusto** | Denver, CO;San Francisco, CA;New York, NY;Los Angeles, CA;Seattle, WA | Sr Software Engineer, Database Infrastructure | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7413644) | 2026-01-05T13:10:32-05:00 |
+| **SpaceX** | Redmond, WA | Full Stack Software Engineer, Data (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8625149002?gh_jid=8625149002) | 2026-07-08T15:56:01-04:00 |
+| **SpaceX** | Palo Alto, CA | Software Engineer, CDN  (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8624953002?gh_jid=8624953002) | 2026-07-08T15:47:18-04:00 |
+| **SpaceX** | Redmond, WA | Software Engineer, Telemetry (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8625182002?gh_jid=8625182002) | 2026-07-08T16:03:00-04:00 |
+| **Boeing** | USA - El Segundo, CA | DevSecOps Software Engineer (Associate/Experienced) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---El-Segundo-CA/DevSecOps-Software-Engineer--Associate-Experienced-_JR2026513231-1) | Posted Today |
+| **Boeing** | USA - Colorado Springs, CO | Modernization Software Engineer (Associate or Mid-Level) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Colorado-Springs-CO/Modernization-Software-Engineer--Associate-or-Mid-Level-_JR2026515908-2) | Posted Today |
+| **Cox Enterprises** | Atlanta GA | Sr Software Engineer | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Sr-Software-Engineer_R202679576) | Posted Today |
+| **Motorola Solutions** | Ontario Remote Work, More... | Sr Software Engineer, AI Agent Platform | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ontario-Remote-Work/Sr-Software-Engineer--AI-Agent-Platform_R66303) | Posted Today |
+| **Northrop Grumman** | United States-Virginia-Chantilly | R10206390 22026 Associate Cyber Software Engineer - Chantilly VA | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/R10206390-22026-Associate-Cyber-Software-Engineer---Chantilly-VA_R10236425) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-08 19:00:53
 
 📊 **19 new jobs this batch:**
