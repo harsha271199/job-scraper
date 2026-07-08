@@ -1,6 +1,44 @@
 # 📢 Job Listings for Harsha — July 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-08 19:00:53
+
+📊 **19 new jobs this batch:**
+- Boeing: 5 jobs
+- Booz Allen Hamilton: 7 jobs
+- Elastic: 1 job
+- Northrop Grumman: 1 job
+- Nvidia: 2 jobs
+- SpaceX: 1 job
+- Target: 1 job
+- YipitData: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Elastic** | United States | Platform Engineer - Kubernetes | [Apply](https://jobs.elastic.co/jobs?gh_jid=8047349&gh_jid=8047349) | 2026-07-08T13:59:23-04:00 |
+| **SpaceX** | Bastrop, TX | Business Analyst (Starlink Growth) | [Apply](https://boards.greenhouse.io/spacex/jobs/8403134002?gh_jid=8403134002) | 2026-02-03T20:08:12-05:00 |
+| **Boeing** | USA - Colorado Springs, CO | Development Security & Operations (DevSecOps) Software Engineer (Associate or Mid-Level) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Colorado-Springs-CO/Development-Security---Operations--DevSecOps--Software-Engineer--Associate-or-Mid-Level-_JR2026515911-1) | Posted Today |
+| **Boeing** | USA - Colorado Springs, CO | Modernization Software Engineer (Associate or Mid-Level) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Colorado-Springs-CO/Modernization-Software-Engineer--Associate-or-Mid-Level-_JR2026515910-1) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Front End and REACT Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Front-End-and-REACT-Software-Engineer_R0243977) | Posted Today |
+| **Booz Allen Hamilton** | Alexandria, VA | Front End/REACT Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Front-End-REACT-Software-Engineer--Mid_R0243982) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Analyst_R0241726) | Posted Today |
+| **Booz Allen Hamilton** | Albuquerque, NM | C# Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/C--Software-Engineer_R0240008) | Posted Today |
+| **Booz Allen Hamilton** | Honolulu, HI | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0237843) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243984) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0243983) | Posted Today |
+| **YipitData** | US Remote | Data Scientist, Corporate  | [Apply](https://job-boards.greenhouse.io/yipitdata/jobs/8045383) | 2026-07-08T13:32:30-04:00 |
+| **Boeing** | USA - Hazelwood, MO | Advanced Information Technologist – Associate Cloud Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Associate-Cloud-Engineer_JR2026494282) | Posted Today |
+| **Boeing** | USA - Maryland Heights, MO | Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Software-Engineer_JR2026518109-1) | Posted Today |
+| **Boeing** | USA - Fairfax, VA | DevSecOps Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Fairfax-VA/DevSecOps-Software-Engineer_JR2026511998-1) | Posted Today |
+| **Northrop Grumman** | United States-Utah-Roy | Sentinel Associate / Software Engineer  - 19095 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Associate---Software-Engineer----19095_R10239210) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | System Software Engineer - GPU | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR2017734) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | System Software Engineer - GPU | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU_JR2002051) | Posted Today |
+| **Target** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Designer- A New Day- Sweaters | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer--A-new-Day--Sweaters_R0000432810) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-08 17:15:18
 
 📊 **6 new jobs this batch:**
