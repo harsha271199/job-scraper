@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — July 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-08 17:15:18
+
+📊 **6 new jobs this batch:**
+- Airbnb: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Fastly: 1 job
+- Pinterest: 1 job
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Airbnb** | Remote, USA  | Software Engineer Guest & Host  | [Apply](https://careers.airbnb.com/positions/7783175?gh_jid=7783175) | 2026-04-07T14:01:48-04:00 |
+| **Fastly** | San Francisco, CA | Data Engineer | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8048891) | 2026-07-08T12:06:20-04:00 |
+| **Pinterest** | San Francisco, CA, US; Remote, US | Security Software Engineer II, Corporate Security | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7732971) | 2026-04-02T11:21:05-04:00 |
+| **Twilio** | Remote - India | Software Engineer P2 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8009055) | 2026-07-08T11:29:02-04:00 |
+| **Boeing** | USA - Oklahoma City, OK | Experienced / Mid-Career Software Engineer - Anti-Tamper (AT)-***Signing Bonus Potential*** | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Oklahoma-City-OK/Experienced---Mid-Career-Software-Engineer---Anti-Tamper--AT-_JR2026513055-1) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Cybersecurity Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cybersecurity-Data-Scientist_R0243933) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-08 15:05:38
 
 📊 **9 new jobs this batch:**
