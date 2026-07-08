@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-08 10:03:04
+
+📊 **1 new jobs this batch:**
+- Actian: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Actian** | Europe - Remote | AI Engineer [gn] (Agentic AI & Automation) | [Apply](https://jobs.lever.co/actian/e50a6b94-63af-47d7-aba7-837d5346003e) | 2026-07-08 09:19 |
+
+---
+# 📢 Job Listings for Harsha — July 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-08 04:54:44
 
 📊 **1 new jobs this batch:**
