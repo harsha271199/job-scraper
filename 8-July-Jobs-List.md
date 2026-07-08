@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-08 04:54:44
+
+📊 **1 new jobs this batch:**
+- Citi: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Citi** | New York New York United States | Data Scientist, Generative AI - Spread Products | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Data-Scientist--Generative-AI---Spread-Products_26940304) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-08 01:17:48
 
 📊 **3 new jobs this batch:**
