@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-08 21:55:49
+
+📊 **1 new jobs this batch:**
+- Boeing: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Boeing** | USA - Tukwila, WA | Associate Engineering Data Scientist | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Associate-Engineering-Data-Scientist_JR2026516507-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-08 20:52:28
 
 📊 **10 new jobs this batch:**
