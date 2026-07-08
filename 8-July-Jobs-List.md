@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-08 12:11:05
+
+📊 **3 new jobs this batch:**
+- Databricks: 1 job
+- Fiserv: 1 job
+- GitLab: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Databricks** | United States | AI Engineer - FDE (Forward Deployed Engineer) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8546367002) | 2026-05-13T08:21:01-04:00 |
+| **GitLab** | Remote, Canada | Backend Engineer (Ruby), AI Engineering: Agent Observability | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8620720002) | 2026-07-08T06:30:39-04:00 |
+| **Fiserv** | Berkeley Heights, New Jersey | Java Backend Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/C---Developer_R-10363376) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-08 10:03:04
 
 📊 **1 new jobs this batch:**
