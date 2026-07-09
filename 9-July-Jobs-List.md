@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 09, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-09 13:40:04
+
+📊 **1 new jobs this batch:**
+- Samsara: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Samsara** | Remote - UK | Sr. Software Engineer I, Cloud Security Platform  | [Apply](https://www.samsara.com/company/careers/roles/8042387?gh_jid=8042387) | 2026-07-09T06:54:48-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 09, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-09 10:16:12
 
 📊 **2 new jobs this batch:**
