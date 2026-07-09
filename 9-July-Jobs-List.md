@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 09, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-09 23:55:48
+
+📊 **1 new jobs this batch:**
+- Flexport: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Flexport** | San Francisco, California, United States |  Software Engineer II, Autonomous Freight Systems | [Apply](https://job-boards.greenhouse.io/flexport/jobs/7839346) | 2026-04-23T16:41:28-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 09, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-09 22:10:46
 
 📊 **5 new jobs this batch:**
