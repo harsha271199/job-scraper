@@ -1,6 +1,36 @@
 # 📢 Job Listings for Harsha — July 09, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-09 18:44:48
+
+📊 **11 new jobs this batch:**
+- 1Password: 1 job
+- Boeing: 1 job
+- CoreWeave: 1 job
+- General Motors: 1 job
+- Northrop Grumman: 2 jobs
+- Nvidia: 1 job
+- OpenAI: 1 job
+- SpaceX: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **1Password** | Remote (United States | Canada) | Data Analyst, Product | [Apply](https://jobs.ashbyhq.com/1password/14829e7a-7826-4487-843a-08f6741f03dd) | 2026-07-09T18:11:45.047+00:00 |
+| **OpenAI** | San Francisco | Software Engineer, ChatGPT Lifestyle | [Apply](https://jobs.ashbyhq.com/openai/ca54cd23-2bcc-4327-bcb6-46d81ed414a8) | 2026-07-09T16:33:16.935+00:00 |
+| **CoreWeave** | New York, NY | Software Engineer, Console | [Apply](https://coreweave.com/careers/job?4695714006&board=coreweave&gh_jid=4695714006) | 2026-07-09T14:01:58-04:00 |
+| **SpaceX** | Bastrop, TX | Data Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8626535002?gh_jid=8626535002) | 2026-07-09T13:07:07-04:00 |
+| **SpaceX** | Hawthorne, CA | Data Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8626500002?gh_jid=8626500002) | 2026-07-09T13:07:06-04:00 |
+| **SpaceX** | Bastrop, TX | Security Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8624833002?gh_jid=8624833002) | 2026-07-09T14:31:20-04:00 |
+| **Boeing** | USA - Kent, WA | Experienced Software Developer Engineer (P-8 Mission Systems) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Kent-WA/Experienced-Software-Developer-Engineer--P-8-Mission-Systems-_JR2026518178-1) | Posted Today |
+| **General Motors** | Warren, Michigan, United States of America | Business Intelligence and AI Supervisor | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Business-Intelligence-and-AI-Supervisor_JR-202613084-1) | Posted Today |
+| **Northrop Grumman** | United States-Virginia-Dulles | AI Software Engineer – Level 3 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/AI-Software-Engineer---Level-3_R10239660) | Posted Today |
+| **Northrop Grumman** | United States-California-San Diego | Software Engineer - Integration and Test | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer---Integration-and-Test_R10239548) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | System Software Engineer, Engineering Workflow Platform | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Engineering-Workflow-Platform_JR2018371) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 09, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-09 16:18:54
 
 📊 **11 new jobs this batch:**
