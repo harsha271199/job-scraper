@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 09, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-09 20:30:37
+
+📊 **3 new jobs this batch:**
+- Snowflake: 1 job
+- Spring Health: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Snowflake** | US-WA-Bellevue |  Software Engineer - Data Clean Room/ AI Data Hub | [Apply](https://jobs.ashbyhq.com/snowflake/2b3e7582-84c9-4fd1-969c-16ae1a4f61e6) | 2026-06-17T21:22:45.445+00:00 |
+| **Spring Health** | Remote | Business Analyst, Workforce Optimization | [Apply](https://job-boards.greenhouse.io/springhealth66/jobs/4712986005) | 2026-07-09T15:03:20-04:00 |
+| **xAI** | Palo Alto, CA | Software Engineer - Platform Security | [Apply](https://job-boards.greenhouse.io/xai/jobs/4835611007) | 2025-08-21T14:19:01-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 09, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-09 18:44:48
 
 📊 **11 new jobs this batch:**
