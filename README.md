@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — July 09, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-09 22:10:46
+
+📊 **5 new jobs this batch:**
+- Anthropic: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Northrop Grumman: 1 job
+- Whoop: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | New York City, NY | Seattle, WA; San Francisco, CA | New York City, NY | People Research Scientist, People | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5257820008) | 2026-06-15T11:50:09-04:00 |
+| **Whoop** | Boston, MA | Analytics Engineer II | [Apply](https://jobs.lever.co/whoop/5a009cd4-8422-4866-bc12-fef14eadef67) | 2026-07-09 20:45 |
+| **Boeing** | USA - El Segundo, CA | Spacecraft Software Engineer (Associate or Mid-Level)- Millennium Space Systems | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---El-Segundo-CA/Spacecraft-Software-Engineer--Associate-or-Mid-Level---Millennium-Space-Systems_JR2026512895) | Posted Today |
+| **Booz Allen Hamilton** | Joint Base Pearl Harbor - Hickam, HI | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Joint-Base-Pearl-Harbor---Hickam-HI/Data-Scientist_R0244112) | Posted Today |
+| **Northrop Grumman** | United States-California-San Diego | Software Engineer - Integration and Test | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer---Integration-and-Test_R10239742-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 09, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-09 20:30:37
 
 📊 **3 new jobs this batch:**
