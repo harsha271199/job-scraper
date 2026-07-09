@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — July 09, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-09 10:16:12
+
+📊 **2 new jobs this batch:**
+- Guidehouse: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Guidehouse** | IN - Chennai | Data Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/IN---Chennai/Data-Analyst_41713) | Posted Today |
+| **Guidehouse** | IN - Trivandrum | Data Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/IN---Trivandrum/Data-Analyst_41714) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 09, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-09 06:13:00
 
 📊 **5 new jobs this batch:**
