@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — July 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-10 18:15:07
+
+📊 **8 new jobs this batch:**
+- Anyscale: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Chime: 1 job
+- Duolingo: 2 jobs
+- Fiserv: 1 job
+- Greenlight: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anyscale** | San Francisco or Palo Alto, CA | Software Engineer, Infrastructure | [Apply](https://jobs.ashbyhq.com/anyscale/8691daef-bfe5-4d01-871f-cf2226ba0c82) | 2026-07-10T18:05:49.429+00:00 |
+| **Chime** | San Francisco, CA, USA | Software Engineer, Infrastructure | [Apply](https://boards.greenhouse.io/chime/jobs/8616359002?gh_jid=8616359002) | 2026-07-10T12:55:19-04:00 |
+| **Duolingo** | New York, NY | Software Engineer II, Android | [Apply](https://careers.duolingo.com/jobs/8628670002?gh_jid=8628670002) | 2026-07-10T13:53:29-04:00 |
+| **Duolingo** | Pittsburgh, PA | Software Engineer II, Android | [Apply](https://careers.duolingo.com/jobs/8628658002?gh_jid=8628658002) | 2026-07-10T13:53:28-04:00 |
+| **Greenlight** | Atlanta (Remote Friendly) | Data Analyst II, Ecommerce | [Apply](https://jobs.lever.co/greenlight/cebdc575-1253-4136-a9a9-387ebceaa9e6) | 2026-07-10 16:32 |
+| **Booz Allen Hamilton** | San Diego, CA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Engineer_R0244165) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Data-Scientist_R0244150) | Posted Today |
+| **Fiserv** | Alpharetta, Georgia | Data Scientist | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Alpharetta-Georgia/Data-Scientist_R-10394348) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-10 16:10:58
 
 📊 **12 new jobs this batch:**
