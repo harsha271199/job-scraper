@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — July 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-10 13:48:50
+
+📊 **5 new jobs this batch:**
+- Affirm: 2 jobs
+- Citi: 1 job
+- Comcast: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Affirm** | Remote US | Software Engineer II, Backend (Test Infra) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7727320003) | 2026-07-10T09:25:07-04:00 |
+| **Affirm** | Remote Canada | Software Engineer II, Backend (Test Infra) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7727322003) | 2026-07-10T09:25:08-04:00 |
+| **Comcast** | NY - New York, 1407 Broadway Floor 12 | Software Engineer 3 | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/NY---New-York-1407-Broadway-Floor-12/Software-Engineer-3_R440985) | Posted Today |
+| **Citi** | New York New York United States | Systematic Quantitative Analyst | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Systematic-Quantitative-Analyst_26976139) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Aurora | Python Software Engineer Level 2 or 3 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Python-Software-Engineer-Level-2-or-3_R10239580) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-10 08:54:46
 
 📊 **1 new jobs this batch:**
