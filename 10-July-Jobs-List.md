@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-10 22:46:07
+
+📊 **2 new jobs this batch:**
+- Astronomer: 1 job
+- Reddit: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Astronomer** | New York City | Software Engineer - Infra & Systems | [Apply](https://jobs.ashbyhq.com/astronomer/540c1dd1-5658-49f9-b587-37865a360cd4) | 2026-07-10T22:31:05.412+00:00 |
+| **Reddit** | Remote - United States | Backend Engineer, Moderation Enforcement | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7922994) | 2026-07-10T18:27:31-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-10 21:47:39
 
 📊 **2 new jobs this batch:**
