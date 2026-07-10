@@ -1,6 +1,38 @@
 # 📢 Job Listings for Harsha — July 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-10 16:10:58
+
+📊 **12 new jobs this batch:**
+- Airbnb: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Duolingo: 2 jobs
+- Guidehouse: 1 job
+- Motorola Solutions: 1 job
+- Northrop Grumman: 2 jobs
+- Nvidia: 1 job
+- Spotify: 1 job
+- Stability AI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Airbnb** | Remote - USA | Software Engineer, Dev Tools | [Apply](https://careers.airbnb.com/positions/8055229?gh_jid=8055229) | 2026-07-10T10:57:27-04:00 |
+| **Duolingo** | Pittsburgh, PA | Software Engineer II, Backend | [Apply](https://careers.duolingo.com/jobs/8628276002?gh_jid=8628276002) | 2026-07-10T10:45:19-04:00 |
+| **Duolingo** | New York, NY | Software Engineer II, Backend | [Apply](https://careers.duolingo.com/jobs/8628275002?gh_jid=8628275002) | 2026-07-10T10:45:01-04:00 |
+| **Stability AI** | Remote  | Research Scientist, Professional Creative Workflows | [Apply](http://stability.ai/careers?gh_jid=4924873101) | 2026-07-10T10:28:14-04:00 |
+| **Spotify** | New York, NY | Research Scientist - Generative Audio | [Apply](https://jobs.lever.co/spotify/0eebb462-b5a2-4e3a-b830-d8ef7505b014) | 2026-07-10 14:40 |
+| **Booz Allen Hamilton** | Lexington Park, MD | Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Software-Engineer--Mid_R0244134) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Backend Infrastructure & Agentic AI Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Backend-Infrastructure---Agentic-AI-Software-Engineer_R0243893) | Posted Today |
+| **Guidehouse** | US - MD, Silver Spring | Bioassay Research Scientist II | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Silver-Spring/Bioassay-Research-Scientist-II_41842) | Posted Today |
+| **Motorola Solutions** | Brazil Remote Work | Jr Site Reliability Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Brazil-Remote-Work/Jr-Site-Reliability-Engineer_R62249) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | DevOps Engineer - Level 2 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/DevOps-Engineer---Level-2_R10239828) | Posted Today |
+| **Northrop Grumman** | United States-Utah-Corinne | Research Scientist - 2 / 3 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/Research-Scientist---2---3_R10239813) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Systems Software Engineer, Autonomous Systems Mapping - New College Graduate 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer--Autonomous-Systems-Mapping---New-College-Graduate-2026_JR2020838) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-10 13:48:50
 
 📊 **5 new jobs this batch:**
