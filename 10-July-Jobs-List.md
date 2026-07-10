@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-10 21:47:39
+
+📊 **2 new jobs this batch:**
+- Aircall: 1 job
+- Medtronic: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Aircall** | New York Office | Data Scientist | [Apply](https://jobs.lever.co/aircall/0d4eb848-2999-45a4-8d90-c2e1ba936469) | 2026-07-10 20:49 |
+| **Medtronic** | Lafayette, Colorado, United States of America | Sr Software Engineer (SDET) | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Software-Test-Engineer_R66308-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-10 20:10:52
 
 📊 **11 new jobs this batch:**
