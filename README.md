@@ -1,6 +1,35 @@
 # 📢 Job Listings for Harsha — July 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-10 20:10:52
+
+📊 **11 new jobs this batch:**
+- Anyscale: 1 job
+- Booz Allen Hamilton: 4 jobs
+- Glean: 2 jobs
+- Northrop Grumman: 1 job
+- Nvidia: 1 job
+- Pfizer: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anyscale** | San Francisco | Software Engineer (Ray Data) | [Apply](https://jobs.ashbyhq.com/anyscale/a83ce0ba-44ab-4d81-9c8c-bfda757377cd) | 2026-07-10T19:25:51.779+00:00 |
+| **Glean** | Mountain View, CA | Software Engineer | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4713145005) | 2026-07-10T14:21:38-04:00 |
+| **Glean** | Mountain View, CA | Software Engineer | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4713977005) | 2026-07-10T14:21:37-04:00 |
+| **Booz Allen Hamilton** | Dayton, OH | Signals Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Signals-Data-Analyst--Mid_R0244177) | Posted Today |
+| **Booz Allen Hamilton** | North Charleston, SC | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/North-Charleston-SC/DevOps-Engineer_R0244176) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | AI & ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI---ML-Engineer_R0242901-1) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Scientist_R0244172) | Posted Today |
+| **Northrop Grumman** | United States-California-Palmdale | Software Engineer - Simulation (Palmdale) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Palmdale/Software-Engineer---Simulation--Palmdale-_R10239890) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Software Engineer, Linux Kernel - Networking | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Networking_JR2016798) | Posted Today |
+| **Salesforce** | Virginia - Herndon | DevOps Engineering AMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Virginia---Herndon/DevOps-Engineering-AMTS_JR345892-2) | Posted Today |
+| **Pfizer** | United States - New York - Pearl River | AI/ML Engineer - Vaccines Modeling and Antigen Discovery | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---New-York---Pearl-River/AI-ML-Engineer---Vaccine-Research_4954072-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-10 18:15:07
 
 📊 **8 new jobs this batch:**
