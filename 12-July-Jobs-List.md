@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 12, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-12 16:41:05
+
+📊 **1 new jobs this batch:**
+- Anyscale: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anyscale** | San Francisco | Machine Learning Engineer, Customer Engineering | [Apply](https://jobs.ashbyhq.com/anyscale/1466478e-9797-4318-bdca-bb1ae5798d52) | 2026-06-24T16:56:53.190+00:00 |
+
+---
+# 📢 Job Listings for Harsha — July 12, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-12 15:45:47
 
 📊 **1 new jobs this batch:**
