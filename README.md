@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-13 08:39:42
+
+📊 **1 new jobs this batch:**
+- GitLab: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **GitLab** | Remote, India | Intermediate Backend Engineer - Analytics Instrumentation | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8615389002) | 2026-07-13T02:29:08-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-13 05:20:52
 
 📊 **1 new jobs this batch:**
