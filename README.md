@@ -1,6 +1,37 @@
 # 📢 Job Listings for Harsha — July 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-13 16:17:33
+
+📊 **11 new jobs this batch:**
+- Algolia: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Comcast: 1 job
+- Cox Enterprises: 2 jobs
+- Fiserv: 1 job
+- Nvidia: 1 job
+- SpaceX: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Algolia** | Remote - United States | Software Engineer, Growth | [Apply](https://job-boards.greenhouse.io/algolia/jobs/6112860004) | 2026-07-13T11:33:10-04:00 |
+| **SpaceX** | Palo Alto, CA | Wi-Fi Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8631298002?gh_jid=8631298002) | 2026-07-13T11:40:10-04:00 |
+| **Zoox** | Foster City, CA | AI Engineer – Enterprise, Data & AI | [Apply](https://jobs.lever.co/zoox/ba2b9418-e041-43b9-9bb1-b19762a00bd6) | 2026-07-09 23:31 |
+| **Booz Allen Hamilton** | Fayetteville, NC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0244243) | Posted Today |
+| **Booz Allen Hamilton** | Suffolk, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Data-Scientist_R0241565) | Posted Today |
+| **Boeing** | USA - Richardson, TX | Entry-Level Software Engineer–Developer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026512717-2) | Posted Today |
+| **Cox Enterprises** | Atlanta GA | Software Engineer II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-II_R202678357) | Posted Today |
+| **Cox Enterprises** | Atlanta GA | Sr Software Engineer | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Sr-Software-Engineer_R202678198) | Posted Today |
+| **Comcast** | PA - Philadelphia, 1701 John F Kennedy Blvd | Machine Learning Engineer 3- 7882 | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Machine-Learning-Engineer-3--7882_R440810) | Posted Today |
+| **Fiserv** | Omaha, Nebraska | Client Business Analyst | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Omaha-Nebraska/Client-Business-Analyst_R-10398177) | Posted Today |
+| **Nvidia** | US, Remote | Software Engineer, OpenShell | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-Remote/Software-Engineer--OpenShell_JR2020825) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-13 13:53:58
 
 📊 **4 new jobs this batch:**
