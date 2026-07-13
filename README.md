@@ -1,6 +1,39 @@
 # 📢 Job Listings for Harsha — July 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-13 18:24:39
+
+📊 **12 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- CVS Health: 1 job
+- Cloudflare: 1 job
+- Comcast: 1 job
+- General Motors: 1 job
+- HP: 1 job
+- Intel: 1 job
+- Morgan Stanley: 1 job
+- Upstart: 2 jobs
+- Whoop: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Cloudflare** | In-Office | Software Engineer, Workers Deploy & Config | [Apply](https://boards.greenhouse.io/cloudflare/jobs/7377424?gh_jid=7377424) | 2025-11-05T16:29:53-05:00 |
+| **Upstart** | United States | Remote | Software Engineer, Upstart Bank | [Apply](https://careers.upstart.com/jobs?gh_jid=8060056) | 2026-07-13T14:12:30-04:00 |
+| **Upstart** | United States | Remote | Software Engineer, Upstart Bank | [Apply](https://careers.upstart.com/jobs?gh_jid=8060317) | 2026-07-13T14:11:25-04:00 |
+| **Whoop** | Boston, MA | Software Engineer II, MLOps | [Apply](https://jobs.lever.co/whoop/82635467-6cfb-4e8b-967e-73355a0d0b8f) | 2026-07-13 16:24 |
+| **Booz Allen Hamilton** | McLean, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0244272) | Posted Today |
+| **Booz Allen Hamilton** | Atlanta, GA | Intelligence Automation Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Intelligence-Automation-Business-Analyst_R0244258) | Posted Today |
+| **Comcast** | PA - Philadelphia, 1701 John F Kennedy Blvd | Data Scientist | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Data-Scientist_R438877) | Posted Today |
+| **CVS Health** | TX - Richardson | St6aff Software Engineer (Agentic AI & Cloud Solutions) | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/St6aff-Software-Engineer--Agentic-AI---Cloud-Solutions-_R0970084-1) | Posted Today |
+| **General Motors** | Milford, Michigan, United States of America | Software Engineer - Virtualization & SIL Integration | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer---Virtualization---SIL-Integration_JR-202606594-1) | Posted Today |
+| **HP** | Austin, Texas, United States of America | Camera System Software Engineer | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Camera-System-Software-Engineer_3163189-1) | Posted Today |
+| **Intel** | US, Oregon, Hillsboro | Data Scientist | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Data-Scientist_JR0285516) | Posted Today |
+| **Morgan Stanley** | Dallas, Texas, United States of America | Data Analyst | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Data-Analyst_PT-JR040220) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-13 16:17:33
 
 📊 **11 new jobs this batch:**
