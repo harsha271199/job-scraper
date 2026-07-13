@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-13 23:39:42
+
+📊 **2 new jobs this batch:**
+- Browserbase: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Browserbase** | New York | Software Engineer (Dashboard) - New York | [Apply](https://jobs.ashbyhq.com/browserbase/689df609-4658-4769-bc2c-5962516237bb) | 2026-07-13T23:16:37.338+00:00 |
+| **Zoox** | Foster City, CA | Part-Time Student Worker Software Engineer (6-month Contract) | [Apply](https://jobs.lever.co/zoox/5f10dfaf-5920-4506-8a09-b39b29e6f48b) | 2025-10-16 19:27 |
+
+---
+# 📢 Job Listings for Harsha — July 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-13 22:41:40
 
 📊 **4 new jobs this batch:**
