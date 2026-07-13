@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — July 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-13 22:41:40
+
+📊 **4 new jobs this batch:**
+- Abnormal Security: 1 job
+- Booz Allen Hamilton: 1 job
+- DoorDash: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Abnormal Security** | Remote - USA | Machine Learning Engineer II | [Apply](https://abnormal.ai/careers/jobs/7612697003?gh_jid=7612697003) | 2026-02-04T10:23:16-05:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer, Satellite Systems (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8621508002?gh_jid=8621508002) | 2026-07-13T17:48:23-04:00 |
+| **DoorDash** | New York, NY; San Francisco, CA; Los Angeles, CA; Seattle, WA; Sunnyvale, CA | Software Engineer I, Entry-Level (Graduation Date: Fall 2025-Summer 2026) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/7263610) | 2025-10-01T17:03:47-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0237844-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-13 21:41:31
 
 📊 **4 new jobs this batch:**
