@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — July 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-13 21:41:31
+
+📊 **4 new jobs this batch:**
+- Flatiron Health: 1 job
+- MongoDB: 1 job
+- SpaceX: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Flatiron Health** | NY office | Applied AI Data Scientist - Product AI Team | [Apply](https://flatiron.com/careers/open-positions/job?gh_jid=8010590) | 2026-07-13T16:43:56-04:00 |
+| **MongoDB** | New York City; Palo Alto; Seattle | Software Engineer 3, Documentation Platform | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8054991) | 2026-07-13T17:01:25-04:00 |
+| **SpaceX** | Starbase, TX | Application Software Engineer, Employee Experience | [Apply](https://boards.greenhouse.io/spacex/jobs/8632106002?gh_jid=8632106002) | 2026-07-13T17:35:13-04:00 |
+| **SpaceX** | Hawthorne, CA | Application Software Engineer, Employee Experience  | [Apply](https://boards.greenhouse.io/spacex/jobs/8632103002?gh_jid=8632103002) | 2026-07-13T17:33:11-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-13 20:04:41
 
 📊 **8 new jobs this batch:**
