@@ -1,6 +1,30 @@
 # 📢 Job Listings for Harsha — July 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-13 20:04:41
+
+📊 **8 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Citi: 1 job
+- CoreWeave: 1 job
+- Lyft: 1 job
+- OpenAI: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, Codex -Enterprise Controls | [Apply](https://jobs.ashbyhq.com/openai/fff02c39-1185-427c-bf89-70d7eaa5e3db) | 2026-07-13T19:27:11.674+00:00 |
+| **OpenAI** | San Francisco | Software Engineer, Codex — User Activation | [Apply](https://jobs.ashbyhq.com/openai/d1c6cb87-a44d-4d04-92a8-dc40eccd090e) | 2026-07-13T19:27:13.459+00:00 |
+| **CoreWeave** | New York, NY | Software Engineer, Gateway & Networking Infrastructure | [Apply](https://coreweave.com/careers/job?4696332006&board=coreweave&gh_jid=4696332006) | 2026-07-13T14:54:01-04:00 |
+| **Lyft** | Seattle, WA | Software Engineer, Async Platform | [Apply](https://app.careerpuck.com/job-board/lyft/job/8631837002?gh_jid=8631837002) | 2026-07-13T15:43:59-04:00 |
+| **Booz Allen Hamilton** | Honolulu, HI | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0244293) | Posted Today |
+| **Booz Allen Hamilton** | Fort Belvoir, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/DevOps-Engineer_R0242920-1) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0244279) | Posted Today |
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | Banamex - Machine learning Engineer - Python/Pyspark | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex---Machine-learning-Engineer---Python-Pyspark_26974392) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-13 18:24:39
 
 📊 **12 new jobs this batch:**
