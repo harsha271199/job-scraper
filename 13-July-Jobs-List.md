@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-13 13:53:58
+
+📊 **4 new jobs this batch:**
+- Affirm: 2 jobs
+- Traba: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Traba** | New York City, NY | Software Engineer (Applied AI) | [Apply](https://jobs.ashbyhq.com/traba/9ec98109-7e56-4566-869d-8d58e96a78ed) | 2026-07-13T13:27:38.589+00:00 |
+| **Traba** | New York City, NY | Software Engineer (AI Agents) | [Apply](https://jobs.ashbyhq.com/traba/f9ee53f4-2ed6-4788-a74f-10f33c087f06) | 2026-07-13T13:28:15.218+00:00 |
+| **Affirm** | Remote Canada | Software Engineer II, Backend (ML Training & Serving) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7800446003) | 2026-07-13T09:04:27-04:00 |
+| **Affirm** | Remote US | Software Engineer II, Backend (ML Training & Serving) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7800444003) | 2026-07-13T09:04:26-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-13 11:47:14
 
 📊 **3 new jobs this batch:**
