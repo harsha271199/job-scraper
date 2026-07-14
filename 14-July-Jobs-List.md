@@ -1,6 +1,34 @@
 # 📢 Job Listings for Harsha — July 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-14 17:54:54
+
+📊 **11 new jobs this batch:**
+- Booz Allen Hamilton: 4 jobs
+- Citi: 2 jobs
+- Fiserv: 1 job
+- Nuro: 1 job
+- Ramp: 2 jobs
+- Scopely: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Ramp** | New York, NY (HQ) | Software Engineer, GTM Platform, Frontend | [Apply](https://jobs.ashbyhq.com/ramp/1540a41f-d88f-4c89-9b08-5b9fade1ee81) | 2026-02-26T21:56:47.552+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Web + Design | [Apply](https://jobs.ashbyhq.com/ramp/8d61885c-0f08-4267-8ace-69e28b1d3f38) | 2026-07-10T12:14:14.800+00:00 |
+| **Nuro** | Mountain View, California (HQ) | Software Engineer, Performance - New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=8064655) | 2026-07-14T12:20:35-04:00 |
+| **Scopely** | CA - Canada; US - United States | Data Analyst - Marvel Strike Force | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5301857008?gh_jid=5301857008) | 2026-07-14T13:41:19-04:00 |
+| **Booz Allen Hamilton** | McLean, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0229817) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0236797) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0229815-1) | Posted Today |
+| **Booz Allen Hamilton** | Alexandria, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0235358) | Posted Today |
+| **Citi** | Tampa Florida United States | Junior Generative AI Application Developer | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Tampa-Florida-United-States/Junior-Generative-AI-Application-Developer_26962392) | Posted Today |
+| **Citi** | New York New York United States | Quantitative Analyst - C13 - NEW YORK | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Quantitative-Analyst---C13---NEW-YORK_26975264) | Posted Today |
+| **Fiserv** | Omaha, Nebraska | Product Analyst | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Omaha-Nebraska/Product-Analyst_R-10398176) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-14 16:06:44
 
 📊 **4 new jobs this batch:**
