@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — July 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-14 16:06:44
+
+📊 **4 new jobs this batch:**
+- Best Egg: 1 job
+- Boeing: 1 job
+- Guidehouse: 1 job
+- Scopely: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Scopely** | IN - Bangalore, India | Software Engineer (Tools) | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5347389008?gh_jid=5347389008) | 2026-07-14T11:46:12-04:00 |
+| **Best Egg** | Wilmington, DE | Site Reliability Engineer | [Apply](https://jobs.lever.co/BestEgg/7b3262b3-1618-45e5-bd70-74ae378784bb) | 2026-07-14 15:54 |
+| **Boeing** | USA - Hazelwood, MO | Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Software-Engineer_JR2026511461-1) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Business Analyst- Child Welfare | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Business-Analyst--Child-Welfare_41964) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-14 14:46:21
 
 📊 **9 new jobs this batch:**
