@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-14 18:56:39
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Motorola Solutions: 1 job
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Twilio** | Remote - US | Software Engineer L2 - Cloud Infrastructure  | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7434770) | 2025-12-02T10:25:21-05:00 |
+| **Booz Allen Hamilton** | Annapolis Junction, MD | AI and ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/AI-and-ML-Engineer_R0232485) | Posted Today |
+| **Motorola Solutions** | Los Angeles, CA | Web Interface Software Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Los-Angeles-CA/Web-Interface-Software-Engineer_R66626) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-14 17:54:54
 
 📊 **11 new jobs this batch:**
