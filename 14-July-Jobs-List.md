@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-14 12:58:50
+
+📊 **1 new jobs this batch:**
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Salesforce** | California - San Francisco | Software Engineer, MTS - Agentforce Optimization Agent & Agent Studio | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer--MTS---Agentforce-Optimization-Agent---Agent-Studio_JR349901-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-14 11:14:51
 
 📊 **1 new jobs this batch:**
