@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — July 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-14 21:43:59
+
+📊 **4 new jobs this batch:**
+- Boeing: 1 job
+- General Motors: 1 job
+- Nvidia: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Boeing** | USA - Hazelwood, MO | Advanced Information Technologist – Mid Level Cloud Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Advanced-Information-Technologist---Mid-Level-Cloud-Engineer_JR2026511876) | Posted Today |
+| **General Motors** | Sunnyvale, California, United States of America | AI/ML Engineer - Model Inference | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/AI-ML-Engineer---Model-Inference_JR-202613719-1) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Site Reliability Engineer, Cloud | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Site-Reliability-Engineer--Cloud_JR2020831) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering MTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR346837) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-14 20:04:35
 
 📊 **5 new jobs this batch:**
