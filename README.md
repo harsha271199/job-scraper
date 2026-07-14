@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — July 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-14 20:04:35
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Northrop Grumman: 1 job
+- Nvidia: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Waymo** | Mountain View, CA, USA | Machine Learning Engineer, Sensor Pipelines | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8051390) | 2026-07-14T16:03:11-04:00 |
+| **Booz Allen Hamilton** | Alexandria, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/DevOps-Engineer_R0242746) | Posted Today |
+| **Booz Allen Hamilton** | Warner Robins, GA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Warner-Robins-GA/DevOps-Engineer_R0239203) | Posted Today |
+| **Northrop Grumman** | United States-Nebraska-Bellevue | Software Engineer (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Software-Engineer--AHT-_R10240365) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Applied AI Engineer - VLSI Design | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-AI-Engineer---VLSI-Design_JR2019190) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-14 18:56:39
 
 📊 **3 new jobs this batch:**
