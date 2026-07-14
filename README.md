@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-14 23:39:37
+
+📊 **1 new jobs this batch:**
+- Scale AI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Scale AI** | San Francisco, CA; St. Louis, MO; New York, NY; Washington, DC | Software Engineer, Public Sector | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4302243005) | 2023-08-06T10:34:08-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-14 22:43:46
 
 📊 **1 new jobs this batch:**
