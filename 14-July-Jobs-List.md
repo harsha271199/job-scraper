@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-14 22:43:46
+
+📊 **1 new jobs this batch:**
+- Twitch: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Twitch** | San Francisco, CA | Software Engineer I, Discovery | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8623578002) | 2026-07-14T18:43:05-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-14 21:43:59
 
 📊 **4 new jobs this batch:**
