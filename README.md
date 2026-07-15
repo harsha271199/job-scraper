@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 15, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-15 20:57:42
+
+📊 **1 new jobs this batch:**
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Target** | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | Data Engineer - Finance Technology Solutions | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Data-Engineer---Finance-Technology-Solutions_R0000444866) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 15, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-15 19:59:24
 
 📊 **2 new jobs this batch:**
