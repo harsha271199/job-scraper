@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — July 15, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-15 18:50:11
+
+📊 **7 new jobs this batch:**
+- Booz Allen Hamilton: 4 jobs
+- Motorola Solutions: 2 jobs
+- Samsara: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Samsara** | Remote - US | Sr Software Engineer I | [Apply](https://www.samsara.com/company/careers/roles/8036387?gh_jid=8036387) | 2026-07-15T13:43:34-04:00 |
+| **Booz Allen Hamilton** | Washington, DC | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Software-Engineer_R0239218) | Posted Today |
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0244533) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0244487) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0244488) | Posted Today |
+| **Motorola Solutions** | Ontario Remote Work | Data Engineering Co-Op | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ontario-Remote-Work/Data-Engineering-Co-Op_R65916) | Posted Today |
+| **Motorola Solutions** | Ontario Remote Work | Data Analyst Co-Op | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R65918) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 15, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-15 17:01:17
 
 📊 **9 new jobs this batch:**
