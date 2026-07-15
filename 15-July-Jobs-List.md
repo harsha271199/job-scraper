@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — July 15, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-15 22:45:04
+
+📊 **4 new jobs this batch:**
+- Boeing: 1 job
+- Databricks: 1 job
+- Scale AI: 1 job
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Databricks** | Mountain View, California; San Francisco, California | Sr Software Engineer- CXI | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8617901002) | 2026-07-15T18:24:48-04:00 |
+| **Scale AI** | Washington, DC | DevOps Engineer, Infrastructure & Security | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4674863005) | 2026-03-18T17:34:04-04:00 |
+| **Boeing** | USA - Auburn, WA | Business Intelligence Analyst | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Auburn-WA/Business-Intelligence-Analyst_JR2026518053-1) | Posted Today |
+| **Workday** | USA, CA, Pleasanton | Sr Software Engineer – API Platform & Agentic AI (Python/Typescript) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Sr-Software-Development-Engineer--Product-Engineering---API-Platform---Agentic-AI_JR-0108225) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 15, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-15 21:51:34
 
 📊 **3 new jobs this batch:**
