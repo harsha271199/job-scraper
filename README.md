@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — July 15, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-15 21:51:34
+
+📊 **3 new jobs this batch:**
+- OpenAI: 1 job
+- Workday: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | Seattle | Data Engineer, Core Experimentation | [Apply](https://jobs.ashbyhq.com/openai/2796d32a-9f7c-4008-a2c5-50dd53b0f2fe) | 2026-05-14T16:24:02.877+00:00 |
+| **Workday** | USA.VA.Reston | Cloud Engineer (US Federal) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Site-Reliability-Engineer--SRE----Database-Engineering--US-Federal-_JR-0093733) | Posted Today |
+| **Workday** | USA, VA, McLean | Sr Cloud Engineer (US Federal) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-VA-McLean/Sr-Software-Engineer--US-Federal-_JR-0097206) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 15, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-15 20:57:42
 
 📊 **1 new jobs this batch:**
