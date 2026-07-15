@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 15, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-15 23:45:55
+
+📊 **2 new jobs this batch:**
+- Boeing: 1 job
+- Databricks: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Databricks** | Mountain View, California | Software Engineer, Web Products | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8635225002) | 2026-07-15T19:15:33-04:00 |
+| **Boeing** | USA - Maryland Heights, MO | Associate Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026513142-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 15, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-15 22:45:04
 
 📊 **4 new jobs this batch:**
