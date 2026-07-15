@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 15, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-15 19:59:24
+
+📊 **2 new jobs this batch:**
+- DoorDash: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Founding Data Scientist, Pricing & Monetization | [Apply](https://jobs.ashbyhq.com/openai/e5e1a914-79b6-4cf5-929a-01671d8ec4cd) | 2026-07-15T19:46:23.668+00:00 |
+| **DoorDash** | Sunnyvale, CA; San Francisco, CA; Los Angeles, CA; Seattle, WA; New York, NY; | Software Engineer, Android (All Teams) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/5630438) | 2024-06-10T12:01:28-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 15, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-15 18:50:11
 
 📊 **7 new jobs this batch:**
