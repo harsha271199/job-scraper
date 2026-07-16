@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 16, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-16 21:52:34
+
+📊 **2 new jobs this batch:**
+- Anthropic: 1 job
+- Esri: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | Research Scientist, Life Sciences (Computational) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5357739008) | 2026-07-16T17:26:57-04:00 |
+| **Esri** | Redlands, CA | DevOps Engineer I - ArcGIS Enterprise | [Apply](https://www.esri.com/careers/5012634007?gh_jid=5012634007) | 2026-01-05T11:07:22-05:00 |
+
+---
+# 📢 Job Listings for Harsha — July 16, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-16 20:41:45
 
 📊 **2 new jobs this batch:**
