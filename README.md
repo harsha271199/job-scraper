@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — July 16, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-16 16:59:05
+
+📊 **7 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Guidehouse: 1 job
+- Northrop Grumman: 1 job
+- Nuro: 1 job
+- Verily: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Nuro** | Mountain View, California (HQ) | Software Engineer, Performance - New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=6972272) | 2026-07-16T12:45:58-04:00 |
+| **Booz Allen Hamilton** | Bethesda, MD | Scientific Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Scientific-Software-Engineer_R0244218) | Posted Today |
+| **Booz Allen Hamilton** | Annapolis Junction, MD | Agentic AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Agentic-AI-Engineer_R0244598) | Posted Today |
+| **Booz Allen Hamilton** | Bethesda, MD | Scientific Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Scientific-Software-Engineer_R0244215) | Posted Today |
+| **Guidehouse** | US - VA, Arlington | Palantir Platform Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Palantir-Platform-Engineer_41898) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | 2027 Associate Software Engineer - Huntsville AL | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Huntsville-AL_R10240786) | Posted Today |
+| **Verily** | Dallas, Texas | Software Engineer - Customer Delivery | [Apply](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Dallas-Texas/Software-Engineer---Customer-Delivery_REQ-797) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 16, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-16 15:23:32
 
 📊 **7 new jobs this batch:**
