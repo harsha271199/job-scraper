@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 16, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-16 22:44:33
+
+📊 **1 new jobs this batch:**
+- Spotify: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Spotify** | New York, NY | Machine Learning Engineer - Artist-First AI Music Lab | [Apply](https://jobs.lever.co/spotify/6f663028-2c8f-4bce-b1a3-2b20acca7800) | 2026-05-21 12:34 |
+
+---
+# 📢 Job Listings for Harsha — July 16, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-16 21:52:34
 
 📊 **2 new jobs this batch:**
