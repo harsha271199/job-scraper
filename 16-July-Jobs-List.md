@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — July 16, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-16 19:53:19
+
+📊 **7 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Duolingo: 2 jobs
+- Northrop Grumman: 1 job
+- Woven by Toyota: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Duolingo** | New York, NY | Software Engineer II, Backend | [Apply](https://careers.duolingo.com/jobs/8637306002?gh_jid=8637306002) | 2026-07-16T15:40:54-04:00 |
+| **Duolingo** | Pittsburgh, PA | Software Engineer II, Backend | [Apply](https://careers.duolingo.com/jobs/8637300002?gh_jid=8637300002) | 2026-07-16T15:40:53-04:00 |
+| **Woven by Toyota** | Ann Arbor, MI | Software Engineer, Calibration | [Apply](https://jobs.lever.co/woven-by-toyota/4afeadd3-5418-41d8-b292-0c65a2ce8191) | 2026-07-16 19:22 |
+| **Boeing** | USA - Colorado Springs, CO | Modernization Software Engineer (Associate or Mid-Level) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Colorado-Springs-CO/Modernization-Software-Engineer--Associate-or-Mid-Level-_JR2026519283-1) | Posted Today |
+| **Booz Allen Hamilton** | Winchester, VA | Software Developer SME | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Winchester-VA/Software-Developer-SME_R0244698) | Posted Today |
+| **Booz Allen Hamilton** | Herndon, VA | Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Software-Engineer--Mid_R0244638) | Posted Today |
+| **Northrop Grumman** | United States-Oklahoma-Oklahoma City | 2027 Associate Software Engineer/Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Oklahoma-Oklahoma-City/XMLNAME-2027-Associate-Software-Engineer-Software-Engineer_R10240868) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 16, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-16 18:03:36
 
 📊 **2 new jobs this batch:**
