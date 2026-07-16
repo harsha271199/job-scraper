@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 16, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-16 20:41:45
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Roblox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Ads Platform | [Apply](https://careers.roblox.com/jobs/8047815?gh_jid=8047815) | 2026-07-16T15:56:58-04:00 |
+| **Booz Allen Hamilton** | McLean, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0244653) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 16, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-16 19:53:19
 
 📊 **7 new jobs this batch:**
