@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 16, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-16 18:03:36
+
+📊 **2 new jobs this batch:**
+- Mastercard: 1 job
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Twilio** | Remote - US | Software Engineer L3 Phone Numbers | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7724877) | 2026-03-26T18:22:01-04:00 |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-279240) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 16, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-16 16:59:05
 
 📊 **7 new jobs this batch:**
