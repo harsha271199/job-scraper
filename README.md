@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — July 16, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-16 15:23:32
+
+📊 **7 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Northrop Grumman: 3 jobs
+- Samsara: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Samsara** | Remote - US | PLM Data Analyst | [Apply](https://www.samsara.com/company/careers/roles/8049649?gh_jid=8049649) | 2026-07-16T09:37:13-04:00 |
+| **Booz Allen Hamilton** | Buckley AFB, CO | Signals Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Buckley-AFB-CO/Signals-Data-Analyst--Mid_R0244752-1) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | ETL Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/ETL-Software-Engineer_R0241379) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | Power Platform Business Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Power-Platform-Business-Analyst--Mid_R0244597) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | 2027 Associate Software Engineer / Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10240764) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | 2026 Associate Software Engineer - Huntsville AL | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2026-Associate-Software-Engineer---Huntsville-AL_R10240672-1) | Posted Today |
+| **Northrop Grumman** | United States-Virginia-Chantilly | Software Engineers (Level 2 or 3) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Chantilly/Software-Engineers--Level-2-or-3-_R10240742) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 16, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-16 13:09:47
 
 📊 **1 new jobs this batch:**
