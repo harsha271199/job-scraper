@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — July 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-17 21:39:14
+
+📊 **7 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Commure: 1 job
+- Esri: 1 job
+- Salesforce: 1 job
+- Thinking Machines Lab: 1 job
+- Verily: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Commure** | Mountain View, CA | Software Engineer, Biller Workflows | [Apply](https://jobs.ashbyhq.com/commure/feb90bb7-ad78-478c-8e3f-cde8e044d4c5) | 2026-07-17T20:39:37.741+00:00 |
+| **Esri** | Redlands, CA | Software Engineer I - Front-End Engineer for ArcGIS Enterprise | [Apply](https://www.esri.com/careers/5190253007?gh_jid=5190253007) | 2026-07-17T16:50:56-04:00 |
+| **Thinking Machines Lab** | San Francisco | Software Engineer, Developer Productivity, AI Tools | [Apply](https://job-boards.greenhouse.io/thinkingmachines/jobs/5111543008) | 2026-02-05T16:00:48-05:00 |
+| **Boeing** | USA - Renton, WA | Business Intelligence Analyst | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Renton-WA/Business-Intelligence-Analyst_JR2026519150) | Posted Today |
+| **Booz Allen Hamilton** | Fort Belvoir, VA | AI/ML Engineer and Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/AI-ML-Engineer-and-Data-Scientist_R0244749) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering SMTS - Agentforce Reasoning Engine | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS---Agentforce-Reasoning-Engine_JR351830) | Posted Today |
+| **Verily** | Raleigh, North Carolina | Software Engineer - Sponsor Solutions TL | [Apply](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Raleigh-North-Carolina/Software-Engineer---Sponsor-Solutions-TL_REQ-829) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-17 20:40:25
 
 📊 **3 new jobs this batch:**
