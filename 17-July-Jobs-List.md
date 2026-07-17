@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — July 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-17 16:05:47
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Hawthorne, CA | Full Stack Software Engineer, Observability (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8638457002?gh_jid=8638457002) | 2026-07-17T11:13:57-04:00 |
+| **Booz Allen Hamilton** | Atlanta, GA | AL/ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/AL-ML-Engineer--Lead_R0243410-1) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Engineer_R0244671-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-17 14:22:46
 
 📊 **2 new jobs this batch:**
