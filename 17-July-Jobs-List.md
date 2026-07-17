@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — July 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-17 17:54:35
+
+📊 **9 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Broadcom: 2 jobs
+- CVS Health: 1 job
+- Citi: 1 job
+- PatientPoint: 1 job
+- SpaceX: 1 job
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **PatientPoint** | Remote, US | Sr Data Analyst | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4713462005) | 2026-07-17T12:23:58-04:00 |
+| **SpaceX** | Palo Alto, CA | Software Engineer, Platform / Infrastructure (Starlink)  | [Apply](https://boards.greenhouse.io/spacex/jobs/8632322002?gh_jid=8632322002) | 2026-07-17T13:44:23-04:00 |
+| **Upstart** | United States | Remote | Software Engineer, Mobile  | [Apply](https://careers.upstart.com/jobs?gh_jid=7901946) | 2026-07-17T12:31:12-04:00 |
+| **Broadcom** | USA-Colorado-Fort Collins-4380 Ziegler Road | AI Software Engineer | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Colorado-Fort-Collins-4380-Ziegler-Road/AI-Software-Engineer_R026268) | Posted Today |
+| **Broadcom** | USA-CA - Promontory B | Software Engineer 2 | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer-2_R026512-1) | Posted Today |
+| **Booz Allen Hamilton** | Charlottesville, VA | Reverse Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Charlottesville-VA/Reverse-Software-Engineer_R0244715-1) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | AI Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Software-Engineer_R0244680) | Posted Today |
+| **CVS Health** | TX - Richardson | AI Engineer | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Richardson/AI-Engineer_R0968098) | Posted Today |
+| **Citi** | New York New York United States | Quantitative Analyst - Equities Central Risk Book (CRB) | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Quantitative-Analyst---Equities-Central-Risk-Book--CRB-_26978964) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-17 16:05:47
 
 📊 **3 new jobs this batch:**
