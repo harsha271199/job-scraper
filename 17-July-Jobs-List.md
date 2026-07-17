@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-17 19:55:54
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- CVS Health: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Chantilly, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Engineer_R0244707) | Posted Today |
+| **CVS Health** | RI - Woonsocket | Software Development Engineer - SRE Retail & Pharmacy | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Software-Development-Engineer---SRE-Retail---Pharmacy_R0964061) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-17 18:47:25
 
 📊 **2 new jobs this batch:**
