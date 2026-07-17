@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-17 18:47:25
+
+📊 **2 new jobs this batch:**
+- Comcast: 1 job
+- Cox Enterprises: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Cox Enterprises** | Atlanta GA | Software Engineer II - 20237 | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-II---20237_R202680053) | Posted Today |
+| **Comcast** | PA - Philadelphia, 1701 John F Kennedy Blvd | Data Scientist | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Data-Scientist_R441339) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-17 17:54:35
 
 📊 **9 new jobs this batch:**
