@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-17 22:36:32
+
+📊 **1 new jobs this batch:**
+- Discord: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Discord** | San Francisco Bay Area | QA/DevOps Engineer | [Apply](https://job-boards.greenhouse.io/discord/jobs/8637648002) | 2026-07-17T18:04:42-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-17 21:39:14
 
 📊 **7 new jobs this batch:**
