@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-17 20:40:25
+
+📊 **3 new jobs this batch:**
+- Citi: 1 job
+- Comcast: 1 job
+- Commure: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Commure** | Mountain View, CA | Software Engineer, RCM Core | [Apply](https://jobs.ashbyhq.com/commure/7e0572ec-fe77-4893-bc33-6d007bbcc5ff) | 2026-07-17T20:34:33.641+00:00 |
+| **Comcast** | CO - Englewood, 183 Inverness Dr West | Voice Platform Engineer | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/CO---Englewood-183-Inverness-Dr-West/Voice-Platform-Engineer_R440479-1) | Posted Today |
+| **Citi** | New York New York United States | Quantitative Analyst - C13 - NEW YORK | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Quantitative-Analyst---C13---NEW-YORK_26972572) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-17 19:55:54
 
 📊 **2 new jobs this batch:**
