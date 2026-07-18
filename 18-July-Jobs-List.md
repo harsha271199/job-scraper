@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-18 14:13:00
+
+📊 **1 new jobs this batch:**
+- Comcast: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Comcast** | VA - Reston, 11951 Freedom Dr Ste 900 | Data Engineer 3 - Reston, VA - Freewheel | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Data-Engineer-3---Reston--VA---Freewheel_R439281) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-18 04:34:44
 
 📊 **6 new jobs this batch:**
