@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — July 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-18 04:34:44
+
+📊 **6 new jobs this batch:**
+- PayPal: 5 jobs
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Starbase, TX | Full Stack Software Engineer (Application Software) | [Apply](https://boards.greenhouse.io/spacex/jobs/8639573002?gh_jid=8639573002) | 2026-07-17T22:26:35-04:00 |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137136) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137135) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer 3 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-3_R0137134) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137131) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer 2 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-2_R0137107) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-18 01:10:54
 
 📊 **12 new jobs this batch:**
