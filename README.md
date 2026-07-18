@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-18 16:40:53
+
+📊 **1 new jobs this batch:**
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Nvidia** | US, CA, Santa Clara | System Software Engineer, Calibration - Autonomous Vehicles | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Calibration---Autonomous-Vehicles_JR2014856) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-18 14:13:00
 
 📊 **1 new jobs this batch:**
