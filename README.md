@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — July 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-20 19:20:02
+
+📊 **9 new jobs this batch:**
+- Cox Enterprises: 1 job
+- CrowdStrike: 3 jobs
+- Justworks: 1 job
+- Mastercard: 3 jobs
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Justworks** | New York, New York | Software Engineer, Frontend | [Apply](https://boards.greenhouse.io/justworks/jobs/8069292?gh_jid=8069292) | 2026-07-20T13:18:27-04:00 |
+| **Cox Enterprises** | Burlington VT | Entry Level Software Engineer (Burlington, VT) | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202679034) | Posted Today |
+| **CrowdStrike** | USA - Sunnyvale, CA | Engineer I, Data Scientist - New Grad (Hybrid) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Engineer-I--Data-Scientist---New-Grad--Hybrid-_R29382-1) | Posted Today |
+| **CrowdStrike** | USA - Austin, TX | Sr Engineer II - SDET, NG-SIEM (Hybrid) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Sr-Engineer-II---SDET--NG-SIEM--Hybrid-_R29401) | Posted Today |
+| **CrowdStrike** | USA - Remote | Financial Data Analyst (Remote) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Financial-Data-Analyst--Remote-_R29427) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer I | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284431) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer-II_R-284432) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer I | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Development-Engineer_R-284435) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer - Level  3 (26-274) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level--3--26-274-_R10235884) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-20 17:13:26
 
 📊 **6 new jobs this batch:**
