@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — July 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-20 17:13:26
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Flir: 1 job
+- General Motors: 1 job
+- SpaceX: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Palo Alto, CA | Wireless Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8637814002?gh_jid=8637814002) | 2026-07-20T12:35:18-04:00 |
+| **SpaceX** | Redmond, WA | Wireless Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8637826002?gh_jid=8637826002) | 2026-07-20T12:35:18-04:00 |
+| **Booz Allen Hamilton** | Washington, DC | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Software-Engineer_R0245012) | Posted Today |
+| **Booz Allen Hamilton** | Atlanta, GA | Bioinformatics Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Bioinformatics-Business-Analyst_R0244789) | Posted Today |
+| **Flir** | US - Thousand Oaks, CA (TDY) | Research Scientist | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Thousand-Oaks-CA-TDY/Research-Scientist_REQ35429-1) | Posted Today |
+| **General Motors** | Sunnyvale, California, United States of America | Software Engineer – Simulation Validation | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Senior-Software-Engineer---Simulation-Validation_JR-202519080) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-20 15:42:19
 
 📊 **8 new jobs this batch:**
