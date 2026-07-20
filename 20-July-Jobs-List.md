@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-20 11:31:59
+
+📊 **1 new jobs this batch:**
+- Scopely: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Scopely** | IN - Bangalore, India | Software Engineer (Unity) | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5360705008?gh_jid=5360705008) | 2026-07-20T06:01:57-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-20 08:31:57
 
 📊 **1 new jobs this batch:**
