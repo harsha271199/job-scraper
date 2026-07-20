@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-20 23:44:11
+
+📊 **1 new jobs this batch:**
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Zoox** | Foster City, CA | Software Engineer, ML Platform (ML Training) | [Apply](https://jobs.lever.co/zoox/d4108968-e83d-4d87-a92c-e4cd1823801c) | 2026-07-20 22:15 |
+
+---
+# 📢 Job Listings for Harsha — July 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-20 22:43:44
 
 📊 **3 new jobs this batch:**
