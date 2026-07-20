@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — July 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-20 21:55:53
+
+📊 **7 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Commure: 1 job
+- Guidehouse: 1 job
+- Northrop Grumman: 1 job
+- OpenAI: 1 job
+- Salesforce: 1 job
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Commure** | Rio de Janeiro, Brazil | Software Engineer, RCM (Brazil) | [Apply](https://jobs.ashbyhq.com/commure/0048eb0e-172b-4b78-b4f5-03d29d4d4c2a) | 2026-07-20T18:32:30.574+00:00 |
+| **OpenAI** | San Francisco | Software Engineer, Conversion Measurement | [Apply](https://jobs.ashbyhq.com/openai/1b86ec8e-fe34-452d-bbff-6619579e7385) | 2026-07-20T21:47:55.434+00:00 |
+| **Stripe** | US Remote | Software Engineer, Optimized Checkout & Link | [Apply](https://stripe.com/jobs/search?gh_jid=8075469) | 2026-07-20T17:17:44-04:00 |
+| **Booz Allen Hamilton** | Arlington, VA | Artificial Intelligence & Machine Learning Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Artificial-Intelligence---Machine-Learning-Engineer_R0244720) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Data Engineer (IE / Ops Research) | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Data-Engineer--IE---Ops-Research-_41652) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Orlando | Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Orlando/Software-Engineer_R10241177) | Posted Today |
+| **Salesforce** | Washington - Bellevue | Software Engineering MTS, Identity & Access Management | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-MTS--Identity---Access-Management_JR352240) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-20 20:57:20
 
 📊 **11 new jobs this batch:**
