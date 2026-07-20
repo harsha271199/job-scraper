@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-20 13:40:55
+
+📊 **1 new jobs this batch:**
+- Boeing: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Boeing** | USA - Berkeley, MO | Entry - Level Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry---Level-Software-Engineer_JR2026519286-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-20 11:31:59
 
 📊 **1 new jobs this batch:**
