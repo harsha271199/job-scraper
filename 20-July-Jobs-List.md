@@ -1,6 +1,35 @@
 # 📢 Job Listings for Harsha — July 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-20 20:57:20
+
+📊 **11 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- CrowdStrike: 1 job
+- General Motors: 1 job
+- Hadrian: 3 jobs
+- Lyft: 1 job
+- Northrop Grumman: 2 jobs
+- Salesforce: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Hadrian** | Los Angeles, CA | Machine Learning Engineer - LLMs | [Apply](https://jobs.ashbyhq.com/hadrian-automation/9675f96c-f161-444e-8d97-14690fbe5ab9) | 2026-07-20T20:21:16.414+00:00 |
+| **Hadrian** | Los Angeles, CA | Machine Learning Engineer - Vision | [Apply](https://jobs.ashbyhq.com/hadrian-automation/94970f47-f88e-4e71-90ae-0e52b1d75c6b) | 2026-07-20T20:25:25.416+00:00 |
+| **Hadrian** | Los Angeles, CA | Machine Learning Engineer - Multimodal | [Apply](https://jobs.ashbyhq.com/hadrian-automation/6dd23bb6-8db1-4f1d-9d52-616b7fa12c22) | 2026-07-20T20:23:32.452+00:00 |
+| **Lyft** | San Francisco, CA | ML Software Engineer, ETA | [Apply](https://app.careerpuck.com/job-board/lyft/job/8639200002?gh_jid=8639200002) | 2026-07-20T16:55:30-04:00 |
+| **Booz Allen Hamilton** | Aurora, CO | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0239232) | Posted Today |
+| **CrowdStrike** | USA - Remote, NY | SDET III (Hybrid, NYC) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-NY/Backend-Engineer-III--Hybrid--NYC-_R28991) | Posted Today |
+| **General Motors** | Milford, Michigan, United States of America | Software Developer - Virtualization and SIL Integration | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Developer---Virtualization-and-SIL-Integration_JR-202610792) | Posted Today |
+| **Northrop Grumman** | United States-New York-Rome | Associate Cloud Engineer/ Cloud Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-New-York-Rome/Associate-Cloud-Engineer--Cloud-Engineer_R10241192) | Posted Today |
+| **Northrop Grumman** | United States-Ohio-Wright-Patterson AFB | Associate Cloud Engineer/ Cloud Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Associate-Cloud-Engineer--Cloud-Engineer_R10241188) | Posted Today |
+| **Salesforce** | Washington - Bellevue | Software Engineering SMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-SMTS_JR352082-1) | Posted Today |
+| **Salesforce** | Washington - Bellevue | Software Engineering LMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR352081) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-20 19:20:02
 
 📊 **9 new jobs this batch:**
