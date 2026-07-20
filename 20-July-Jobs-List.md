@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-20 22:43:44
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Broadcom: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Zoox** | Foster City, CA | Part-Time Student Worker - Data Analyst | [Apply](https://jobs.lever.co/zoox/5e03b357-0cc1-4194-9488-14f85044f4f9) | 2026-07-20 21:28 |
+| **Booz Allen Hamilton** | Alexandria, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0241528) | Posted Today |
+| **Broadcom** | USA-TX Plano Legacy Drive Suite 700 | Mainframe Cybersecurity Software Engineer (ICB 5) | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Mainframe-Cybersecurity-Software-Engineer--ICB-5-_R026564-4) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-20 21:55:53
 
 📊 **7 new jobs this batch:**
