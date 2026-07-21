@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — July 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-21 18:06:07
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Comcast: 1 job
+- Northrop Grumman: 1 job
+- Snowflake: 1 job
+- Verkada: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Snowflake** | US-CA-Menlo Park | Software Engineer | [Apply](https://jobs.ashbyhq.com/snowflake/74466b25-9cc8-4e9b-b60b-234c539c455c) | 2026-07-21T17:11:13.768+00:00 |
+| **Verkada** | San Mateo, CA United States | Backend Engineer, Alarms | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5191604007) | 2026-07-21T13:52:52-04:00 |
+| **Booz Allen Hamilton** | El Segundo, CA | Machine Learning Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Artificial-Intelligence-Solutions-Engineer_R0244683-1) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Agentic AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Agentic-AI-Engineer_R0244896) | Posted Today |
+| **Comcast** | PA - Philadelphia, 1701 John F Kennedy Blvd | Engineer 2, Data Engineering | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---Philadelphia-1701-John-F-Kennedy-Blvd/Engineer-2--Data-Engineering_R441285-1) | Posted Today |
+| **Northrop Grumman** | United States-Utah-Corinne | 2026 Associate Data Scientist/Data Scientist - Promontory UT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Corinne/XMLNAME-2026-Associate-Data-Scientist-Data-Scientist---Promontory-UT_R10241351) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-21 16:11:49
 
 📊 **9 new jobs this batch:**
