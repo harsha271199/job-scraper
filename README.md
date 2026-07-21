@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-21 22:42:17
+
+📊 **1 new jobs this batch:**
+- Mastercard: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Mastercard** | O'Fallon, Missouri | Software Engineer I | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-278868) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-21 21:51:01
 
 📊 **5 new jobs this batch:**
