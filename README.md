@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — July 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-21 16:11:49
+
+📊 **9 new jobs this batch:**
+- Asana: 1 job
+- Booz Allen Hamilton: 3 jobs
+- CVS Health: 1 job
+- MongoDB: 1 job
+- OpenAI: 1 job
+- Salesforce: 1 job
+- Whoop: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Research Scientist - Human Alignment, Consumer Devices | [Apply](https://jobs.ashbyhq.com/openai/09253a0e-a2b8-49d1-80bb-6955ba3b08a3) | 2026-07-21T15:27:05.038+00:00 |
+| **Asana** | New York City | Software Engineer, AI Developer Experience | [Apply](https://www.asana.com/jobs/apply/7964275?gh_jid=7964275) | 2026-07-21T11:45:20-04:00 |
+| **MongoDB** | New York City | Software Engineer 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8069776) | 2026-07-21T10:57:33-04:00 |
+| **Whoop** | Boston, MA | Data Scientist, Product | [Apply](https://jobs.lever.co/whoop/3a8a3fab-cab2-4206-997d-2e2b619bae37) | 2026-07-21 15:29 |
+| **Booz Allen Hamilton** | Chantilly, VA | DevOps Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Cloud-Engineer_R0244922-1) | Posted Today |
+| **Booz Allen Hamilton** | Honolulu, HI | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Scientist--Mid_R0244946) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0244889) | Posted Today |
+| **CVS Health** | CT - Hartford | AI/LLM Engineer | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/AI-LLM-Engineer_R0976638) | Posted Today |
+| **Salesforce** | Washington - Bellevue | Software Engineer, MTS, Enterprise Security, Identity & Access Management | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineer--MTS--Enterprise-Security--Identity---Access-Management_JR352731) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-21 14:52:14
 
 📊 **7 new jobs this batch:**
