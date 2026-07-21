@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-21 23:45:21
+
+📊 **2 new jobs this batch:**
+- Anthropic: 1 job
+- New Relic: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY | [C] Data Engineer, Safeguards | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5247446008) | 2026-07-21T19:25:56-04:00 |
+| **New Relic** | Atlanta, Georgia, USA; Charleston, South Carolina, USA; Charlotte, North Carolina, USA; Chicago, Illinois, USA; Columbus, Ohio, USA; Dallas, Texas, USA; Denver, Colorado, USA; Detroit, Michigan, USA; Houston, Texas, USA; Indianapolis, Indiana, USA; Las Vegas, Nevada, USA; Madison, Wisconsin, USA; Orlando, Florida, USA; Phoenix, Arizona, USA; Pittsburgh, Pennsylvania, USA; Portland, Oregon, USA; Salt Lake City, Utah, USA; St. Louis, Missouri, USA | Associate Software Engineer- Infrastructure | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5294386008) | 2026-07-21T18:59:48-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-21 22:42:17
 
 📊 **1 new jobs this batch:**
