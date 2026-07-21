@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — July 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-21 21:51:01
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Motorola Solutions: 2 jobs
+- OpenAI: 1 job
+- Sierra: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, Product Engineering (Internal Apps) | [Apply](https://jobs.ashbyhq.com/openai/aeeabb7a-f6e0-4e8d-a9ad-ae3464288125) | 2026-07-21T21:37:09.484+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Agent - Travel & Hospitality | [Apply](https://jobs.ashbyhq.com/Sierra/e2d3e1f5-03cb-4e18-9f3d-a32f0bb6ff91) | 2026-07-21T20:39:56.904+00:00 |
+| **Booz Allen Hamilton** | Huntsville, AL | Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Data-Analyst--Mid_R0245026) | Posted Today |
+| **Motorola Solutions** | North Carolina, US Offsite | Sr Software Engineer, AI Agent Platform | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/North-Carolina-US-Offsite/Sr-Software-Engineer--AI-Agent-Platform_R66304) | Posted Today |
+| **Motorola Solutions** | Schaumburg, IL | Software Engineer II | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer-II_R66729) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-21 20:10:12
 
 📊 **11 new jobs this batch:**
