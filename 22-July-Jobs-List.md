@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 22, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-22 19:11:57
+
+📊 **3 new jobs this batch:**
+- Anthropic: 1 job
+- Fiserv: 1 job
+- Guidehouse: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY | Seattle, WA | People Research Scientist, Recruiting | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5362838008) | 2026-07-22T14:09:36-04:00 |
+| **Fiserv** | Alpharetta, Georgia | Data & ML Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Alpharetta-Georgia/Data---ML-Engineer_R-10398706) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Palantir Data Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Palantir-Data-Engineer_42342) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 22, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-22 17:59:30
 
 📊 **7 new jobs this batch:**
