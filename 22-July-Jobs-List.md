@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — July 22, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-22 20:51:38
+
+📊 **6 new jobs this batch:**
+- Esri: 1 job
+- Finch: 1 job
+- Handshake: 2 jobs
+- PayPal: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Handshake** | San Francisco, CA | Software Engineer, Handshake AI Enterprise | [Apply](https://jobs.ashbyhq.com/handshake/32f0d53c-5808-4b12-84ac-60e2bb9dd7ae) | 2026-05-04T21:27:33.007+00:00 |
+| **Handshake** | San Francisco, CA | Platform Engineer, Handshake AI Enterprise | [Apply](https://jobs.ashbyhq.com/handshake/51e41714-89e7-46a9-a242-6ca5ef2242b5) | 2026-05-04T21:27:37.811+00:00 |
+| **Esri** | Redlands, CA | Software Developer II - Indoor GIS AI and Reality | [Apply](https://www.esri.com/careers/5192404007?gh_jid=5192404007) | 2026-07-22T15:01:22-04:00 |
+| **xAI** | Palo Alto, California, United States | Software Engineer, Observability | [Apply](https://job-boards.greenhouse.io/xai/jobs/4803905007) | 2025-07-29T18:07:33-04:00 |
+| **Finch** | San Francisco, New York City | Product Analyst | [Apply](https://jobs.lever.co/finch/c94f2732-3307-4fe0-b021-8fc0fe6d341a) | 2026-07-22 19:36 |
+| **PayPal** | Scottsdale, Arizona, United States of America | Software Engineer 2 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer-2_R0137112) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 22, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-22 19:11:57
 
 📊 **3 new jobs this batch:**
