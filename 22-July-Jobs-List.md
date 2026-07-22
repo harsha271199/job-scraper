@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 22, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-22 21:53:53
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Motorola Solutions: 1 job
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Stripe** | San Francisco | Data Scientist, Core Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=8080614) | 2026-07-22T17:45:34-04:00 |
+| **Booz Allen Hamilton** | Washington, DC | AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-Engineer_R0244899) | Posted Today |
+| **Motorola Solutions** | Schaumburg, IL | Software Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer_R66351) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 22, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-22 20:51:38
 
 📊 **6 new jobs this batch:**
