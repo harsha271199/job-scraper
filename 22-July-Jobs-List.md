@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — July 22, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-22 22:48:26
+
+📊 **9 new jobs this batch:**
+- HP: 1 job
+- Palantir: 1 job
+- PayPal: 7 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Palantir** | Seattle, WA | Software Engineer - Edge AI Systems | [Apply](https://jobs.lever.co/palantir/67110929-adea-41c3-851a-8882e222d9e4) | 2026-07-22 22:12 |
+| **HP** | San Francisco, California, United States of America | Software Engineering Intern, Device Experiences | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Device-Experiences_3164166-1) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137155) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137156) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137153) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137154) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137152) | Posted Today |
+| **PayPal** | New York City, New York, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Software-Engineer_R0137150) | Posted Today |
+| **PayPal** | New York City, New York, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Software-Engineer_R0137149) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 22, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-22 21:53:53
 
 📊 **3 new jobs this batch:**
