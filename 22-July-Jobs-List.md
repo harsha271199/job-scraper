@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — July 22, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-22 17:59:30
+
+📊 **7 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Discord: 1 job
+- HP: 1 job
+- Spotify: 1 job
+- Stripe: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Discord** | San Francisco Bay Area | Software Engineer, Notifications | [Apply](https://job-boards.greenhouse.io/discord/jobs/8642220002) | 2026-07-22T12:11:06-04:00 |
+| **Stripe** | New York | Data Analyst, Financial Data Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=8070572) | 2026-07-22T12:55:09-04:00 |
+| **xAI** | Palo Alto, California, United States | Software Engineer - Evals | [Apply](https://job-boards.greenhouse.io/xai/jobs/5188230007) | 2026-07-22T13:45:07-04:00 |
+| **Spotify** | New York, NY | Research Scientist - Personalization | [Apply](https://jobs.lever.co/spotify/a8d3838e-01d8-457e-b21c-a5468c10a116) | 2026-04-17 16:27 |
+| **Booz Allen Hamilton** | Springfield, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Mid_R0245099) | Posted Today |
+| **Boeing** | USA - El Segundo, CA | Experienced Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---El-Segundo-CA/Experienced-Software-Engineer_JR2026519480-1) | Posted Today |
+| **HP** | San Francisco, California, United States of America | System Software Engineer - HP IQ | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/System-Software-Engineer---HP-IQ_3164764) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 22, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-22 16:11:26
 
 📊 **5 new jobs this batch:**
