@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — July 22, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-22 16:11:26
+
+📊 **5 new jobs this batch:**
+- Boeing: 1 job
+- HP: 1 job
+- OpenAI: 1 job
+- SpaceX: 1 job
+- Traba: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Research Engineer/Research Scientist, Personal AGI-Model Experience | [Apply](https://jobs.ashbyhq.com/openai/872ca3d0-c8c0-4585-9a34-7f9ed6b4dbf9) | 2026-07-22T15:54:35.536+00:00 |
+| **Traba** | New York City, NY | Software Engineer (New Grad) | [Apply](https://jobs.ashbyhq.com/traba/90d6307c-1bb1-4abf-8e73-7afa6a7e0a70) | 2025-11-17T18:05:35.698+00:00 |
+| **SpaceX** | Hawthorne, CA | Full Stack Software Engineer, Safety & Training  | [Apply](https://boards.greenhouse.io/spacex/jobs/8645132002?gh_jid=8645132002) | 2026-07-22T11:27:34-04:00 |
+| **Boeing** | USA - Berkeley, MO | Site Reliability Engineer (Associate or Experienced) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Site-Reliability-Engineer--Associate-or-Experienced-_JR2026519788-1) | Posted Today |
+| **HP** | Vancouver, Washington, United States of America | Print Supplies Big Data Analyst | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Print-Supplies-Big-Data-Analyst_3165759-2) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 22, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-22 14:51:34
 
 📊 **14 new jobs this batch:**
