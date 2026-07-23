@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 23, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-23 22:43:52
+
+📊 **2 new jobs this batch:**
+- Benchling: 1 job
+- Guidehouse: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Benchling** | San Francisco, CA | Software Engineer, Backend (Release Engineering) | [Apply](https://jobs.ashbyhq.com/benchling/70e672e0-b80b-4232-84cb-27406abfa689) | 2026-07-23T22:25:10.061+00:00 |
+| **Guidehouse** | US - Remote (Any location) | Databricks Data Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Databricks-Data-Analyst_42290) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 23, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-23 21:53:21
 
 📊 **6 new jobs this batch:**
