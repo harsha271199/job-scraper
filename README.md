@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — July 23, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-23 18:04:54
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Citi: 1 job
+- Oscar Health: 1 job
+- Pinterest: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Oscar Health** | New York, New York, United States | Analytics Engineer I | [Apply](http://www.hioscar.com/careers/7914958?gh_jid=7914958) | 2026-07-23T13:05:07-04:00 |
+| **Pinterest** | Palo Alto, CA, US; Remote, US | Data Scientist II, ML Infrastructure | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8071670) | 2026-07-23T13:52:41-04:00 |
+| **Zoox** | Foster City, CA | Machine Learning Engineer - ML Agents and Planning | [Apply](https://jobs.lever.co/zoox/d736debf-c361-4a7c-81fd-6c3125ab03c0) | 2026-07-23 04:48 |
+| **Booz Allen Hamilton** | Fayetteville, NC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0245188-1) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevOps-Engineer_R0238680) | Posted Today |
+| **Citi** | Irving Texas United States | Digital Software Engineer Angular | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Digital-S-W-Eng-Sr-Analyst---C12---IRVING_26973831) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 23, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-23 16:22:09
 
 📊 **4 new jobs this batch:**
