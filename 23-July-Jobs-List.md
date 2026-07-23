@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 23, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-23 20:05:22
+
+📊 **3 new jobs this batch:**
+- General Motors: 1 job
+- Handshake: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Handshake** | San Francisco, CA | Software Engineer II | [Apply](https://jobs.ashbyhq.com/handshake/9a93ec72-d396-4971-8d4c-222094f9c5a3) | 2026-07-23T19:45:23.833+00:00 |
+| **OpenAI** | San Francisco | Software Engineer, Privacy Engineering (Lawful Access)  | [Apply](https://jobs.ashbyhq.com/openai/a0ccedf1-2bb7-4f10-8be8-db50f9ae02c3) | 2026-07-23T18:43:09.820+00:00 |
+| **General Motors** | Austin, Texas, United States of America | Software Engineer | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Austin-Texas-United-States-of-America/Software-Engineer_JR-202614348) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 23, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-23 18:04:54
 
 📊 **6 new jobs this batch:**
