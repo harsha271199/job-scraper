@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — July 23, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-23 21:53:21
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Citi: 1 job
+- HP: 1 job
+- Medtronic: 1 job
+- Qualtrics: 1 job
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Qualtrics** | Seattle, Washington,  United States | Machine Learning Engineer II | [Apply](https://www.qualtrics.com/careers/us/en/job/8003475?gh_jid=8003475) | 2026-06-15T13:16:04-04:00 |
+| **Twilio** | Remote - US | Software Engineer (L2) Email | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7689461) | 2026-07-23T16:53:32-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Platform DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Platform-DevOps-Engineer_R0245223) | Posted Today |
+| **Citi** | Irving Texas United States | Junior Generative AI Application Developer | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Junior-Generative-AI-Application-Developer_26962476) | Posted Today |
+| **HP** | All Cities, Texas, United States of America | Data Analytics and Cloud Engineer - Military Bridge | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/All-Cities-Texas-United-States-of-America/Data-Analytics-and-Cloud-Engineer---Military-Bridge_3166463-1) | Posted Today |
+| **Medtronic** | Boxborough, Massachusetts, United States of America | Sr Software Engineer - Boxborough, MA | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Boxborough-Massachusetts-United-States-of-America/Sr-Software-Engineer---Boxborough--MA_R72596-2) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 23, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-23 20:05:22
 
 📊 **3 new jobs this batch:**
