@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — July 23, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-23 16:22:09
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Guidehouse: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Chantilly, VA | AI/ML Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-ML-Engineer--Mid_R0245169) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Developer--Senior_R0244424) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Data Engineer (IE / Ops Research) | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Data-Engineer--IE---Ops-Research-_42387) | Posted Today |
+| **Salesforce** | Indiana - Indianapolis | Software Engineering MTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Indiana---Indianapolis/Software-Engineering-MTS_JR352343) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 23, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-23 14:57:57
 
 📊 **8 new jobs this batch:**
