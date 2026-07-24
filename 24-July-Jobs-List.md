@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-24 23:51:31
+
+📊 **3 new jobs this batch:**
+- Anthropic: 1 job
+- Handshake: 1 job
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Handshake** | San Francisco, CA | Applied AI Engineer, Handshake AI Enterprise | [Apply](https://jobs.ashbyhq.com/handshake/b777e140-6ccd-44e6-9709-5a43c4b1ca7a) | 2026-05-19T12:41:22.147+00:00 |
+| **Anthropic** | San Francisco, CA | New York City, NY | Research Scientist, Takeoff Intel | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5370669008) | 2026-07-24T19:31:13-04:00 |
+| **Nvidia** | US, WA, Seattle | Research Scientist, Robotics Research -  PhD New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Seattle/Research-Scientist--Robotics-Research----PhD-New-College-Grad-2026_JR2011473) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-24 22:49:09
 
 📊 **4 new jobs this batch:**
