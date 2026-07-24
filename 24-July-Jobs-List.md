@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — July 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-24 14:31:00
+
+📊 **7 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 3 jobs
+- Medtronic: 2 jobs
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Twilio** | Remote - US | Software Engineer (L2) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7946610) | 2026-07-24T10:02:19-04:00 |
+| **Boeing** | USA - Richardson, TX | Software Engineer–Developer (Associate and Mid-Level) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Software-Engineer-Developer--Associate-and-Mid-Level-_JR2026512419-1) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | DevOps Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0245245) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | DevOps Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0245243) | Posted Today |
+| **Booz Allen Hamilton** | Roseville, CA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Roseville-CA/Software-Engineer_R0238409) | Posted Today |
+| **Medtronic** | Lafayette, Colorado, United States of America | Prin Software Engineer | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Prin-Software-Engineer_R62027-1) | Posted Today |
+| **Medtronic** | Lafayette, Colorado, United States of America | Software Engineer I (AI-Driven Data Solutions) - Lafayette, CO | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Software-Engineer-I--AI-Driven-Data-Solutions----Lafayette--CO_R72435-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-24 10:03:29
 
 📊 **2 new jobs this batch:**
