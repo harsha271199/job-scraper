@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — July 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-24 18:08:41
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- General Motors: 1 job
+- Pinterest: 1 job
+- Verkada: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Pinterest** | Toronto, ON, CA | Software Engineer II, tvScientific | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=7782535) | 2026-07-24T13:07:53-04:00 |
+| **Verkada** | San Mateo, CA United States | Backend Engineer - Connectivity | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5194598007) | 2026-07-24T13:18:48-04:00 |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0245282) | Posted Today |
+| **General Motors** | Warren, Michigan, United States of America | Data Analyst | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Analyst_JR-202615362) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-24 14:31:00
 
 📊 **7 new jobs this batch:**
