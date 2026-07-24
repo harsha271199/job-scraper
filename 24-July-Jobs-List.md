@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — July 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-24 10:03:29
+
+📊 **2 new jobs this batch:**
+- Affirm: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Affirm** | Remote Spain | Software Engineer II, Backend (Collections) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7813157003) | 2026-07-24T05:37:02-04:00 |
+| **Affirm** | Remote Poland | Software Engineer II, Backend (Collections) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7813159003) | 2026-07-24T05:37:03-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-24 01:18:03
 
 📊 **2 new jobs this batch:**
