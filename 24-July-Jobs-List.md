@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — July 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-24 21:51:51
+
+📊 **6 new jobs this batch:**
+- Northrop Grumman: 1 job
+- OpenAI: 2 jobs
+- SpaceX: 1 job
+- Stripe: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Data Scientist, GTM | [Apply](https://jobs.ashbyhq.com/openai/584fc51a-1107-457c-b499-a94fe5ef02b4) | 2026-07-24T21:39:48.970+00:00 |
+| **OpenAI** | San Francisco | Data Engineer, CPU & Storage | [Apply](https://jobs.ashbyhq.com/openai/0c0fe7aa-24fb-4bad-aa30-3f68f1418e37) | 2026-07-24T20:44:16.847+00:00 |
+| **SpaceX** | Hawthorne, CA | Production Engineer, Site Reliability (Application Software) | [Apply](https://boards.greenhouse.io/spacex/jobs/8649729002?gh_jid=8649729002) | 2026-07-24T16:11:09-04:00 |
+| **Stripe** | Chicago, IL  | Backend Engineer, Credit Decisions  | [Apply](https://stripe.com/jobs/search?gh_jid=8084195) | 2026-07-24T16:10:18-04:00 |
+| **Stripe** | South San Francisco, California | Software Engineer - Full Stack | [Apply](https://stripe.com/jobs/search?gh_jid=8084193) | 2026-07-24T16:10:08-04:00 |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer - Level 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-4_R10242249) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-24 20:08:13
 
 📊 **5 new jobs this batch:**
