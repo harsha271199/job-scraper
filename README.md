@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — July 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-24 22:49:09
+
+📊 **4 new jobs this batch:**
+- Guidehouse: 1 job
+- Samsara: 1 job
+- Woven by Toyota: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Samsara** | Remote - SF Bay Area | Sr. Software Engineer II, AI Platform | [Apply](https://www.samsara.com/company/careers/roles/8050373?gh_jid=8050373) | 2026-07-24T18:28:46-04:00 |
+| **Woven by Toyota** | Ann Arbor, MI | Software Engineer - Data Workflows | [Apply](https://jobs.lever.co/woven-by-toyota/ba39a024-c4c3-4966-a696-95db0e1dc445) | 2026-07-24 20:58 |
+| **Zoox** | Foster City, CA | Software Engineer, Fleet Simulation (Core Data Science) | [Apply](https://jobs.lever.co/zoox/18b6dfa0-d581-4d29-ac79-5d6e666aa9c3) | 2026-07-24 22:20 |
+| **Guidehouse** | US - VA, McLean | Software Developer (Java / ETL) | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Software-Developer--Java---ETL-_42464) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-24 21:51:51
 
 📊 **6 new jobs this batch:**
