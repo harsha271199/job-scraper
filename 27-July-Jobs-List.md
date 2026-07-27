@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — July 27, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-27 15:34:18
+
+📊 **8 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Flatiron Health: 1 job
+- Intel: 1 job
+- Motorola Solutions: 1 job
+- Northrop Grumman: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Data Scientist, Inference Capacity Optimization | [Apply](https://jobs.ashbyhq.com/openai/4948533f-1df6-49f7-af9e-a2da0e02ebca) | 2026-07-27T13:57:42.767+00:00 |
+| **Flatiron Health** | NY office  | Data Analyst - Product Data Science | [Apply](https://flatiron.com/careers/open-positions/job?gh_jid=7855302) | 2026-05-19T13:16:19-04:00 |
+| **Booz Allen Hamilton** | Suffolk, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Data-Scientist_R0245322) | Posted Today |
+| **Booz Allen Hamilton** | Suffolk, VA | Model and Simulation Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Model-and-Simulation-Software-Engineer_R0245332) | Posted Today |
+| **Booz Allen Hamilton** | Quantico, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/DevOps-Engineer_R0245224) | Posted Today |
+| **Intel** | US, California, Santa Clara | Development Tools Software Engineer | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Development-Tools-Software-Engineer_JR0285054) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | 2027 Returning Intern Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Returning-Intern-Software-Engineer_R10242378) | Posted Today |
+| **Motorola Solutions** | Chicago, IL | Software Engineering | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Software-Engineering_R66217) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 27, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-27 12:47:08
 
 📊 **1 new jobs this batch:**
