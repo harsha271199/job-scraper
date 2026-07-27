@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 27, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-27 22:00:30
+
+📊 **2 new jobs this batch:**
+- Graphite: 1 job
+- Palantir: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Graphite** | New York City, New York | Software Engineer, Origin | [Apply](https://jobs.ashbyhq.com/graphite/c1c39a52-543c-4c50-aee3-43d24214d7cd) | 2026-04-18T12:08:34.286+00:00 |
+| **Palantir** | Washington, D.C. | Forward Deployed Site Reliability Engineer - US Government | [Apply](https://jobs.lever.co/palantir/a194220b-684a-4b4e-b918-1f70154b464c) | 2025-05-29 22:37 |
+
+---
+# 📢 Job Listings for Harsha — July 27, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-27 20:58:30
 
 📊 **6 new jobs this batch:**
