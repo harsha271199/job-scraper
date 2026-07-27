@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — July 27, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-27 20:58:30
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Northrop Grumman: 1 job
+- OpenAI: 2 jobs
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Data Scientist, GTM Intelligence | [Apply](https://jobs.ashbyhq.com/openai/3b70ebc9-9d9a-4930-ad7b-52c9229f6a52) | 2026-07-27T19:35:17.837+00:00 |
+| **OpenAI** | San Francisco | Software Engineer - Data Aquisition (systems) | [Apply](https://jobs.ashbyhq.com/openai/70aaaafa-fe2f-4409-9a72-c0faf50d7d01) | 2026-07-27T20:24:02.974+00:00 |
+| **Booz Allen Hamilton** | Shaw AFB, SC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Shaw-AFB-SC/Data-Scientist_R0245391) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | AI and ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/AI-and-ML-Engineer_R0245368) | Posted Today |
+| **Northrop Grumman** | United States-Remote | Software Engineer - System Infrastructure Engineering | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Remote/Software-Engineer---System-Infrastructure-Engineering_R10242489) | Posted Today |
+| **Salesforce** | Washington - Bellevue | Software Engineering SMTS, Enterprise IAM | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-SMTS--Enterprise-IAM_JR353197) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 27, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-27 19:06:01
 
 📊 **9 new jobs this batch:**
