@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — July 27, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-27 19:06:01
+
+📊 **9 new jobs this batch:**
+- CLEAR: 1 job
+- Cox Enterprises: 1 job
+- Flir: 1 job
+- Morgan Stanley: 1 job
+- Northrop Grumman: 4 jobs
+- Verkada: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **CLEAR** | New York, NY, United States  | Machine Learning Engineer II | [Apply](https://job-boards.greenhouse.io/clear/jobs/8070543) | 2026-07-27T14:30:45-04:00 |
+| **Verkada** | San Mateo, CA United States | Software Engineer - Computer Vision | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5195995007) | 2026-07-27T13:40:21-04:00 |
+| **Cox Enterprises** | Austin TX | Software Engineer I - 18525 | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-I---18525_R202680328) | Posted Today |
+| **Flir** | US - Goleta, CA | ATE Software Engineer (C# Development) | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Goleta-CA/Test-Engineer_REQ29265) | Posted Today |
+| **Northrop Grumman** | United States-Utah-Roy | Platform Software Engineer - 19311 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Platform-Software-Engineer---19311_R10242383) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Colorado Springs | Software Engineer - Level 2 or 3 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-2-or-3_R10239772) | Posted Today |
+| **Northrop Grumman** | United States-Utah-Roy | Platform Software Engineer - 19312 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Platform-Software-Engineer---19312_R10242424) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Colorado Springs | Software Engineer - Level 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer---Level-4_R10239773) | Posted Today |
+| **Morgan Stanley** | Dallas, Texas, United States of America | Data Scientist (NLP and GenAI Specialist) | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Dallas-Texas-United-States-of-America/Data-Scientist--NLP-and-GenAI-Specialist-_JR040314) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 27, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-27 17:26:24
 
 📊 **7 new jobs this batch:**
