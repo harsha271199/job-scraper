@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 27, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-27 23:01:49
+
+📊 **2 new jobs this batch:**
+- Benchling: 1 job
+- Block: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Benchling** | San Francisco, CA | Software Engineer, Registry and Inventory | [Apply](https://jobs.ashbyhq.com/benchling/2ff50609-1843-49c0-aa39-36d84aa14802) | 2026-07-27T21:59:52.234+00:00 |
+| **Block** | Bay Area, CA, United States of America | Software Engineer, Reconciliation & Reporting | [Apply](http://block.xyz/careers/jobs/5369941008?gh_jid=5369941008) | 2026-07-27T18:50:13-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 27, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-27 22:00:30
 
 📊 **2 new jobs this batch:**
