@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — July 28, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-28 17:15:05
+
+📊 **9 new jobs this batch:**
+- Booz Allen Hamilton: 4 jobs
+- Citi: 1 job
+- Esri: 1 job
+- OpenAI: 1 job
+- SpaceX: 1 job
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, Enterprise Verticals | [Apply](https://jobs.ashbyhq.com/openai/3229b152-015f-49ad-9921-9c9de95570c8) | 2026-07-28T16:57:21.964+00:00 |
+| **SpaceX** | Redmond, WA | Software Engineer, Power Optimization (Starlink)  | [Apply](https://boards.greenhouse.io/spacex/jobs/8647459002?gh_jid=8647459002) | 2026-07-28T11:58:05-04:00 |
+| **Esri** | Redlands, CA | Spatial Data Engineer I | [Apply](https://www.esri.com/careers/5195914007?gh_jid=5195914007) | 2026-07-28T11:15:50-04:00 |
+| **Booz Allen Hamilton** | Tampa, FL | Data Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Data-Engineer--Mid_R0245461) | Posted Today |
+| **Booz Allen Hamilton** | Aurora, CO | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0245493) | Posted Today |
+| **Booz Allen Hamilton** | Wharton, NJ | AI/ML Engineer, Junior | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/AI-ML-Engineer--Junior_R0245456) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Human Capital Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0245427) | Posted Today |
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | Banamex-Machine Learning Engineering | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Machine-Learning-Engineering_26973810-1) | Posted Today |
+| **Target** | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | Sr Applied Data Scientist - RecSys (applied ML, PyTorch, ML Ops) | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---Item-Recommendations--applied-ML--PyTorch--ML-Ops-_R0000441173) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 28, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-28 15:08:54
 
 📊 **3 new jobs this batch:**
