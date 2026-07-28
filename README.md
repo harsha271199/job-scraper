@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — July 28, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-28 20:55:01
+
+📊 **5 new jobs this batch:**
+- Citi: 1 job
+- Guidehouse: 2 jobs
+- PayPal: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Hawthorne, CA | Business Analyst (Starlink Growth Demand Planning) | [Apply](https://boards.greenhouse.io/spacex/jobs/8650057002?gh_jid=8650057002) | 2026-07-28T16:00:44-04:00 |
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | Banamex- RSK/ Credit Consumer Risk Business Intelligence | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex--RSK--Credit-Consumer-Risk-Business-Intelligence_26981730) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Databricks Data Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Databricks-Data-Engineer_42292-1) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Databricks Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Databricks-Data-Scientist_42293) | Posted Today |
+| **PayPal** | Austin, Texas, United States of America | Sr Software Engineer - Cloud Infrastructure and Devops | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer---Cloud-Infrastructure-and-Devops_R0136772-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 28, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-28 19:01:34
 
 📊 **9 new jobs this batch:**
