@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 28, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-28 21:53:12
+
+📊 **3 new jobs this batch:**
+- Adobe: 1 job
+- Broadcom: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Adobe** | San Francisco | Machine Learning Engineer | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Francisco/Machine-Learning-Engineer_R170754-1) | Posted Today |
+| **Broadcom** | USA-Pennsylvania-Breinigsville-9999 Hamilton Blvd | MES Software Engineer/Data Analyst | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-Pennsylvania-Breinigsville-9999-Hamilton-Blvd/MES-Software-Engineer-Data-Analyst_R026173) | Posted Today |
+| **Northrop Grumman** | United States-Utah-Roy | Sentinel Associate / Software Engineer  - 19232 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/Sentinel-Associate---Software-Engineer----19232_R10242757) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 28, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-28 20:55:01
 
 📊 **5 new jobs this batch:**
