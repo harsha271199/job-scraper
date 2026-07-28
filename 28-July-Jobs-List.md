@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 28, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-28 15:08:54
+
+📊 **3 new jobs this batch:**
+- Flir: 1 job
+- Medtronic: 1 job
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Flir** | US - Falls Church, VA - CS | Data Scientist | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Falls-Church-VA---CS/Data-Scientist_REQ35960) | Posted Today |
+| **Medtronic** | Fridley, Minnesota, United States of America | Full Stack Cloud Software Engineer II | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Fridley-Minnesota-United-States-of-America/Full-Stack-Cloud-Software-Engineer-II_R71118-1) | Posted Today |
+| **Workday** | USA.VA.Reston | Software Development Engineer, SRE (US Federal) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--SRE--US-Federal-_JR-0108467) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 28, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-28 12:28:27
 
 📊 **1 new jobs this batch:**
