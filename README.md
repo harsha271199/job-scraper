@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 28, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-28 12:28:27
+
+📊 **1 new jobs this batch:**
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Northrop Grumman** | United States-Virginia-Dulles | Graphics Simulation Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Graphics-Simulation-Software-Engineer_R10242581) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 28, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-28 04:50:15
 
 📊 **1 new jobs this batch:**
