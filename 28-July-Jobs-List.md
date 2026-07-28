@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 28, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-28 23:46:52
+
+📊 **2 new jobs this batch:**
+- Alteryx: 1 job
+- Mastercard: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Alteryx** | US - Remote | AI Platform Engineer | [Apply](https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/US---Remote/AI-Platform-Engineer_R12336) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-284379) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 28, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-28 22:47:23
 
 📊 **5 new jobs this batch:**
