@@ -1,6 +1,30 @@
 # 📢 Job Listings for Harsha — July 28, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-28 19:01:34
+
+📊 **9 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Crusoe: 2 jobs
+- Northrop Grumman: 3 jobs
+- Ramp: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Crusoe** | San Francisco, CA - US | Software Engineer, Storage | [Apply](https://jobs.ashbyhq.com/crusoe/4f5d34ed-0c05-4eec-b8f8-14663e114b02) | 2026-07-28T17:16:20.211+00:00 |
+| **Crusoe** | San Francisco, CA - US | Software Engineer II, Crusoe Container Registry | [Apply](https://jobs.ashbyhq.com/crusoe/a212b163-5f6b-42d6-9e93-5578ccb869df) | 2026-07-28T17:28:00.625+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineer, AI Solutions | [Apply](https://jobs.ashbyhq.com/ramp/b614563f-3ce6-4dca-b5ba-0e5a6c8bda27) | 2026-07-28T17:56:57.225+00:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Business-Analyst_R0245517) | Posted Today |
+| **Booz Allen Hamilton** | Beavercreek, OH | Realtime Data Analytics Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Realtime-Data-Analytics-Engineer_R0245465) | Posted Today |
+| **Booz Allen Hamilton** | Tampa, FL | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Tampa-FL/Data-Scientist_R0245472) | Posted Today |
+| **Northrop Grumman** | United States-California-Northridge | Software Engineer Level 2 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/Software-Engineer-Level-2--AHT-_R10242698) | Posted Today |
+| **Northrop Grumman** | United States-Ohio-Cincinnati | Cyber Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/Cyber-Software-Engineer_R10242662) | Posted Today |
+| **Northrop Grumman** | United States-California-San Diego | Software Engineer - User Experience Applications | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer---User-Experience-Applications_R10242412) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 28, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-28 17:15:05
 
 📊 **9 new jobs this batch:**
