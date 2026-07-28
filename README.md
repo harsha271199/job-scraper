@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — July 28, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-28 22:47:23
+
+📊 **5 new jobs this batch:**
+- Airbnb: 1 job
+- Benchling: 1 job
+- Booz Allen Hamilton: 1 job
+- Citi: 1 job
+- Snowflake: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Benchling** | San Francisco, CA | Software Engineer, Agents | [Apply](https://jobs.ashbyhq.com/benchling/c66a06b7-5d9e-4b6c-b35b-12c86bb72a71) | 2026-07-28T22:10:10.705+00:00 |
+| **Snowflake** | US-CA-Menlo Park | Software Engineer - Database Engineering | [Apply](https://jobs.ashbyhq.com/snowflake/db1375f0-ea5d-404a-b640-259f94dbc995) | 2026-07-28T22:20:47.028+00:00 |
+| **Airbnb** | United States | Software Engineer, Biztech Client and Identity | [Apply](https://careers.airbnb.com/positions/8093038?gh_jid=8093038) | 2026-07-28T17:54:05-04:00 |
+| **Booz Allen Hamilton** | MacDill AFB, FL | Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Analyst--Mid_R0245563-1) | Posted Today |
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | Banamex Analista Business Intelligence CDMX | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Analista-Business-Intelligence-CDMX_26981198) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 28, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-28 21:53:12
 
 📊 **3 new jobs this batch:**
