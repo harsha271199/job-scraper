@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — July 29, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-29 20:05:44
+
+📊 **8 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Nvidia: 1 job
+- SpaceX: 6 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Redmond, WA | Full Stack Software Engineer, Data (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8656465002?gh_jid=8656465002) | 2026-07-29T12:18:33-04:00 |
+| **SpaceX** | Redmond, WA | Software Engineer, CDN (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8632172002?gh_jid=8632172002) | 2026-07-29T12:45:00-04:00 |
+| **SpaceX** | Palo Alto, CA | Software Engineer, CDN (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8656579002?gh_jid=8656579002) | 2026-07-29T12:46:32-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer, Data (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8631217002?gh_jid=8631217002) | 2026-07-29T12:18:34-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer, Telemetry (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8631930002?gh_jid=8631930002) | 2026-07-29T12:31:30-04:00 |
+| **SpaceX** | Redmond, WA | Software Engineer, Telemetry (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8656526002?gh_jid=8656526002) | 2026-07-29T12:31:31-04:00 |
+| **Booz Allen Hamilton** | Dayton, OH | AI and ML Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/AI-and-ML-Engineer--Mid_R0245636) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Software Engineer, CAD Automation | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--CAD-Automation_JR2019252) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 29, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-29 18:46:41
 
 📊 **10 new jobs this batch:**
