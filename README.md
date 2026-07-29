@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 29, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-29 22:44:43
+
+📊 **1 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0245622) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 29, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-29 21:44:12
 
 📊 **8 new jobs this batch:**
