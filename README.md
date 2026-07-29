@@ -1,6 +1,30 @@
 # 📢 Job Listings for Harsha — July 29, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-29 21:44:12
+
+📊 **8 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 3 jobs
+- Mastercard: 1 job
+- Northrop Grumman: 2 jobs
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Boeing** | USA - El Segundo, CA | Entry-level Software Engineer–Developers | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---El-Segundo-CA/Entry-level-Software-Engineer-Developers_JR2026518452-1) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Agentic AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Agentic-AI-Engineer_R0245274) | Posted Today |
+| **Booz Allen Hamilton** | Fort Meade, MD | AI Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Data-Scientist_R0245653) | Posted Today |
+| **Booz Allen Hamilton** | Fort Belvoir, VA | Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Platform-Engineer_R0245675) | Posted Today |
+| **Mastercard** | Arlington, Virginia | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II_R-278530) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Colorado Springs | Software Engineer (26-360) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer--26-360-_R10242804) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer (26-359) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer--26-359-_R10242803-1) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering SMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR351490) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 29, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-29 20:05:44
 
 📊 **8 new jobs this batch:**
