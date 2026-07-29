@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 29, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-29 12:53:03
+
+📊 **1 new jobs this batch:**
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Twilio** | Remote - India | Software Engineer L3 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8079801) | 2026-07-29T08:24:00-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 29, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-29 07:36:04
 
 📊 **2 new jobs this batch:**
