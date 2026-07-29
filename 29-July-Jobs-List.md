@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — July 29, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-29 18:46:41
+
+📊 **10 new jobs this batch:**
+- Amgen: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 3 jobs
+- Comcast: 1 job
+- Grafana Labs: 4 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Grafana Labs** | Republic of Ireland (Remote) | Backend Engineer - Platform - Stacks | Ireland | Remote | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999669004) | 2026-05-19T08:17:09-04:00 |
+| **Grafana Labs** | Spain (Remote) | Backend Engineer - Platform - Stacks | Spain | Remote | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999670004) | 2026-05-19T08:14:06-04:00 |
+| **Grafana Labs** | Sweden (Remote) | Backend Engineer - Platform - Stacks | Sweden | Remote | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999672004) | 2026-05-19T08:15:34-04:00 |
+| **Grafana Labs** | United Kingdom (Remote) | Backend Engineer - Platform - Stacks | UK | Remote | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/5999673004) | 2026-05-19T08:14:47-04:00 |
+| **Amgen** | United States - Remote | Machine Learning Engineer | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Machine-Learning-Engineer_R-250804) | Posted Today |
+| **Boeing** | USA - El Segundo, CA | Experienced Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---El-Segundo-CA/Experienced-Software-Engineer_JR2026520545-1) | Posted Today |
+| **Booz Allen Hamilton** | Bethesda, MD | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Data-Engineer_R0245442) | Posted Today |
+| **Booz Allen Hamilton** | Bethesda, MD | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Data-Engineer_R0245444) | Posted Today |
+| **Booz Allen Hamilton** | Bethesda, MD | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Data-Scientist_R0245439) | Posted Today |
+| **Comcast** | VA - Reston, 11951 Freedom Dr Ste 900 | Software Engineer 3 - FreeWheel | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-3---FreeWheel_R441946-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 29, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-29 17:01:16
 
 📊 **9 new jobs this batch:**
