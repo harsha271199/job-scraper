@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-30 22:54:04
+
+📊 **3 new jobs this batch:**
+- Discord: 1 job
+- Fiserv: 1 job
+- SoFi: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Discord** | San Francisco Bay Area | Data Engineer | [Apply](https://job-boards.greenhouse.io/discord/jobs/8614971002) | 2026-07-30T18:53:02-04:00 |
+| **SoFi** | CA - San Francisco; WA - Seattle; UT - Cottonwood Heights | Data Analyst, Pricing | [Apply](https://sofi.com/careers/job/7820964003?gh_jid=7820964003) | 2026-07-30T18:51:28-04:00 |
+| **Fiserv** | Sunnyvale, California | SDET | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/SDET_R-10399523) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-30 21:55:35
 
 📊 **8 new jobs this batch:**
