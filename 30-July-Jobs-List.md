@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — July 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-30 18:07:27
+
+📊 **7 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Coinbase: 1 job
+- Databricks: 1 job
+- Mastercard: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Coinbase** | Remote - India | Machine Learning Engineer | [Apply](https://www.coinbase.com/careers/positions/7985187?gh_jid=7985187) | 2026-06-22T15:16:53-04:00 |
+| **Databricks** | United States | AI Engineer — GTM Analytics | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8638847002) | 2026-07-30T13:59:18-04:00 |
+| **xAI** | Palo Alto, California, United States | Software Engineer - Data Platform | [Apply](https://job-boards.greenhouse.io/xai/jobs/4803862007) | 2025-07-29T18:05:33-04:00 |
+| **Booz Allen Hamilton** | Fort Belvoir, VA | Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Platform-Engineer_R0245680) | Posted Today |
+| **Booz Allen Hamilton** | Springfield, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Mid_R0245672) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer--Mid_R0245706-1) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II - Decision Management Program | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II---Decision-Management-Program_R-286598) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-30 16:22:33
 
 📊 **3 new jobs this batch:**
