@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — July 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-30 21:55:35
+
+📊 **8 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Mastercard: 1 job
+- OpenAI: 1 job
+- Roblox: 1 job
+- Salesforce: 1 job
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, GTM Growth Engineering | [Apply](https://jobs.ashbyhq.com/openai/1bb1f351-41a2-43a5-bac1-259859886cb3) | 2026-07-25T00:12:56.921+00:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, User Frameworks | [Apply](https://careers.roblox.com/jobs/8080438?gh_jid=8080438) | 2026-07-30T16:16:37-04:00 |
+| **Twilio** | Remote - US | Software Engineer (L2) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8097672) | 2026-07-30T17:08:53-04:00 |
+| **Booz Allen Hamilton** | Ashburn, VA | IT Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/IT-Business-Analyst_R0245750) | Posted Today |
+| **Booz Allen Hamilton** | Ashburn, VA | AI and ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/AI-and-ML-Engineer_R0245749) | Posted Today |
+| **Booz Allen Hamilton** | Honolulu, HI | Kafka Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Kafka-Data-Engineer_R0241130) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Data Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Data-Engineer-II_R-286580) | Posted Today |
+| **Salesforce** | New York - New York | Distributed Systems Software Engineer SMTS/LMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Distributed-Systems-Engineer-SMTS-LMTS_JR347084) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-30 20:09:54
 
 📊 **9 new jobs this batch:**
