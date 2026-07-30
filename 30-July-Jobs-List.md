@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — July 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-30 20:09:54
+
+📊 **9 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- CoreWeave: 1 job
+- Cox Enterprises: 1 job
+- Fiserv: 1 job
+- OpenAI: 2 jobs
+- Woven by Toyota: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Data Scientist, Ads Demand | [Apply](https://jobs.ashbyhq.com/openai/1eb32675-b1a0-4c0a-9b57-19ceab07e9e0) | 2026-07-30T18:22:51.171+00:00 |
+| **OpenAI** | San Francisco | Data Scientist, SMB Ads Growth  | [Apply](https://jobs.ashbyhq.com/openai/f5dfd3aa-3bf6-49e2-b780-0da281a21533) | 2026-07-30T18:24:32.929+00:00 |
+| **CoreWeave** | Bellevue, WA/ San Francisco, CA/  Sunnyvale, CA | Applied AI Engineer, Inference | [Apply](https://coreweave.com/careers/job?4663228006&board=coreweave&gh_jid=4663228006) | 2026-03-16T09:08:04-04:00 |
+| **Woven by Toyota** | Ann Arbor, MI | Software Engineer, Calibration (Analysis/Tool) | [Apply](https://jobs.lever.co/woven-by-toyota/e5ebcad9-b648-4d04-8c15-0d8dffb36190) | 2026-07-30 18:15 |
+| **Booz Allen Hamilton** | Dayton, OH | Full Stack Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Full-Stack-Software-Engineer--Mid_R0245713) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | Full-stack Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Full-stack-Software-Engineer--Mid_R0245707) | Posted Today |
+| **Cox Enterprises** | Long Island NY | Sr Software Engineer - Reliability Engineering | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Long-Island-NY/Sr-Software-Engineer---Reliability-Engineering_R202680462) | Posted Today |
+| **Booz Allen Hamilton** | Annapolis Junction, MD | Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Developer_R0245662) | Posted Today |
+| **Fiserv** | Berkeley Heights, New Jersey | Business Data Analyst | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/Business-Data-Analyst_R-10399496-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-30 18:07:27
 
 📊 **7 new jobs this batch:**
