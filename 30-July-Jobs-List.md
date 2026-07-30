@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-30 16:22:33
+
+📊 **3 new jobs this batch:**
+- Boeing: 1 job
+- Chime: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Chime** | San Francisco, CA, USA | Software Engineer, Lending | [Apply](https://boards.greenhouse.io/chime/jobs/8657011002?gh_jid=8657011002) | 2026-07-30T11:37:51-04:00 |
+| **Boeing** | USA - Hazelwood, MO | Business Intelligence Analyst | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Business-Intelligence-Analyst_JR2026520620-1) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | 2027  Associate Software Engineer / Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027--Associate-Software-Engineer---Software-Engineer_R10243060) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-30 14:58:21
 
 📊 **8 new jobs this batch:**
