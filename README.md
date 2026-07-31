@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 31, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-31 05:20:24
+
+📊 **1 new jobs this batch:**
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Target** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Designer- Wild Fable Sweaters and Cut & Sew Knits | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Designer--Wild-Fable-Sweaters-and-Cut---Sew-Knits_R0000438218-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 31, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-31 01:22:08
 
 📊 **8 new jobs this batch:**
