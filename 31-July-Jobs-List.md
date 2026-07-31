@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — July 31, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-31 15:52:08
+
+📊 **8 new jobs this batch:**
+- Airbnb: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Cox Enterprises: 1 job
+- Elastic: 1 job
+- Medtronic: 1 job
+- SpaceX: 1 job
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Airbnb** | San Francisco, CA | Software Engineer, Community Support Engineering | [Apply](https://careers.airbnb.com/positions/8097917?gh_jid=8097917) | 2026-07-31T11:14:30-04:00 |
+| **Elastic** | United States | Fullstack Software Engineer II - Admin UX - Platform Applications | [Apply](https://jobs.elastic.co/jobs?gh_jid=8077634&gh_jid=8077634) | 2026-07-31T11:38:09-04:00 |
+| **SpaceX** | Hawthorne, CA | Full Stack Software Engineer, Internal Systems  | [Apply](https://boards.greenhouse.io/spacex/jobs/8660805002?gh_jid=8660805002) | 2026-07-31T10:59:49-04:00 |
+| **Upstart** | United States | Remote | Software Engineer, Lifecycle | [Apply](https://careers.upstart.com/jobs?gh_jid=7947373) | 2026-05-20T18:29:57-04:00 |
+| **Boeing** | USA - Tukwila, WA | Business Intelligence Analyst – Associate or Mid-Level | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Business-Intelligence-Analyst---Associate-or-Mid-Level_JR2026514099-1) | Posted Today |
+| **Booz Allen Hamilton** | Fayetteville, NC | DevSecOps Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/DevSecOps-Platform-Engineer_R0245768) | Posted Today |
+| **Cox Enterprises** | Overland Park KS | Sr Software Engineer | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Overland-Park-KS/Sr-Software-Engineer_R202680586) | Posted Today |
+| **Medtronic** | Swedesboro, New Jersey, United States of America | Pr. IT Business Analyst | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Swedesboro-New-Jersey-United-States-of-America/Pr-IT-Business-Analyst_R73635-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 31, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-31 13:22:58
 
 📊 **2 new jobs this batch:**
