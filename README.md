@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 31, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-31 17:14:50
+
+📊 **3 new jobs this batch:**
+- Citi: 1 job
+- Cox Enterprises: 1 job
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Stripe** | Seattle, WA | Software Engineer - Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=8099239) | 2026-07-31T12:19:00-04:00 |
+| **Cox Enterprises** | Overland Park KS | Software Engineer II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Overland-Park-KS/Software-Engineer-II_R202680465) | Posted Today |
+| **Citi** | New Castle Delaware United States | DevOps Engineer, Application Support | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-Castle-Delaware-United-States/DevOps-Engineer--Application-Support_26983035) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 31, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-31 15:52:08
 
 📊 **8 new jobs this batch:**
