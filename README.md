@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — July 31, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-31 21:54:10
+
+📊 **3 new jobs this batch:**
+- Boeing: 1 job
+- Handshake: 1 job
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Handshake** | San Francisco, CA | Machine Learning Engineer I, Network | [Apply](https://jobs.ashbyhq.com/handshake/59dae1e7-2059-46c5-98d2-7d475c689191) | 2026-07-31T20:53:27.555+00:00 |
+| **Twilio** | Remote - US | Software Engineer (L2) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8100236) | 2026-07-31T16:58:59-04:00 |
+| **Boeing** | USA - Kent, WA | Associate/Experienced Software Engineer–Developer (Development) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Kent-WA/Associate-Experienced-Software-Engineer-Developer--Development-_JR2026512185-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 31, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-31 20:49:26
 
 📊 **8 new jobs this batch:**
