@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — July 31, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-31 13:22:58
+
+📊 **2 new jobs this batch:**
+- Citi: 1 job
+- Scopely: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Scopely** | CA - Canada; US - United States | Software Engineer (Gaming Fullstack) - WWE Champions | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5165752008?gh_jid=5165752008) | 2026-03-25T14:24:14-04:00 |
+| **Citi** | New York New York United States | Quantitative Analyst – Rates XVA | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Quantitative-Analyst---Rates-XVA_26982013) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 31, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-31 05:20:24
 
 📊 **1 new jobs this batch:**
