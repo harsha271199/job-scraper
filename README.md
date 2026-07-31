@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — July 31, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-31 19:02:25
+
+📊 **8 new jobs this batch:**
+- Baseten: 1 job
+- Booz Allen Hamilton: 3 jobs
+- MongoDB: 1 job
+- Nvidia: 1 job
+- Roblox: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Baseten** | San Francisco | Software Engineer - Security | [Apply](https://jobs.ashbyhq.com/baseten/b85e4b1d-6531-46b5-bc8a-238f3761a50e) | 2026-04-01T22:30:27.120+00:00 |
+| **MongoDB** | United States | Software Engineer 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8089124) | 2026-07-31T14:48:17-04:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Communications | [Apply](https://careers.roblox.com/jobs/8083944?gh_jid=8083944) | 2026-07-31T13:45:26-04:00 |
+| **Booz Allen Hamilton** | Springfield, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Mid_R0245801) | Posted Today |
+| **Booz Allen Hamilton** | Honolulu, HI | Foundry Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Foundry-Data-Engineer_R0245813) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | M365 Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/M365-Platform-Engineer_R0239603) | Posted Today |
+| **Nvidia** | US, NC, Durham | System Software Engineer – Data Center Compute Diagnostics | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-NC-Durham/System-Software-Engineer---Data-Center-Compute-Diagnostics_JR2022612) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering MTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354301) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 31, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-31 17:14:50
 
 📊 **3 new jobs this batch:**
