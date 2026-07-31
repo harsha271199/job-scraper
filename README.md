@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — July 31, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-31 20:49:26
+
+📊 **8 new jobs this batch:**
+- Baseten: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Coinbase: 1 job
+- General Motors: 1 job
+- Guidehouse: 2 jobs
+- Supabase: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Baseten** | San Francisco | Software Engineer - Dedicated Inference  | [Apply](https://jobs.ashbyhq.com/baseten/fc6e5f2e-eb2d-4a6c-8a51-8422e8662bde) | 2024-07-09T17:24:19.832+00:00 |
+| **Supabase** | Remote | AI Platform Engineer | [Apply](https://jobs.ashbyhq.com/supabase/3b5d54ca-741b-45ac-bd3f-31605a0d3541) | 2026-07-31T18:56:39.246+00:00 |
+| **Coinbase** | Remote - Brazil | Software Engineer, EAA  | [Apply](https://www.coinbase.com/careers/positions/8100066?gh_jid=8100066) | 2026-07-31T15:41:45-04:00 |
+| **Boeing** | USA - Berkeley, MO | Associate and Mid-Level Software Engineers | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Associate-and-Mid-Level-Software-Engineers_JR2026520920-1) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist--Mid_R0245790) | Posted Today |
+| **General Motors** | Warren, Michigan, United States of America | Safety Field Investigations - Data Analyst | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Safety-Field-Investigations---Data-Analyst_JR-202615306-1) | Posted Today |
+| **Guidehouse** | US - VA, Arlington | Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Scientist_42370) | Posted Today |
+| **Guidehouse** | US - DC, Washington | Cleared Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Cleared-Data-Scientist_42651) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — July 31, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-31 19:02:25
 
 📊 **8 new jobs this batch:**
