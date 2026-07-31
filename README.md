@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — July 31, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-31 22:47:11
+
+📊 **1 new jobs this batch:**
+- Sierra: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Sierra** | San Francisco, CA | Software Engineer, Agent - Healthcare Integrations | [Apply](https://jobs.ashbyhq.com/Sierra/97ca0c70-f371-4167-9908-2adca3464b8d) | 2026-07-31T22:34:30.643+00:00 |
+
+---
+# 📢 Job Listings for Harsha — July 31, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-31 21:54:10
 
 📊 **3 new jobs this batch:**
