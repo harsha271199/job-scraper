@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — July 31, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-07-31 23:49:29
+
+📊 **3 new jobs this batch:**
+- OpenAI: 2 jobs
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, API Multimodal | [Apply](https://jobs.ashbyhq.com/openai/96de8acb-556e-451b-bc84-7124bb4b0a20) | 2026-07-31T22:55:40.169+00:00 |
+| **OpenAI** | San Francisco | Software Engineer, Agent Productivity  | [Apply](https://jobs.ashbyhq.com/openai/0432731c-f229-476e-92b6-d53491e79096) | 2026-07-31T23:25:34.814+00:00 |
+| **SpaceX** | Bastrop, TX | Full Stack Software Engineer, Internal Systems  | [Apply](https://boards.greenhouse.io/spacex/jobs/8663562002?gh_jid=8663562002) | 2026-07-31T18:52:20-04:00 |
+
+---
+# 📢 Job Listings for Harsha — July 31, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-07-31 22:47:11
 
 📊 **1 new jobs this batch:**
