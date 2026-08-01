@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-01 15:49:02
+
+📊 **1 new jobs this batch:**
+- Postman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Postman** | Berkeley, California, United States | AI Engineer, Intern | [Apply](https://job-boards.greenhouse.io/postman/jobs/7823417003) | 2026-08-01T10:52:20-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-01 14:18:34
 
 📊 **1 new jobs this batch:**
