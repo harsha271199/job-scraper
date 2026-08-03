@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — August 03, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-03 20:50:19
+
+📊 **10 new jobs this batch:**
+- Airbnb: 1 job
+- Amgen: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Northrop Grumman: 3 jobs
+- OpenAI: 2 jobs
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Research Engineer / Research Scientist - Personal AGI, Memory | [Apply](https://jobs.ashbyhq.com/openai/29074a51-9cb3-47c9-a8a7-f283cd14fa6c) | 2026-08-03T20:48:23.084+00:00 |
+| **OpenAI** | San Francisco | Research Engineer / Research Scientist - Personal AGI, Personalization  | [Apply](https://jobs.ashbyhq.com/openai/1bf678c5-1058-45ca-b9bd-b0029fccd60e) | 2026-08-03T20:48:14.220+00:00 |
+| **Airbnb** | United States | Software Engineer, Biztech Client and Identity | [Apply](https://careers.airbnb.com/positions/8095390?gh_jid=8095390) | 2026-08-03T15:26:51-04:00 |
+| **Amgen** | United States - Remote | Digital AI Product Analyst | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Digital-AI-Product-Analyst_R-250803) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer--Senior_R0245742) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer--Senior_R0245741) | Posted Today |
+| **Northrop Grumman** | United States-Maryland-Annapolis Junction | 2026 -  Associate Cyber Software Engineer - Annapolis Junction MD | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/XMLNAME-2026----Associate-Cyber-Software-Engineer---Annapolis-Junction-MD_R10243399) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | Software Engineer - Level 2 or 3 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Software-Engineer---Level-2-or-3_R10243453) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | Software Engineer - Level 3 or 4 (Mathematician) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Software-Engineer---Level-3-or-4--Mathematician-_R10243449) | Posted Today |
+| **Target** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Sr Data Analyst - Planning & Inventory Management | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Data-Analyst---Planning---Inventory-Management_R0000442734) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 03, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-03 19:13:51
 
 📊 **6 new jobs this batch:**
