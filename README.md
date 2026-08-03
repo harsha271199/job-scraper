@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 03, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-03 22:46:32
+
+📊 **3 new jobs this batch:**
+- Intel: 1 job
+- Nvidia: 1 job
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Intel** | US, Arizona, Phoenix | Data Scientist | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Data-Scientist_JR0286110) | Posted Today |
+| **Nvidia** | US, OR, Hillsboro | Systems Software Engineer - New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-OR-Hillsboro/Systems-Software-Engineer---New-College-Grad-2026_JR2017083) | Posted Today |
+| **Workday** | USA.VA.Reston | Sr Site Reliability Engineer (US Federal) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Sr-Site-Reliability-Engineer--US-Federal-_JR-0109129) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 03, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-03 21:55:40
 
 📊 **4 new jobs this batch:**
