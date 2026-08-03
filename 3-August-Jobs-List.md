@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 03, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-03 21:55:40
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Glean: 1 job
+- Twilio: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Glean** | San Francisco, CA | Machine Learning Engineer, Assistant Quality | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4711484005) | 2026-08-03T17:43:08-04:00 |
+| **Twilio** | Remote - US | Software Engineer (L4) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8103253) | 2026-08-03T17:50:41-04:00 |
+| **Twilio** | Remote - US | Software Engineer (L4) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8098945) | 2026-08-03T17:50:40-04:00 |
+| **Booz Allen Hamilton** | Ashburn, VA | Front-end Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Front-end-Software-Engineer_R0245975) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 03, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-03 20:50:19
 
 📊 **10 new jobs this batch:**
