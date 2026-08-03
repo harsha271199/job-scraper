@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — August 03, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-03 19:13:51
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Chime: 1 job
+- Northrop Grumman: 1 job
+- Okta: 1 job
+- Pinterest: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Chime** | Remote, USA | Software Engineer, AI Enablement | [Apply](https://boards.greenhouse.io/chime/jobs/8578967002?gh_jid=8578967002) | 2026-08-03T14:54:58-04:00 |
+| **Okta** | Chicago, Illinois | Business Analyst  | [Apply](https://www.okta.com/company/careers/opportunity/8097799?gh_jid=8097799) | 2026-08-03T13:56:06-04:00 |
+| **Pinterest** | San Francisco, CA, US; Remote, US | Software Engineer II, Android | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=4916795) | 2023-03-09T12:24:10-05:00 |
+| **Booz Allen Hamilton** | Atlanta, GA | Palantir Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Palantir-Data-Engineer_R0245959-1) | Posted Today |
+| **Booz Allen Hamilton** | Atlanta, GA | Public Health Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Public-Health-Business-Analyst_R0245963-1) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | Cybersecurity Software Engineer - Level 3 or 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Cybersecurity-Software-Engineer---Level-3-or-4_R10243004) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 03, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-03 17:32:10
 
 📊 **8 new jobs this batch:**
