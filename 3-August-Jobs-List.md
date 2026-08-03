@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — August 03, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-03 15:34:35
+
+📊 **6 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- GitLab: 1 job
+- Greenlight: 1 job
+- Guidehouse: 1 job
+- KLA: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **GitLab** | Remote, Canada; Remote, United States | Intermediate Backend Engineer, Platform Readiness | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8644569002) | 2026-08-03T10:38:08-04:00 |
+| **Greenlight** | Atlanta (Remote Friendly) | Software Engineer II, Frontend | [Apply](https://jobs.lever.co/greenlight/85f57a40-ef24-4fb2-bea8-e881efb0f660) | 2026-07-31 22:15 |
+| **Boeing** | USA - Hazelwood, MO | Advanced Technologist - Mid-Level Cloud Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hazelwood-MO/Advanced-Technologist---Mid-Level-Cloud-Engineer_JR2026520159) | Posted Today |
+| **Booz Allen Hamilton** | Alexandria, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0245867) | Posted Today |
+| **Guidehouse** | US - VA, Arlington | Business Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Business-Analyst_42474) | Posted Today |
+| **KLA** | Milpitas, CA | Cloud Platform Engineer | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Milpitas-CA/Cloud-Platform-Engineer_2639358) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 03, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-03 12:09:20
 
 📊 **3 new jobs this batch:**
