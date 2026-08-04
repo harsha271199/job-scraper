@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 04, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-04 23:51:18
+
+📊 **4 new jobs this batch:**
+- Nvidia: 1 job
+- Stripe: 2 jobs
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Stripe** | South San Francisco, CA | Software Engineer | [Apply](https://stripe.com/jobs/search?gh_jid=8107379) | 2026-08-04T19:04:24-04:00 |
+| **Stripe** | South San Francisco, California | Software Engineer, Sending | [Apply](https://stripe.com/jobs/search?gh_jid=8107302) | 2026-08-04T18:47:05-04:00 |
+| **Zoox** | Foster City, CA | Platform Engineer | [Apply](https://jobs.lever.co/zoox/adb74515-a246-41b8-aba5-46d8a0e213a1) | 2026-01-15 18:19 |
+| **Nvidia** | US, CA, Santa Clara | Systems Software Engineer - Infrastructure | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---Infrastructure_JR2022783) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 04, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-04 22:08:58
 
 📊 **8 new jobs this batch:**
