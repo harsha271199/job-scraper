@@ -1,6 +1,44 @@
 # 📢 Job Listings for Harsha — August 04, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-04 17:26:28
+
+📊 **19 new jobs this batch:**
+- Booz Allen Hamilton: 9 jobs
+- CVS Health: 1 job
+- CircleCI: 1 job
+- Cox Enterprises: 1 job
+- Northrop Grumman: 4 jobs
+- Pinterest: 1 job
+- Snowflake: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Snowflake** | US-NY-New York | Data Engineering Solutions Specialist  | [Apply](https://jobs.ashbyhq.com/snowflake/ecd08904-f188-4336-bf8c-f75f97df1a02) | 2026-08-03T06:03:05.234+00:00 |
+| **CircleCI** | Remote, US (EST) OR Remote, Ontario, Canada | Associate Analytics Engineer | [Apply](http://www.circleci.com/careers/jobs/8657507002/?gh_jid=8657507002) | 2026-08-04T12:55:01-04:00 |
+| **Pinterest** | San Francisco, CA, US; Remote, US | Software Engineer II, Backend, tvScientific | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8041770) | 2026-08-04T12:35:51-04:00 |
+| **SpaceX** | Bastrop, TX | Software Engineer, AI Satellites (Starmind) | [Apply](https://boards.greenhouse.io/spacex/jobs/8676015002?gh_jid=8676015002) | 2026-08-04T12:06:43-04:00 |
+| **Booz Allen Hamilton** | Doral, FL | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Doral-FL/Data-Scientist_R0245993) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0245992) | Posted Today |
+| **Booz Allen Hamilton** | Colorado Springs, CO | Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/Software-Developer_R0245998) | Posted Today |
+| **Booz Allen Hamilton** | Fayetteville, NC | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0236980) | Posted Today |
+| **Booz Allen Hamilton** | Fayetteville, NC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0246011-1) | Posted Today |
+| **Booz Allen Hamilton** | Doral, FL | Data Governance and Metadata Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Doral-FL/Data-Governance-and-Metadata-Scientist_R0245985) | Posted Today |
+| **Booz Allen Hamilton** | Honolulu, HI | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0245942) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0246152) | Posted Today |
+| **Booz Allen Hamilton** | Aurora, CO | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0239228) | Posted Today |
+| **Cox Enterprises** | Atlanta GA | Entry Level Software Engineer - Atlanta, GA | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Entry-Level-Software-Engineer---Atlanta--GA_R202680858-1) | Posted Today |
+| **CVS Health** | Work At Home-Virginia | Machine Learning Engineer | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Work-At-Home-Virginia/Machine-Learning-Engineer_R0995426) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer (Algorithm) – TRK (26-334) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer--Algorithm----TRK--26-334-_R10240956) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | Software Engineer (Level 4) - AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer--Level-4----AHT_R10243593-1) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | Software Engineer (Level 2 or 3) - AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer--Level-2-or-3----AHT_R10243587) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | Associate Software Engineer / Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10243047) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 04, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-04 15:13:39
 
 📊 **4 new jobs this batch:**
