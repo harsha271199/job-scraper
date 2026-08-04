@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 04, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-04 10:24:09
+
+📊 **2 new jobs this batch:**
+- Abnormal Security: 1 job
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Abnormal Security** | Remote - Singapore | Software Engineer 1 | [Apply](https://abnormal.ai/careers/jobs/7823911003?gh_jid=7823911003) | 2026-08-04T03:55:58-04:00 |
+| **Twilio** | Remote - India | Software Engineer (L2) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7926889) | 2026-05-18T06:23:14-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 04, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-04 04:50:40
 
 📊 **3 new jobs this batch:**
