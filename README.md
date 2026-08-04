@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — August 04, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-04 22:08:58
+
+📊 **8 new jobs this batch:**
+- Anthropic: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Crusoe: 1 job
+- Palantir: 3 jobs
+- Suno: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Crusoe** | San Francisco, CA - US | Software Engineer II (DCIE) | [Apply](https://jobs.ashbyhq.com/crusoe/8184c413-a95a-49d7-bb75-ff3162ca198f) | 2026-08-04T21:58:31.768+00:00 |
+| **Suno** | Los Angeles | Software Engineer, Android | [Apply](https://jobs.ashbyhq.com/suno/8a5c628e-0b44-492d-8ed4-39efae717b18) | 2025-02-13T19:41:11.877+00:00 |
+| **Anthropic** | San Francisco, CA | New York City, NY | Seattle, WA | Software Engineer, ML Networking | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/4926242008) | 2025-09-23T17:02:55-04:00 |
+| **Palantir** | Palo Alto, CA | Platform Engineer - Identity Infrastructure | [Apply](https://jobs.lever.co/palantir/721fe5ca-73b8-4223-826e-93a528194821) | 2026-08-04 21:07 |
+| **Palantir** | Washington, D.C. | Platform Engineer - Identity Infrastructure | [Apply](https://jobs.lever.co/palantir/a80afc2b-2564-4a98-84c2-34cdcc0402df) | 2026-08-04 21:07 |
+| **Palantir** | New York, NY | Platform Engineer - Identity Infrastructure | [Apply](https://jobs.lever.co/palantir/cf08f44c-bf75-45ed-9fab-f4836e51013e) | 2026-07-28 19:52 |
+| **Booz Allen Hamilton** | Beavercreek, OH | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/DevOps-Engineer_R0246042) | Posted Today |
+| **Boeing** | USA - Tukwila, WA | Software Engineer (Associate or Experienced) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Software-Engineer--Associate-or-Experienced-_JR2026500177-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 04, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-04 20:59:32
 
 📊 **5 new jobs this batch:**
