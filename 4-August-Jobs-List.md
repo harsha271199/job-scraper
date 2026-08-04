@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — August 04, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-04 20:59:32
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- CLEAR: 1 job
+- Twilio: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **CLEAR** | New York, New York, United States | Software Engineer Backend (Java) | [Apply](https://job-boards.greenhouse.io/clear/jobs/8107053) | 2026-08-04T16:52:52-04:00 |
+| **Twilio** | Remote - US | Software Engineer (L2) Email | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8026207) | 2026-08-04T16:00:02-04:00 |
+| **Twilio** | Remote - US | Software Engineer (L3) Email | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8026203) | 2026-08-04T15:52:01-04:00 |
+| **Booz Allen Hamilton** | Fayetteville, NC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0246027) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer_R0245967-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 04, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-04 19:14:51
 
 📊 **4 new jobs this batch:**
