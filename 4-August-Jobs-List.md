@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 04, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-04 15:13:39
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Natera: 1 job
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Natera** | US Remote | Software Engineer, Full Stack | [Apply](https://job-boards.greenhouse.io/natera/jobs/5993307004) | 2026-05-12T12:10:31-04:00 |
+| **Upstart** | United States | Remote | Applied Scientist  | [Apply](https://careers.upstart.com/jobs?gh_jid=7293116) | 2026-08-04T09:56:08-04:00 |
+| **Booz Allen Hamilton** | Fort Meade, MD | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0245953) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0245950) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 04, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-04 12:51:05
 
 📊 **1 new jobs this batch:**
