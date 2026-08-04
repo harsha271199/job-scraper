@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 04, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-04 19:14:51
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Fireblocks: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Fireblocks** | New York | Data Analytics AI Engineer | [Apply](https://www.fireblocks.com/careers/position?gh_jid=4684691006) | 2026-06-01T12:53:13-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0246016) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | University, Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/University--Software-Engineer_R0241736) | Posted Today |
+| **Northrop Grumman** | United States-Maryland-Annapolis Junction | Software Engineer 2 (TG) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Annapolis-Junction/Software-Engineer-2--TG-_R10243777) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 04, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-04 17:26:28
 
 📊 **19 new jobs this batch:**
