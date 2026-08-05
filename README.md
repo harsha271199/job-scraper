@@ -1,6 +1,39 @@
 # 📢 Job Listings for Harsha — August 05, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-05 17:15:55
+
+📊 **14 new jobs this batch:**
+- Booz Allen Hamilton: 5 jobs
+- Flatiron Health: 1 job
+- Flir: 1 job
+- Handshake: 1 job
+- Lyft: 1 job
+- Morgan Stanley: 2 jobs
+- Roblox: 2 jobs
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Handshake** | San Francisco, CA | Associate Software Engineer, RLE  | [Apply](https://jobs.ashbyhq.com/handshake/e871b11e-f6c2-4adf-aeb5-278eac4aa153) | 2026-08-05T14:33:33.313+00:00 |
+| **Flatiron Health** | NY office | Data Scientist - Workflow Automation | [Apply](https://flatiron.com/careers/open-positions/job?gh_jid=8027593) | 2026-08-05T09:28:02-04:00 |
+| **Lyft** | San Francisco, CA | Software Engineer | [Apply](https://app.careerpuck.com/job-board/lyft/job/8678744002?gh_jid=8678744002) | 2026-08-05T10:19:48-04:00 |
+| **Roblox** | San Mateo, CA, United States | [2027] Software Engineer, Early Career | [Apply](https://careers.roblox.com/jobs/8072244?gh_jid=8072244) | 2026-08-05T12:03:38-04:00 |
+| **Roblox** | San Mateo, CA, United States | [Summer 2027] Software Engineer Intern | [Apply](https://careers.roblox.com/jobs/8072713?gh_jid=8072713) | 2026-08-05T12:03:16-04:00 |
+| **Twilio** | Remote - Ireland | DevOps Engineer (Observability) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8108771) | 2026-08-05T11:42:36-04:00 |
+| **Booz Allen Hamilton** | San Antonio, TX | AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AI-Engineer_R0246114) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Engineer_R0246048) | Posted Today |
+| **Booz Allen Hamilton** | Alexandria, VA | Data Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Engineer--Mid_R0240987) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Full Stack Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0236098) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0246054) | Posted Today |
+| **Flir** | US - Field - Texas | Power Platform Engineer | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Field---Texas/Power-Platform-Engineer_REQ36121-1) | Posted Today |
+| **Morgan Stanley** | New York, New York, United States of America | AI Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/AI---ML-Engineer_PT-JR037013-2) | Posted Today |
+| **Morgan Stanley** | New York, New York, United States of America | Generative AI & Machine Learning Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Generative-AI---Machine-Learning-Engineer_PT-JR041494-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 05, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-05 12:30:09
 
 📊 **5 new jobs this batch:**
