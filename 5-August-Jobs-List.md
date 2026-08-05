@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — August 05, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-05 19:08:06
+
+📊 **6 new jobs this batch:**
+- Esri: 1 job
+- Medtronic: 1 job
+- Northrop Grumman: 1 job
+- Nvidia: 1 job
+- Snowflake: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Snowflake** | US-CA-Menlo Park | Software Engineer - Openflow | [Apply](https://jobs.ashbyhq.com/snowflake/22c61c00-65a5-4952-9a02-d897d4960437) | 2026-08-05T18:09:38.736+00:00 |
+| **Esri** | Portland, ME | Software Developer I - Android Apps | [Apply](https://www.esri.com/careers/5199123007?gh_jid=5199123007) | 2026-08-05T13:22:41-04:00 |
+| **Waymo** | Mountain View, California, USA; San Francisco, California, USA | Software Engineer, Machine Learning, Planner Selection | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7170802) | 2025-08-20T11:28:18-04:00 |
+| **Medtronic** | Minneapolis, Minnesota, United States of America | Software Engineer I - CRM | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-I---CRM_R73402-1) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | Associate Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Engineer_R10239775) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Software Engineering Intern, Dynamo - Fall 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineering-Intern--Dynamo---Fall-2026_JR2022295) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 05, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-05 17:15:55
 
 📊 **14 new jobs this batch:**
