@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — August 05, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-05 20:53:09
+
+📊 **10 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Broadcom: 1 job
+- Comcast: 2 jobs
+- CrowdStrike: 1 job
+- Salesforce: 1 job
+- xAI: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **xAI** | Palo Alto, California, United States | Human Data Engineer | [Apply](https://job-boards.greenhouse.io/xai/jobs/5204819007) | 2026-08-05T16:25:39-04:00 |
+| **xAI** | Palo Alto, California, United States | Software Engineer - Search Ranking | [Apply](https://job-boards.greenhouse.io/xai/jobs/5125621007) | 2026-04-30T18:15:46-04:00 |
+| **xAI** | Palo Alto, California, United States | Software Engineer - Voice Model | [Apply](https://job-boards.greenhouse.io/xai/jobs/5051966007) | 2026-03-16T16:39:18-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Scientist_R0246129-1) | Posted Today |
+| **Booz Allen Hamilton** | Beavercreek, OH | Technical Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Technical-Business-Analyst_R0246110) | Posted Today |
+| **Broadcom** | USA-CA San Jose Innovation Drive | System Software Engineer | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/System-Software-Engineer_R026604) | Posted Today |
+| **Comcast** | VA - Reston, 11951 Freedom Dr Ste 900 | Software Engineer 3 (AI) - Hybrid - Reston, Va - Freewheel | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-3--AI----Hybrid---Reston--Va---Freewheel_R442250) | Posted Today |
+| **Comcast** | VA - Reston, 11951 Freedom Dr Ste 900 | Software Engineer 2 (AI) - Hybrid - Reston, VA - Freewheel | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/VA---Reston-11951-Freedom-Dr-Ste-900/Software-Engineer-2--AI----Hybrid---Reston--VA---Freewheel_R442248) | Posted Today |
+| **CrowdStrike** | USA - Austin, TX | Software Engineer II, LogScale Search Integrations (Hybrid) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Software-Engineer-II--LogScale-Search-Integrations--Hybrid-_R29420) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering - Core Software Engineering - Software Engineering PMTS-2 | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering---Core-Software-Engineering---Software-Engineering-PMTS-2_JR355156-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 05, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-05 19:08:06
 
 📊 **6 new jobs this batch:**
