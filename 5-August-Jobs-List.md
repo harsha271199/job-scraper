@@ -1,6 +1,51 @@
 # 📢 Job Listings for Harsha — August 05, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-05 22:02:20
+
+📊 **26 new jobs this batch:**
+- Block: 1 job
+- Booz Allen Hamilton: 1 job
+- Morgan Stanley: 1 job
+- Northrop Grumman: 1 job
+- OpenAI: 1 job
+- PayPal: 18 jobs
+- SpaceX: 1 job
+- xAI: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, API Enterprise Controls | [Apply](https://jobs.ashbyhq.com/openai/4c0a6cb6-d365-4e5b-bdff-c093d951026d) | 2026-08-05T21:59:31.333+00:00 |
+| **Block** | Bay Area, CA, United States of America | Business Intelligence Analyst | [Apply](http://block.xyz/careers/jobs/5365984008?gh_jid=5365984008) | 2026-07-21T13:35:37-04:00 |
+| **SpaceX** | Memphis, TN | Full Stack Software Engineer, Internal Systems  | [Apply](https://boards.greenhouse.io/spacex/jobs/8686286002?gh_jid=8686286002) | 2026-08-05T17:36:31-04:00 |
+| **xAI** | Palo Alto, California, United States | Software Engineer - X Developer Platform | [Apply](https://job-boards.greenhouse.io/xai/jobs/5204788007) | 2026-08-05T17:13:28-04:00 |
+| **xAI** | Palo Alto, California, United States | Software Engineer - X Money | [Apply](https://job-boards.greenhouse.io/xai/jobs/5107958007) | 2026-04-14T16:12:36-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Data-Scientist_R0246131) | Posted Today |
+| **Morgan Stanley** | New York, New York, United States of America | Sr AI Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Sr-AI-Engineer_PT-JR041902) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | 2026 Associate Software Engineer/Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2026-Associate-Software-Engineer-Software-Engineer_R10244101) | Posted Today |
+| **PayPal** | Chicago, Illinois, United States of America | Data Scientist | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Data-Scientist_R0137204) | Posted Today |
+| **PayPal** | Chicago, Illinois, United States of America | Sr Data Scientist | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0137205) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137201) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137202) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137200) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Machine Learning Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0137198) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137196) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137197) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137195) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137192) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137193) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137194) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137191) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137190) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer 2 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-2_R0137187) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137189) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137188) | Posted Today |
+| **PayPal** | New York City, New York, United States of America | Sr Data Scientist | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Sr-Data-Scientist_R0137185) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 05, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-05 20:53:09
 
 📊 **10 new jobs this batch:**
