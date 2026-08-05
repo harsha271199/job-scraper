@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — August 05, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-05 12:30:09
+
+📊 **5 new jobs this batch:**
+- Affirm: 2 jobs
+- Dropbox: 1 job
+- GitLab: 1 job
+- Motorola Solutions: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Affirm** | Remote Poland | Software Engineer I, Fullstack (Servicing International) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7809761003) | 2026-08-05T06:20:40-04:00 |
+| **Affirm** | Remote Spain | Software Engineer I, Fullstack (Servicing International) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7809763003) | 2026-08-05T06:20:42-04:00 |
+| **Dropbox** | Remote - Poland | Infrastructure Software Engineer, Metadata Core | [Apply](https://jobs.dropbox.com/listing/7958409?gh_jid=7958409) | 2026-08-05T06:31:33-04:00 |
+| **GitLab** | Remote, Bangalore | AI Engineer | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8556658002) | 2026-05-22T09:16:29-04:00 |
+| **Motorola Solutions** | Brazil Remote Work | Site Reliability Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Brazil-Remote-Work/Site-Reliability-Engineer_R62251) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 05, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-05 04:50:59
 
 📊 **6 new jobs this batch:**
