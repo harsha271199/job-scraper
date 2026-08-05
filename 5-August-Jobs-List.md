@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — August 05, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-05 23:44:38
+
+📊 **9 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Grafana Labs: 3 jobs
+- Natera: 1 job
+- Northrop Grumman: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Grafana Labs** | Republic of Ireland (Remote) | Software Engineer - Platform Productivity | Ireland | Remote | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6135793004) | 2026-08-05T18:31:52-04:00 |
+| **Grafana Labs** | Spain (Remote) | Software Engineer - Platform Productivity | Spain | Remote | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6135790004) | 2026-08-05T18:31:53-04:00 |
+| **Grafana Labs** | United Kingdom (Remote) | Software Engineer - Platform Productivity | United Kingdom | Remote | [Apply](https://job-boards.greenhouse.io/grafanalabs/jobs/6135792004) | 2026-08-05T18:31:53-04:00 |
+| **Natera** | US Remote | Staff Software Engineer in Test, Product Engineering | [Apply](https://job-boards.greenhouse.io/natera/jobs/6135368004) | 2026-08-05T18:58:12-04:00 |
+| **Booz Allen Hamilton** | McLean, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0238939) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Front End Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Front-End-Software-Engineer_R0238911) | Posted Today |
+| **Boeing** | USA - El Segundo, CA | Software Engineer Developer – Millennium Space Systems | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---El-Segundo-CA/Software-Engineer-Developer---Millennium-Space-Systems_JR2026521347-1) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | 2027 Associate Software Engineer / Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10243561) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | 2027 Intern Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10243573) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 05, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-05 22:02:20
 
 📊 **26 new jobs this batch:**
