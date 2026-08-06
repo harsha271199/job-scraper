@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 06, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-06 07:29:42
+
+📊 **1 new jobs this batch:**
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Target** | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | Sr Data Engineer - Finance Technology Platform (PySpark, Hadoop, Cloud) | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Data-Engineer---Finance-Technology-Platform--PySpark--Hadoop--Cloud-_R0000444865-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 06, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-06 04:51:30
 
 📊 **1 new jobs this batch:**
