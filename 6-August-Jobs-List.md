@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 06, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-06 15:03:38
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Aurora, CO | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0239343) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | 2027 Intern Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Intern-Software-Engineer_R10242395) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 06, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-06 12:47:59
 
 📊 **2 new jobs this batch:**
