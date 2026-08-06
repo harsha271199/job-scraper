@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 06, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-06 12:47:59
+
+📊 **2 new jobs this batch:**
+- Cox Enterprises: 1 job
+- Spotify: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Spotify** | New York, NY | Data Scientist | [Apply](https://jobs.lever.co/spotify/5e91f92c-7487-40c5-92d8-b335b3b52ae9) | 2026-06-09 10:41 |
+| **Cox Enterprises** | Atlanta GA | Sr Software Engineer | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Sr-Software-Engineer---20198_R202678214-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 06, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-06 07:29:42
 
 📊 **1 new jobs this batch:**
