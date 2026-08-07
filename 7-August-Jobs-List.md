@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-07 23:21:55
+
+📊 **1 new jobs this batch:**
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Salesforce** | Washington - Bellevue | Software Engineering LMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-LMTS_JR353837) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-07 22:22:35
 
 📊 **1 new jobs this batch:**
