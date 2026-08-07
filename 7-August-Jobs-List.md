@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-07 20:25:48
+
+📊 **1 new jobs this batch:**
+- Morgan Stanley: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Morgan Stanley** | New York, New York, United States of America | Technical Business Analyst | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Lead-Business-Analyst_PT-JR041640-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-07 19:41:47
 
 📊 **4 new jobs this batch:**
