@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — August 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-07 15:40:53
+
+📊 **6 new jobs this batch:**
+- Abnormal Security: 1 job
+- Block: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Decagon: 1 job
+- Verily: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Decagon** | San Francisco | GTM Analytics Engineer | [Apply](https://jobs.ashbyhq.com/decagon/52bba096-667f-4e35-aa47-f8cc2219c390) | 2026-08-07T15:17:23.394+00:00 |
+| **Abnormal Security** | Remote - USA | Software Engineer II, Model Platform | [Apply](https://abnormal.ai/careers/jobs/7829979003?gh_jid=7829979003) | 2026-08-07T10:15:09-04:00 |
+| **Block** | Bay Area, CA, United States of America | Software Engineer, Finance Applications | [Apply](http://block.xyz/careers/jobs/4901418008?gh_jid=4901418008) | 2026-02-17T11:31:17-05:00 |
+| **Booz Allen Hamilton** | Arlington, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0243007) | Posted Today |
+| **Booz Allen Hamilton** | Beavercreek, OH | Software Engineer and Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Software-Engineer-and-Developer_R0240233) | Posted Today |
+| **Verily** | Boston, Massachusetts | Software Engineer, Developer Platform | [Apply](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Boston-Massachusetts/Software-Engineer--Developer-Platform_REQ-647) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-07 14:03:13
 
 📊 **1 new jobs this batch:**
