@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — August 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-07 21:25:53
+
+📊 **5 new jobs this batch:**
+- Guidehouse: 1 job
+- Northrop Grumman: 2 jobs
+- Notion: 1 job
+- Verkada: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Notion** | San Francisco, California | Software Engineer, Infrastructure Security | [Apply](https://jobs.ashbyhq.com/notion/e3d8dc06-da05-4e9d-a143-2e9c51fa3d51) | 2026-08-07T20:33:55.367+00:00 |
+| **Verkada** | San Mateo, CA United States | Software Engineer - Data Platform | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4129304007) | 2023-11-10T11:24:28-05:00 |
+| **Guidehouse** | US - Remote (Any location) | Mid Azure DevOps Software Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Mid-Azure-DevOps-Software-Engineer_43077) | Posted Today |
+| **Northrop Grumman** | United States-North Carolina-Morrisville | Software Engineer Level 3 or 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/Principal-Engineer-Software--Senior-Principal-Engineer-Software_R10244235-1) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | DevOps Engineer - Level 3 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/DevOps-Engineer---Level-3_R10244423) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-07 20:25:48
 
 📊 **1 new jobs this batch:**
