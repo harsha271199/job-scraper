@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — August 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-07 18:35:19
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Cox Enterprises: 1 job
+- Northrop Grumman: 2 jobs
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Waymo** | Mountain View, California, United States; San Francisco, California, United States | Perception Machine Learning Engineer - Continual Learning | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7446301) | 2025-12-05T17:17:48-05:00 |
+| **Booz Allen Hamilton** | Redstone Arsenal, AL | DevOps Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Redstone-Arsenal-AL/DevOps-Engineer--Mid_R0246269-1) | Posted Today |
+| **Cox Enterprises** | Atlanta GA | Software Engineer II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-II_R202680899) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Aurora | Software Engineer Level 4 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-4--AHT-_R10244515) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Aurora | Software Engineer Level 2 or 3 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-2-or-3--AHT-_R10244509-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-07 17:38:05
 
 📊 **1 new jobs this batch:**
