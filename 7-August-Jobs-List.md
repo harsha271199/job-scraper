@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-07 04:16:34
+
+📊 **1 new jobs this batch:**
+- Morgan Stanley: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Morgan Stanley** | New York, New York, United States of America | Software Engineer - Backend | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Software-Engineer---Backend_PT-JR041639) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-07 01:39:43
 
 📊 **14 new jobs this batch:**
