@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-07 16:38:38
+
+📊 **1 new jobs this batch:**
+- Handshake: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Handshake** | San Francisco, CA | Machine Learning Engineer I, Network | [Apply](https://jobs.ashbyhq.com/handshake/2964804b-c4c3-429e-831a-928fe98dc696) | 2026-08-07T16:31:06.363+00:00 |
+
+---
+# 📢 Job Listings for Harsha — August 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-07 15:40:53
 
 📊 **6 new jobs this batch:**
