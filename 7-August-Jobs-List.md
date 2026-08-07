@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-07 17:38:05
+
+📊 **1 new jobs this batch:**
+- Citi: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | BANAMEX - Data Analyst Jr - Officer | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX---Data-Analyst-Jr---Officer_26976389) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-07 16:38:38
 
 📊 **1 new jobs this batch:**
