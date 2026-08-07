@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-07 19:41:47
+
+📊 **4 new jobs this batch:**
+- Abnormal Security: 2 jobs
+- Booz Allen Hamilton: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Abnormal Security** | Remote - USA | Enterprise Platform Engineer | [Apply](https://abnormal.ai/careers/jobs/7833508003?gh_jid=7833508003) | 2026-08-07T15:00:17-04:00 |
+| **Abnormal Security** | Remote - Canada | Software Engineer II, Model Platform | [Apply](https://abnormal.ai/careers/jobs/7836516003?gh_jid=7836516003) | 2026-08-07T14:36:03-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cloud-Engineer_R0246307) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0246335) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-07 18:35:19
 
 📊 **5 new jobs this batch:**
