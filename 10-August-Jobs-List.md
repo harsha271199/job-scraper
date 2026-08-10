@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — August 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-10 21:29:17
+
+📊 **4 new jobs this batch:**
+- Baseten: 1 job
+- CVS Health: 1 job
+- Intel: 1 job
+- Mastercard: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Baseten** | San Francisco | Software Engineer - Observability | [Apply](https://jobs.ashbyhq.com/baseten/3e925ab1-2089-4a79-989e-50479b546eda) | 2026-08-10T20:38:17.932+00:00 |
+| **CVS Health** | RI - Woonsocket | Software Engineer - SRE, Retail & Pharmacy | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/RI---Woonsocket/Software-Engineer---SRE--Retail---Pharmacy_R0987009) | Posted Today |
+| **Intel** | US, Oregon, Hillsboro | Mfg Systems Software Engineer | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Mfg-Systems-Software-Engineer_JR0286221) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-287461) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-10 20:28:28
 
 📊 **3 new jobs this batch:**
