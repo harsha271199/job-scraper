@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — August 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-10 22:23:49
+
+📊 **5 new jobs this batch:**
+- GE HealthCare: 1 job
+- Hadrian: 1 job
+- PayPal: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Hadrian** | Los Angeles, CA | Data Engineer | [Apply](https://jobs.ashbyhq.com/hadrian-automation/ece57d19-3718-41d9-8647-3448fcf94849) | 2026-08-10T22:19:55.105+00:00 |
+| **GE HealthCare** | WA07-01-Bellevue-1100-112th Avenue NE | Sr AI Engineer | [Apply](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/Sr-AI-Engineer_R4044339-1) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Machine Learning Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Machine-Learning-Engineer_R0137221) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137222) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137223) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-10 21:29:17
 
 📊 **4 new jobs this batch:**
