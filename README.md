@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-10 20:28:28
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Esri: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Esri** | Redlands, CA | Data Engineer II - Street Data | [Apply](https://www.esri.com/careers/5208470007?gh_jid=5208470007) | 2026-08-10T15:47:58-04:00 |
+| **SpaceX** | Hawthorne, CA | Business Analyst (Starlink Market Analysis) | [Apply](https://boards.greenhouse.io/spacex/jobs/8657082002?gh_jid=8657082002) | 2026-08-10T16:03:34-04:00 |
+| **Booz Allen Hamilton** | Norfolk, VA | Palantir Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Palantir-Data-Engineer_R0244009-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-10 19:45:38
 
 📊 **5 new jobs this batch:**
