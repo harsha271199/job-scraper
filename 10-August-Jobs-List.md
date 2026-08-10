@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — August 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-10 19:45:38
+
+📊 **5 new jobs this batch:**
+- Databricks: 1 job
+- Esri: 1 job
+- Figma: 1 job
+- Hadrian: 1 job
+- Notion: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Hadrian** | San Francisco Bay Area, CA | Robotics Software Engineer, Perception | [Apply](https://jobs.ashbyhq.com/hadrian-automation/81aa9da8-eaff-4644-ae5b-a0d105509a0a) | 2026-08-10T19:10:08.482+00:00 |
+| **Notion** | San Francisco, California | Software Engineer, Collections Infra | [Apply](https://jobs.ashbyhq.com/notion/ca74504a-9b91-4ce3-b0df-97919b46e749) | 2026-08-10T19:31:59.593+00:00 |
+| **Databricks** | United States | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8694074002) | 2026-08-10T14:44:16-04:00 |
+| **Esri** | Redlands, CA | Data Engineer II - Street Data | [Apply](https://www.esri.com/careers/5089948007?gh_jid=5089948007) | 2026-03-26T15:08:05-04:00 |
+| **Figma** | San Francisco, CA • New York, NY | Software Engineer Intern (Winter 2027) | [Apply](https://boards.greenhouse.io/figma/jobs/6131089004?gh_jid=6131089004) | 2026-08-10T15:03:06-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-10 18:38:54
 
 📊 **5 new jobs this batch:**
