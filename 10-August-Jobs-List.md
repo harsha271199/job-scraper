@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — August 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-10 18:38:54
+
+📊 **5 new jobs this batch:**
+- Citi: 1 job
+- Databricks: 1 job
+- Flir: 1 job
+- Mastercard: 1 job
+- Medtronic: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Databricks** | United States | Specialist Solutions Architect - Data Engineering & Warehousing (Financial Services) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8692962002) | 2026-08-10T14:20:46-04:00 |
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | Banamex Business Analyst - Crédito al Consumo | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Banamex-Business-Analyst---Crdito-al-Consumo_26984148-1) | Posted Today |
+| **Flir** | US - Huntsville, AL | Jr. Software Engineer | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Jr-Software-Engineer_REQ36188) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer I | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-I_R-280783) | Posted Today |
+| **Medtronic** | Lafayette, Colorado, United States of America | Sr Software Engineer | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Lafayette-Colorado-United-States-of-America/Sr-Software-Engineer_R74079-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-10 17:41:26
 
 📊 **6 new jobs this batch:**
