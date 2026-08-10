@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — August 10, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-10 17:41:26
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Chime: 1 job
+- Gusto: 1 job
+- HP: 1 job
+- Pfizer: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Chime** | San Francisco, CA, USA | Software Engineer, Communication Platform | [Apply](https://boards.greenhouse.io/chime/jobs/8681191002?gh_jid=8681191002) | 2026-08-10T13:13:42-04:00 |
+| **Gusto** | Denver, CO;San Francisco, CA;New York, NY; | Software Engineer, ML Platform | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8073232) | 2026-08-10T13:18:12-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer_R0245049) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0246418) | Posted Today |
+| **HP** | Spring, Texas, United States of America | Security Software Engineer (R&D) | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Security-Software-Engineer--R-D-_3166702) | Posted Today |
+| **Pfizer** | United States - Massachusetts - Cambridge | Machine Learning Data Engineer (AIM2) | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Machine-Learning-Data-Engineer--AIM2-_4961809-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 10, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-10 16:39:39
 
 📊 **13 new jobs this batch:**
