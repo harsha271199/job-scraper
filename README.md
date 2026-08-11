@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 23:27:21
+
+📊 **1 new jobs this batch:**
+- Handshake: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Handshake** | San Francisco, CA | Associate Software Engineer, Operator Experience | [Apply](https://jobs.ashbyhq.com/handshake/fe319ff8-87e1-46d9-b23e-4b78cf6086f8) | 2026-08-11T22:39:08.914+00:00 |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 22:28:45
 
 📊 **11 new jobs this batch:**
