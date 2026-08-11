@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 18:42:02
+
+📊 **7 new jobs this batch:**
+- Booz Allen Hamilton: 5 jobs
+- Oscar Health: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Oscar Health** | New York, New York, United States | Data Scientist I | [Apply](http://www.hioscar.com/careers/7592274?gh_jid=7592274) | 2026-02-06T10:19:41-05:00 |
+| **SpaceX** | Canandaigua, NY  | Software Engineer (Starlink/Akoustis) | [Apply](https://boards.greenhouse.io/spacex/jobs/8696779002?gh_jid=8696779002) | 2026-08-11T13:58:07-04:00 |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0246637) | Posted Today |
+| **Booz Allen Hamilton** | MacDill AFB, FL | Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Analyst--Mid_R0246622) | Posted Today |
+| **Booz Allen Hamilton** | MacDill AFB, FL | Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Data-Analyst--Mid_R0246618) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Test Automation Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Test-Automation-Software-Engineer_R0246604) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | AI Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer_R0246508) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 17:45:59
 
 📊 **6 new jobs this batch:**
