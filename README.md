@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 11:34:37
+
+📊 **1 new jobs this batch:**
+- Guidehouse: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Guidehouse** | IN - Chennai | Microsoft Business Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/IN---Chennai/Microsoft-Business-Analyst_40157) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 08:00:14
 
 📊 **2 new jobs this batch:**
