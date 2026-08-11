@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 08:00:14
+
+📊 **2 new jobs this batch:**
+- Autodesk: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Autodesk** | San Francisco, CA, USA | Software Engineer, ECAD Architect | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer--ECAD-Architect_26WD100513) | Posted Today |
+| **Autodesk** | San Francisco, CA, USA | Software Engineer | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100510) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 05:44:35
 
 📊 **1 new jobs this batch:**
