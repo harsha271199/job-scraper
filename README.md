@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 20:31:12
+
+📊 **3 new jobs this batch:**
+- Block: 1 job
+- Booz Allen Hamilton: 1 job
+- Samba TV: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Block** | Bay Area, CA, United States of America | Software Engineer, Financial Platform - Issuing | [Apply](http://block.xyz/careers/jobs/5369947008?gh_jid=5369947008) | 2026-08-11T16:20:53-04:00 |
+| **Samba TV** | San Francisco, California | Fullstack Software Engineer | [Apply](https://jobs.lever.co/sambatv/8607b6ab-5488-41f4-a82b-58636df788f6) | 2026-08-11 17:00 |
+| **Booz Allen Hamilton** | Fort Belvoir, VA | AI/ML Engineer and Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/AI-ML-Engineer-and-Data-Scientist_R0246671) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 19:51:55
 
 📊 **6 new jobs this batch:**
