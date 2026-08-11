@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 05:44:35
+
+📊 **1 new jobs this batch:**
+- Anthropic: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY; San Francisco, CA | New York City, NY | Seattle, WA | Software Engineer, Research Tools | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/4981828008) | 2025-11-07T19:13:30-05:00 |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 02:56:52
 
 📊 **7 new jobs this batch:**
