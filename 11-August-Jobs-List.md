@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 12:34:11
+
+📊 **5 new jobs this batch:**
+- OpenAI: 5 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | New York City | Applied AI Engineer, Startups | [Apply](https://jobs.ashbyhq.com/openai/f92d5695-306d-4af2-8d8b-a09259dd626a) | 2025-11-03T17:28:41.473+00:00 |
+| **OpenAI** | San Francisco | Applied AI Engineer, Startups | [Apply](https://jobs.ashbyhq.com/openai/71e7252f-abb1-4b74-8e69-318413042357) | 2026-06-01T16:42:41.263+00:00 |
+| **OpenAI** | San Francisco | Applied AI Engineer, Messenger Integrations | [Apply](https://jobs.ashbyhq.com/openai/3cb8b1c4-b24c-4a5b-be9c-3f47a4161e3c) | 2026-07-17T20:37:22.582+00:00 |
+| **OpenAI** | San Francisco | Applied AI Engineer, Plugins | [Apply](https://jobs.ashbyhq.com/openai/ca9e0aeb-6df1-4b73-8ec0-2e9e124712f1) | 2026-07-14T20:24:43.634+00:00 |
+| **OpenAI** | San Francisco | Applied AI Engineer, Agent Enablement  | [Apply](https://jobs.ashbyhq.com/openai/c1a28411-266b-487b-8ef3-03efb254fc36) | 2026-07-21T00:29:42.830+00:00 |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 11:34:37
 
 📊 **1 new jobs this batch:**
