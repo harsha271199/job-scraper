@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 17:45:59
+
+📊 **6 new jobs this batch:**
+- Anthropic: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Flir: 1 job
+- Snowflake: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Snowflake** | US-CA-Menlo Park | Software Engineer - Cortex Code Agentic System | [Apply](https://jobs.ashbyhq.com/snowflake/654c1b07-0d92-42f5-afaf-f9d1f3d9eb8e) | 2026-08-11T03:46:39.951+00:00 |
+| **Anthropic** | San Francisco, CA | New York City, NY | Software Engineer, Desktop | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5367585008) | 2026-08-11T13:13:09-04:00 |
+| **SpaceX** | Redmond, WA | Application Software Engineer  | [Apply](https://boards.greenhouse.io/spacex/jobs/8696154002?gh_jid=8696154002) | 2026-08-11T13:29:55-04:00 |
+| **Booz Allen Hamilton** | San Diego, CA | AI Software Developer, Junior | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer--Junior_R0246515) | Posted Today |
+| **Booz Allen Hamilton** | Fayetteville, NC | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0246870) | Posted Today |
+| **Flir** | US - Goleta, CA | Software Engineer | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Goleta-CA/Software-Engineer_REQ35970) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 16:42:50
 
 📊 **5 new jobs this batch:**
