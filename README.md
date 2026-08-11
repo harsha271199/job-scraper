@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 21:32:44
+
+📊 **3 new jobs this batch:**
+- Autodesk: 1 job
+- Booz Allen Hamilton: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **xAI** | Memphis, Tennessee; Southaven, Mississippi | Software Engineer - Datacenter | [Apply](https://job-boards.greenhouse.io/xai/jobs/5209858007) | 2026-08-11T17:31:01-04:00 |
+| **Autodesk** | San Francisco, CA, USA | Software Engineer | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100506-1) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0246681) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 20:31:12
 
 📊 **3 new jobs this batch:**
