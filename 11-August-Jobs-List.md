@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 22:28:45
+
+📊 **11 new jobs this batch:**
+- Baseten: 3 jobs
+- Booz Allen Hamilton: 5 jobs
+- Citi: 1 job
+- Nuro: 1 job
+- Sierra: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Baseten** | San Francisco | Software Engineer - Continuous Delivery | [Apply](https://jobs.ashbyhq.com/baseten/fb886b59-fdc3-4315-a9b3-c49808bcd2ce) | 2026-08-11T21:51:26.319+00:00 |
+| **Baseten** | San Francisco | Software Engineer - Testing Frameworks | [Apply](https://jobs.ashbyhq.com/baseten/78028a72-2431-4373-aaec-d6e2c9a1cc7d) | 2026-08-11T21:57:58.396+00:00 |
+| **Baseten** | San Francisco | Software Engineer - AI Developer Productivity | [Apply](https://jobs.ashbyhq.com/baseten/e71e97a8-6367-4050-b6a9-42ce62ec78f1) | 2026-08-11T22:10:03.904+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Agent - Retail | [Apply](https://jobs.ashbyhq.com/Sierra/93fea91f-a8a2-4084-8113-1cde73344e33) | 2026-08-11T22:03:09.266+00:00 |
+| **Nuro** | Mountain View, California (HQ) | Software Engineer, Applied AI Infrastructure | [Apply](https://nuro.ai/careersitem?gh_jid=8122990) | 2026-08-11T18:04:03-04:00 |
+| **Booz Allen Hamilton** | Lexington, MA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Software-Engineer_R0246686) | Posted Today |
+| **Booz Allen Hamilton** | Lexington, MA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Software-Engineer_R0246684) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | AI/ML Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/AI-ML-Engineer--Mid_R0238610) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0241352) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0238002) | Posted Today |
+| **Citi** | Jacksonville Florida United States | Digital Software Engineer Intermediate Analyst Officer | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jacksonville-Florida-United-States/Digital-Software-Engineer-Intermediate-Analyst-Officer_26985258-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 21:32:44
 
 📊 **3 new jobs this batch:**
