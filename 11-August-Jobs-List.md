@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 19:51:55
+
+📊 **6 new jobs this batch:**
+- Amgen: 1 job
+- Booz Allen Hamilton: 1 job
+- Guidehouse: 1 job
+- Nuro: 2 jobs
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Backend Software Engineer - Codex for Finance | [Apply](https://jobs.ashbyhq.com/openai/a23bd45a-e192-460d-bd34-a0f6c4bc6865) | 2026-08-11T19:23:49.234+00:00 |
+| **Nuro** | Mountain View, California (HQ) | Software Engineer, ML Inference Platform | [Apply](https://nuro.ai/careersitem?gh_jid=8122537) | 2026-08-11T15:23:02-04:00 |
+| **Nuro** | Mountain View, California (HQ) | Software Engineer, ML Infrastructure Platform | [Apply](https://nuro.ai/careersitem?gh_jid=8122483) | 2026-08-11T15:13:46-04:00 |
+| **Amgen** | United States - Remote | Data Scientist | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Data-Scientist_R-246583) | Posted Today |
+| **Booz Allen Hamilton** | Aurora, CO | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Data-Scientist--Mid_R0246471) | Posted Today |
+| **Guidehouse** | US - AL, Huntsville | AI/ML Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/AI-ML-Engineer_42933) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 18:42:02
 
 📊 **7 new jobs this batch:**
