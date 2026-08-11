@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 14:09:29
+
+📊 **1 new jobs this batch:**
+- Cox Enterprises: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Cox Enterprises** | Austin TX | Software Engineer II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Austin-TX/Software-Engineer-II_R202678661) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 12:34:11
 
 📊 **5 new jobs this batch:**
