@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 15:45:45
+
+📊 **3 new jobs this batch:**
+- DoorDash: 1 job
+- OpenAI: 1 job
+- PatientPoint: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | New York City | Applied AI Engineer, Global Affairs | [Apply](https://jobs.ashbyhq.com/openai/8859d8fa-48d8-4e1a-a53f-39e7a58e4522) | 2026-07-21T00:31:37.741+00:00 |
+| **DoorDash** | San Francisco, CA; New York, NY; Seattle, WA | Software Engineer, Traffic | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8120763) | 2026-08-11T10:39:05-04:00 |
+| **PatientPoint** | Cincinnati, Ohio, United States | Software Engineer in Test | [Apply](https://job-boards.greenhouse.io/patientpoint/jobs/4722426005) | 2026-08-11T10:31:13-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 14:09:29
 
 📊 **1 new jobs this batch:**
