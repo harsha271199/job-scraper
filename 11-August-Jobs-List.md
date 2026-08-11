@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — August 11, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-11 16:42:50
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Epic Games: 1 job
+- Ramp: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Ramp** | New York, NY (HQ) | Data Scientist, Finance | [Apply](https://jobs.ashbyhq.com/ramp/aa5512b1-d973-4d74-9d10-d56446ecf803) | 2026-08-11T16:02:54.137+00:00 |
+| **Epic Games** | Cary,North Carolina,United States | Machine Learning Engineer, Memory | [Apply](https://epicgames.com/careers/jobs/6134271004?gh_jid=6134271004) | 2026-08-11T12:38:01-04:00 |
+| **Zoox** | Foster City, CA | Student Worker - Machine Learning Engineer - Data Mining & VLM | [Apply](https://jobs.lever.co/zoox/7206fd97-14e4-43a0-b903-ba65dfeee53e) | 2026-08-07 19:04 |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0246170) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Analyst_R0239936-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 11, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-11 15:45:45
 
 📊 **3 new jobs this batch:**
