@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 12, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-12 23:27:32
+
+📊 **3 new jobs this batch:**
+- Anthropic: 1 job
+- Northrop Grumman: 1 job
+- Tanium: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY | Software Engineer, Infrastructure, Interpretability | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5388612008) | 2026-08-12T18:29:15-04:00 |
+| **Tanium** | Addison, TX (Hybrid); Bellevue, WA (Hybrid); Durham, NC (Hybrid); Emeryville, CA (Hybrid); Reston, VA (Hybrid) | AI Business Analyst | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8100488) | 2026-08-12T18:49:48-04:00 |
+| **Northrop Grumman** | United States-Colorado-Aurora | Python Software Engineer Level 3 or 4 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Python-Software-Engineer-Level-3-or-4--AHT-_R10245551) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 12, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-12 22:27:27
 
 📊 **17 new jobs this batch:**
