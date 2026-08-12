@@ -1,6 +1,39 @@
 # 📢 Job Listings for Harsha — August 12, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-12 22:27:27
+
+📊 **17 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- LaunchDarkly: 4 jobs
+- Mastercard: 1 job
+- PayPal: 10 jobs
+- Samsara: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **LaunchDarkly** | Remote - US | Backend Engineer, Flag Delivery | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7861151003) | 2026-08-12T18:14:44-04:00 |
+| **LaunchDarkly** | Remote - US | Sr Backend Engineer, Billing | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7860525003) | 2026-08-12T18:12:43-04:00 |
+| **LaunchDarkly** | Remote - US | Sr Backend Engineer, Flag Delivery | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7861200003) | 2026-08-12T18:16:48-04:00 |
+| **LaunchDarkly** | Remote - US | Sr Backend Engineer, Identity & Access Management | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/7860487003) | 2026-08-12T18:10:35-04:00 |
+| **Samsara** | San Francisco - SF9 | Finance & Strategy AI Engineer | [Apply](https://www.samsara.com/company/careers/roles/8113356?gh_jid=8113356) | 2026-08-12T18:01:05-04:00 |
+| **Booz Allen Hamilton** | Stafford, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stafford-VA/Data-Scientist_R0240206-1) | Posted Today |
+| **Mastercard** | Arlington, Virginia | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II_R-280498) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137236) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137231) | Posted Today |
+| **PayPal** | Austin, Texas, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137232) | Posted Today |
+| **PayPal** | Austin, Texas, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137230) | Posted Today |
+| **PayPal** | Austin, Texas, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137229) | Posted Today |
+| **PayPal** | Scottsdale, Arizona, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer_R0137226) | Posted Today |
+| **PayPal** | Austin, Texas, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137227) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137228) | Posted Today |
+| **PayPal** | New York City, New York, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/New-York-City-New-York-United-States-of-America/Software-Engineer_R0137225) | Posted Today |
+| **PayPal** | Chicago, Illinois, United States of America | Sr Data Scientist | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0137224) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 12, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-12 20:29:06
 
 📊 **1 new jobs this batch:**
