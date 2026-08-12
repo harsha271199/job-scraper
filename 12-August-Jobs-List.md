@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 12, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-12 20:29:06
+
+📊 **1 new jobs this batch:**
+- General Motors: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **General Motors** | Austin, Texas, United States of America | Agentic Data Engineer | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Austin-Texas-United-States-of-America/Agentic-Data-Engineer_JR-202616159) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 12, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-12 18:43:20
 
 📊 **4 new jobs this batch:**
