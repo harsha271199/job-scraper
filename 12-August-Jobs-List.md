@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — August 12, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-12 17:47:17
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Gusto: 1 job
+- OpenAI: 1 job
+- Samsara: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Machine Learning Data Scientist, Forecasting | [Apply](https://jobs.ashbyhq.com/openai/0b57e309-426d-4f5c-a28c-6dd941b84703) | 2026-08-12T17:04:27.481+00:00 |
+| **Gusto** | San Francisco, CA, United States | Enterprise Application AI Engineer | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7369003) | 2025-11-21T12:44:04-05:00 |
+| **Samsara** | Remote - Chicago | AI Data Engineering | [Apply](https://www.samsara.com/company/careers/roles/8091855?gh_jid=8091855) | 2026-08-12T13:42:39-04:00 |
+| **Samsara** | Remote - Canada | AI Data Engineering | [Apply](https://www.samsara.com/company/careers/roles/8126100?gh_jid=8126100) | 2026-08-12T13:44:31-04:00 |
+| **Booz Allen Hamilton** | Millington, TN | Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Millington-TN/Data-Analyst--Mid_R0246792) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/DevOps-Engineer_R0246778) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 12, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-12 16:42:55
 
 📊 **5 new jobs this batch:**
