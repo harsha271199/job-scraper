@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 12, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-12 18:43:20
+
+📊 **4 new jobs this batch:**
+- Databricks: 1 job
+- Northrop Grumman: 2 jobs
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Databricks** | United States | Specialist Solutions Architect - Data Engineering & Warehousing (Digital Native Business) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8649971002) | 2026-08-12T13:54:16-04:00 |
+| **xAI** | Palo Alto, California | Analytics Engineer - X | [Apply](https://job-boards.greenhouse.io/xai/jobs/5210564007) | 2026-08-12T14:39:14-04:00 |
+| **Northrop Grumman** | United States-Illinois-Rolling Meadows | Associate Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Illinois-Rolling-Meadows/Associate-Software-Engineer_R10245470) | Posted Today |
+| **Northrop Grumman** | United States-Ohio-Beavercreek | Associate AI Software Engineer/ AI Software Engineer (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AI-Software-Engineer--AHT-_R10245469) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 12, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-12 17:47:17
 
 📊 **6 new jobs this batch:**
