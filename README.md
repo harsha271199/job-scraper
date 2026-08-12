@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — August 12, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-12 16:42:55
+
+📊 **5 new jobs this batch:**
+- Amplitude: 1 job
+- Booz Allen Hamilton: 2 jobs
+- General Motors: 1 job
+- Roblox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Amplitude** | San Francisco, CA | Software Engineer II, Growth | [Apply](https://job-boards.greenhouse.io/amplitude/jobs/8700618002) | 2026-08-12T12:33:28-04:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Account Authentication | [Apply](https://careers.roblox.com/jobs/8097701?gh_jid=8097701) | 2026-08-12T12:11:42-04:00 |
+| **Booz Allen Hamilton** | Washington, DC | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer_R0246782) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Analyst_R0246112) | Posted Today |
+| **General Motors** | Warren, Michigan, United States of America | Entry Level Software Engineer | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Entry-Level-Software-Engineer_JR-202616904) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 12, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-12 15:46:04
 
 📊 **12 new jobs this batch:**
