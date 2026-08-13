@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 16:41:43
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Full Stack Software Engineer - Codex for Finance | [Apply](https://jobs.ashbyhq.com/openai/099dd6af-b017-4a60-85d5-4c79da3a9ead) | 2026-08-13T16:31:47.234+00:00 |
+| **Booz Allen Hamilton** | Albuquerque, NM | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Data-Engineer_R0237241) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 15:45:31
 
 📊 **3 new jobs this batch:**
