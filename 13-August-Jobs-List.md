@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 12:38:00
+
+📊 **1 new jobs this batch:**
+- Boeing: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Boeing** | USA - Swansea, IL | Security Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Swansea-IL/Security-Software-Engineer_JR2026505728-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 08:59:08
 
 📊 **1 new jobs this batch:**
