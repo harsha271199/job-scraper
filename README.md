@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 05:25:10
+
+📊 **3 new jobs this batch:**
+- Gartner: 1 job
+- Medtronic: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Machine Learning Engineer, API Multicloud | [Apply](https://jobs.ashbyhq.com/openai/5acf4854-1d42-40ca-bff8-4f6f04cdce68) | 2026-08-13T03:21:23.747+00:00 |
+| **Gartner** | Irving, TX | Data Analyst Internship (2028 Graduates) | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/Data-Analyst-Internship--2028-Graduates-_113297) | Posted Today |
+| **Medtronic** | Tijuana, Baja California, Mexico | Sr IT Business Analyst | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Sr-IT-Business-Analyst_R73950) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 03:19:53
 
 📊 **2 new jobs this batch:**
