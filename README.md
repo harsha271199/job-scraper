@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 14:12:15
+
+📊 **3 new jobs this batch:**
+- Affirm: 1 job
+- Comcast: 1 job
+- Motorola Solutions: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Affirm** | Remote UK | Software Engineer II, Fullstack (International) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7854835003) | 2026-08-13T08:48:31-04:00 |
+| **Comcast** | PA - West Chester, 1354 Boot Rd | Oracle Fusion Cloud Engineer | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Oracle-Fusion-Cloud-Engineer_R442372) | Posted Today |
+| **Motorola Solutions** | Allen, TX (TX139) | DevOps Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/DevOps-Engineer_R65756) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 12:38:00
 
 📊 **1 new jobs this batch:**
