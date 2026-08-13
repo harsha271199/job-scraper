@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 20:26:59
+
+📊 **2 new jobs this batch:**
+- GitLab: 1 job
+- Motorola Solutions: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **GitLab** | Remote, Canada | Backend Engineer, Source Code Experience (Ruby) | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8687926002) | 2026-08-13T15:59:22-04:00 |
+| **Motorola Solutions** | Culver City, CA | Software Engineer, Linux Operations | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Culver-City-CA/Software-Engineer--Linux-Operations_R67602) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 19:48:50
 
 📊 **4 new jobs this batch:**
