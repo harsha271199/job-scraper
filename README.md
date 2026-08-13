@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 17:46:50
+
+📊 **6 new jobs this batch:**
+- Airbnb: 1 job
+- Booz Allen Hamilton: 1 job
+- CVS Health: 1 job
+- Snowflake: 1 job
+- SpaceX: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Snowflake** | CA-Ontario-Toronto | Fullstack Software Engineer | [Apply](https://jobs.ashbyhq.com/snowflake/5d522a45-5aa4-440d-a5dc-7a4434d8038e) | 2026-08-13T17:15:56.601+00:00 |
+| **Airbnb** | United States | Software Engineer, Secure Development Engineering | [Apply](https://careers.airbnb.com/positions/8127075?gh_jid=8127075) | 2026-08-13T13:03:19-04:00 |
+| **SpaceX** | Hawthorne, CA | Full Stack Software Engineer (Components)  | [Apply](https://boards.greenhouse.io/spacex/jobs/8706459002?gh_jid=8706459002) | 2026-08-13T13:09:34-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8706510002?gh_jid=8706510002) | 2026-08-13T12:06:01-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0246875) | Posted Today |
+| **CVS Health** | CT - Hartford | Data Engineer | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Data-Engineer_R0991055) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 16:41:43
 
 📊 **2 new jobs this batch:**
