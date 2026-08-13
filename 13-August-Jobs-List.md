@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 22:27:50
+
+📊 **1 new jobs this batch:**
+- Sierra: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Sierra** | San Francisco, CA | Software Engineer, Agent - Tech, Media & Telecom | [Apply](https://jobs.ashbyhq.com/Sierra/4472e6c2-fe4e-4540-a37c-68b9367fe02a) | 2026-08-13T21:35:33.814+00:00 |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 21:32:24
 
 📊 **2 new jobs this batch:**
