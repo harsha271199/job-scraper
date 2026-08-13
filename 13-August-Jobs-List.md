@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 19:48:50
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Esri: 2 jobs
+- GitLab: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Esri** | Redlands, CA | Business Analyst I | [Apply](https://www.esri.com/careers/5210948007?gh_jid=5210948007) | 2026-08-13T14:55:36-04:00 |
+| **Esri** | Denver, CO - Louisville | Data Scientist II | [Apply](https://www.esri.com/careers/5209936007?gh_jid=5209936007) | 2026-08-13T14:52:38-04:00 |
+| **GitLab** | Remote, United Kingdom | Backend Engineer, Create: Repository Management (Ruby) | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8687932002) | 2026-08-13T15:43:32-04:00 |
+| **Booz Allen Hamilton** | Dayton, OH | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/DevOps-Engineer_R0246926) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 18:43:33
 
 📊 **8 new jobs this batch:**
