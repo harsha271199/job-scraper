@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 15:45:31
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Garner Health: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Garner Health** | New York City, New York | Applied Scientist II | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6141361004) | 2026-08-13T10:16:09-04:00 |
+| **Garner Health** | New York City, New York | Applied Scientist III | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6121272004) | 2026-08-13T10:16:09-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Platform DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Platform-DevOps-Engineer_R0246850) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 14:12:15
 
 📊 **3 new jobs this batch:**
