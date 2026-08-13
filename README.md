@@ -1,6 +1,30 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 18:43:33
+
+📊 **8 new jobs this batch:**
+- Benchling: 1 job
+- Booz Allen Hamilton: 1 job
+- Flir: 4 jobs
+- Salesforce: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Benchling** | San Francisco, CA | Software Engineer, Full Stack (Document Canvas) | [Apply](https://jobs.ashbyhq.com/benchling/d627fcc2-2e34-4bde-9be2-242c89c19436) | 2026-08-13T17:48:20.081+00:00 |
+| **xAI** | Memphis, Tennessee; Southaven, Mississippi | Site Reliability Engineer - Datacenter | [Apply](https://job-boards.greenhouse.io/xai/jobs/5211587007) | 2026-08-13T13:50:40-04:00 |
+| **Booz Allen Hamilton** | Atlanta, GA | Public Health Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Public-Health-Business-Analyst_R0246200) | Posted Today |
+| **Flir** | US - Huntsville, AL | NHRC Software Engineering Internship (Summer 2027) | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36194-2) | Posted Today |
+| **Flir** | US - Huntsville, AL | Associate Software Engineer | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36190) | Posted Today |
+| **Flir** | US - Huntsville, AL | NHRC Software Engineering Internship (Summer 2027) | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/NHRC-Software-Engineering-Internship--Summer-2027-_REQ36193) | Posted Today |
+| **Flir** | US - Huntsville, AL | Associate Software Engineer | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Associate-Software-Engineer_REQ36189) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering SMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR355283) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 17:46:50
 
 📊 **6 new jobs this batch:**
