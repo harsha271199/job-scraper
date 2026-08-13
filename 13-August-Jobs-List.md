@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 08:59:08
+
+📊 **1 new jobs this batch:**
+- MoonPay: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **MoonPay** | United States (East Coast Time Zone) - Remote | Blockhain Platform Engineer | [Apply](https://jobs.lever.co/moonpay/48ec667e-9cfb-415f-9228-7bbd3049f000) | 2026-08-12 08:33 |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 07:05:57
 
 📊 **1 new jobs this batch:**
