@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 13, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-13 23:28:33
+
+📊 **3 new jobs this batch:**
+- Broadcom: 1 job
+- Northrop Grumman: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Waymo** | Mountain View, CA, USA; San Francisco, CA, USA | Perception Machine Learning Engineer - Continuous Learning | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8127006) | 2026-08-13T18:58:13-04:00 |
+| **Broadcom** | USA-CA - Promontory E | R&D Software Engineer | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-E/R-D-Software-Engineer_R026809) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Schriever AFB | DevOps Engineer - Level 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Schriever-AFB/DevOps-Engineer---Level-4_R10245670) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 13, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-13 22:27:50
 
 📊 **1 new jobs this batch:**
