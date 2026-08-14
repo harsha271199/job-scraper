@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — August 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-14 21:13:21
+
+📊 **8 new jobs this batch:**
+- Block: 1 job
+- Booz Allen Hamilton: 1 job
+- CrowdStrike: 1 job
+- Guidehouse: 2 jobs
+- Lyft: 1 job
+- Medtronic: 1 job
+- New Relic: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Block** | Bay Area, CA, United States of America | Enterprise People Platform Engineer | [Apply](http://block.xyz/careers/jobs/5381210008?gh_jid=5381210008) | 2026-08-05T15:40:06-04:00 |
+| **Lyft** | Seattle, WA | Software Engineer, Fulfillment Core Services | [Apply](https://app.careerpuck.com/job-board/lyft/job/8716222002?gh_jid=8716222002) | 2026-08-14T16:46:23-04:00 |
+| **New Relic** | Portland, Oregon, USA | Associate Software Engineer - Java (Distributed Systems and Databases) | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5390637008) | 2026-08-14T16:30:06-04:00 |
+| **Booz Allen Hamilton** | McLean, VA | Business and Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Business-and-Data-Analyst_R0246987) | Posted Today |
+| **CrowdStrike** | USA - Remote | Data Scientist, Applied AI/ML | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Data-Scientist--Applied-AI-ML_R29843) | Posted Today |
+| **Guidehouse** | US - VA, McLean | Product Owner/Business Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Product-Owner-Business-Analyst_43192) | Posted Today |
+| **Guidehouse** | US - VA, McLean | Platform Engineer/DevSecOps | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Platform-Engineer-DevSecOps_43194) | Posted Today |
+| **Medtronic** | Minneapolis, Minnesota, United States of America | Sr Software Engineer | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Software-Engineer_R74516-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-14 20:18:48
 
 📊 **2 new jobs this batch:**
