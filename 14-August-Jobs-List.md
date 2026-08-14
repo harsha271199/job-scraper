@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-14 17:42:23
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- CrowdStrike: 1 job
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Stripe** | New York, NY | Software Engineer, Backend Engineer- Credit Coverage | [Apply](https://stripe.com/jobs/search?gh_jid=8130578) | 2026-08-14T13:38:23-04:00 |
+| **Booz Allen Hamilton** | Huntsville, AL | AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/AI-Engineer_R0246920) | Posted Today |
+| **CrowdStrike** | United Kingdom - Remote | Engineer II, Site Reliability (Remote, GBR) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/United-Kingdom---Remote/Engineer-II--Site-Reliability--Remote--GBR-_R29729) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-14 16:37:38
 
 📊 **2 new jobs this batch:**
