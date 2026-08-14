@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — August 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-14 19:40:27
+
+📊 **7 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Citi: 1 job
+- CrowdStrike: 1 job
+- Notion: 3 jobs
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Notion** | San Francisco, California | Software Engineer Intern (Winter 2027) | [Apply](https://jobs.ashbyhq.com/notion/e66c6658-9e65-4c58-8db2-844628b6e8f8) | 2026-08-14T19:05:18.297+00:00 |
+| **Notion** | San Francisco, California | Software Engineer Intern (Summer 2027) | [Apply](https://jobs.ashbyhq.com/notion/3fba1c39-c5cb-47d7-9ad2-1cec4d7e9d0c) | 2026-08-14T19:07:13.459+00:00 |
+| **Notion** | San Francisco, California | Software Engineer, New Grad (Dec 2026) | [Apply](https://jobs.ashbyhq.com/notion/e32799d2-8ef8-4803-8189-c72514afa816) | 2026-08-14T19:12:39.557+00:00 |
+| **Booz Allen Hamilton** | McLean, VA | Scientific Data Engineering Specialist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Scientific-Data-Engineering-Specialist_R0247081) | Posted Today |
+| **CrowdStrike** | USA - Remote | AI Research Scientist (Remote) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/AI-Research-Scientist--Remote-_R29829) | Posted Today |
+| **Citi** | Irving Texas United States | Full Stack Software Engineer | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Full-Stack-Software-Engineer_26986393) | Posted Today |
+| **Salesforce** | Texas - Dallas | Full Stack Software Engineer – AI-Native Engineering | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Senior-Software-Engineer--Contract-Lifecycle-Management--CLM-_JR338000) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-14 18:37:09
 
 📊 **1 new jobs this batch:**
