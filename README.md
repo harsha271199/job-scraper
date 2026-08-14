@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-14 18:37:09
+
+📊 **1 new jobs this batch:**
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Redmond, WA | Satellite On-Orbit Operations Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8706537002?gh_jid=8706537002) | 2026-08-14T13:49:35-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-14 17:42:23
 
 📊 **3 new jobs this batch:**
