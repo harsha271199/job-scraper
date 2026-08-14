@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-14 20:18:48
+
+📊 **2 new jobs this batch:**
+- CVS Health: 1 job
+- Twitch: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Twitch** | San Francisco, CA | Software Engineer I, Payments | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8700578002) | 2026-08-14T16:13:21-04:00 |
+| **CVS Health** | AZ - Work from home | Business Analyst, Regulatory Reporting Solutions (Remote) | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/AZ---Work-from-home/Business-Analyst--Regulatory-Reporting-Solutions--Remote-_R0935742) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-14 19:40:27
 
 📊 **7 new jobs this batch:**
