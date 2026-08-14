@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — August 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-14 15:39:13
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Motorola Solutions: 1 job
+- Nvidia: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0247048) | Posted Today |
+| **Booz Allen Hamilton** | Millington, TN | Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Millington-TN/Data-Analyst--Mid_R0246757) | Posted Today |
+| **Motorola Solutions** | Plantation, FL, More... | Android Platform Software Engineering Intern - Summer 2027 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R67362-1) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Software Engineer, Infrastructure - DGX Cloud | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Infrastructure---DGX-Cloud_JR2022400) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering MTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR353585) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-14 14:05:58
 
 📊 **1 new jobs this batch:**
