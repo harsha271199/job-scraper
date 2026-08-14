@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-14 16:37:38
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Fiserv: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Fort Meade, MD | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cloud-Engineer_R0247055) | Posted Today |
+| **Fiserv** | Berkeley Heights, New Jersey | Software Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/Data---ML-Engineer_R-10398706) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-14 15:39:13
 
 📊 **5 new jobs this batch:**
