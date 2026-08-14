@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 14, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-14 22:09:39
+
+📊 **1 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Aurora, CO | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Data-Scientist--Mid_R0247078) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 14, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-14 21:13:21
 
 📊 **8 new jobs this batch:**
