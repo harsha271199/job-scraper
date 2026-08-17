@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-17 15:13:08
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Datadog: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Datadog** | Boston, Massachusetts, USA; New York, New York, USA | Software Engineering Intern (Winter) | [Apply](https://careers.datadoghq.com/detail/8052095/?gh_jid=8052095) | 2026-08-17T10:32:16-04:00 |
+| **Booz Allen Hamilton** | Fayetteville, NC | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Engineer_R0247124) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-17 14:15:15
 
 📊 **5 new jobs this batch:**
