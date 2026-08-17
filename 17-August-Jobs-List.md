@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — August 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-17 22:10:28
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Northrop Grumman: 1 job
+- Stripe: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Stripe** | South San Francisco, CA | Machine Learning Engineer | [Apply](https://stripe.com/jobs/search?gh_jid=8137997) | 2026-08-17T18:06:29-04:00 |
+| **Stripe** | Chicago, IL | Software Engineer | [Apply](https://stripe.com/jobs/search?gh_jid=8137972) | 2026-08-17T17:52:22-04:00 |
+| **Booz Allen Hamilton** | Jacksonville, NC | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Jacksonville-NC/Data-Scientist--Mid_R0247175) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | AI/ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/AI-ML-Engineer_R0246722-1) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Aurora | AI Software Engineer Level 3 or 4 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/R10245685-AI-Software-Engineer-Level-3-or-4--AHT-_R10246115) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-17 21:13:54
 
 📊 **3 new jobs this batch:**
