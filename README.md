@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — August 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-17 18:18:50
+
+📊 **8 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Figma: 1 job
+- OpenAI: 1 job
+- Qualtrics: 1 job
+- Snowflake: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Snowflake** | IN-Pune | Technical Architect, Data Engineering  | [Apply](https://jobs.ashbyhq.com/snowflake/f54e5e42-3952-402a-90dc-2791f37d9d14) | 2026-08-17T17:29:07.568+00:00 |
+| **OpenAI** | US - Remote | Data Scientist, Cybersecurity  | [Apply](https://jobs.ashbyhq.com/openai/894ce80d-c587-4ef0-92d2-b16deb9a06b9) | 2026-08-17T17:44:00.786+00:00 |
+| **Figma** | San Francisco, CA • New York, NY • United States | Software Engineer - Application Platform | [Apply](https://boards.greenhouse.io/figma/jobs/6142506004?gh_jid=6142506004) | 2026-08-17T13:48:59-04:00 |
+| **Qualtrics** | Reston, Virginia, United States | Applied Scientist II | [Apply](https://www.qualtrics.com/careers/us/en/job/8115079?gh_jid=8115079) | 2026-08-17T14:10:13-04:00 |
+| **xAI** | Palo Alto, California | Software Engineer - Consumer Subscriptions | [Apply](https://job-boards.greenhouse.io/xai/jobs/5109691007) | 2026-04-16T02:45:51-04:00 |
+| **Booz Allen Hamilton** | San Antonio, TX | AI Engineer, Junior | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AI-Engineer--Junior_R0247358) | Posted Today |
+| **Booz Allen Hamilton** | Ashburn, VA | Intelligence Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Intelligence-Data-Analyst_R0245769) | Posted Today |
+| **Booz Allen Hamilton** | Ashburn, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/DevOps-Engineer_R0245764) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-17 17:15:14
 
 📊 **6 new jobs this batch:**
