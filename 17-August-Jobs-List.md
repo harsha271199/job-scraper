@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — August 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-17 17:15:14
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Flir: 2 jobs
+- Guidehouse: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Aurora, CO | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Data-Scientist--Mid_R0247100) | Posted Today |
+| **Booz Allen Hamilton** | Aurora, CO | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Data-Scientist--Mid_R0247101) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Full Stack Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Full-Stack-Software-Engineer_R0246949) | Posted Today |
+| **Flir** | US - Huntsville, AL | Platform Engineer | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Platform-Engineer_REQ36227) | Posted Today |
+| **Flir** | US - Huntsville, AL | Software Engineer | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Software-Engineer_REQ36319) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Data Infrastructure Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Data-Infrastructure-Engineer_43344) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-17 16:12:02
 
 📊 **4 new jobs this batch:**
