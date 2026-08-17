@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-17 21:13:54
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Kong: 1 job
+- Roblox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Kong** | San Francisco, California, United States | Software Engineer, Core Platform | [Apply](https://jobs.ashbyhq.com/kong/a9162a3b-d834-4ca2-b2ac-9a140b9b5436) | 2026-08-17T20:31:58.903+00:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Foundation AI | [Apply](https://careers.roblox.com/jobs/8123004?gh_jid=8123004) | 2026-08-17T16:14:00-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Full Stack Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Software-Developer_R0226707) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-17 20:11:56
 
 📊 **3 new jobs this batch:**
