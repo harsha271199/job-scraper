@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — August 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-17 19:18:54
+
+📊 **8 new jobs this batch:**
+- Booz Allen Hamilton: 5 jobs
+- Comcast: 1 job
+- Gusto: 1 job
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Gusto** | San Francisco, CA - Hybrid | Software Engineer,  AI Developer Tools | [Apply](https://job-boards.greenhouse.io/gusto/jobs/7947684) | 2026-06-05T16:07:32-04:00 |
+| **Booz Allen Hamilton** | Alexandria, VA | High Side Operations Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/High-Side-Operations-Software-Engineer_R0247158) | Posted Today |
+| **Booz Allen Hamilton** | Ashburn, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Data-Scientist_R0245759) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0247155) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Secure AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Secure-AI-Engineer_R0245884) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Artificial Intelligence/Machine Learning Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Artificial-Intelligence-Machine-Learning-Engineer_R0246422) | Posted Today |
+| **Comcast** | PA - West Chester, 1354 Boot Rd | Platform Data Engineer - (DataBricks, PySpark, AWS) | [Apply](https://comcast.wd5.myworkdayjobs.com/en-US/Comcast_Careers/job/PA---West-Chester-1354-Boot-Rd/Platform-Data-Engineer----DataBricks--PySpark--AWS-_R442523) | Posted Today |
+| **Target** | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | Sr Engineer - MLOps Platform | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Engineer---MLOps-Platform_R0000447712-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-17 18:18:50
 
 📊 **8 new jobs this batch:**
