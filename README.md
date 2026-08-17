@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — August 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-17 20:11:56
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- CVS Health: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | McLean, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0247157) | Posted Today |
+| **CVS Health** | NY - New York | Data Scientist | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Scientist_R1011940) | Posted Today |
+| **CVS Health** | TX - Irving | Sr Machine Learning Engineer | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Sr-Machine-Learning-Engineer_R1011923) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-17 19:18:54
 
 📊 **8 new jobs this batch:**
