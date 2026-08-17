@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 17, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-17 16:12:02
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Motorola Solutions: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Washington, DC | Full Stack Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Full-Stack-Software-Engineer_R0246953) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0247120) | Posted Today |
+| **Motorola Solutions** | Allen, TX (TX139) | Software Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Allen-TX-TX139/Software-Engineer_R67011) | Posted Today |
+| **Salesforce** | Washington - Bellevue | Security Platform Engineer - MTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Security-Platform-Engineer---MTS_JR353828-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 17, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-17 15:13:08
 
 📊 **2 new jobs this batch:**
