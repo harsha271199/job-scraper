@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 23:10:36
+
+📊 **1 new jobs this batch:**
+- Crusoe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Crusoe** | Denver, CO - US | Strategic Sourcing Data Analyst | [Apply](https://jobs.ashbyhq.com/crusoe/b5dc0c85-b7dc-46c3-a23a-a54ba6a979d5) | 2026-08-18T22:33:04.335+00:00 |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 21:11:29
 
 📊 **4 new jobs this batch:**
