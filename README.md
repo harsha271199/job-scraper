@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 18:17:44
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 4 jobs
+- Okta: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Okta** | San Francisco, California | Software Engineer II, Frontend Agentic AI  | [Apply](https://www.okta.com/company/careers/opportunity/8139374?gh_jid=8139374) | 2026-08-18T13:28:20-04:00 |
+| **Booz Allen Hamilton** | Aurora, CO | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Data-Scientist_R0247279) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0247287) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Analyst_R0247289) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0247280) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 17:15:13
 
 📊 **5 new jobs this batch:**
