@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 03:33:20
+
+📊 **3 new jobs this batch:**
+- SpaceX: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Hawthorne, CA | Security Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8719860002?gh_jid=8719860002) | 2026-08-17T23:23:15-04:00 |
+| **SpaceX** | Bastrop, TX | Security Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8719865002?gh_jid=8719865002) | 2026-08-17T23:23:15-04:00 |
+| **SpaceX** | Redmond, WA | Security Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8719854002?gh_jid=8719854002) | 2026-08-17T23:23:12-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 02:07:43
 
 📊 **4 new jobs this batch:**
