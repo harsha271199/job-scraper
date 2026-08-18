@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 16:16:10
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Intel: 1 job
+- SpaceX: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Hawthorne, CA | Full Stack Software Engineer, Employee Experience  | [Apply](https://boards.greenhouse.io/spacex/jobs/8726225002?gh_jid=8726225002) | 2026-08-18T11:22:34-04:00 |
+| **SpaceX** | Redmond, WA | Software Engineer, Starlink Enterprise Products (Space Lasers) | [Apply](https://boards.greenhouse.io/spacex/jobs/8715839002?gh_jid=8715839002) | 2026-08-18T11:45:29-04:00 |
+| **Booz Allen Hamilton** | Washington, DC | Data Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Engineer--Mid_R0247241) | Posted Today |
+| **Booz Allen Hamilton** | Aurora, CO | Data Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Data-Enigneer--Mid_R0247099) | Posted Today |
+| **Intel** | US, Texas, Austin | Design Automation & DevOps Software Engineer | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Texas-Austin/Design-Automation---DevOps-Software-Engineer_JR0286395) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 15:19:02
 
 📊 **2 new jobs this batch:**
