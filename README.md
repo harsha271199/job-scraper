@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 15:19:02
+
+📊 **2 new jobs this batch:**
+- Cox Enterprises: 1 job
+- Morgan Stanley: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Cox Enterprises** | Atlanta GA | Software Engineer II - 20269 | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-II---20269_R202681181) | Posted Today |
+| **Morgan Stanley** | New York, New York, United States of America | AI Integration Software Engineer - Associate | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/AI-Integration-Software-Engineer---Associate_PT-JR040555) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 14:20:05
 
 📊 **1 new jobs this batch:**
