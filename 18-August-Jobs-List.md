@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 17:15:13
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- SpaceX: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Redmond, WA | Full Stack Software Engineer, Operations Software (Starlink)  | [Apply](https://boards.greenhouse.io/spacex/jobs/8722645002?gh_jid=8722645002) | 2026-08-18T12:25:11-04:00 |
+| **SpaceX** | Starbase, TX | Software Engineer | [Apply](https://boards.greenhouse.io/spacex/jobs/8726545002?gh_jid=8726545002) | 2026-08-18T12:42:29-04:00 |
+| **Booz Allen Hamilton** | Springfield, VA | Multimedia Research Scientist and Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Multimedia-Research-Scientist-and-Analyst_R0247290) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Software-Engineer_R0247283-1) | Posted Today |
+| **Booz Allen Hamilton** | Aurora, CO | Machine Learning Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Machine-Learning-Engineer_R0246351) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 16:16:10
 
 📊 **5 new jobs this batch:**
