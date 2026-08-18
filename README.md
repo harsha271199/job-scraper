@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 11:13:26
+
+📊 **1 new jobs this batch:**
+- Scopely: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Scopely** | US - United States | Data Analyst_ Unannounced Title | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5370217008?gh_jid=5370217008) | 2026-08-18T06:51:59-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 06:19:44
 
 📊 **1 new jobs this batch:**
