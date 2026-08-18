@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 13:33:44
+
+📊 **2 new jobs this batch:**
+- Cox Enterprises: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Cox Enterprises** | Carmel IN | Software Engineer II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-II_R202681116) | Posted Today |
+| **Northrop Grumman** | United States-Ohio-Wright-Patterson AFB | Cloud Engineer (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Cloud-Engineer--AHT-_R10246181) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 12:18:00
 
 📊 **1 new jobs this batch:**
