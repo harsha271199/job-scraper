@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 19:19:05
+
+📊 **4 new jobs this batch:**
+- OpenAI: 1 job
+- Stripe: 1 job
+- Waymo: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, Plugin Developer Platform | [Apply](https://jobs.ashbyhq.com/openai/71838fdf-4476-490c-81b6-4bf0746f6774) | 2026-08-18T19:12:23.311+00:00 |
+| **Stripe** | Toronto, Canada Remote | Backend Engineer, Payments | [Apply](https://stripe.com/jobs/search?gh_jid=6692166) | 2025-04-29T01:25:47-04:00 |
+| **Waymo** | Mountain View, CA, United States  | Software Engineer, Marketplace Logistic | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7905709) | 2026-08-18T14:21:35-04:00 |
+| **Zoox** | Boston, MA | Data Scientist - Perception Verification and Validation | [Apply](https://jobs.lever.co/zoox/44256995-b7d1-4c4a-b83b-3c55b69dedf7) | 2026-08-18 18:33 |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 18:17:44
 
 📊 **5 new jobs this batch:**
