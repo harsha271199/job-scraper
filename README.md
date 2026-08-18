@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 20:09:23
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- CVS Health: 1 job
+- CrowdStrike: 1 job
+- LangChain: 1 job
+- Pinterest: 1 job
+- Reddit: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **LangChain** | San Francisco, CA | Platform Software Engineer, Ingestion  | [Apply](https://jobs.ashbyhq.com/langchain/bdcced92-2dca-49b0-bc33-4ec0cf5a8e00) | 2026-08-18T19:52:07.598+00:00 |
+| **Pinterest** | San Francisco, CA, US; Remote, US | Software Engineer II, Fullstack | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=4843547) | 2023-02-07T18:55:26-05:00 |
+| **Reddit** | Remote - United States | Software Engineer, Content Platform | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8139781) | 2026-08-18T15:43:32-04:00 |
+| **Booz Allen Hamilton** | McLean, VA | Enterprise Agentic AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Enterprise-Agentic-AI-Engineer_R0247309) | Posted Today |
+| **CrowdStrike** | USA - Remote, WA | Software Engineer, Front End - Policy (Hybrid) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote-WA/Software-Engineer--Front-End---Policy--Hybrid-_R29041) | Posted Today |
+| **CVS Health** | TX - Irving | Data Engineer | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Irving/Data-Engineer_R1011899) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 19:19:05
 
 📊 **4 new jobs this batch:**
