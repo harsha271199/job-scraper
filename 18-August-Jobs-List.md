@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 12:18:00
+
+📊 **1 new jobs this batch:**
+- Citi: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Citi** | New York New York United States | Quantitative Analyst - Regulatory Capital and Counterparty Credit Risk | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/New-York-New-York-United-States/Quantitative-Analyst---Regulatory-Capital-and-Counterparty-Credit-Risk_26987507) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 11:13:26
 
 📊 **1 new jobs this batch:**
