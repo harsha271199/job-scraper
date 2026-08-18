@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 18, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-18 06:19:44
+
+📊 **1 new jobs this batch:**
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Northrop Grumman** | United States-Colorado-Boulder | Algorithms Software Engineer - Level 2 or 3 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithms-Software-Engineer---Level-2-or-3--AHT-_R10246160) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 18, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-18 03:33:20
 
 📊 **3 new jobs this batch:**
