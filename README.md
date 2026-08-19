@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — August 19, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-19 23:11:27
+
+📊 **4 new jobs this batch:**
+- Airbnb: 1 job
+- Esri: 1 job
+- OpenAI: 1 job
+- PayPal: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, Trainium  | [Apply](https://jobs.ashbyhq.com/openai/2bf44c13-a463-4ec7-b152-b8367075246c) | 2026-08-19T23:09:36.243+00:00 |
+| **Airbnb** | Remote, United States | Software Engineer, Trust | [Apply](https://careers.airbnb.com/positions/8142827?gh_jid=8142827) | 2026-08-19T18:53:29-04:00 |
+| **Esri** | Redlands, CA | Java Software Engineer II - ArcGIS Enterprise  | [Apply](https://www.esri.com/careers/5216805007?gh_jid=5216805007) | 2026-08-19T18:23:36-04:00 |
+| **PayPal** | Chicago, Illinois, United States of America | Sr Data Scientist | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Chicago-Illinois-United-States-of-America/Sr-Data-Scientist_R0137246) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 19, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-19 22:11:47
 
 📊 **2 new jobs this batch:**
