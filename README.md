@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 19, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-19 15:18:18
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Motorola Solutions: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Chantilly, VA | Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer--Mid_R0241502) | Posted Today |
+| **Motorola Solutions** | Salt Lake City, UT (UT17) | Software Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Salt-Lake-City-UT-UT17/Software-Engineer_R64274) | Posted Today |
+| **Northrop Grumman** | United States-Maryland-Linthicum | DevOps Engineer Level 3 or 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/DevOps-Engineer-Level-3-or-4_R10245415) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 19, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-19 14:20:58
 
 📊 **1 new jobs this batch:**
