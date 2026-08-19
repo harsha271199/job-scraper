@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — August 19, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-19 21:13:59
+
+📊 **11 new jobs this batch:**
+- Autodesk: 1 job
+- Booz Allen Hamilton: 5 jobs
+- CVS Health: 1 job
+- Coinbase: 1 job
+- SpaceX: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Coinbase** | Remote - USA | Software Engineer, Frontend (Coinbase Advisor - Agentic Trading) | [Apply](https://www.coinbase.com/careers/positions/8070574?gh_jid=8070574) | 2026-07-17T15:15:55-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer (Application Software) | [Apply](https://boards.greenhouse.io/spacex/jobs/8731256002?gh_jid=8731256002) | 2026-08-19T16:50:00-04:00 |
+| **SpaceX** | Palo Alto, CA | Wi-Fi Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8715832002?gh_jid=8715832002) | 2026-08-19T15:20:14-04:00 |
+| **SpaceX** | Bastrop, TX | Wi-Fi Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8715500002?gh_jid=8715500002) | 2026-08-19T15:20:13-04:00 |
+| **Autodesk** | San Francisco, CA, USA | Software Engineer | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100686) | Posted Today |
+| **CVS Health** | IL - Work from home | Data Engineer - AI and Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/IL---Work-from-home/Data-Engineer---AI-and-Analytics_R1008059-1) | Posted Today |
+| **Booz Allen Hamilton** | Springfield, VA | Palantir Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Palantir-Data-Scientist_R0247243) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Full Stack Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Full-Stack-Software-Engineer_R0247416) | Posted Today |
+| **Booz Allen Hamilton** | San Antonio, TX | Data Scientist, Junior | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Data-Scientist--Junior_R0247418) | Posted Today |
+| **Booz Allen Hamilton** | San Antonio, TX | AI Engineer, Junior | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/AI-Engineer--Junior_R0247417) | Posted Today |
+| **Booz Allen Hamilton** | Atlanta, GA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Data-Scientist_R0247378) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 19, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-19 20:11:58
 
 📊 **3 new jobs this batch:**
