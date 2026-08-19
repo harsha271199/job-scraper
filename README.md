@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — August 19, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-19 20:11:58
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0247406) | Posted Today |
+| **Booz Allen Hamilton** | Norfolk, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Data-Scientist_R0245322) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Aurora | Python Software Engineer Level 2 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Python-Software-Engineer-Level-2--AHT-_R10246599) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 19, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-19 19:16:08
 
 📊 **2 new jobs this batch:**
