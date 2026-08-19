@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 19, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-19 16:16:17
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Palo Alto, CA | Software Engineer, Inference (AI Data Engineering) | [Apply](https://boards.greenhouse.io/spacex/jobs/8717350002?gh_jid=8717350002) | 2026-08-19T11:41:33-04:00 |
+| **Booz Allen Hamilton** | Indian Head, MD | Java Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Indian-Head-MD/Java-Software-Engineer--Mid_R0247234) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 19, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-19 15:18:18
 
 📊 **3 new jobs this batch:**
