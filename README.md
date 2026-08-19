@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — August 19, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-19 22:11:47
+
+📊 **2 new jobs this batch:**
+- PayPal: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **PayPal** | Austin, Texas, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Software-Engineer_R0137244) | Posted Today |
+| **PayPal** | Austin, Texas, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137243) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 19, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-19 21:13:59
 
 📊 **11 new jobs this batch:**
