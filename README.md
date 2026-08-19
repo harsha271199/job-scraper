@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 19, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-19 19:16:08
+
+📊 **2 new jobs this batch:**
+- Northrop Grumman: 1 job
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Upstart** | United States | Remote | Software Engineer, Cash Line | [Apply](https://careers.upstart.com/jobs?gh_jid=8142327) | 2026-08-19T15:02:10-04:00 |
+| **Northrop Grumman** | United States-Colorado-Aurora | Software Engineer Level 2 or 3 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Software-Engineer-Level-2-or-3--AHT-_R10246571-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 19, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-19 18:14:47
 
 📊 **1 new jobs this batch:**
