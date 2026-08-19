@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 19, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-19 12:17:34
+
+📊 **1 new jobs this batch:**
+- Motorola Solutions: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Motorola Solutions** | Brazil Remote Work | Mid-level Software Engineer (C# and .NET) | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Brazil-Remote-Work/Mid-level-Software-Engineer--C--and-NET-_R67333) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 19, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-19 07:27:52
 
 📊 **3 new jobs this batch:**
