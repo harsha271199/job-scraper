@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 19, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-19 17:14:59
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- CVS Health: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **CVS Health** | CT - Hartford | Software Engineer - Data, API, Front End | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/CT---Hartford/Software-Engineer---Data--API--Front-End_R0992413) | Posted Today |
+| **Booz Allen Hamilton** | Huntsville, AL | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Data-Engineer_R0246872-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 19, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-19 16:16:17
 
 📊 **2 new jobs this batch:**
