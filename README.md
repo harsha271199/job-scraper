@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-20 21:16:01
+
+📊 **2 new jobs this batch:**
+- Instacart: 1 job
+- Motorola Solutions: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Instacart** | Canada - Remote (ON, AB, BC, or NS Only) | Machine Learning Engineer II, Ads - Response Prediction | [Apply](https://instacart.careers/job/?gh_jid=8143263) | 2026-08-20T15:14:19-04:00 |
+| **Motorola Solutions** | Chicago, IL, More... | Portfolio Data Analyst | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Chicago-IL/Portfolio-Data-Analyst_R67974) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-20 20:14:35
 
 📊 **3 new jobs this batch:**
