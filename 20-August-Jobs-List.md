@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-20 18:18:43
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Cox Enterprises: 1 job
+- SoFi: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SoFi** | San Francisco - CA; New York City - NY; Salt Lake City - UT | Associate AI Engineer, Finance Transformation | [Apply](https://sofi.com/careers/job/7871448003?gh_jid=7871448003) | 2026-08-20T13:46:18-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Test-Focused DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Test-Focused-DevOps-Engineer_R0238293) | Posted Today |
+| **Cox Enterprises** | Carmel IN | Software Engineer II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-II_R202681101) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-20 17:17:22
 
 📊 **11 new jobs this batch:**
