@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-20 07:30:33
+
+📊 **1 new jobs this batch:**
+- Hadrian: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Hadrian** | Mesa, AZ | Robotics Software Engineer | [Apply](https://jobs.ashbyhq.com/hadrian-automation/09460c40-6586-4a86-9a90-45c04decbdd9) | 2026-08-20T07:13:50.515+00:00 |
+
+---
+# 📢 Job Listings for Harsha — August 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-20 02:08:59
 
 📊 **1 new jobs this batch:**
