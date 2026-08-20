@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — August 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-20 23:13:36
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- xAI: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **xAI** | Palo Alto, California | Machine Learning Engineer - Ads | [Apply](https://job-boards.greenhouse.io/xai/jobs/4996796007) | 2025-12-03T00:24:51-05:00 |
+| **xAI** | Palo Alto, California | Machine Learning Engineer - Recommendation Systems | [Apply](https://job-boards.greenhouse.io/xai/jobs/4703144007) | 2025-04-10T23:21:31-04:00 |
+| **Booz Allen Hamilton** | Fayetteville, NC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Data-Scientist_R0247577) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-20 22:13:36
 
 📊 **3 new jobs this batch:**
