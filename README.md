@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-20 15:21:46
+
+📊 **3 new jobs this batch:**
+- Decagon: 1 job
+- Fiserv: 1 job
+- KLA: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Decagon** | San Francisco | Agent Data Scientist | [Apply](https://jobs.ashbyhq.com/decagon/5433ff3a-9a7c-406b-9dd8-23094141b907) | 2026-08-20T15:00:53.485+00:00 |
+| **Fiserv** | Remote, Texas | Sr Business Analyst - Lending | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Remote-Texas/Sr-Business-Analyst---Lending_R-10401345) | Posted Today |
+| **KLA** | Ann Arbor, MI | Data Scientist - Palantir Developer | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/Data-Scientist---Palantir-Developer_2638928-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-20 07:30:33
 
 📊 **1 new jobs this batch:**
