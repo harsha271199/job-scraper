@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-20 19:21:56
+
+📊 **1 new jobs this batch:**
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Waymo** | Mountain View, California, USA | Data Engineer | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7438328) | 2025-12-09T16:11:59-05:00 |
+
+---
+# 📢 Job Listings for Harsha — August 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-20 18:18:43
 
 📊 **3 new jobs this batch:**
