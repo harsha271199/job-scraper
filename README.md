@@ -1,6 +1,34 @@
 # 📢 Job Listings for Harsha — August 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-20 17:17:22
+
+📊 **11 new jobs this batch:**
+- Booz Allen Hamilton: 5 jobs
+- Cloudflare: 1 job
+- Cox Enterprises: 1 job
+- OpenAI: 1 job
+- Waymo: 1 job
+- Zoox: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Data Scientist, Real Estate & Workplace  | [Apply](https://jobs.ashbyhq.com/openai/3ac187b2-dd75-4acd-b285-51ae6e603dbd) | 2026-08-20T16:38:56.595+00:00 |
+| **Cloudflare** | In-Office | Software Engineer Intern (Fall 2026) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8118855?gh_jid=8118855) | 2026-08-20T12:26:40-04:00 |
+| **Waymo** | Mountain View, CA, USA | Software Engineer, Simulation Infrastructure | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7430555) | 2025-12-05T13:39:10-05:00 |
+| **Zoox** | Foster City, CA | Contract Student Worker - Data Analyst | [Apply](https://jobs.lever.co/zoox/11d7b37e-4420-4619-a465-d387ffc6ee16) | 2026-08-20 16:46 |
+| **Zoox** | Foster City, CA | Contract Student Worker - Data Scientist | [Apply](https://jobs.lever.co/zoox/51838a63-2dde-44dc-9c3e-757f35b9690f) | 2026-08-20 16:55 |
+| **Booz Allen Hamilton** | Arlington, VA | AI Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Software-Engineer_R0247491) | Posted Today |
+| **Booz Allen Hamilton** | Alexandria, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0247486) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Analyst_R0247514) | Posted Today |
+| **Booz Allen Hamilton** | Aurora, CO | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0247468) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0247512) | Posted Today |
+| **Cox Enterprises** | Carmel IN | Software Engineer II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Carmel-IN/Software-Engineer-II_R202681160) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-20 16:18:52
 
 📊 **4 new jobs this batch:**
