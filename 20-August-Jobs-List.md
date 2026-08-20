@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — August 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-20 22:13:36
+
+📊 **3 new jobs this batch:**
+- Amgen: 2 jobs
+- GitLab: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **GitLab** | Remote, Canada; Remote, United States | Backend Engineer, AI Engineering: Duo Chat | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8698314002) | 2026-08-20T17:35:39-04:00 |
+| **Amgen** | US - California - Thousand Oaks | CD&A Data Scientist, Obesity - Associate | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252119) | Posted Today |
+| **Amgen** | US - California - Thousand Oaks | CD&A Data Scientist, Obesity - Associate | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/CD-A-Data-Scientist--Obesity---Associate_R-252126) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-20 21:16:01
 
 📊 **2 new jobs this batch:**
