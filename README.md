@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — August 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-20 20:14:35
+
+📊 **3 new jobs this batch:**
+- ClickHouse: 2 jobs
+- General Motors: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **ClickHouse** | Canada (remote) | Cloud Software Engineer - Observability Platform | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6130195004) | 2026-08-20T15:56:10-04:00 |
+| **ClickHouse** | United States (remote) | Cloud Software Engineer - Observability Platform | [Apply](https://job-boards.greenhouse.io/clickhouse/jobs/6130197004) | 2026-08-20T15:56:15-04:00 |
+| **General Motors** | Warren, Michigan, United States of America | Data Scientist - AI/ML Solutions PPCO | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Scientist---AI-ML-Solutions-PPCO_JR-202617248-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-20 19:21:56
 
 📊 **1 new jobs this batch:**
