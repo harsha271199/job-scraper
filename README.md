@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 20, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-20 16:18:52
+
+📊 **4 new jobs this batch:**
+- Anyscale: 1 job
+- Esri: 1 job
+- Intel: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anyscale** | San Francisco | Software Engineer (Ray Data) | [Apply](https://jobs.ashbyhq.com/anyscale/01aef589-e268-4b22-b513-d1f9f076210f) | 2026-08-20T15:44:28.487+00:00 |
+| **Esri** | Redlands, CA | Reporting Analyst | [Apply](https://www.esri.com/careers/5198534007?gh_jid=5198534007) | 2026-08-20T12:04:05-04:00 |
+| **Intel** | US, Oregon, Hillsboro | Software Engineer Graduate Intern | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineer-Graduate-Intern_JR0286491) | Posted Today |
+| **Intel** | US, Arizona, Phoenix | Software Engineer Graduate Intern | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Arizona-Phoenix/Software-Engineer-Graduate-Intern_JR0286489) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 20, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-20 15:21:46
 
 📊 **3 new jobs this batch:**
