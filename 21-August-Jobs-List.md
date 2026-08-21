@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — August 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-21 14:21:58
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Huntsville, AL | Business Intelligence Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Business-Intelligence-Developer_R0246885) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0247542) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-21 13:35:48
 
 📊 **1 new jobs this batch:**
