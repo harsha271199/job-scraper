@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-21 21:11:42
+
+📊 **2 new jobs this batch:**
+- Airbnb: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Research Engineer / Research Scientist, Health | [Apply](https://jobs.ashbyhq.com/openai/719cc0f6-ed38-41db-8870-299b4d336f37) | 2026-08-21T21:05:26.411+00:00 |
+| **Airbnb** | Remote - USA | Software Engineer, Payments | [Apply](https://careers.airbnb.com/positions/8146265?gh_jid=8146265) | 2026-08-21T16:27:49-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-21 20:10:50
 
 📊 **4 new jobs this batch:**
