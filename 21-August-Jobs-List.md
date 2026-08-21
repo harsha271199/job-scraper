@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-21 16:17:27
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- DoorDash: 1 job
+- Northrop Grumman: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **DoorDash** |  San Francisco, CA;Seattle, WA;Los Angeles, CA;New York, Ny | Software Engineer, Unified Gateway | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8146670) | 2026-08-21T12:12:14-04:00 |
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0247563) | Posted Today |
+| **Northrop Grumman** | United States-California-Woodland Hills | Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Software-Engineer_R10246672) | Posted Today |
+| **Northrop Grumman** | United States-California-Woodland Hills | Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Woodland-Hills/Software-Engineer_R10246665) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-21 15:20:52
 
 📊 **3 new jobs this batch:**
