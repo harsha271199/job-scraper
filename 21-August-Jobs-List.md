@@ -1,6 +1,36 @@
 # 📢 Job Listings for Harsha — August 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-21 18:18:20
+
+📊 **11 new jobs this batch:**
+- Affirm: 2 jobs
+- Booz Allen Hamilton: 3 jobs
+- CVS Health: 1 job
+- Cox Enterprises: 1 job
+- General Motors: 1 job
+- Mercari: 1 job
+- MongoDB: 1 job
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Affirm** | Remote Canada | Software Engineer II, Fullstack (App Experience) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7819447003) | 2026-08-21T13:28:20-04:00 |
+| **Affirm** | Remote US | Software Engineer II, Fullstack (App Experience) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7819445003) | 2026-08-21T13:28:15-04:00 |
+| **Mercari** | Hybrid-Palo Alto, CA | Software Engineer, Data | [Apply](https://job-boards.greenhouse.io/mercari/jobs/8721516002) | 2026-08-21T14:01:56-04:00 |
+| **MongoDB** | New York City | Software Engineer 3, Atlas Clusters Platform | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8089859) | 2026-08-21T13:39:19-04:00 |
+| **Upstart** | United States | Remote | Software Engineer, Site Reliability | [Apply](https://careers.upstart.com/jobs?gh_jid=8147963) | 2026-08-21T13:45:39-04:00 |
+| **CVS Health** | NY - New York | Data Analyst | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Data-Analyst_R0993501-1) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | Power Platform Business Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Power-Platform-Business-Analyst--Mid_R0247595) | Posted Today |
+| **Booz Allen Hamilton** | Reston, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0247640) | Posted Today |
+| **Booz Allen Hamilton** | Fort Belvoir, VA | AI/ML Engineer and Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/AI-ML-Engineer-and-Data-Scientist_R0247551) | Posted Today |
+| **Cox Enterprises** | Atlanta GA | Sr Software Engineer | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Sr-Software-Engineer_R202681106) | Posted Today |
+| **General Motors** | Sunnyvale, California, United States of America | Software Engineer, AV Data Collection | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Data-Collection_JR-202618529) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-21 17:17:18
 
 📊 **3 new jobs this batch:**
