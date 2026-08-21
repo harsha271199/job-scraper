@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-21 22:10:25
+
+📊 **2 new jobs this batch:**
+- General Motors: 1 job
+- Watershed: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Watershed** | San Francisco | Climate Data Scientist, Sustainability | [Apply](https://jobs.ashbyhq.com/watershed/febe4576-02de-420f-b668-0897b229465a) | 2026-08-21T21:53:34.339+00:00 |
+| **General Motors** | Sunnyvale, California, United States of America | Software Engineer | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer_JR-202617283-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-21 21:11:42
 
 📊 **2 new jobs this batch:**
