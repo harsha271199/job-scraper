@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-21 19:17:52
+
+📊 **2 new jobs this batch:**
+- Mercury: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Mercury** | San Francisco, CA, New York, NY, Portland, OR, or Remote within Canada or United States | Software Engineer - Infrastructure | [Apply](https://job-boards.greenhouse.io/mercury/jobs/6150432004) | 2026-08-21T14:32:47-04:00 |
+| **Northrop Grumman** | United States-California-Northridge | DevOps Engineer Level 2/3 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Northridge/DevOps-Engineer-Level-2-3--AHT-_R10246940-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-21 18:18:20
 
 📊 **11 new jobs this batch:**
