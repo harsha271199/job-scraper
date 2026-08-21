@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — August 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-21 20:10:50
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Citi: 1 job
+- Northrop Grumman: 1 job
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Twilio** | Remote - US | Software Engineer L2-Messaging API | [Apply](https://job-boards.greenhouse.io/twilio/jobs/7816159) | 2026-08-21T15:58:26-04:00 |
+| **Booz Allen Hamilton** | Jacksonville, FL | Airborne Countermeasure Dispensing Systems Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Jacksonville-FL/Airborne-Countermeasure-Dispensing-Systems-Software-Engineer_R0247794) | Posted Today |
+| **Citi** | Irving Texas United States | Full Stack Cloud Engineer | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Full-Stack-Cloud-Engineer_26987222) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | Software Engineer - Level 3/4 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer---Level-3-4--AHT-_R10247110-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-21 19:17:52
 
 📊 **2 new jobs this batch:**
