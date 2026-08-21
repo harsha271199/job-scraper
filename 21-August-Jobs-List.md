@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-21 23:11:27
+
+📊 **4 new jobs this batch:**
+- Nvidia: 1 job
+- Scopely: 1 job
+- SpaceX: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Scopely** | CA - Canada | Data Analyst | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5397611008?gh_jid=5397611008) | 2026-08-21T19:08:06-04:00 |
+| **SpaceX** | Hawthorne, CA | Security Software Engineer (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8738670002?gh_jid=8738670002) | 2026-08-21T18:28:45-04:00 |
+| **SpaceX** | Washington, DC | Security Software Engineer (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8738708002?gh_jid=8738708002) | 2026-08-21T18:28:48-04:00 |
+| **Nvidia** | US, CA, Santa Clara | Systems Software Engineer - AI and Cloud | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Systems-Software-Engineer---AI-and-Cloud_JR2024087) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-21 22:10:25
 
 📊 **2 new jobs this batch:**
