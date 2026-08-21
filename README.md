@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-21 17:17:18
+
+📊 **3 new jobs this batch:**
+- Airbyte: 1 job
+- Esri: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Airbyte** | San Francisco | AI Platform Engineer | [Apply](https://jobs.ashbyhq.com/airbyte/b59bbc91-fb77-4a08-9c47-0fca7f755942) | 2026-08-21T16:44:26.574+00:00 |
+| **OpenAI** | San Francisco | Software Engineer, API Safety | [Apply](https://jobs.ashbyhq.com/openai/990397de-c00c-4577-b093-d8c82b4e9145) | 2026-08-21T17:12:26.509+00:00 |
+| **Esri** | Redlands, CA | C# Software Engineer I – Feature Services | [Apply](https://www.esri.com/careers/5214134007?gh_jid=5214134007) | 2026-08-21T13:10:13-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-21 16:17:27
 
 📊 **4 new jobs this batch:**
