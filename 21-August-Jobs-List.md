@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 21, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-21 06:21:39
+
+📊 **1 new jobs this batch:**
+- MongoDB: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **MongoDB** | New York City; United States | Software Engineer 3, Networking & Observability | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8119841) | 2026-08-21T01:24:09-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 21, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-21 02:15:21
 
 📊 **4 new jobs this batch:**
