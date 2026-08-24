@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — August 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-24 23:12:03
+
+📊 **6 new jobs this batch:**
+- Anthropic: 1 job
+- Benchling: 1 job
+- Hadrian: 1 job
+- Northrop Grumman: 1 job
+- OpenAI: 1 job
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Benchling** | San Francisco, CA |  Software Engineer, Model Evaluation and Improvement | [Apply](https://jobs.ashbyhq.com/benchling/3fbb23bd-c06c-49da-8834-4da67200275e) | 2026-08-24T22:22:55.143+00:00 |
+| **Hadrian** | Los Angeles, CA | Software Engineer, Machine Interfaces | [Apply](https://jobs.ashbyhq.com/hadrian-automation/0276373a-fcf7-4a19-bdac-59ac8a0a67d0) | 2026-08-24T22:15:58.744+00:00 |
+| **OpenAI** | San Francisco | People Research Scientist | [Apply](https://jobs.ashbyhq.com/openai/95151536-2118-431b-b0ee-d0727592e161) | 2026-08-24T23:04:11.081+00:00 |
+| **Anthropic** | San Francisco, CA | New York City, NY | Applied AI Engineer, Beneficial Deployments (Life Sciences) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5021015008) | 2026-08-24T18:31:29-04:00 |
+| **Stripe** | SEA, SF, NY, Toronto | Backend Engineer, Developer & End-user Experience Platform | [Apply](https://stripe.com/jobs/search?gh_jid=7476555) | 2026-03-03T18:55:32-05:00 |
+| **Northrop Grumman** | United States-Maryland-Hollywood | Associate Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Hollywood/Associate-Software-Engineer_R10247440) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-24 22:12:23
 
 📊 **1 new jobs this batch:**
