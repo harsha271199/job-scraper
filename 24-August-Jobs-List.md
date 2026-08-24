@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — August 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-24 19:20:23
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- OpenAI: 2 jobs
+- PayPal: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, AI accelerator Runtime | [Apply](https://jobs.ashbyhq.com/openai/9248eab6-74e0-4940-98eb-ca09b17da532) | 2026-08-24T18:51:59.391+00:00 |
+| **OpenAI** | San Francisco | Systems Software Engineer, Silicon Bringup | [Apply](https://jobs.ashbyhq.com/openai/d1121575-a1a7-47c9-97e6-56c70f441143) | 2026-08-24T18:48:55.627+00:00 |
+| **Waymo** | Mountain View, CA, USA  | Software Engineer | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8152556) | 2026-08-24T15:15:00-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0241095) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer 3 | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer-3_R0137262) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-24 18:20:07
 
 📊 **2 new jobs this batch:**
