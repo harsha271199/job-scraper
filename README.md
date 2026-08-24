@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-24 16:20:57
+
+📊 **1 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | McLean, VA | Wireless Platform Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Wireless-Infrastructure-Engineer--Mid_R0233198) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-24 15:26:25
 
 📊 **3 new jobs this batch:**
