@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-24 22:12:23
+
+📊 **1 new jobs this batch:**
+- Anthropic: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC | IT Systems Engineer, Mobile Client Platform Engineer  | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5396384008) | 2026-08-24T17:20:13-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-24 21:17:02
 
 📊 **4 new jobs this batch:**
