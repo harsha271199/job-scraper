@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-24 15:26:25
+
+📊 **3 new jobs this batch:**
+- Autodesk: 1 job
+- Booz Allen Hamilton: 1 job
+- Notion: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Notion** | San Francisco, California | Software Engineer, Developer Platform | [Apply](https://jobs.ashbyhq.com/notion/1fc309c8-da20-4ff2-84c7-8b863ece2b0a) | 2026-08-24T14:44:49.699+00:00 |
+| **Autodesk** | San Francisco, CA, USA | Software Engineer | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/San-Francisco-CA-USA/Software-Engineer_26WD100611-1) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0247637) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-24 14:29:33
 
 📊 **4 new jobs this batch:**
