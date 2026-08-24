@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — August 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-24 14:29:33
+
+📊 **4 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Esri: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Esri** | Redlands, CA | Technical Consultant – Enterprise Data Engineer (Geospatial Data & Platforms) | [Apply](https://www.esri.com/careers/5219768007?gh_jid=5219768007) | 2026-08-24T10:02:36-04:00 |
+| **Esri** | Vienna, Virginia, United States | Technical Consultant – Enterprise Data Engineer (Geospatial Data & Platforms) | [Apply](https://www.esri.com/careers/5219767007?gh_jid=5219767007) | 2026-08-24T10:02:34-04:00 |
+| **Esri** | St. Louis, MO - Globe | Technical Consultant – Enterprise Data Engineer (Geospatial Data & Platforms) | [Apply](https://www.esri.com/careers/5219766007?gh_jid=5219766007) | 2026-08-24T10:02:33-04:00 |
+| **Booz Allen Hamilton** | Washington, DC | Financial Program and Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Financial-Program-and-Data-Analyst_R0247680) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-24 13:40:27
 
 📊 **1 new jobs this batch:**
