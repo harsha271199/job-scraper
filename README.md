@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — August 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-24 17:20:06
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Garner Health: 1 job
+- OpenAI: 1 job
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, Model Runtime | [Apply](https://jobs.ashbyhq.com/openai/ec317080-e2d2-4a73-93e6-e0a9ae6fdf96) | 2026-08-24T16:34:31.338+00:00 |
+| **Garner Health** | New York City, New York | Data Analyst I | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6144708004) | 2026-08-24T12:36:25-04:00 |
+| **Upstart** | United States | Remote | Applied Scientist | [Apply](https://careers.upstart.com/jobs?gh_jid=7572996) | 2026-06-03T12:23:26-04:00 |
+| **Booz Allen Hamilton** | Key West, FL | IT Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Key-West-FL/IT-Business-Analyst_R0247693) | Posted Today |
+| **Booz Allen Hamilton** | Herndon, VA | Business and Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Business-and-Data-Analyst_R0247719) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-24 16:20:57
 
 📊 **1 new jobs this batch:**
