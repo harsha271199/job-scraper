@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-24 04:32:51
+
+📊 **1 new jobs this batch:**
+- Fiserv: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Fiserv** | Berkeley Heights, New Jersey | Azure Databricks Platform Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/Azure-Databricks-Platform-Engineer_R-10395474) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-24 02:14:27
 
 📊 **1 new jobs this batch:**
