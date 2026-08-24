@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 24, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-24 18:20:07
+
+📊 **2 new jobs this batch:**
+- Motorola Solutions: 1 job
+- Sierra: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Sierra** | San Francisco, CA | Software Engineer, Agent - Public Sector | [Apply](https://jobs.ashbyhq.com/Sierra/c66b30fc-9588-4699-85c1-2166b23b8778) | 2026-08-24T17:50:09.805+00:00 |
+| **Motorola Solutions** | Ontario Remote Work | Data Analyst Co-Op | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Ontario-Remote-Work/Data-Analyst-Co-Op_R67175) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 24, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-24 17:20:06
 
 📊 **5 new jobs this batch:**
