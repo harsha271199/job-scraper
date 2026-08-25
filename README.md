@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — August 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-25 19:20:57
+
+📊 **5 new jobs this batch:**
+- Abnormal Security: 2 jobs
+- Benchling: 2 jobs
+- Kong: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Benchling** | San Francisco, CA | Software Engineer, Platform (Developer Experience) | [Apply](https://jobs.ashbyhq.com/benchling/63d7d126-efaf-4a48-b328-f8d85b640ebf) | 2026-08-25T18:43:47.823+00:00 |
+| **Benchling** | Boston, MA | Software Engineer, Platform (Developer Experience) | [Apply](https://jobs.ashbyhq.com/benchling/a338cb38-bf43-40dd-9fbf-dc9205b30bb1) | 2026-08-25T18:43:54.489+00:00 |
+| **Kong** | Washington, United States | Site Reliability Engineer 2 | [Apply](https://jobs.ashbyhq.com/kong/7ae8b357-a8f0-4c3d-868d-add1789de7ff) | 2026-08-25T18:25:29.343+00:00 |
+| **Abnormal Security** | Remote - Canada | Software Engineer II - Dev Accelerator | [Apply](https://abnormal.ai/careers/jobs/7976390003?gh_jid=7976390003) | 2026-08-25T15:07:13-04:00 |
+| **Abnormal Security** | Remote - USA | Software Engineer II - Dev Accelerator | [Apply](https://abnormal.ai/careers/jobs/7967606003?gh_jid=7967606003) | 2026-08-25T14:54:00-04:00 |
+
+---
+# 📢 Job Listings for Harsha — August 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-25 18:19:47
 
 📊 **11 new jobs this batch:**
