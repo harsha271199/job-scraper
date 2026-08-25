@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-25 23:14:39
+
+📊 **4 new jobs this batch:**
+- Anthropic: 1 job
+- Northrop Grumman: 2 jobs
+- Roblox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | AI Engineer, GTM Claudification  | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5390966008) | 2026-08-25T18:59:04-04:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Creator Studio | [Apply](https://careers.roblox.com/jobs/8131689?gh_jid=8131689) | 2026-08-25T18:46:29-04:00 |
+| **Northrop Grumman** | United States-Virginia-Dulles | DevOps Engineer – Level 3 or 4 AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/DevOps-Engineer---Level-3-or-4_R10234501) | Posted Today |
+| **Northrop Grumman** | United States-Virginia-Dulles | Software Engineer (Level 3/4) AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/Software-Engineer--Level-3-4-_R10236309) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-25 22:12:37
 
 📊 **2 new jobs this batch:**
