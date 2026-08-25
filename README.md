@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-25 02:10:33
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | People Research Scientist | [Apply](https://jobs.ashbyhq.com/openai/5a682b9f-ef1a-4e47-813a-72b23414d43e) | 2026-08-25T00:46:30.177+00:00 |
+| **Booz Allen Hamilton** | Honolulu, HI | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0240103) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-25 00:28:01
 
 📊 **2 new jobs this batch:**
