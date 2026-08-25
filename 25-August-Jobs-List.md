@@ -1,6 +1,36 @@
 # 📢 Job Listings for Harsha — August 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-25 18:19:47
+
+📊 **11 new jobs this batch:**
+- Anyscale: 1 job
+- Booz Allen Hamilton: 1 job
+- CoreWeave: 1 job
+- Northrop Grumman: 1 job
+- Salesforce: 1 job
+- SpaceX: 1 job
+- Verkada: 4 jobs
+- Watershed: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anyscale** | San Francisco | Software Engineer (Site Reliability Engineer) | [Apply](https://jobs.ashbyhq.com/anyscale/b5617f34-0ebd-441f-bb25-61673c810aec) | 2026-08-25T15:45:03.287+00:00 |
+| **Watershed** | New York City | Software engineer, full-stack | [Apply](https://jobs.ashbyhq.com/watershed/2f60ee9b-cb7f-4c05-93d2-bad49243bf31) | 2026-08-25T18:03:46.543+00:00 |
+| **CoreWeave** | Bellevue, WA / Sunnyvale, CA  | Applied ML Engineer | [Apply](https://coreweave.com/careers/job?4666901006&board=coreweave&gh_jid=4666901006) | 2026-03-25T15:54:18-04:00 |
+| **SpaceX** | Redmond, WA | Full Stack Software Engineer, Data Platform (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8746439002?gh_jid=8746439002) | 2026-08-25T12:56:56-04:00 |
+| **Verkada** | San Mateo, CA United States | Backend Software Engineering Intern 2027 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5210813007) | 2026-08-25T14:11:57-04:00 |
+| **Verkada** | San Mateo, CA United States | Frontend Software Engineering Intern 2027 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5210942007) | 2026-08-25T14:12:05-04:00 |
+| **Verkada** | San Mateo, CA United States | Mobile Software Engineering Intern 2027 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5219131007) | 2026-08-25T14:12:17-04:00 |
+| **Verkada** | San Mateo, CA United States | Security Software Engineering Intern 2027 | [Apply](https://job-boards.greenhouse.io/verkada/jobs/5213881007) | 2026-08-25T14:12:08-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | DevOps Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer--Mid_R0238788) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer (Algorithm) – TRK (26-334) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer--Algorithm----TRK--26-334-_R10247608) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineer, AI Applications | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer--AI-Applications_JR357086) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-25 17:20:47
 
 📊 **5 new jobs this batch:**
