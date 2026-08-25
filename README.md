@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — August 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-25 17:20:47
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Cox Enterprises: 1 job
+- Fiserv: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Booz Allen Hamilton** | Dayton, OH | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Software-Engineer_R0247777) | Posted Today |
+| **Booz Allen Hamilton** | Fort Meade, MD | AI/ML Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-ML-Software-Developer_R0247829) | Posted Today |
+| **Cox Enterprises** | Atlanta GA | Software Engineer II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-II_R202681235) | Posted Today |
+| **Fiserv** | Sunnyvale, California | AI Platform Product Management, Agent Builder & Governance | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/AI---Product-Management---Sr-Advisor-II_R-10401364) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | 2027 Associate Software Engineer / Software Engineer - Huntsville AL | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10247580-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-25 16:21:54
 
 📊 **2 new jobs this batch:**
