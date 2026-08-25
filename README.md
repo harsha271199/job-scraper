@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-25 16:21:54
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Okta: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Okta** | Chicago, Illinois | Business Analyst  | [Apply](https://www.okta.com/company/careers/opportunity/8145325?gh_jid=8145325) | 2026-08-25T12:05:52-04:00 |
+| **Booz Allen Hamilton** | Adelphi, MD | AI and ML Research Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Adelphi-MD/AI-and-ML-Research-Scientist_R0247767) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-25 14:32:21
 
 📊 **3 new jobs this batch:**
