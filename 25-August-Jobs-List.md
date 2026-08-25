@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — August 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-25 20:13:46
+
+📊 **7 new jobs this batch:**
+- CVS Health: 1 job
+- Mastercard: 1 job
+- Northrop Grumman: 1 job
+- Twitch: 4 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Twitch** | New York City | Software Engineer II, Fintech | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8747652002) | 2026-08-25T16:04:28-04:00 |
+| **Twitch** | Seattle, WA | Software Engineer II, Fintech | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8747649002) | 2026-08-25T16:04:29-04:00 |
+| **Twitch** | San Francisco, CA | Software Engineer II, Fintech | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8743145002) | 2026-08-25T16:04:31-04:00 |
+| **Twitch** | Irvine, CA | Software Engineer II, Fintech | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8747653002) | 2026-08-25T16:04:26-04:00 |
+| **CVS Health** | Chicago-525 West Monroe | Data Scientist | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Chicago-525-West-Monroe/Data-Scientist_R0986596) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-288256) | Posted Today |
+| **Northrop Grumman** | United States-California-El Segundo | DevOps Engineer – Level 3 or 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-El-Segundo/DevOps-Engineer---Level-3-or-4_R10247671) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-25 19:20:57
 
 📊 **5 new jobs this batch:**
