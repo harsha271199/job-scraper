@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-25 21:15:16
+
+📊 **2 new jobs this batch:**
+- Cox Enterprises: 1 job
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Cox Enterprises** | Burlington VT | Entry Level Software Engineer (Burlington, VT) | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Burlington-VT/Entry-Level-Software-Engineer--Burlington--VT-_R202681784) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Software Engineer, Performance Lab and Tools | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Performance-Lab-and-Tools_JR2024097) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-25 20:13:46
 
 📊 **7 new jobs this batch:**
