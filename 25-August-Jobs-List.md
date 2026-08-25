@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — August 25, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-25 22:12:37
+
+📊 **2 new jobs this batch:**
+- Mastercard: 1 job
+- PayPal: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-288575) | Posted Today |
+| **PayPal** | Austin, Texas, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137266) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 25, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-25 21:15:16
 
 📊 **2 new jobs this batch:**
