@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — August 26, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-26 16:07:17
+
+📊 **6 new jobs this batch:**
+- Anyscale: 1 job
+- Booz Allen Hamilton: 1 job
+- Cox Enterprises: 2 jobs
+- Intel: 1 job
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anyscale** | San Francisco | Site Reliability Engineer, Platform Infrastructure (Foundations) | [Apply](https://jobs.ashbyhq.com/anyscale/23733eb9-f839-4209-b191-36cb0ff5b973) | 2026-08-26T14:31:25.197+00:00 |
+| **Upstart** | United States | Remote | Software Engineer II, Developer Platform | [Apply](https://careers.upstart.com/jobs?gh_jid=8026826) | 2026-06-25T16:18:10-04:00 |
+| **Booz Allen Hamilton** | Reston, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Reston-VA/Data-Scientist--Mid_R0247936) | Posted Today |
+| **Cox Enterprises** | Draper UT | Entry Level Software Engineer (Draper, UT) | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202681804) | Posted Today |
+| **Cox Enterprises** | Draper UT | Entry Level Software Engineer (Draper, UT) | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Draper-UT/Entry-Level-Software-Engineer--Draper--UT-_R202677231) | Posted Today |
+| **Intel** | US, Oregon, Hillsboro | EDA Tools Software Engineer | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/EDA-Tools-Software-Engineer_JR0286599) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 26, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-26 13:43:31
 
 📊 **1 new jobs this batch:**
