@@ -1,6 +1,34 @@
 # 📢 Job Listings for Harsha — August 26, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-26 18:31:46
+
+📊 **9 new jobs this batch:**
+- Amgen: 1 job
+- Natera: 1 job
+- Okta: 1 job
+- Pfizer: 1 job
+- Reddit: 1 job
+- SpaceX: 1 job
+- Twitch: 2 jobs
+- Upstart: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Natera** | US Remote | Sr Software Engineer in Test | [Apply](https://job-boards.greenhouse.io/natera/jobs/6163319004) | 2026-08-26T12:16:52-04:00 |
+| **Reddit** | Remote - United States | Software Engineer, PDP Experience | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8148431) | 2026-08-26T13:56:44-04:00 |
+| **SpaceX** | Redmond, WA | Satellite Systems Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8751097002?gh_jid=8751097002) | 2026-08-26T14:15:09-04:00 |
+| **Upstart** | United States | Remote | Software Engineer II, Delivery | [Apply](https://careers.upstart.com/jobs?gh_jid=8159614) | 2026-08-26T14:26:47-04:00 |
+| **Twitch** | Seattle, WA | Software Engineer I, Memberships | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8751076002) | 2026-08-26T12:56:45-04:00 |
+| **Twitch** | San Francisco, CA | Software Engineer I, Memberships | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8748320002) | 2026-08-26T12:56:43-04:00 |
+| **Okta** | Chicago, Illinois | Business Analyst  | [Apply](https://www.okta.com/company/careers/opportunity/8144827?gh_jid=8144827) | 2026-08-26T14:04:26-04:00 |
+| **Amgen** | US - California - South San Francisco | Data Scientist - PKDM-BA | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---South-San-Francisco/Data-Scientist---PKDM-BA_R-253426) | Posted Today |
+| **Pfizer** | United States - Massachusetts - Cambridge | Informatics and AI engineer, Biotherapeutics | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Informatics-and-AI-engineer--Biotherapeutics_4958820-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 26, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-26 16:07:17
 
 📊 **6 new jobs this batch:**
