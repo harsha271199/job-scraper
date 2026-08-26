@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 26, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-26 03:42:16
+
+📊 **1 new jobs this batch:**
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Target** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Sr Product Designer- A New Day Sweaters | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Product-Designer--A-New-Day-Sweaters_R0000450821) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 26, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-26 02:16:24
 
 📊 **1 new jobs this batch:**
