@@ -1,6 +1,36 @@
 # 📢 Job Listings for Harsha — August 26, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-26 21:21:41
+
+📊 **10 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Citi: 1 job
+- Cloudflare: 1 job
+- General Motors: 1 job
+- OpenAI: 1 job
+- Roblox: 1 job
+- Scale AI: 2 jobs
+- Vanta: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Vanta** | Remote U.S. | Software Engineer, Integrations Platform, Vanta For Government (V4G) | [Apply](https://jobs.ashbyhq.com/vanta/0ccbb65f-f675-410a-ae54-1d34575f228a) | 2026-08-26T19:04:45.475+00:00 |
+| **OpenAI** | San Francisco | Analytics Engineer, GTM | [Apply](https://jobs.ashbyhq.com/openai/bc0d4a9f-235f-4a4b-a854-c6cb0322ccaa) | 2026-08-26T18:47:47.520+00:00 |
+| **Cloudflare** | In-Office | Data Engineer | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8055118?gh_jid=8055118) | 2026-07-14T10:54:05-04:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Creator | [Apply](https://careers.roblox.com/jobs/8115917?gh_jid=8115917) | 2026-08-26T15:11:16-04:00 |
+| **Scale AI** | San Francisco, CA; Seattle, WA; New York, NY | Machine Learning Research Scientist, Evaluations | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4728014005) | 2026-08-26T14:51:42-04:00 |
+| **Scale AI** | San Francisco, CA; Seattle, WA; New York, NY | Machine Learning Research Scientist, Post-Training | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4528009005) | 2025-02-11T00:40:13-05:00 |
+| **Zoox** | Foster City, CA | Software Engineer, Wireless Technologies | [Apply](https://jobs.lever.co/zoox/7522162e-a518-444e-8fe7-49b8b45bbdd3) | 2026-08-26 20:04 |
+| **Booz Allen Hamilton** | Alexandria, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0248011-1) | Posted Today |
+| **Citi** | Jersey City New Jersey United States | AI Business Analyst (Forward Deployment Engineer) | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/AI-Business-Analyst--Forward-Deployment-Engineer-_26989086) | Posted Today |
+| **General Motors** | Sunnyvale, California, United States of America | Software Engineer, AV HIL Platform and Services | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-HIL-Platform-and-Services_JR-202602819-2) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 26, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-26 18:31:46
 
 📊 **9 new jobs this batch:**
