@@ -30,6 +30,10 @@ ROLE_KEYWORDS = [
     'big data engineer',
     'etl engineer',
     'pipeline engineer',
+    'data platform engineer',
+    'data reliability engineer',
+    'data warehouse engineer',
+    'data systems engineer',
 
     # Data Science
     'data scientist',
@@ -56,12 +60,20 @@ ROLE_KEYWORDS = [
     'swe',
     'backend engineer',
     'platform engineer',
+    'infrastructure engineer',
+    'cloud infrastructure engineer',
+    'cloud platform engineer',
+    'production engineer',
+    'systems engineer',
 
     # Cloud / Infra
     'cloud engineer',
     'devops engineer',
     'site reliability',
     'sre',
+    'devsecops',
+    'cloud reliability',
+    'cloud operations engineer',
 
     # Analytics / BI
     'data analyst',
@@ -101,6 +113,14 @@ LEVEL_KEYWORDS = [
     '1-3 years',
     '2-3 years',
     'recent graduate',
+    'university graduate',
+    'college graduate',
+    'graduate program',
+    'development program',
+    'rotational program',
+    'campus hire',
+    '2026 graduate',
+    '2027 graduate',
 
     # Mid-level (2+ years exp — you qualify with LTI Mindtree)
     'mid level',
@@ -352,6 +372,57 @@ def scrape_company(row):
     else:
         log_error(company, f"Unsupported platform: {platform}")
 
+# ─── MASS / COHORT HIRING SIGNALS ─────────────────────────────────────────────
+MASS_HIRING_KEYWORDS = [
+    'new grad', 'new graduate', 'university graduate', 'college graduate',
+    'early career', 'recent graduate', 'graduate program', 'development program',
+    'technology development program', 'engineering development program',
+    'analyst program', 'rotational program', 'campus hire', '2027 graduate',
+    '2026 graduate', 'associate engineer', 'associate data',
+]
+
+def classify_role(title):
+    t = title.lower()
+    if any(x in t for x in ['data engineer','data platform','analytics engineer','etl','data infrastructure','data warehouse']): return 'DATA_ENGINEERING'
+    if any(x in t for x in ['platform engineer','infrastructure engineer','devops','site reliability','sre','production engineer','cloud engineer','cloud infrastructure','devsecops']): return 'CLOUD_PLATFORM_DEVOPS'
+    if any(x in t for x in ['data analyst','business intelligence','bi analyst','bi engineer','product analyst','growth analyst','reporting analyst']): return 'ANALYTICS_BI'
+    if any(x in t for x in ['data scientist','machine learning','ml engineer','ai engineer','applied scientist','mlops','llm']): return 'DATA_SCIENCE_AI'
+    if any(x in t for x in ['software engineer','software developer','backend engineer','sde','swe','systems engineer']): return 'SOFTWARE_ENGINEERING'
+    return 'OTHER'
+
+def mass_hiring_signals(new_jobs):
+    by_company = {}
+    for j in new_jobs:
+        by_company.setdefault(j['company'], []).append(j)
+    signals = []
+    for company, jobs in by_company.items():
+        cohort = [j for j in jobs if any(k in j['title'].lower() for k in MASS_HIRING_KEYWORDS)]
+        # Burst: 5+ relevant jobs from one company in one hourly run.
+        if len(jobs) >= 5 or len(cohort) >= 2:
+            signals.append({
+                'company': company,
+                'new_jobs_this_hour': len(jobs),
+                'cohort_jobs': len(cohort),
+                'signal': 'COHORT + BURST' if cohort and len(jobs) >= 5 else ('COHORT' if cohort else 'HIRING BURST'),
+                'roles': ', '.join(sorted(set(classify_role(j['title']) for j in jobs))),
+                'detected_at': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
+            })
+    return signals
+
+def write_mass_hiring(signals):
+    if not signals:
+        return
+    out = Path('mass_hiring_signals.csv')
+    df = pd.DataFrame(signals)
+    df.to_csv(out, mode='a', index=False, header=not out.exists())
+    md = Path('MASS-HIRING-WATCH.md')
+    block = f"\n## {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n"
+    block += "| Company | Signal | New jobs this hour | Cohort jobs | Role families |\n|---|---|---:|---:|---|\n"
+    for x in signals:
+        block += f"| **{x['company']}** | 🚨 {x['signal']} | {x['new_jobs_this_hour']} | {x['cohort_jobs']} | {x['roles']} |\n"
+    old = md.read_text() if md.exists() else '# 🚨 Mass / Cohort Hiring Watch\n> Signals are based on hourly first-party/ATS job changes; they are not guarantees of headcount.\n'
+    md.write_text(old.split('\n',2)[0] + '\n> Signals are based on hourly first-party/ATS job changes; they are not guarantees of headcount.\n' + block + '\n' + '\n'.join(old.split('\n')[2:]))
+
 # ─── MARKDOWN OUTPUT ──────────────────────────────────────────────────────────
 def get_daily_filename():
     now = datetime.now()
@@ -412,7 +483,13 @@ def send_telegram(new_jobs, bot_token, chat_id):
                for k in ['intern', 'internship', 'co-op', 'coop', 'co op'])]
     fulltime = [j for j in new_jobs if j not in interns]
 
+    signals = mass_hiring_signals(new_jobs)
     msg = f"🚀 *{len(new_jobs)} NEW JOBS — {datetime.now().strftime('%b %d %H:%M')}*\n"
+    if signals:
+        msg += f"🚨 *{len(signals)} MASS/COHORT HIRING SIGNAL(S)*\n"
+        for x in signals[:4]:
+            msg += f"• {x['company']}: {x['signal']} — {x['new_jobs_this_hour']} new roles\n"
+        msg += "\n"
     msg += f"📋 {len(interns)} Internships | {len(fulltime)} Full-time\n\n"
 
     # Show internships first
@@ -482,6 +559,14 @@ if __name__ == "__main__":
         new_df = pd.DataFrame(results)
         new_df[['link']].to_csv(old_path, mode='a', index=False,
                                  header=not old_path.exists())
+
+    # Detect mass/cohort hiring patterns from this hourly batch
+    signals = mass_hiring_signals(results)
+    write_mass_hiring(signals)
+    if signals:
+        print(f"🚨 Mass/cohort hiring signals: {len(signals)}")
+        for x in signals:
+            print(f"  {x['company']}: {x['signal']} ({x['new_jobs_this_hour']} new jobs)")
 
     # Send Telegram
     bot_token = os.environ.get('TELEGRAM_BOT_TOKEN', '')

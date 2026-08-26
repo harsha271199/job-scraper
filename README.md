@@ -1,16 +1,30 @@
-# 📢 Job Listings for Harsha — August 26, 2026
+# 📢 Job Listings for Harsha — August 25, 2026
 > Updated every hour. Newest batch first.
 
-### 🕐 Batch at 2026-08-26 00:29:03
+### 🕐 Batch at 2026-08-25 02:10:33
 
-📊 **3 new jobs this batch:**
-- Nvidia: 1 job
-- SpaceX: 2 jobs
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- OpenAI: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
 |---|---|---|---|---|
-| **SpaceX** | Bastrop, TX | Data Engineer, Hardware Reliability (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8623125002?gh_jid=8623125002) | 2026-08-25T20:13:35-04:00 |
-| **SpaceX** | Bastrop, TX | Data Scientist, Hardware Reliability (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8748827002?gh_jid=8748827002) | 2026-08-25T20:24:17-04:00 |
-| **Nvidia** | US, CA, Santa Clara | System Software Engineer - Performance Verification Infrastructure | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Performance-Verification-Infrastructure_JR2021574) | Posted Today |
+| **OpenAI** | San Francisco | People Research Scientist | [Apply](https://jobs.ashbyhq.com/openai/5a682b9f-ef1a-4e47-813a-72b23414d43e) | 2026-08-25T00:46:30.177+00:00 |
+| **Booz Allen Hamilton** | Honolulu, HI | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Data-Engineer_R0240103) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 25, 2026
+> Updated every hour. Newest batch first.
+
+### 🕐 Batch at 2026-08-25 00:28:01
+
+📊 **2 new jobs this batch:**
+- Anthropic: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | New York City, NY; San Francisco, CA; Seattle, WA | Data Scientist, Product | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5182605008) | 2026-05-07T14:28:01-04:00 |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer (BM/SRM) (26-383) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer--BM-SRM---26-383-_R10247192) | Posted Today |
 
 ---
