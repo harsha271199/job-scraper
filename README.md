@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 26, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-26 02:16:24
+
+📊 **1 new jobs this batch:**
+- LangChain: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **LangChain** | San Francisco, CA | Software Engineer, Database Infrastructure | [Apply](https://jobs.ashbyhq.com/langchain/9a0ae8b4-af0c-4551-b9cd-284fe67e1935) | 2026-08-19T20:32:57.562+00:00 |
+
+---
+# 📢 Job Listings for Harsha — August 26, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-26 00:29:03
 
 📊 **3 new jobs this batch:**
