@@ -1,583 +1,368 @@
-"""
-Job Scraper for Harshavardhan Kagithoju
-Hits ATS APIs directly — Greenhouse, Lever, Workday, Ashby
-Runs every hour via GitHub Actions → sends Telegram alert
-"""
-
-import time
-import random
-import csv
+"""Hourly early-career US tech job scraper. ATS + first-party career portals."""
+import os,re,time,random,json
+from datetime import datetime, timezone
+from pathlib import Path
+from urllib.parse import urljoin, urlparse, parse_qsl, urlencode, urlunparse
+from concurrent.futures import ThreadPoolExecutor, as_completed
+from threading import Lock
 import pandas as pd
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin
-import json
-import re
-from datetime import datetime
-from pathlib import Path
-from concurrent.futures import ThreadPoolExecutor, as_completed
 
-# ─── KEYWORDS TO MATCH ───────────────────────────────────────────────────────
-# Only roles relevant to Harsha's Masters in Data Science
-# Targets: Internship (Fall), Co-op, Full-time entry/mid-level
-
-# ROLE keywords — must match one of these
-ROLE_KEYWORDS = [
-    # Data Engineering
-    'data engineer',
-    'analytics engineer',
-    'data infrastructure',
-    'big data engineer',
-    'etl engineer',
-    'pipeline engineer',
-    'data platform engineer',
-    'data reliability engineer',
-    'data warehouse engineer',
-    'data systems engineer',
-
-    # Data Science
-    'data scientist',
-    'applied scientist',
-    'quantitative analyst',
-    'research scientist',
-
-    # AI / ML
-    'machine learning engineer',
-    'ml engineer',
-    'ai engineer',
-    'mlops',
-    'llmops',
-    'llm engineer',
-    'generative ai',
-    'nlp engineer',
-    'applied ml',
-    'ai platform',
-
-    # Software Engineering (broad — for SDE roles)
-    'software engineer',
-    'software developer',
-    'sde',
-    'swe',
-    'backend engineer',
-    'platform engineer',
-    'infrastructure engineer',
-    'cloud infrastructure engineer',
-    'cloud platform engineer',
-    'production engineer',
-    'systems engineer',
-
-    # Cloud / Infra
-    'cloud engineer',
-    'devops engineer',
-    'site reliability',
-    'sre',
-    'devsecops',
-    'cloud reliability',
-    'cloud operations engineer',
-
-    # Analytics / BI
-    'data analyst',
-    'business analyst',
-    'business intelligence',
-    'bi engineer',
-    'bi analyst',
-    'analytics engineer',
-    'product analyst',
-    'growth analyst',
-    'reporting analyst',
+HEADERS={'User-Agent':'Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 Chrome/131 Safari/537.36','Accept-Language':'en-US,en;q=0.9'}
+ROLE_PATTERNS=[
+ ('DATA_ENGINEERING',[r'\bdata engineer',r'analytics engineer',r'data platform engineer',r'data infrastructure',r'data reliability',r'data warehouse engineer',r'\betl\b',r'\belt\b']),
+ ('CLOUD_PLATFORM_DEVOPS',[r'cloud engineer',r'cloud infrastructure',r'cloud platform',r'platform engineer',r'infrastructure engineer',r'devops',r'devsecops',r'site reliability',r'\bsre\b',r'production engineer',r'cloud operations',r'cloud reliability',r'kubernetes platform']),
+ ('ANALYTICS_BI',[r'\bdata analyst',r'business intelligence',r'\bbi analyst',r'\bbi engineer',r'analytics analyst',r'product analyst',r'growth analyst',r'reporting analyst',r'\bbusiness analyst']),
+ ('DATA_SCIENCE_AI',[r'\bdata scientist',r'machine learning engineer',r'\bml engineer',r'\bai engineer',r'\bmlops',r'\bllm',r'applied scientist']),
+ ('SOFTWARE_ENGINEERING',[r'software engineer',r'software developer',r'backend engineer',r'backend developer',r'\bsde\b',r'\bswe\b']),
+]
+HARD_TITLE_EXCLUDE=[r'\bsenior\b',r'\bsr\.?\b',r'\bstaff\b',r'\bprincipal\b',r'\bdirector\b',r'\bmanager\b',r'\blead\b',r'\bhead of\b',r'\bvp\b',r'vice president',r'\bchief\b',r'distinguished',r'\bfellow\b',r'engineer iii',r'engineer iv',r'level 3',r'level 4',r'\bl3\b',r'\bl4\b']
+INTERN_EXCLUDE=[r'\bintern\b',r'\binternship\b',r'\bco[- ]?op\b']
+DOMAIN_EXCLUDE=[r'power systems engineer',r'fluid systems engineer',r'avionics systems engineer',r'hvac systems engineer',r'wireless systems engineer',r'quality systems engineer',r'hardware systems engineer',r'cyber systems engineer',r'it systems engineer',r'facilities infrastructure engineer',r'physical security systems engineer',r'finance systems engineer']
+CLEARANCE_EXCLUDE=[r'ts/sci',r'top secret',r'secret clearance',r'clearance required',r'active clearance',r'polygraph']
+EMPLOYMENT_EXCLUDE=[r'\bcontractor\b',r'\btemporary\b',r'\bseasonal\b']
+YOE_REJECT=[
+ r'(?:minimum|required|requires?|qualifications?|must have|you have|experience).{0,120}\b(?:4|5|6|7|8|9|10|11|12|13|14|15)\+?\s*(?:years?|yrs?)',
+ r'\b(?:4|5|6|7|8|9|10|11|12|13|14|15)\+?\s*(?:years?|yrs?)\s+(?:of\s+)?(?:professional|industry|relevant|software|engineering|data|cloud|development)',
+]
+DISCOVERY_SOURCES=[
+ ('SpeedyApply AI New Grad','https://raw.githubusercontent.com/speedyapply/2027-AI-College-Jobs/main/NEW_GRAD_USA.md'),
+ ('SpeedyApply SWE New Grad','https://raw.githubusercontent.com/speedyapply/2027-SWE-College-Jobs/main/NEW_GRAD_USA.md'),
 ]
 
-# LEVEL keywords — must also match one of these (internship OR full-time)
-LEVEL_KEYWORDS = [
-    # Internship / Co-op (Fall 2025 / Spring 2026)
-    'intern',
-    'internship',
-    'co-op',
-    'coop',
-    'co op',
-    'fall 2025',
-    'fall 2026',
-    'spring 2026',
-    'summer 2026',
+NON_US=[r'\bcanada\b',r'\bcanadian\b',r'\bunited kingdom\b',r'\buk\b',r'\bnetherlands\b',r'\bindia\b',r'\bgermany\b',r'\bfrance\b',r'\bireland\b',r'\bspain\b',r'\bpoland\b',r'\baustralia\b',r'\bsingapore\b']
+US_STATE_ABBRS=set('AL AK AZ AR CA CO CT DE FL GA HI ID IL IN IA KS KY LA ME MD MA MI MN MS MO MT NE NV NH NJ NM NY NC ND OH OK OR PA RI SC SD TN TX UT VT VA WA WV WI WY DC'.split())
+MASS_KEYS=['new grad','new graduate','university graduate','college graduate','early career','recent graduate','graduate program','development program','technology development program','rotational program','campus hire','2027 graduate','2026 graduate','associate engineer','associate data']
+errors=[]; results=[]; health=[]; old_links=set(); state_lock=Lock()
 
-    # New Grad / Entry Level / Full-time
-    'new grad',
-    'new graduate',
-    'entry level',
-    'entry-level',
-    'associate',
-    'junior',
-    'early career',
-    '0-2 years',
-    '1-2 years',
-    '1-3 years',
-    '2-3 years',
-    'recent graduate',
-    'university graduate',
-    'college graduate',
-    'graduate program',
-    'development program',
-    'rotational program',
-    'campus hire',
-    '2026 graduate',
-    '2027 graduate',
+def clean(s): return re.sub(r'\s+',' ',str(s or '')).strip()
+def canonical(url):
+    try:
+        p=urlparse(url); q=[(k,v) for k,v in parse_qsl(p.query) if not k.lower().startswith('utm_') and k.lower() not in {'gh_src','source','sourceid'}]
+        return urlunparse((p.scheme,p.netloc,p.path.rstrip('/'),'',urlencode(q),'')).rstrip('/')
+    except: return url
 
-    # Mid-level (2+ years exp — you qualify with LTI Mindtree)
-    'mid level',
-    'mid-level',
-    'software engineer i',
-    'software engineer ii',  # SDE-I / SDE-II
-    'engineer i',
-    'engineer ii',
-    'analyst i',
-    'analyst ii',
-    'scientist i',
-    'scientist ii',
-    'level 3',
-    'level 4',
-    'l3',
-    'l4',
-]
+def role_family(title):
+    t=title.lower()
+    for fam,pats in ROLE_PATTERNS:
+        if any(re.search(p,t) for p in pats): return fam
+    return None
 
-# ─── KEYWORDS TO EXCLUDE (noise you never want) ──────────────────────────────
-NO_KEYWORDS = [
-    # Seniority you're not targeting
-    'senior', ' sr.', ' sr ', 'staff engineer', 'principal',
-    'director', 'manager', 'lead', 'vp ', 'vice president',
-    'head of', 'chief', 'distinguished', 'fellow',
-    'software engineer iii', 'engineer iii', 'engineer iv',
-    'level 5', 'level 6', 'l5', 'l6',
+def title_ok(title):
+    t=clean(title).lower()
+    if not role_family(t): return False
+    if any(re.search(p,t) for p in HARD_TITLE_EXCLUDE+INTERN_EXCLUDE+DOMAIN_EXCLUDE): return False
+    return True
 
-    # Wrong tech domains
-    'c++', 'embedded', 'firmware', 'hardware engineer',
-    'fpga', 'asic', 'rf engineer', 'mechanical', 'civil',
-    'electrical engineer', 'manufacturing',
-
-    # Non-tech roles
-    'sales', 'marketing', 'account executive', 'account manager',
-    'recruiter', 'talent acquisition', 'hr ', 'human resources',
-    'legal', 'accounting', 'finance analyst', 'controller',
-    'nurse', 'doctor', 'physician', 'clinical',
-    'ux designer', 'ui designer', 'graphic designer',
-    'copywriter', 'content writer', 'social media',
-    'customer success', 'customer support', 'customer service',
-    'supply chain', 'logistics', 'procurement',
-    'paint', 'cnc', 'material handler', 'technician',
-
-    # Defense / security clearance (hard to get on OPT)
-    'clearance required', 'secret clearance', 'ts/sci',
-    'top secret', 'dod ', 'defense contractor',
-]
-
-# ─── ERROR LOGGING ────────────────────────────────────────────────────────────
-error_messages = []
-
-def log_error(company, message):
-    if len(message) > 300:
-        message = message[:300] + '...'
-    error_messages.append(f"[ERROR] {company}: {message}")
-
-# ─── KEYWORD MATCHING ─────────────────────────────────────────────────────────
-def keyword_match(title):
-    """
-    A job passes if:
-      1. Title contains a ROLE keyword (data engineer, ml engineer, etc.)
-      2. Title contains a LEVEL keyword (intern, new grad, engineer i, etc.)
-         OR the title is a clean role name without a seniority indicator
-         (e.g. "Data Engineer" with no level = likely entry/mid, include it)
-      3. Title does NOT contain any NO_KEYWORD
-    """
-    t = title.lower()
-
-    # Hard exclude first
-    if any(nk in t for nk in NO_KEYWORDS):
+def location_ok(loc):
+    s=clean(loc); l=s.lower()
+    if not s or s.lower() in {'n/a','remote'}: return True
+    # Explicit foreign location wins over the word "remote".
+    if any(re.search(p,l) for p in NON_US):
         return False
+    if 'united states' in l or 'usa' in l or 'u.s.' in l or 'us remote' in l or 'remote - usa' in l: return True
+    if re.search(r'\bremote\b',l) and not any(re.search(p,l) for p in NON_US): return True
+    if re.search(r',\s*([A-Z]{2})(?:\b|,)',s):
+        return re.search(r',\s*([A-Z]{2})(?:\b|,)',s).group(1) in US_STATE_ABBRS
+    return any(x in l for x in ['san francisco','seattle','new york','austin','boston','chicago','denver','atlanta','phoenix','dallas','houston','mountain view','palo alto','sunnyvale','cupertino','redmond','bellevue','arlington','virginia','california','texas','washington dc'])
 
-    has_role  = any(rk in t for rk in ROLE_KEYWORDS)
-    has_level = any(lk in t for lk in LEVEL_KEYWORDS)
-
-    if not has_role:
-        return False
-
-    # If it has a level keyword → definitely include
-    if has_level:
-        return True
-
-    # If no level keyword but also no seniority signal → likely entry/mid, include
-    # (e.g. "Data Engineer" or "ML Engineer" posted by a company = open to all levels)
-    seniority_signals = ['senior', 'staff', 'principal', 'director', 'lead',
-                         'manager', 'head', 'vp', 'chief', 'sr.', ' sr ']
-    if not any(s in t for s in seniority_signals):
-        return True
-
-    return False
-
-# ─── US LOCATION FILTER ───────────────────────────────────────────────────────
-def is_us_location(location):
-    if not location:
-        return True
-    loc = location.lower()
-    us_keywords = ['united states', 'usa', ' us ', 'remote', 'us-', '- us']
-    us_states = [
-        'alabama','alaska','arizona','arkansas','california','colorado',
-        'connecticut','delaware','florida','georgia','hawaii','idaho',
-        'illinois','indiana','iowa','kansas','kentucky','louisiana','maine',
-        'maryland','massachusetts','michigan','minnesota','mississippi',
-        'missouri','montana','nebraska','nevada','new hampshire','new jersey',
-        'new mexico','new york','north carolina','north dakota','ohio',
-        'oklahoma','oregon','pennsylvania','rhode island','south carolina',
-        'south dakota','tennessee','texas','utah','vermont','virginia',
-        'washington','west virginia','wisconsin','wyoming','tempe','phoenix',
-        'seattle','san francisco','new york city','austin','chicago',
-        'boston','los angeles','denver','atlanta','dallas','houston',
-    ]
-    abbrs = ['al','ak','az','ar','ca','co','ct','de','fl','ga','hi','id',
-             'il','in','ia','ks','ky','la','me','md','ma','mi','mn','ms',
-             'mo','mt','ne','nv','nh','nj','nm','ny','nc','nd','oh','ok',
-             'or','pa','ri','sc','sd','tn','tx','ut','vt','va','wa','wv','wi','wy']
-    return (
-        any(k in loc for k in us_keywords)
-        or any(s in loc for s in us_states)
-        or any(re.search(r'\b' + a + r'\b', loc) for a in abbrs)
-        or re.search(r',\s*us$', loc)
-    )
-
-# ─── SCRAPERS ─────────────────────────────────────────────────────────────────
-results = []
-old_links = set()
-
-def scrape_greenhouse(url, company):
+def stale(posted, days=120):
+    s=clean(posted)
+    if not s or s.lower() in {'n/a','posted today','today'}: return False
     try:
-        match = re.search(r'greenhouse.io/([^/?\s]+)', url)
-        if not match:
-            log_error(company, "Bad Greenhouse URL")
-            return
-        org = match.group(1)
-        r = requests.get(f"https://boards-api.greenhouse.io/v1/boards/{org}/jobs", timeout=10)
-        if r.status_code != 200:
-            log_error(company, f"Greenhouse {r.status_code}")
-            return
-        for job in r.json().get('jobs', []):
-            title = job.get('title', '')
-            location = job.get('location', {}).get('name', 'N/A')
-            link = job.get('absolute_url', '')
-            posted = job.get('first_published', 'N/A')
-            if keyword_match(title) and link not in old_links and is_us_location(location):
-                results.append({'company': company, 'title': title,
-                                'location': location, 'link': link, 'posted': posted})
-                old_links.add(link)
-    except Exception as e:
-        log_error(company, str(e))
+        dt=pd.to_datetime(s,utc=True,errors='coerce')
+        if pd.isna(dt): return False
+        return (pd.Timestamp.now(tz='UTC')-dt).days > days
+    except: return False
 
-def scrape_lever(url, company):
-    try:
-        match = re.search(r'lever.co/([^/?\s]+)', url)
-        if not match:
-            log_error(company, "Bad Lever URL")
-            return
-        org = match.group(1)
-        r = requests.get(f"https://api.lever.co/v0/postings/{org}?mode=json", timeout=10)
-        if r.status_code != 200:
-            log_error(company, f"Lever {r.status_code}")
-            return
-        for job in r.json():
-            title = job.get('text', '')
-            location = job.get('categories', {}).get('location', 'N/A')
-            link = job.get('hostedUrl', '')
-            created = job.get('createdAt')
-            posted = datetime.utcfromtimestamp(created/1000).strftime('%Y-%m-%d %H:%M') if created else 'N/A'
-            if keyword_match(title) and link not in old_links and is_us_location(location):
-                results.append({'company': company, 'title': title,
-                                'location': location, 'link': link, 'posted': posted})
-                old_links.add(link)
-    except Exception as e:
-        log_error(company, str(e))
+def add_job(company,title,location,link,posted='N/A',description='',source=''):
+    title,location,link=clean(title),clean(location),clean(link)
+    if not title_ok(title) or not location_ok(location) or not link: return False
+    txt=(title+' '+clean(description)).lower()
+    if any(re.search(p,txt) for p in CLEARANCE_EXCLUDE): return False
+    if any(re.search(p,title.lower()) for p in EMPLOYMENT_EXCLUDE): return False
+    if any(re.search(p,txt,re.I|re.S) for p in YOE_REJECT): return False
+    if stale(posted,120): return False
+    link=canonical(link)
+    with state_lock:
+        if link in old_links: return False
+        old_links.add(link)
+        results.append({'company':company,'location':location or 'N/A','title':title,'link':link,'posted':posted or 'N/A','role_family':role_family(title),'source':source})
+    return True
 
-def scrape_ashby(url, company):
-    try:
-        match = re.search(r'ashbyhq\.com/([\w\-]+)', url)
-        if not match:
-            log_error(company, "Bad Ashby URL")
-            return
-        org = match.group(1)
-        r = requests.get(f"https://api.ashbyhq.com/posting-api/job-board/{org}", timeout=10)
-        if r.status_code != 200:
-            log_error(company, f"Ashby {r.status_code}")
-            return
-        for job in r.json().get('jobs', []):
-            title = job.get('title', '')
-            location = job.get('location', 'N/A')
-            link = job.get('jobUrl', '')
-            posted = job.get('publishedAt', 'N/A')
-            if keyword_match(title) and link not in old_links and is_us_location(location):
-                results.append({'company': company, 'title': title,
-                                'location': location, 'link': link, 'posted': posted})
-                old_links.add(link)
-    except Exception as e:
-        log_error(company, str(e))
+def req(method,url,**kw):
+    h=dict(HEADERS); h.update(kw.pop('headers',{})); return requests.request(method,url,headers=h,timeout=15,**kw)
 
-def scrape_workday(url, company):
-    try:
-        match = re.search(r'https://([\w\-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[\w\-]+/)?([\w\-]+)', url)
-        if not match:
-            log_error(company, "Bad Workday URL")
-            return
-        sub, wd, site = match.group(1), match.group(2), match.group(3)
-        api = f"https://{sub}.{wd}.myworkdayjobs.com/wday/cxs/{sub}/{site}/jobs"
-        offset, page = 0, 20
-        max_pages = 5          # ← cap at 5 pages (100 jobs) per company max
-        pages_fetched = 0
-        headers = {'Content-Type': 'application/json', 'Accept': 'application/json'}
-        while pages_fetched < max_pages:
-            time.sleep(random.uniform(0.3, 0.8))   # ← reduced from 1.5-3.0s
-            r = requests.post(api, json={"appliedFacets": {}, "limit": page,
-                              "offset": offset, "searchText": ""}, headers=headers, timeout=8)
-            if r.status_code != 200:
-                log_error(company, f"Workday {r.status_code}")
-                break
-            data = r.json()
-            postings = data.get('jobPostings', [])
-            if not postings:
-                break
-            for job in postings:
-                title = job.get('title', '')
-                location = job.get('locationsText', 'N/A')
-                path = job.get('externalPath', '')
-                posted = job.get('postedOn', 'N/A')
-                link = f"https://{sub}.{wd}.myworkdayjobs.com/en-US/{site}{path}"
-                if keyword_match(title) and link not in old_links and is_us_location(location):
-                    results.append({'company': company, 'title': title,
-                                    'location': location, 'link': link, 'posted': posted})
-                    old_links.add(link)
-            pages_fetched += 1
-            offset += page
-            if offset >= data.get('total', 0):
-                break
-    except Exception as e:
-        log_error(company, str(e))
+def scrape_greenhouse(url,company):
+    m=re.search(r'(?:boards|job-boards)\.greenhouse\.io/([^/?\s]+)',url)
+    if not m: raise ValueError('Bad Greenhouse URL')
+    r=req('GET',f'https://boards-api.greenhouse.io/v1/boards/{m.group(1)}/jobs?content=true'); r.raise_for_status(); n=0
+    for j in r.json().get('jobs',[]):
+        n+=add_job(company,j.get('title'),(j.get('location') or {}).get('name'),j.get('absolute_url'),j.get('first_published') or j.get('updated_at'),BeautifulSoup(j.get('content') or '','html.parser').get_text(' '),'greenhouse')
+    return n
+
+def scrape_lever(url,company):
+    m=re.search(r'lever\.co/([^/?\s]+)',url)
+    if not m: raise ValueError('Bad Lever URL')
+    r=req('GET',f'https://api.lever.co/v0/postings/{m.group(1)}?mode=json'); r.raise_for_status(); n=0
+    for j in r.json():
+        posted=datetime.fromtimestamp((j.get('createdAt') or 0)/1000,tz=timezone.utc).isoformat() if j.get('createdAt') else 'N/A'
+        desc=' '.join([j.get('descriptionPlain') or '',j.get('additionalPlain') or ''])
+        n+=add_job(company,j.get('text'),(j.get('categories') or {}).get('location'),j.get('hostedUrl'),posted,desc,'lever')
+    return n
+
+def scrape_ashby(url,company):
+    m=re.search(r'ashbyhq\.com/([\w\-]+)',url)
+    if not m: raise ValueError('Bad Ashby URL')
+    r=req('GET',f'https://api.ashbyhq.com/posting-api/job-board/{m.group(1)}'); r.raise_for_status(); n=0
+    for j in r.json().get('jobs',[]):
+        desc=BeautifulSoup(j.get('descriptionHtml') or j.get('description') or '','html.parser').get_text(' ')
+        n+=add_job(company,j.get('title'),j.get('location'),j.get('jobUrl'),j.get('publishedAt'),desc,'ashby')
+    return n
+
+def scrape_workday(url,company):
+    m=re.search(r'https://([\w\-]+)\.(wd\d+)\.myworkdayjobs\.com/(?:[\w\-]+/)?([\w\-]+)',url)
+    if not m: raise ValueError('Bad Workday URL')
+    sub,wd,site=m.groups(); api=f'https://{sub}.{wd}.myworkdayjobs.com/wday/cxs/{sub}/{site}/jobs'; n=0
+    for offset in range(0,100,20):
+        time.sleep(random.uniform(.15,.4)); r=req('POST',api,json={'appliedFacets':{},'limit':20,'offset':offset,'searchText':''},headers={'Content-Type':'application/json','Accept':'application/json'})
+        if r.status_code!=200: raise RuntimeError(f'Workday {r.status_code} at {api}')
+        data=r.json(); posts=data.get('jobPostings',[])
+        if not posts: break
+        for j in posts:
+            title=j.get('title'); loc=j.get('locationsText'); path=j.get('externalPath','')
+            if not title_ok(title) or not location_ok(loc):
+                continue
+            link=f'https://{sub}.{wd}.myworkdayjobs.com/en-US/{site}{path}'
+            desc=''; posted=j.get('postedOn') or 'N/A'
+            # Fetch the public Workday job-detail JSON only for title/location candidates.
+            # This lets the 0-3 YOE filter inspect actual requirements instead of title alone.
+            try:
+                dr=req('GET',f'https://{sub}.{wd}.myworkdayjobs.com/wday/cxs/{sub}/{site}{path}',headers={'Accept':'application/json'})
+                if dr.status_code==200:
+                    info=(dr.json() or {}).get('jobPostingInfo',{})
+                    desc=BeautifulSoup(info.get('jobDescription') or '','html.parser').get_text(' ')
+                    posted=info.get('startDate') or posted
+            except Exception:
+                pass
+            n+=add_job(company,title,loc,link,posted,desc,'workday')
+        if offset+20>=data.get('total',0): break
+    return n
+
+def scrape_smartrecruiters(url,company):
+    m=re.search(r'smartrecruiters\.com/([^/?#]+)',url,re.I)
+    if not m: raise ValueError('Bad SmartRecruiters URL')
+    slug=m.group(1); n=0; offset=0
+    while offset<200:
+        r=req('GET',f'https://api.smartrecruiters.com/v1/companies/{slug}/postings',params={'limit':100,'offset':offset}); r.raise_for_status()
+        data=r.json(); rows=data.get('content',[])
+        if not rows: break
+        for j in rows:
+            loc=j.get('location') or {}; location=', '.join(filter(None,[loc.get('city'),loc.get('region'),loc.get('country')]))
+            jid=j.get('id'); link=f'https://jobs.smartrecruiters.com/{slug}/{jid}' if jid else url
+            n+=add_job(company,j.get('name'),location,link,j.get('releasedDate'),'','smartrecruiters')
+        offset+=len(rows)
+        if offset>=data.get('totalFound',0): break
+    return n
+
+def parse_jsonld_jobs(html,base,company,source):
+    soup=BeautifulSoup(html,'html.parser'); n=0
+    for sc in soup.find_all('script',type='application/ld+json'):
+        try: objs=json.loads(sc.string or '{}'); objs=objs if isinstance(objs,list) else [objs]
+        except: continue
+        stack=list(objs)
+        while stack:
+            o=stack.pop()
+            if isinstance(o,dict):
+                if o.get('@type')=='JobPosting':
+                    loc=o.get('jobLocation',{}); loc=loc[0] if isinstance(loc,list) and loc else loc
+                    addr=(loc or {}).get('address',{}) if isinstance(loc,dict) else {}
+                    location=', '.join(filter(None,[addr.get('addressLocality'),addr.get('addressRegion'),addr.get('addressCountry')]))
+                    n+=add_job(company,o.get('title'),location,o.get('url') or base,o.get('datePosted'),BeautifulSoup(o.get('description') or '','html.parser').get_text(' '),source)
+                stack.extend(v for v in o.values() if isinstance(v,(dict,list)))
+            elif isinstance(o,list): stack.extend(o)
+    return n
+
+def scrape_google(url,company):
+    n=0
+    for page in range(1,5):
+        r=req('GET',f'https://www.google.com/about/careers/applications/jobs/results/?page={page}'); r.raise_for_status(); soup=BeautifulSoup(r.text,'html.parser')
+        found=0
+        for a in soup.find_all('a',href=re.compile(r'/about/careers/applications/jobs/results/\d+')):
+            href=urljoin('https://www.google.com',a.get('href')); title=clean(a.get('aria-label',''))
+            title=re.sub(r'^Learn more about\s+','',title,flags=re.I) or clean(a.get_text(' '))
+            box=a.find_parent(['li','div']); text=clean(box.get_text(' ')) if box else ''
+            n+=add_job(company,title,text,href,'N/A','', 'google_first_party'); found+=1
+        if not found: break
+    return n
+
+def scrape_apple(url,company):
+    n=0
+    for page in range(1,8):
+        r=req('GET',f'https://jobs.apple.com/en-us/search?location=united-states-USA&page={page}'); r.raise_for_status(); soup=BeautifulSoup(r.text,'html.parser'); found=0
+        for a in soup.find_all('a',href=re.compile(r'/en-us/details/')):
+            title=clean(a.get_text(' ')); href=urljoin('https://jobs.apple.com',a.get('href')); box=a.find_parent(['li','tr','div']); text=clean(box.get_text(' ')) if box else ''
+            # Apple search result text contains date/location; title/link are authoritative.
+            n+=add_job(company,title,text,href,'N/A','', 'apple_first_party'); found+=1
+        # Current Apple markup may expose details through links around h3 headings.
+        if not found:
+            for h in soup.find_all(['h2','h3']):
+                a=h.find('a',href=True) or h.find_parent('a',href=True)
+                if a and '/details/' in a.get('href',''):
+                    n+=add_job(company,clean(h.get_text(' ')),clean(h.parent.get_text(' ')),urljoin('https://jobs.apple.com',a['href']),'N/A','','apple_first_party'); found+=1
+        if not found: break
+    return n
+
+def scrape_amazon(url,company):
+    n=0
+    # Search first-party site directly; sort recent and restrict US.
+    for q in ['data engineer','cloud engineer','platform engineer','devops engineer','data analyst','data scientist','software engineer']:
+        r=req('GET','https://www.amazon.jobs/en/search',params={'base_query':q,'country':'USA','sort':'recent','result_limit':10,'offset':0}); r.raise_for_status(); soup=BeautifulSoup(r.text,'html.parser')
+        for a in soup.find_all('a',href=re.compile(r'/en/jobs/')):
+            title=clean(a.get_text(' ')); box=a.find_parent(['div','li']); text=clean(box.get_text(' ')) if box else ''
+            n+=add_job(company,title,text,urljoin('https://www.amazon.jobs',a.get('href')),'N/A',text,'amazon_first_party')
+    return n
+
+def scrape_official(url,company):
+    cl=company.lower()
+    if cl=='google': return scrape_google(url,company)
+    if cl=='apple': return scrape_apple(url,company)
+    if cl in {'amazon','amazon / aws'}: return scrape_amazon(url,company)
+    # Meta/Microsoft/other first-party portals: try server-rendered JSON-LD/HTML. If blocked, health reports it explicitly.
+    r=req('GET',url); r.raise_for_status(); n=parse_jsonld_jobs(r.text,url,company,'official_jsonld')
+    if n: return n
+    soup=BeautifulSoup(r.text,'html.parser')
+    for a in soup.find_all('a',href=True):
+        href=urljoin(url,a['href']); title=clean(a.get_text(' '))
+        if title_ok(title) and any(x in href.lower() for x in ['/job','jobs/','job_details','position']):
+            box=a.find_parent(['li','div']); n+=add_job(company,title,clean(box.get_text(' ')) if box else 'N/A',href,'N/A','','official_html')
+    if not n: raise RuntimeError('official portal returned no parseable job records (browser/API adapter needed)')
+    return n
+
+def scrape_discovery_markdown(name,url):
+    r=req('GET',url); r.raise_for_status(); n=0
+    for line in r.text.splitlines():
+        if not line.startswith('|') or '---' in line: continue
+        cols=[c.strip() for c in line.strip('|').split('|')]
+        if len(cols)<4 or cols[0].lower() in {'company','**company**'}: continue
+        company=re.sub(r'[*_`]+','',cols[0]).strip()
+        title=re.sub(r'[*_`]+','',cols[1]).strip()
+        location=re.sub(r'[*_`]+','',cols[2]).strip()
+        urls=re.findall(r'https?://[^)\s|]+',line)
+        if not urls: continue
+        # Prefer employer posting over repository/image links.
+        link=next((u for u in urls if 'github.com' not in u and 'img.shields.io' not in u),urls[0])
+        age=cols[-1] if cols else 'N/A'
+        n+=add_job(company,title,location,link,age,'',f'discovery:{name}')
+    return n
 
 def scrape_company(row):
-    platform = str(row.get('platform', '')).lower().strip()
-    url = str(row.get('careers_url', '')).strip()
-    company = str(row.get('company', '')).strip()
-    dispatch = {
-        'greenhouse': scrape_greenhouse,
-        'lever': scrape_lever,
-        'ashby': scrape_ashby,
-        'workday': scrape_workday,
-    }
-    fn = dispatch.get(platform)
-    if fn:
-        fn(url, company)
-    else:
-        log_error(company, f"Unsupported platform: {platform}")
-
-# ─── MASS / COHORT HIRING SIGNALS ─────────────────────────────────────────────
-MASS_HIRING_KEYWORDS = [
-    'new grad', 'new graduate', 'university graduate', 'college graduate',
-    'early career', 'recent graduate', 'graduate program', 'development program',
-    'technology development program', 'engineering development program',
-    'analyst program', 'rotational program', 'campus hire', '2027 graduate',
-    '2026 graduate', 'associate engineer', 'associate data',
-]
-
-def classify_role(title):
-    t = title.lower()
-    if any(x in t for x in ['data engineer','data platform','analytics engineer','etl','data infrastructure','data warehouse']): return 'DATA_ENGINEERING'
-    if any(x in t for x in ['platform engineer','infrastructure engineer','devops','site reliability','sre','production engineer','cloud engineer','cloud infrastructure','devsecops']): return 'CLOUD_PLATFORM_DEVOPS'
-    if any(x in t for x in ['data analyst','business intelligence','bi analyst','bi engineer','product analyst','growth analyst','reporting analyst']): return 'ANALYTICS_BI'
-    if any(x in t for x in ['data scientist','machine learning','ml engineer','ai engineer','applied scientist','mlops','llm']): return 'DATA_SCIENCE_AI'
-    if any(x in t for x in ['software engineer','software developer','backend engineer','sde','swe','systems engineer']): return 'SOFTWARE_ENGINEERING'
-    return 'OTHER'
-
-def mass_hiring_signals(new_jobs):
-    by_company = {}
-    for j in new_jobs:
-        by_company.setdefault(j['company'], []).append(j)
-    signals = []
-    for company, jobs in by_company.items():
-        cohort = [j for j in jobs if any(k in j['title'].lower() for k in MASS_HIRING_KEYWORDS)]
-        # Burst: 5+ relevant jobs from one company in one hourly run.
-        if len(jobs) >= 5 or len(cohort) >= 2:
-            signals.append({
-                'company': company,
-                'new_jobs_this_hour': len(jobs),
-                'cohort_jobs': len(cohort),
-                'signal': 'COHORT + BURST' if cohort and len(jobs) >= 5 else ('COHORT' if cohort else 'HIRING BURST'),
-                'roles': ', '.join(sorted(set(classify_role(j['title']) for j in jobs))),
-                'detected_at': datetime.now().strftime('%Y-%m-%d %H:%M:%S'),
-            })
-    return signals
-
-def write_mass_hiring(signals):
-    if not signals:
-        return
-    out = Path('mass_hiring_signals.csv')
-    df = pd.DataFrame(signals)
-    df.to_csv(out, mode='a', index=False, header=not out.exists())
-    md = Path('MASS-HIRING-WATCH.md')
-    block = f"\n## {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n"
-    block += "| Company | Signal | New jobs this hour | Cohort jobs | Role families |\n|---|---|---:|---:|---|\n"
-    for x in signals:
-        block += f"| **{x['company']}** | 🚨 {x['signal']} | {x['new_jobs_this_hour']} | {x['cohort_jobs']} | {x['roles']} |\n"
-    old = md.read_text() if md.exists() else '# 🚨 Mass / Cohort Hiring Watch\n> Signals are based on hourly first-party/ATS job changes; they are not guarantees of headcount.\n'
-    md.write_text(old.split('\n',2)[0] + '\n> Signals are based on hourly first-party/ATS job changes; they are not guarantees of headcount.\n' + block + '\n' + '\n'.join(old.split('\n')[2:]))
-
-# ─── MARKDOWN OUTPUT ──────────────────────────────────────────────────────────
-def get_daily_filename():
-    now = datetime.now()
-    return f"{now.day}-{now.strftime('%B')}-Jobs-List.md"
-
-def update_daily_markdown(new_jobs):
-    if not new_jobs:
-        print("No new jobs found this batch.")
-        return
-    daily_file = get_daily_filename()
-    batch_time = datetime.now().strftime('%Y-%m-%d %H:%M:%S')
-    anchor = f"batch-{batch_time.replace(' ', '-').replace(':', '-')}"
-
-    # Count per company
-    company_counts = {}
-    for j in new_jobs:
-        company_counts[j['company']] = company_counts.get(j['company'], 0) + 1
-
-    summary = f"\n📊 **{len(new_jobs)} new jobs this batch:**\n"
-    for c, n in sorted(company_counts.items()):
-        summary += f"- {c}: {n} job{'s' if n > 1 else ''}\n"
-
-    table = "| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |\n"
-    table += "|---|---|---|---|---|\n"
-    for j in new_jobs:
-        table += f"| **{j['company']}** | {j['location']} | {j['title']} | [Apply]({j['link']}) | {j['posted']} |\n"
-
-    batch_block = f"\n### 🕐 Batch at {batch_time}\n{summary}\n{table}\n---\n"
-
-    # Prepend to file
-    existing = ""
-    if Path(daily_file).exists():
-        with open(daily_file, 'r') as f:
-            content = f.read()
-            # Strip header lines to re-add fresh
-            lines = content.split('\n')
-            existing = '\n'.join(lines)
-
-    today_str = datetime.now().strftime('%B %d, %Y')
-    header = f"# 📢 Job Listings for Harsha — {today_str}\n> Updated every hour. Newest batch first.\n"
-
-    with open(daily_file, 'w') as f:
-        f.write(header + batch_block + existing)
-
-    # Mirror to README
-    with open(daily_file, 'r') as src, open('README.md', 'w') as dst:
-        dst.write(src.read())
-
-    print(f"✅ {len(new_jobs)} new jobs written to {daily_file} and README.md")
-
-# ─── TELEGRAM NOTIFICATION ────────────────────────────────────────────────────
-def send_telegram(new_jobs, bot_token, chat_id):
-    if not new_jobs:
-        return
-
-    # Categorize jobs for cleaner notification
-    interns = [j for j in new_jobs if any(k in j['title'].lower()
-               for k in ['intern', 'internship', 'co-op', 'coop', 'co op'])]
-    fulltime = [j for j in new_jobs if j not in interns]
-
-    signals = mass_hiring_signals(new_jobs)
-    msg = f"🚀 *{len(new_jobs)} NEW JOBS — {datetime.now().strftime('%b %d %H:%M')}*\n"
-    if signals:
-        msg += f"🚨 *{len(signals)} MASS/COHORT HIRING SIGNAL(S)*\n"
-        for x in signals[:4]:
-            msg += f"• {x['company']}: {x['signal']} — {x['new_jobs_this_hour']} new roles\n"
-        msg += "\n"
-    msg += f"📋 {len(interns)} Internships | {len(fulltime)} Full-time\n\n"
-
-    # Show internships first
-    if interns:
-        msg += "━━━ 🎓 INTERNSHIPS / CO-OPS ━━━\n"
-        for j in interns[:8]:
-            msg += f"\n🏢 *{j['company']}*\n"
-            msg += f"💼 {j['title']}\n"
-            msg += f"📍 {j['location']}\n"
-            msg += f"🔗 [Apply]({j['link']})\n"
-
-    # Then full-time
-    if fulltime:
-        msg += "\n━━━ 💼 FULL-TIME ━━━\n"
-        for j in fulltime[:8]:
-            msg += f"\n🏢 *{j['company']}*\n"
-            msg += f"💼 {j['title']}\n"
-            msg += f"📍 {j['location']}\n"
-            msg += f"🔗 [Apply]({j['link']})\n"
-
-    total_shown = min(len(interns), 8) + min(len(fulltime), 8)
-    if len(new_jobs) > total_shown:
-        msg += f"\n[👉 View all {len(new_jobs)} jobs on GitHub](https://github.com/harsha271199/job-scraper#readme)"
-
-    url = f"https://api.telegram.org/bot{bot_token}/sendMessage"
+    company=clean(row.get('company')); platform=clean(row.get('platform')).lower(); url=clean(row.get('careers_url')); before=len(results)
+    dispatch={'greenhouse':scrape_greenhouse,'lever':scrape_lever,'ashby':scrape_ashby,'workday':scrape_workday,'smartrecruiters':scrape_smartrecruiters,'official':scrape_official,'amazon':scrape_amazon}
+    if platform=='official':
+        if 'myworkdayjobs.com' in url: fn=scrape_workday
+        elif 'smartrecruiters.com' in url: fn=scrape_smartrecruiters
+        else: fn=dispatch.get(platform)
+    else: fn=dispatch.get(platform)
     try:
-        requests.post(url, json={
-            "chat_id": chat_id,
-            "text": msg,
-            "parse_mode": "Markdown",
-            "disable_web_page_preview": True
-        }, timeout=10)
-        print(f"📱 Telegram sent: {len(new_jobs)} jobs")
+        if not fn: raise RuntimeError(f'Unsupported platform: {platform}')
+        count=fn(url,company); health.append({'company':company,'platform':platform,'status':'WORKING','new_matches':int(count or 0),'detail':''})
     except Exception as e:
-        print(f"Telegram error: {e}")
+        msg=clean(e); errors.append(f'[ERROR] {company}: {msg[:300]}'); health.append({'company':company,'platform':platform,'status':'FAILED','new_matches':0,'detail':msg[:300]})
 
-# ─── MAIN ─────────────────────────────────────────────────────────────────────
-if __name__ == "__main__":
-    import os
+def fresh_for_signal(posted):
+    s=clean(posted).lower()
+    if not s or s=='n/a': return False
+    if 'today' in s or 'yesterday' in s: return True
+    m=re.search(r'(\d+)\s+days?\s+ago',s)
+    if m: return int(m.group(1))<=14
+    try:
+        dt=pd.to_datetime(posted,utc=True,errors='coerce')
+        return False if pd.isna(dt) else (pd.Timestamp.now(tz='UTC')-dt).days<=14
+    except: return False
 
-    # Load seen links
-    old_path = Path('seen_links.csv')
-    if old_path.exists():
+def mass_hiring_signals(jobs):
+    by={}
+    for j in jobs: by.setdefault(j['company'],[]).append(j)
+    out=[]
+    for c,js in by.items():
+        cohort=[j for j in js if any(k in j['title'].lower() for k in MASS_KEYS)]
+        recent=[j for j in js if fresh_for_signal(j.get('posted'))]
+        # Burst requires fresh evidence, preventing a newly-added source full of old jobs
+        # from looking like a real hiring surge. Cohort titles remain independently useful.
+        burst=len(recent)>=5
+        if burst or len(cohort)>=2:
+            out.append({'company':c,'new_jobs_this_hour':len(js),'fresh_jobs':len(recent),'cohort_jobs':len(cohort),'signal':'COHORT + BURST' if cohort and burst else ('COHORT' if cohort else 'HIRING BURST'),'roles':', '.join(sorted(set(j['role_family'] for j in js if j['role_family']))),'detected_at':datetime.now().strftime('%Y-%m-%d %H:%M:%S')})
+    return out
+
+def write_mass(signals):
+    if not signals:return
+    p=Path('mass_hiring_signals.csv'); pd.DataFrame(signals).to_csv(p,mode='a',index=False,header=not p.exists())
+    md=Path('MASS-HIRING-WATCH.md'); old=md.read_text() if md.exists() else '# 🚨 Mass / Cohort Hiring Watch\n'
+    block=f"\n## {datetime.now().strftime('%Y-%m-%d %H:%M')}\n\n| Company | Signal | New jobs | Fresh <=14d | Cohort | Roles |\n|---|---|---:|---:|---:|---|\n"
+    for x in signals:block+=f"| **{x['company']}** | 🚨 {x['signal']} | {x['new_jobs_this_hour']} | {x.get('fresh_jobs',0)} | {x['cohort_jobs']} | {x['roles']} |\n"
+    md.write_text(old+block)
+
+def daily_name(): return f"{datetime.now().day}-{datetime.now().strftime('%B')}-Jobs-List.md"
+def update_md(jobs):
+    if not jobs: print('No new jobs found this batch.'); return
+    f=Path(daily_name()); now=datetime.now().strftime('%Y-%m-%d %H:%M:%S'); counts={}
+    for j in jobs:counts[j['company']]=counts.get(j['company'],0)+1
+    summary=f"\n📊 **{len(jobs)} new jobs this batch:**\n"+''.join(f"- {c}: {n} job{'s' if n!=1 else ''}\n" for c,n in sorted(counts.items()))
+    table='| Company | Location | Role | Family | Apply | Posted |\n|---|---|---|---|---|---|\n'
+    for j in jobs:table+=f"| **{j['company']}** | {j['location']} | {j['title']} | {j['role_family']} | [Apply]({j['link']}) | {j['posted']} |\n"
+    header=f"# 📢 Job Listings — {datetime.now().strftime('%B %d, %Y')}\n\n> Hourly · US only · full-time · 0–3 YOE target · newest batch first.\n"
+    existing=f.read_text() if f.exists() else ''
+    if existing.startswith('# '): existing='\n'.join(existing.split('\n')[3:])
+    f.write_text(header+f"\n### 🕐 Batch at {now}\n{summary}\n{table}\n---\n"+existing)
+    Path('README.md').write_text(f.read_text())
+
+def telegram(jobs):
+    tok=os.getenv('TELEGRAM_BOT_TOKEN',''); cid=os.getenv('TELEGRAM_CHAT_ID','')
+    if not jobs or not tok or not cid:return
+    sig=mass_hiring_signals(jobs); msg=f"🚀 *{len(jobs)} NEW MATCHING JOBS — {datetime.now().strftime('%b %d %H:%M')}*\n"
+    if sig:
+        msg+=f"🚨 *{len(sig)} HIRING SIGNAL(S)*\n"+''.join(f"• {x['company']}: {x['signal']} — {x['new_jobs_this_hour']}\n" for x in sig[:4])+'\n'
+    for j in jobs[:15]:msg+=f"\n🏢 *{j['company']}*\n💼 {j['title']}\n📍 {j['location']}\n🔗 [Apply]({j['link']})\n"
+    requests.post(f'https://api.telegram.org/bot{tok}/sendMessage',json={'chat_id':cid,'text':msg,'parse_mode':'Markdown','disable_web_page_preview':True},timeout=10)
+
+if __name__=='__main__':
+    p=Path('seen_links.csv')
+    if p.exists():
+        try: old_links=set(canonical(x) for x in pd.read_csv(p)['link'].dropna().astype(str))
+        except: old_links=set()
+    df=pd.read_csv('companies.csv'); print(f'Scraping {len(df)} companies...')
+    with ThreadPoolExecutor(max_workers=8) as ex:
+        fs=[ex.submit(scrape_company,row) for _,row in df.iterrows()]
+        for f in as_completed(fs):
+            try:f.result()
+            except:pass
+    # Supplemental discovery feeds: discover new-grad jobs, but alerts still use direct employer URLs.
+    discovery_health=[]
+    for dname,durl in DISCOVERY_SOURCES:
         try:
-            old_df = pd.read_csv(old_path)
-            old_links = set(old_df['link'].dropna().unique())
-        except:
-            old_links = set()
-
-    # Load companies
-    companies_df = pd.read_csv('companies.csv')
-    print(f"Scraping {len(companies_df)} companies...")
-
-    # Scrape in parallel
-    with ThreadPoolExecutor(max_workers=8) as executor:
-        futures = [executor.submit(scrape_company, row) for _, row in companies_df.iterrows()]
-        for f in as_completed(futures):
-            pass
-
-    print(f"Found {len(results)} new jobs")
-
-    # Update markdown
-    update_daily_markdown(results)
-
-    # Save new seen links
-    if results:
-        new_df = pd.DataFrame(results)
-        new_df[['link']].to_csv(old_path, mode='a', index=False,
-                                 header=not old_path.exists())
-
-    # Detect mass/cohort hiring patterns from this hourly batch
-    signals = mass_hiring_signals(results)
-    write_mass_hiring(signals)
-    if signals:
-        print(f"🚨 Mass/cohort hiring signals: {len(signals)}")
-        for x in signals:
-            print(f"  {x['company']}: {x['signal']} ({x['new_jobs_this_hour']} new jobs)")
-
-    # Send Telegram
-    bot_token = os.environ.get('TELEGRAM_BOT_TOKEN', '')
-    chat_id = os.environ.get('TELEGRAM_CHAT_ID', '')
-    if bot_token and chat_id:
-        send_telegram(results, bot_token, chat_id)
-    else:
-        print("No Telegram credentials — skipping notification")
-
-    # Print errors
-    if error_messages:
-        print("\n--- ERRORS ---")
-        for e in error_messages[:10]:
-            print(e)
+            c=scrape_discovery_markdown(dname,durl); discovery_health.append({'company':dname,'platform':'discovery','status':'WORKING','new_matches':c,'detail':''})
+        except Exception as e:
+            discovery_health.append({'company':dname,'platform':'discovery','status':'FAILED','new_matches':0,'detail':clean(e)[:300]})
+    health.extend(discovery_health)
+    # Deterministic order and de-dupe.
+    uniq={j['link']:j for j in results}; final=sorted(uniq.values(),key=lambda j:(j['company'],j['title'],j['location']))
+    print(f'Found {len(final)} new matching jobs')
+    update_md(final)
+    if final: pd.DataFrame({'link':[j['link'] for j in final]}).to_csv(p,mode='a',index=False,header=not p.exists())
+    sig=mass_hiring_signals(final); write_mass(sig); telegram(final)
+    pd.DataFrame(health).sort_values(['status','company']).to_csv('source_health.csv',index=False)
+    direct_health=[x for x in health if x.get('platform')!='discovery']; working=sum(x['status']=='WORKING' for x in direct_health); failed=len(direct_health)-working
+    print('\n========== SOURCE HEALTH ==========')
+    print(f'Total companies:      {len(df)}')
+    print(f'Working/queried:      {working}')
+    print(f'Failed/unsupported:   {failed}')
+    print(f'Discovery feeds:      {sum(x["status"]=="WORKING" for x in health if x.get("platform")=="discovery")}/{len(DISCOVERY_SOURCES)} working')
+    for name in ['Google','Meta','Amazon','Apple','Microsoft']:
+        rows=[x for x in health if x['company'].lower()==name.lower()]
+        if rows: print(f"{name:20} {rows[0]['status']:8} {rows[0]['platform']} {rows[0]['detail'][:80]}")
+    print('===================================')
+    if errors:
+        print('\n--- ERRORS (first 30) ---')
+        print('\n'.join(errors[:30]))
