@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — August 27, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-27 13:10:58
+
+📊 **5 new jobs this batch:**
+- Actian: 1 job
+- Booz Allen Hamilton: 4 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Actian** | Europe - Remote | AI Augmented Software Engineer [gn] Data Intelligence Platform | [Apply](https://jobs.lever.co/actian/4b29635b-649a-4b62-9cf9-e2448807cf3f) | 2026-08-27 12:39 |
+| **Booz Allen Hamilton** | El Segundo, CA | University - 2027 Summer Games Software Developer Intern - El Segundo, CA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/University---2027-Summer-Games-Software-Developer-Intern---El-Segundo--CA_R0248046) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | University - 2027 Summer Games Data Scientist Intern - San Diego, CA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/University---2027-Summer-Games-Data-Scientist-Intern---San-Diego--CA_R0248045) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | University - 2027 Summer Games Software Developer Intern - San Diego, CA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/University---2027-Summer-Games-Software-Developer-Intern---San-Diego--CA_R0248038) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | University - 2027 Summer Games Data Scientist Intern - McLean, VA | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/University---2027-Summer-Games-Data-Scientist-Intern---McLean--VA_R0248037) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — August 27, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-27 02:18:11
 
 📊 **5 new jobs this batch:**
