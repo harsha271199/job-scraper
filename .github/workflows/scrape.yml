@@ -8,7 +8,7 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 10        # ← hard kill after 10 min no matter what
+    timeout-minutes: 10
     permissions:
       contents: write
 
@@ -36,6 +36,24 @@ jobs:
         run: |
           git config --global user.name "Job Scraper Bot"
           git config --global user.email "bot@github.com"
-          git add README.md seen_links.csv *-Jobs-List.md mass_hiring_signals.csv MASS-HIRING-WATCH.md source_health.csv || true
-          git diff --staged --quiet || git commit -m "🤖 Job update — $(date +'%Y-%m-%d %H:%M')"
-          git push
+
+          # Stage always-present/generated history files.
+          git add README.md seen_links.csv *-Jobs-List.md || true
+
+          # Stage optional v3 outputs only when they exist.
+          for f in mass_hiring_signals.csv MASS-HIRING-WATCH.md source_health.csv; do
+            if [ -f "$f" ]; then
+              git add "$f"
+            fi
+          done
+
+          # Commit local scraper output first.
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 Job update — $(date +'%Y-%m-%d %H:%M')"
+          fi
+
+          # The branch may have advanced since checkout (for example another hourly run
+          # or a manual code/config update). Rebase before pushing to avoid non-fast-forward.
+          git fetch origin "$GITHUB_REF_NAME"
+          git rebase "origin/$GITHUB_REF_NAME"
+          git push origin HEAD:"$GITHUB_REF_NAME"
