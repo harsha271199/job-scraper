@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — August 30, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-08-30 21:41:14
+
+📊 **1 new jobs this batch:**
+- Snowflake: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Snowflake** | DE-Berlin-Trion Building | Software Engineer - Dynamic Tables | [Apply](https://jobs.ashbyhq.com/snowflake/99dfc810-9487-4ac1-91a8-50acefd05bae) | 2026-08-30T20:13:40.368+00:00 |
+
+---
+# 📢 Job Listings for Harsha — August 30, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-08-30 11:03:55
 
 📊 **2 new jobs this batch:**
