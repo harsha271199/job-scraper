@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — September 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-01 05:47:24
+
+📊 **4 new jobs this batch:**
+- Amgen: 2 jobs
+- Gartner: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Amgen** | US - Massachusetts - Cambridge | Data Scientist | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Massachusetts---Cambridge/Data-Scientist_R-248084) | Posted Today |
+| **Amgen** | US - Massachusetts - Cambridge | Data Scientist | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---Massachusetts---Cambridge/Data-Scientist_R-248086) | Posted Today |
+| **Gartner** | Irving, TX | Business Analyst | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/Business-Analyst_113018) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering LMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS_JR358245) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-01 00:50:29
 
 📊 **8 new jobs this batch:**
