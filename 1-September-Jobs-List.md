@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — September 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-01 21:27:58
+
+📊 **9 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 4 jobs
+- DoorDash: 1 job
+- KLA: 1 job
+- Nvidia: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | Washington, DC | Applied AI Engineer, Cyber, Government | [Apply](https://jobs.ashbyhq.com/openai/be7b1bf5-37ab-40f7-9ec1-e9732244f12a) | 2026-09-01T21:15:47.771+00:00 |
+| **DoorDash** | San Francisco, CA; Sunnyvale, CA | Software Engineer, Data and AI Platform | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8171620) | 2026-09-01T15:09:06-04:00 |
+| **Boeing** | USA - Seal Beach, CA | Software Engineer (Associate or Experienced) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seal-Beach-CA/Software-Engineer--Associate-or-Experienced-_JR2026520956-1) | Posted Today |
+| **Booz Allen Hamilton** | Suffolk, VA | Software Developer and Help Desk Specialist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Software-Developer-and-Help-Desk-Specialist_R0248460) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Agentic AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Agentic-AI-Engineer_R0240863) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Site Reliability Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Site-Reliability-Engineer_R0248455-1) | Posted Today |
+| **Booz Allen Hamilton** | Dayton, OH | Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dayton-OH/Software-Developer_R0248420) | Posted Today |
+| **KLA** | Ann Arbor, MI | AI Software Engineer - Operations | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/Ann-Arbor-MI/AI-Software-Engineer---Operations_2640067-1) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | System Software Engineer, Performance - CUDA Driver | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer--Performance---CUDA-Driver_JR2024918) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-01 18:54:34
 
 📊 **12 new jobs this batch:**
