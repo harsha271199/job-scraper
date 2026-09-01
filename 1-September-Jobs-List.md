@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — September 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-01 18:54:34
+
+📊 **12 new jobs this batch:**
+- Block: 1 job
+- Booz Allen Hamilton: 8 jobs
+- Gusto: 1 job
+- Stripe: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Block** | New York, NY, United States of America | Software Engineer, Cash App Taxes | [Apply](http://block.xyz/careers/jobs/5412832008?gh_jid=5412832008) | 2026-09-01T13:55:46-04:00 |
+| **Gusto** | Chicago, IL - Remote; Denver, CO - Hybrid; Las Vegas, NV - Remote; New York, New York, United States; Phoenix, AZ - Remote; San Francisco, CA - Hybrid | CX Business Intelligence Analyst | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8119978) | 2026-09-01T12:35:09-04:00 |
+| **Stripe** | Toronto, Vancouver, Canada-Remote | Software Engineer, Metronome Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=7737237) | 2026-03-20T18:42:26-04:00 |
+| **Stripe** | San Francisco, New York City, Seattle, Chicago, US-Remote | Software Engineer, Platform Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=8127182) | 2026-09-01T12:36:00-04:00 |
+| **Booz Allen Hamilton** | Springfield, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Springfield-VA/Data-Scientist--Mid_R0248456) | Posted Today |
+| **Booz Allen Hamilton** | Stennis Space Center, MS | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stennis-Space-Center-MS/Data-Scientist--Senior_R0245289) | Posted Today |
+| **Booz Allen Hamilton** | Annapolis Junction, MD | University - 2027 Summer Games Data Scientist Intern - Annapolis Junction, MD | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Data-Scientist-Intern---Annapolis-Junction--MD_R0248408) | Posted Today |
+| **Booz Allen Hamilton** | Fort Walton Beach, FL | University - 2027 Summer Games Software Developer Intern - Ft. Walton Beach, FL | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Software-Developer-Intern---Ft-Walton-Beach--FL_R0248404) | Posted Today |
+| **Booz Allen Hamilton** | Huntsville, AL | University - 2027 Summer Games Data Scientist Intern - Huntsville, AL | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Data-Scientist-Intern---Huntsville--AL_R0248407) | Posted Today |
+| **Booz Allen Hamilton** | Honolulu, HI | University - 2027 Summer Games, Data Scientist Intern - Honolulu, HI | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games--Data-Scientist-Intern---Honolulu--HI_R0248406) | Posted Today |
+| **Booz Allen Hamilton** | Fort Walton Beach, FL | University - 2027 Summer Games Data Scientist Intern - Ft. Walton Beach, FL | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Walton-Beach-FL/University---2027-Summer-Games-Data-Scientist-Intern---Ft-Walton-Beach--FL_R0248409) | Posted Today |
+| **Booz Allen Hamilton** | Annapolis Junction, MD | University - 2027 Summer Games Software Developer Intern - Annapolis Junction, MD | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/University---2027-Summer-Games-Software-Developer-Intern---Annapolis-Junction--MD_R0248403) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-01 15:15:20
 
 📊 **14 new jobs this batch:**
