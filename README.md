@@ -1,6 +1,36 @@
 # 📢 Job Listings for Harsha — September 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-01 15:15:20
+
+📊 **14 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Databricks: 9 jobs
+- Flir: 1 job
+- Motorola Solutions: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Databricks** | Austin, Texas; Dallas, Texas; Houston, Texas; Plano, Texas | AI Engineer - FDE (Forward Deployed Engineer) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760283002) | 2026-09-01T10:40:42-04:00 |
+| **Databricks** | Berkeley, California; Los Angeles, California; Mountain View, California; Sacramento, California; San Diego, California; San Francisco, California | AI Engineer - FDE (Forward Deployed Engineer) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760281002) | 2026-09-01T10:39:51-04:00 |
+| **Databricks** | New York City, New York | AI Engineer - FDE (Forward Deployed Engineer) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760289002) | 2026-09-01T10:40:02-04:00 |
+| **Databricks** | Bellevue, Washington; Seattle, Washington | AI Engineer - FDE (Forward Deployed Engineer) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760282002) | 2026-09-01T10:39:58-04:00 |
+| **Databricks** | Chicago, Illinois | AI Engineer - FDE (Forward Deployed Engineer) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760332002) | 2026-09-01T10:42:24-04:00 |
+| **Databricks** | Charlotte, North Carolina; Durham, North Carolina; Raleigh, North Carolina | AI Engineer - FDE (Forward Deployed Engineer) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760319002) | 2026-09-01T10:41:27-04:00 |
+| **Databricks** | McLean, Virginia; Reston, Virginia; Richmond, Virginia; Washington, D.C. | AI Engineer - FDE (Forward Deployed Engineer) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760318002) | 2026-09-01T10:41:20-04:00 |
+| **Databricks** | Denver, Colorado | AI Engineer - FDE (Forward Deployed Engineer) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760299002) | 2026-09-01T10:40:58-04:00 |
+| **Databricks** | Boston, Massachusetts | AI Engineer - FDE (Forward Deployed Engineer) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760298002) | 2026-09-01T10:40:55-04:00 |
+| **Booz Allen Hamilton** | Arlington, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevOps-Engineer_R0240746) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/DevOps-Engineer_R0239406) | Posted Today |
+| **Flir** | US - Huntsville, AL | EADSIM Software Engineering Intern (Summer 2027) | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/EADSIM-Software-Engineering-Intern--Summer-2027-_REQ36667) | Posted Today |
+| **Motorola Solutions** | Illinois Remote Work, More... | Sr Software Engineer, AI Agent Platform | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/Sr-Software-Engineer--AI-Agent-Platform_R68335) | Posted Today |
+| **Salesforce** | Washington - Bellevue | Software Engineering PMTS, Enterprise PKI | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineering-PMTS--Enterprise-PKI_JR358233) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-01 10:35:07
 
 📊 **1 new jobs this batch:**
