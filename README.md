@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — September 01, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-01 10:35:07
+
+📊 **1 new jobs this batch:**
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Northrop Grumman** | United States-California-Redondo Beach | Software Engineer (Level 3 or 4) - AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer--Level-3-or-4----AHT_R10248647) | Posted Yesterday |
+
+---
+# 📢 Job Listings for Harsha — September 01, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-01 05:47:24
 
 📊 **4 new jobs this batch:**
