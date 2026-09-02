@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — September 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-02 15:24:16
+
+📊 **6 new jobs this batch:**
+- Affirm: 2 jobs
+- Booz Allen Hamilton: 2 jobs
+- Databricks: 1 job
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Affirm** | Remote Spain | Software Engineer II, Backend (Recoveries)   | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7854606003) | 2026-08-18T10:17:41-04:00 |
+| **Affirm** | Remote Poland | Software Engineer II, Backend (Recoveries)   | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7854608003) | 2026-08-18T10:17:42-04:00 |
+| **Databricks** | Maryland; Virginia; Washington, D.C. | AI Engineer - FDE (Forward Deployed Engineer) - U.S. Federal Sector | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8760167002) | 2026-08-28T10:56:31-04:00 |
+| **Booz Allen Hamilton** | Suffolk, VA | Model and Simulation Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Suffolk-VA/Model-and-Simulation-Software-Engineer_R0248517) | Posted Today |
+| **Booz Allen Hamilton** | Alexandria, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist_R0241357) | Posted Today |
+| **Northrop Grumman** | United States-Maryland-Linthicum | 2027 Software Engineer Intern - Linthicum Maryland | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Software-Engineer-Intern---Linthicum-Maryland_R10248910) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-02 11:47:07
 
 📊 **5 new jobs this batch:**
