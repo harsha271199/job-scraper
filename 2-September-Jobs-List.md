@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — September 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-02 11:47:07
+
+📊 **5 new jobs this batch:**
+- Lyft: 3 jobs
+- Supabase: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Supabase** | Remote, Global | Platform Engineer - Compute Capacity | [Apply](https://jobs.ashbyhq.com/supabase/4eb14408-51e6-4c58-812a-3782d5c0b045) | 2026-09-02T10:03:09.472+00:00 |
+| **Supabase** | Remote, Global | Software Engineer - Branching | [Apply](https://jobs.ashbyhq.com/supabase/06752423-eebb-472c-95b5-c7ff2559fd60) | 2026-09-02T10:25:03.190+00:00 |
+| **Lyft** | Seattle, WA | Data Scientist  | [Apply](https://app.careerpuck.com/job-board/lyft/job/8772592002?gh_jid=8772592002) | 2026-09-02T03:14:00-04:00 |
+| **Lyft** | Seattle, WA | Software Engineer | [Apply](https://app.careerpuck.com/job-board/lyft/job/8772594002?gh_jid=8772594002) | 2026-09-02T03:13:55-04:00 |
+| **Lyft** | San Francisco, CA | Software Engineer | [Apply](https://app.careerpuck.com/job-board/lyft/job/8772571002?gh_jid=8772571002) | 2026-09-02T03:13:51-04:00 |
+
+---
+# 📢 Job Listings for Harsha — September 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-02 06:29:53
 
 📊 **2 new jobs this batch:**
