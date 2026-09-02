@@ -1,6 +1,44 @@
 # 📢 Job Listings for Harsha — September 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-02 19:00:28
+
+📊 **16 new jobs this batch:**
+- Amgen: 1 job
+- Baseten: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 3 jobs
+- Citi: 1 job
+- Cloudflare: 1 job
+- GitLab: 4 jobs
+- Intel: 1 job
+- PayPal: 1 job
+- Pfizer: 1 job
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Baseten** | San Francisco | Software Engineer - Identity and Authorization | [Apply](https://jobs.ashbyhq.com/baseten/19972142-ec0b-4049-8d8f-6a341f57f938) | 2026-09-02T15:37:51.977+00:00 |
+| **Cloudflare** | In-Office | Software Engineer, R2 Gateway | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8155463?gh_jid=8155463) | 2026-08-25T13:32:55-04:00 |
+| **GitLab** | Remote, Canada; Remote, United States | Intermediate Backend Engineer, AMER | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8773006002) | 2026-09-02T14:45:41-04:00 |
+| **GitLab** | Remote, Poland | Intermediate Backend Engineer, EMEA | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8775415002) | 2026-09-02T14:49:33-04:00 |
+| **GitLab** | Remote, United Kingdom | Intermediate Backend Engineer, EMEA | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8778279002) | 2026-09-02T14:49:54-04:00 |
+| **GitLab** | Remote, India | Intermediate Backend Engineer, India | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8775507002) | 2026-09-02T14:50:52-04:00 |
+| **Stripe** | Seattle, WA | Software Engineer | [Apply](https://stripe.com/jobs/search?gh_jid=8174105) | 2026-09-02T12:57:08-04:00 |
+| **Amgen** | US - California - Thousand Oaks | Data Scientist | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Data-Scientist_R-254531) | Posted Today |
+| **Boeing** | USA - Colorado Springs, CO | Software Engineer (Associate or Experienced) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Colorado-Springs-CO/Software-Engineer--Associate-or-Experienced-_JR2026523054-1) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cloud-Engineer_R0241046) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-Engineer_R0248415) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-Engineer_R0248397) | Posted Today |
+| **Citi** | Jersey City New Jersey United States | Junior Generative AI Application Developer | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Junior-Generative-AI-Application-Developer_26962487) | Posted Today |
+| **Intel** | US, Oregon, Hillsboro | Quantum Error Correction Software Engineer | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Quantum-Error-Correction-Software-Engineer_JR0286851) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer, BE Python | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer--BE-Python_R0134366-1) | Posted Today |
+| **Pfizer** | United States - Massachusetts - Cambridge | Translational AI Engineer | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Translational-AI-Engineer_4962398-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-02 15:24:16
 
 📊 **6 new jobs this batch:**
