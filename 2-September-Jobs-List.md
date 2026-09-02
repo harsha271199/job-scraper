@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — September 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-02 21:36:52
+
+📊 **10 new jobs this batch:**
+- Booz Allen Hamilton: 4 jobs
+- Duolingo: 1 job
+- General Motors: 2 jobs
+- Nvidia: 1 job
+- Socure: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Socure** | Hybrid - San Francisco, CA | Data Scientist II - Big Data R&D, Identity Graph & Deceased Monitoring | [Apply](https://jobs.ashbyhq.com/socure/5ee37ea6-a36a-472c-90a9-73067f6d6dac) | 2026-09-02T20:22:19.834+00:00 |
+| **Duolingo** | New York, NY | Platform Engineer II | [Apply](https://careers.duolingo.com/jobs/8778700002?gh_jid=8778700002) | 2026-09-02T15:02:08-04:00 |
+| **xAI** | Memphis, Tennessee; Southaven, Mississippi | Site Reliability Engineer | [Apply](https://job-boards.greenhouse.io/xai/jobs/5229153007) | 2026-09-02T16:48:25-04:00 |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0248609) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Full Stack Signal Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Signal-Software-Engineer_R0248599) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Digital Signal Processing Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Digital-Signal-Processing-Software-Engineer_R0248597) | Posted Today |
+| **Booz Allen Hamilton** | Fort Meade, MD | Software Engineer, Junior | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Software-Engineer--Junior_R0248413-1) | Posted Today |
+| **General Motors** | Warren, Michigan, United States of America | Core IT Business Analyst | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Core-IT-Business-Analyst_JR-202618398) | Posted Today |
+| **General Motors** | Warren, Michigan, United States of America | AI/ML Data Scientist (GPSSC) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/AI-ML-Data-Scientist--GPSSC-_JR-202619401) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | GPU Simulation System Software Engineer | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/GPU-Simulation-System-Software-Engineer_JR2018237) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-02 19:00:28
 
 📊 **16 new jobs this batch:**
