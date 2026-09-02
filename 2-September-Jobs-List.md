@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — September 02, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-02 23:38:00
+
+📊 **4 new jobs this batch:**
+- Baseten: 1 job
+- Hadrian: 2 jobs
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Baseten** | San Francisco | Product Data Scientist | [Apply](https://jobs.ashbyhq.com/baseten/2efc2f65-9494-482a-9b21-5d009d045423) | 2026-09-02T22:40:01.809+00:00 |
+| **Hadrian** | Los Angeles, CA | Software Engineer Intern | [Apply](https://jobs.ashbyhq.com/hadrian-automation/2b0423c6-947d-4226-8d23-90743bd5e63e) | 2026-09-02T21:46:58.459+00:00 |
+| **Hadrian** | Los Angeles, CA | Data Science/ Data Engineer Intern | [Apply](https://jobs.ashbyhq.com/hadrian-automation/f718bcfe-3f5b-4682-a294-697499caf813) | 2026-09-02T21:47:29.454+00:00 |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Associate Software Engineer / Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10249088) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 02, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-02 21:36:52
 
 📊 **10 new jobs this batch:**
