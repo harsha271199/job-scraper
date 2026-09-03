@@ -1,6 +1,34 @@
 # 📢 Job Listings for Harsha — September 03, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-03 23:35:39
+
+📊 **11 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Coinbase: 1 job
+- General Motors: 1 job
+- Guidehouse: 1 job
+- SpaceX: 5 jobs
+- Zoox: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Coinbase** | Remote - USA | Software Engineer, Blockchain Platform Nodes | [Apply](https://www.coinbase.com/careers/positions/8105437?gh_jid=8105437) | 2026-08-20T12:21:28-04:00 |
+| **SpaceX** | Hawthorne, CA | AI Security Software Engineer (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8782397002?gh_jid=8782397002) | 2026-09-03T19:14:16-04:00 |
+| **SpaceX** | Washington, DC | AI Security Software Engineer (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8782424002?gh_jid=8782424002) | 2026-09-03T19:14:13-04:00 |
+| **SpaceX** | Redmond, WA | Software Engineer (Flight Reliability) | [Apply](https://boards.greenhouse.io/spacex/jobs/8783281002?gh_jid=8783281002) | 2026-09-03T19:30:09-04:00 |
+| **SpaceX** | Starbase, TX | Software Engineer (Flight Reliability) | [Apply](https://boards.greenhouse.io/spacex/jobs/8783284002?gh_jid=8783284002) | 2026-09-03T19:30:11-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer (Flight Reliability) | [Apply](https://boards.greenhouse.io/spacex/jobs/8783243002?gh_jid=8783243002) | 2026-09-03T19:30:07-04:00 |
+| **Zoox** | Foster City, CA | Contract Student Worker - Autonomy Safety Data Engineer | [Apply](https://jobs.lever.co/zoox/dafe2927-74bf-4bef-8df0-cb0874595819) | 2026-09-03 22:01 |
+| **Zoox** | Foster City, CA | Software Engineer - Collision Avoidance System Metrics | [Apply](https://jobs.lever.co/zoox/d5d0608a-aa33-43c3-abe2-5ff8b40028d5) | 2026-09-03 22:05 |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0248679) | Posted Today |
+| **General Motors** | Warren, Michigan, United States of America | Data Scientist - Product Safety Data Analytics | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Data-Scientist---Product-Safety-Data-Analytics_JR-202618454-1) | Posted Today |
+| **Guidehouse** | US - VA, Arlington | Data Scientist - Jr. | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Scientist---Jr_43991) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 03, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-03 21:27:27
 
 📊 **13 new jobs this batch:**
