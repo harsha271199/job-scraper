@@ -1,6 +1,41 @@
 # 📢 Job Listings for Harsha — September 03, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-03 21:27:27
+
+📊 **13 new jobs this batch:**
+- Anyscale: 1 job
+- Cox Enterprises: 1 job
+- Crusoe: 1 job
+- Esri: 1 job
+- GE HealthCare: 1 job
+- Kodiak: 1 job
+- Motorola Solutions: 1 job
+- Northrop Grumman: 2 jobs
+- OpenAI: 2 jobs
+- Stripe: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anyscale** | San Francisco | Software Engineer (Ray Core) | [Apply](https://jobs.ashbyhq.com/anyscale/81809616-ef2f-44f8-bcee-d1e17749f45d) | 2026-09-03T21:14:22.858+00:00 |
+| **Crusoe** | San Francisco, CA - US | Staff Software Engineer, Internal Tools & Automation | [Apply](https://jobs.ashbyhq.com/crusoe/f84de7ef-c151-4454-88e5-8afe40d0a300) | 2026-09-03T20:31:10.830+00:00 |
+| **OpenAI** | San Francisco | Software Engineer, Native Learning Experiences | [Apply](https://jobs.ashbyhq.com/openai/1098311d-3a07-40ad-8107-6245a492a0b3) | 2026-09-03T19:51:26.815+00:00 |
+| **OpenAI** | San Francisco | Full Stack Software Engineer, Product Explorations | [Apply](https://jobs.ashbyhq.com/openai/4d1ede8c-3d4c-4503-8408-81e4b68c5c91) | 2026-09-03T20:29:00.146+00:00 |
+| **Esri** | Redlands, CA | Spatial Data Engineer II | [Apply](https://www.esri.com/careers/5230512007?gh_jid=5230512007) | 2026-09-03T16:17:48-04:00 |
+| **Kodiak** | Mountain View, CA | Software Engineer, Controls (MATLAB) | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4391971009) | 2026-09-03T15:44:08-04:00 |
+| **Stripe** | Seattle, WA | Software Engineer, Online Database Infrastructure | [Apply](https://stripe.com/jobs/search?gh_jid=8177930) | 2026-09-03T14:57:02-04:00 |
+| **Waymo** | San Francisco, California, USA | 2027 Summer Intern, MS, Software Engineering, Behavior Test  | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8174504) | 2026-09-03T16:44:52-04:00 |
+| **Cox Enterprises** | Atlanta GA | Business Intelligence Analyst II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Business-Intelligence-Analyst-II_R202681920-1) | Posted Today |
+| **GE HealthCare** | WA07-01-Bellevue-1100-112th Avenue NE | Software Engineer | [Apply](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/WA07-01-Bellevue-1100-112th-Avenue-NE/Software-Engineer_R4045428-1) | Posted Today |
+| **Northrop Grumman** | United States-Massachusetts-Devens | Research Scientist Level 4 - Devens | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Massachusetts-Devens/Senior-Principal-Research-Scientist_R10243160) | Posted Today |
+| **Motorola Solutions** | Plantation, FL, More... | Android Platform Software Engineering Intern - Summer 2027 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Android-Platform-Software-Engineering-Intern---Summer-2027_R68363) | Posted Today |
+| **Northrop Grumman** | United States-Texas-San Antonio | Cyber Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/Cyber-Software-Engineer_R10249309) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 03, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-03 18:56:09
 
 📊 **13 new jobs this batch:**
