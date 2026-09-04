@@ -1,6 +1,37 @@
 # 📢 Job Listings for Harsha — September 04, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-04 21:05:54
+
+📊 **12 new jobs this batch:**
+- Affirm: 2 jobs
+- Benchling: 1 job
+- Block: 1 job
+- Booz Allen Hamilton: 4 jobs
+- Cox Enterprises: 1 job
+- General Motors: 1 job
+- Kodiak: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Benchling** | San Francisco, CA | Software Engineer, Agents | [Apply](https://jobs.ashbyhq.com/benchling/263fd507-eb03-4cfa-8297-ce276b729b52) | 2026-09-04T18:37:48.367+00:00 |
+| **Affirm** | Remote Canada | Software Engineer II | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7981805003) | 2026-09-04T15:47:47-04:00 |
+| **Affirm** | Remote US | Software Engineer II, Backend (Post-Transaction) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/7981803003) | 2026-09-04T15:47:50-04:00 |
+| **Block** | Bay Area, CA, United States of America | Software Engineer, Justice Engineering | [Apply](http://block.xyz/careers/jobs/5406194008?gh_jid=5406194008) | 2026-09-04T16:24:12-04:00 |
+| **Kodiak** | Mountain View, CA | Winter 2027 Intern, Data Engineering | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4396622009) | 2026-09-04T16:09:04-04:00 |
+| **Waymo** | Mountain View, California, United States | Data Scientist | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8177515) | 2026-09-04T16:20:15-04:00 |
+| **Booz Allen Hamilton** | Huntsville, AL | University - 2027 Summer Games Software Developer Intern - Huntsville, AL | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/University---2027-Summer-Games-Software-Developer-Intern---Huntsville--AL_R0248394) | Posted Today |
+| **Booz Allen Hamilton** | Fort Meade, MD | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist--Mid_R0248798) | Posted Today |
+| **Cox Enterprises** | Long Island NY | Software Engineering Intern - Summer 2027 (North Hills, NY) | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Long-Island-NY/Software-Engineering-Intern---Summer-2027--North-Hills--NY-_R202682171-1) | Posted Today |
+| **Booz Allen Hamilton** | Honolulu, HI | University - 2027 Summer Games Software Developer Intern - Honolulu, HI | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/University---2027-Summer-Games-Software-Developer-Intern---Honolulu--HI_R0248393) | Posted Today |
+| **Booz Allen Hamilton** | Fort Meade, MD | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Data-Scientist_R0248796) | Posted Today |
+| **General Motors** | Milford, Michigan, United States of America | Transmission Control Software Engineer | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Transmission-Control-Software-Engineer_JR-202618505-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 04, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-04 18:36:43
 
 📊 **23 new jobs this batch:**
