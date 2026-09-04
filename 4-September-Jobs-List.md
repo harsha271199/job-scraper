@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — September 04, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-04 11:48:10
+
+📊 **1 new jobs this batch:**
+- DoorDash: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **DoorDash** | Los Angeles, CA; New York, NY; San Francisco, CA; Sunnyvale, CA ; Seattle, WA | Software Engineer I, Entry-Level (Graduation Date: Fall 2026-Summer 2027) - US | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8163709) | 2026-09-04T06:21:45-04:00 |
+
+---
+# 📢 Job Listings for Harsha — September 04, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-04 01:30:40
 
 📊 **2 new jobs this batch:**
