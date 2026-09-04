@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — September 04, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-04 23:28:23
+
+📊 **6 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Garner Health: 2 jobs
+- General Motors: 1 job
+- Guidehouse: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | Washington, DC | Full Stack Software Engineer, Gov | [Apply](https://jobs.ashbyhq.com/openai/a90cdb7c-1c33-4fca-9a96-26c236006f14) | 2025-10-17T16:59:57.134+00:00 |
+| **Garner Health** | New York City, New York | Associate Software Engineer | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6174210004) | 2026-09-04T17:38:25-04:00 |
+| **Garner Health** | New York City, New York | Software Engineering Intern | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6164698004) | 2026-09-04T17:39:04-04:00 |
+| **Booz Allen Hamilton** | Fort Belvoir, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Software-Engineer_R0248809-1) | Posted Today |
+| **General Motors** | Sunnyvale, California, United States of America | Software Engineer, AV HIL Platform | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-HIL-Platform_JR-202619689) | Posted Today |
+| **Guidehouse** | US - VA, McLean | Business Analyst/Product Owner | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Business-Analyst-Product-Owner_42460) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 04, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-04 21:05:54
 
 📊 **12 new jobs this batch:**
