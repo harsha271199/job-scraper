@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — September 05, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-05 16:19:15
+
+📊 **1 new jobs this batch:**
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, Host Assurance | [Apply](https://jobs.ashbyhq.com/openai/0b9e565a-ae5f-40fc-8350-b59f71f76df1) | 2026-09-05T14:19:37.047+00:00 |
+
+---
+# 📢 Job Listings for Harsha — September 05, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-05 06:22:12
 
 📊 **2 new jobs this batch:**
