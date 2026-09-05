@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — September 05, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-05 06:22:12
+
+📊 **2 new jobs this batch:**
+- SpaceX: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Hawthorne, CA | Full Stack Software Engineer | [Apply](https://boards.greenhouse.io/spacex/jobs/8784864002?gh_jid=8784864002) | 2026-09-04T23:20:20-04:00 |
+| **SpaceX** | Cape Canaveral, FL | Full Stack Software Engineer, Flight Software | [Apply](https://boards.greenhouse.io/spacex/jobs/8784863002?gh_jid=8784863002) | 2026-09-04T23:19:02-04:00 |
+
+---
+# 📢 Job Listings for Harsha — September 05, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-05 01:32:04
 
 📊 **2 new jobs this batch:**
