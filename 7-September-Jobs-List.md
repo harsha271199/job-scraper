@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 07, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-07 23:04:44
+
+📊 **3 new jobs this batch:**
+- SpaceX: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **SpaceX** | Starbase, TX | Application Software Engineer, Internal Systems | [Apply](https://boards.greenhouse.io/spacex/jobs/8785507002?gh_jid=8785507002) | 2026-09-07T17:39:59-04:00 |
+| **SpaceX** | Bastrop, TX | Full Stack Software Engineer | [Apply](https://boards.greenhouse.io/spacex/jobs/8785505002?gh_jid=8785505002) | 2026-09-07T17:36:26-04:00 |
+| **SpaceX** | Hawthorne, CA | Full Stack Software Engineer, Internal Systems | [Apply](https://boards.greenhouse.io/spacex/jobs/8785502002?gh_jid=8785502002) | 2026-09-07T17:23:36-04:00 |
+
+---
+# 📢 Job Listings for Harsha — September 07, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-07 20:12:42
 
 📊 **1 new jobs this batch:**
