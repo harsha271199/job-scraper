@@ -1,6 +1,42 @@
 # 📢 Job Listings for Harsha — September 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-08 22:04:20
+
+📊 **17 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 9 jobs
+- Guidehouse: 2 jobs
+- Nvidia: 1 job
+- OpenAI: 1 job
+- Ramp: 1 job
+- Waymo: 1 job
+- Writer: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Ramp** | San Francisco, CA | Software Engineer, Forward Deployed | [Apply](https://jobs.ashbyhq.com/ramp/9916e9da-7491-4c99-afd1-e4b8158fa58b) | 2026-09-08T21:55:39.097+00:00 |
+| **OpenAI** | San Francisco | Control Systems Software Engineer, Robotics | [Apply](https://jobs.ashbyhq.com/openai/60573bf4-13ad-4933-aba7-729f428e9f69) | 2026-09-08T22:02:49.677+00:00 |
+| **Writer** | San Francisco, CA | Software engineer, connectors & MCP | [Apply](https://jobs.ashbyhq.com/writer/4481d8e1-4d86-4173-9cd0-9203c81365db) | 2026-09-08T19:06:27.134+00:00 |
+| **Waymo** | Mountain View, CA, U.S.A ; San Francisco, CA, U.S.A ; New York City, NY, U.S.A | Research Scientist, Map Scalability | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8180692) | 2026-09-08T17:50:14-04:00 |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0248943) | Posted Today |
+| **Booz Allen Hamilton** | Aurora, CO | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Data-Scientist_R0248952) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0248922) | Posted Today |
+| **Booz Allen Hamilton** | El Segundo, CA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/El-Segundo-CA/Data-Scientist_R0248937) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0248921) | Posted Today |
+| **Boeing** | USA - Tukwila, WA | Boeing Engineering & Technology Innovation Graduate Researcher Program, Software Engineering Artificial Intelligence Intern | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Boeing-Engineering---Technology-Innovation-Graduate-Researcher-Program--Software-Engineering-Artificial-Intelligence-Intern_JR2026523687) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0248936) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist_R0248931) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | ICAM Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/ICAM-Data-Scientist_R0248916) | Posted Today |
+| **Booz Allen Hamilton** | Alexandria, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0241386) | Posted Today |
+| **Guidehouse** | US - AL, Huntsville | Data Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/Data-Analyst_44074) | Posted Today |
+| **Guidehouse** | US - AL, Huntsville | Data Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---AL-Huntsville/Data-Engineer_44005-1) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Operations Research Scientist | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Operations-Research-Scientist_JR2024116-1) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-08 19:01:46
 
 📊 **10 new jobs this batch:**
