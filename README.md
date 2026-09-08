@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — September 08, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-08 11:48:07
+
+📊 **1 new jobs this batch:**
+- Cox Enterprises: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Cox Enterprises** | Irvine CA | Software Engineering Intern - Summer 2027 (Irvine, CA) | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Irvine-CA/Software-Engineering-Intern---Summer-2027--Irvine--CA-_R202682173) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 08, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-08 06:35:57
 
 📊 **6 new jobs this batch:**
