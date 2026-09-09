@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — September 09, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-09 05:25:45
+
+📊 **3 new jobs this batch:**
+- Anthropic: 1 job
+- Northrop Grumman: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY | Data Engineer, GTM | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5418610008) | 2026-09-08T22:30:44-04:00 |
+| **Northrop Grumman** | United States-California-Redondo Beach | Cloud Software Engineer (Level 3 or 4) - AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Cloud-Software-Engineer--Level-3-or-4----AHT_R10249883) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | Cloud Software Engineer (Level 2) - AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Cloud-Software-Engineer--Level-2----AHT_R10249870) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 09, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-09 00:45:43
 
 📊 **7 new jobs this batch:**
