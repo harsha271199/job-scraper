@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — September 09, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-09 23:34:58
+
+📊 **8 new jobs this batch:**
+- Benchling: 1 job
+- Booz Allen Hamilton: 1 job
+- Coinbase: 1 job
+- Cursor: 1 job
+- Esri: 1 job
+- General Motors: 1 job
+- Sierra: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **Benchling** | San Francisco, CA | Software Engineer, Tools and Automation | [Apply](https://jobs.ashbyhq.com/benchling/ba0bcb25-d2e9-4ef6-ada0-dc5f7ea5424e) | 2026-09-09T21:31:50.026+00:00 |
+| **Cursor** | San Francisco | Software Engineer, New Grad 2027 | [Apply](https://jobs.ashbyhq.com/cursor/d0e5b41d-84ab-4887-bd3a-55589b11dd7b) | 2026-09-08T23:51:35.588+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer Intern, Agent (Summer 2027) | [Apply](https://jobs.ashbyhq.com/Sierra/34b31b67-268c-4270-b48f-72e59064c96e) | 2026-08-31T21:42:19.593+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer Intern, Agent (Winter 2027) | [Apply](https://jobs.ashbyhq.com/Sierra/02e1c456-8489-4a74-9fe7-af8845b040e4) | 2026-09-01T01:18:27.232+00:00 |
+| **Coinbase** | Remote - USA | Software Engineer, Developer Infrastructure | [Apply](https://www.coinbase.com/careers/positions/7991839?gh_jid=7991839) | 2026-09-09T18:51:43-04:00 |
+| **Esri** | Redlands, CA | Software Development Engineer in Test (SDET)  II– ArcGIS Online | [Apply](https://www.esri.com/careers/5224718007?gh_jid=5224718007) | 2026-09-09T17:35:43-04:00 |
+| **Booz Allen Hamilton** | St. Louis, MO | Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/St-Louis-MO/Business-Analyst_R0238179) | Posted Today |
+| **General Motors** | Sunnyvale, California, United States of America | Software Engineer, AV Frameworks – Early Career | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 09, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-09 21:18:21
 
 📊 **8 new jobs this batch:**
