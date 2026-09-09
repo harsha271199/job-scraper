@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 09, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-09 14:50:43
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- GitLab: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **GitLab** | Remote, United Kingdom | Intermediate Backend Engineer, Pipeline Authoring | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8773028002) | 2026-09-09T10:16:04-04:00 |
+| **Booz Allen Hamilton** | Annapolis Junction, MD | CNO Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Software-Engineer_R0231398) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 09, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-09 05:25:45
 
 📊 **3 new jobs this batch:**
