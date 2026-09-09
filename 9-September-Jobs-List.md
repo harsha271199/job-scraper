@@ -1,6 +1,30 @@
 # 📢 Job Listings for Harsha — September 09, 2026
 > Updated every hour. Newest batch first.
 
+### 🕐 Batch at 2026-09-09 21:18:21
+
+📊 **8 new jobs this batch:**
+- Booz Allen Hamilton: 4 jobs
+- DoorDash: 1 job
+- Roblox: 1 job
+- Twilio: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Link | 📅 Posted |
+|---|---|---|---|---|
+| **DoorDash** | New York, NY | Software Engineer, Cloud Infrastructure | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8180903) | 2026-09-09T15:13:36-04:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Engine Infrastructure | [Apply](https://careers.roblox.com/jobs/8171506?gh_jid=8171506) | 2026-09-09T14:42:50-04:00 |
+| **Twilio** | Remote - US | Software Engineer (L2), Identity | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8052068) | 2026-09-09T15:12:46-04:00 |
+| **Zoox** | Boston, MA | Data Scientist - Perception Verification and Validation | [Apply](https://jobs.lever.co/zoox/87877cf4-3ac8-45d5-90fb-2ef7f223c068) | 2026-09-09 19:10 |
+| **Booz Allen Hamilton** | Alexandria, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0249109) | Posted Today |
+| **Booz Allen Hamilton** | Norfolk, VA | Palantir Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Palantir-Software-Engineer_R0249080) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0249072) | Posted Today |
+| **Booz Allen Hamilton** | Lorton, VA | UAS Ground Control Systems Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/UAS-Ground-Control-Systems-Software-Engineer_R0249023) | Posted Today |
+
+---
+# 📢 Job Listings for Harsha — September 09, 2026
+> Updated every hour. Newest batch first.
+
 ### 🕐 Batch at 2026-09-09 18:03:48
 
 📊 **11 new jobs this batch:**
