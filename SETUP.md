@@ -1,45 +1,91 @@
-# Setup Guide — Get Running in 30 Minutes
+# Setup Guide — Job Scraper
 
-## Step 1: Fork or create GitHub repo
-1. Go to github.com → New Repository
-2. Name it: JobScraper (make it PRIVATE)
-3. Upload all these files
+## What this scraper supports
 
-## Step 2: Set up Telegram Bot (free, 5 min)
-1. Open Telegram → search for @BotFather
-2. Send: /newbot
-3. Follow prompts → you get a BOT_TOKEN like: 7234567890:AAF...
-4. Search for @userinfobot → send it /start → it gives your CHAT_ID
+The scraper can collect jobs from two kinds of sources:
 
-## Step 3: Add secrets to GitHub
-1. Go to your repo → Settings → Secrets and variables → Actions
-2. Add secret: TELEGRAM_BOT_TOKEN = (your token from step 2)
-3. Add secret: TELEGRAM_CHAT_ID = (your chat id from step 2)
+1. **Official company career pages / APIs** — preferred when the company exposes jobs in a stable, machine-readable way.
+2. **ATS backends** — Greenhouse, Lever, Ashby, and Workday when the company's public careers site uses one of them behind the scenes.
 
-## Step 4: Enable GitHub Actions
-1. Go to Actions tab in your repo
-2. Click "I understand my workflows, go ahead and enable them"
-3. Click "Job Scraper — Every Hour" → Run workflow (test it now)
+Every result may contain both:
+- **Apply** — the exact job/application page.
+- **Official Careers** — the employer's branded careers homepage/search page.
 
-## Step 5: Watch Telegram
-Within 2-3 minutes you'll get your first batch of jobs on your phone.
+This means a company can still use Workday or Greenhouse internally without forcing you to browse only generic ATS URLs.
 
-## Adding more companies
-Edit companies.csv and add rows like:
-  CompanyName,greenhouse,https://boards.greenhouse.io/companyname
-  CompanyName,lever,https://jobs.lever.co/companyname
-  CompanyName,ashby,https://jobs.ashbyhq.com/companyname
-  CompanyName,workday,https://company.wd5.myworkdayjobs.com/en-US/SiteName
+## Files
 
-## How to find a company's ATS URL
-1. Go to company careers page
-2. Click any job → look at the URL
-3. If it has "greenhouse.io" → use greenhouse platform
-4. If it has "lever.co" → use lever platform
-5. If it has "myworkdayjobs.com" → use workday platform
-6. If it has "ashbyhq.com" → use ashby platform
+- `job_scraper.py` — scraper and filtering logic.
+- `companies.csv` — large legacy ATS source list.
+- `official_companies.csv` — preferred source overrides and major official career sites.
+- `test_job_scraper.py` — regression tests.
+- `seen_links.csv` — previously seen job URLs so Telegram alerts do not repeat jobs.
 
-## Costs
-- GitHub: FREE (2,000 Actions minutes/month free = plenty for hourly runs)
-- Telegram: FREE
-- Total: $0
+`official_companies.csv` overrides a company with the same name in `companies.csv`, so you do not need to edit the large legacy file every time a major employer changes its careers system.
+
+## Supported platform values
+
+### Direct official sources
+
+- `apple` — Apple Jobs official U.S. search.
+- `google` — Google Careers official search.
+- `tesla` — Tesla's official careers data/search.
+- `official` — generic parser for compatible server-rendered official careers pages.
+
+### ATS sources
+
+- `greenhouse`
+- `lever`
+- `ashby`
+- `workday`
+
+For an ATS row, set `official_url` to the company's branded careers page. The scraper will use the ATS for reliable collection while showing the official careers link in output.
+
+Example:
+
+```csv
+company,platform,careers_url,official_url
+SpaceX,greenhouse,https://boards.greenhouse.io/spacex,https://new.spacex.com/careers
+```
+
+## Adding or overriding a company
+
+Add it to `official_companies.csv`:
+
+```csv
+company,platform,careers_url,official_url
+Example Company,greenhouse,https://boards.greenhouse.io/example,https://example.com/careers
+```
+
+If the company already exists in `companies.csv`, the new row automatically replaces the old configuration at runtime.
+
+For a compatible custom company careers page:
+
+```csv
+Example Company,official,https://example.com/careers/jobs,https://example.com/careers
+```
+
+## GitHub Actions
+
+The workflow runs at the top of every hour. Before scraping it runs:
+
+```bash
+python -m unittest -v test_job_scraper.py
+```
+
+If the regression tests fail, the scrape does not run or commit bad output.
+
+## Telegram secrets
+
+In GitHub go to **Settings → Secrets and variables → Actions** and add:
+
+- `TELEGRAM_BOT_TOKEN`
+- `TELEGRAM_CHAT_ID`
+
+The hourly workflow sends new matching jobs to Telegram when both secrets exist.
+
+## Filters
+
+The scraper targets early/mid-career software, data, AI/ML, cloud and analytics roles and excludes senior/managerial and unrelated roles.
+
+The U.S. location filter is intentionally conservative. A listing that says only `Remote` is not assumed to be U.S.-based; it must include a U.S. location signal. This prevents jobs such as `Remote - Canada` or `Remote, United Kingdom` from appearing as U.S. matches.
