@@ -2,6 +2,10 @@
 
 This is safe for the public repository: it reads only public job-list rows and
 writes public job signals. It never reads the private master resume.
+
+The Markdown output intentionally keeps BOTH actions:
+- Apply: opens the original job posting so the full JD can be reviewed.
+- Resume + Apply: opens the browser-only tailoring portal for that exact job.
 """
 
 from __future__ import annotations
@@ -22,6 +26,8 @@ from resume_portal_feed import (
 
 APPLY_RE = re.compile(r"\[(?:Apply|Resume \+ Apply)\]\((https?://[^)]+)\)", re.I)
 LINK_RE = re.compile(r"\[[^]]+\]\((https?://[^)]+)\)")
+HEADER = "| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |\n"
+SEPARATOR = "|---|---|---|---|---|---|---|\n"
 
 
 def _clean_cell(value: str) -> str:
@@ -31,6 +37,7 @@ def _clean_cell(value: str) -> str:
 
 
 def _direct_apply_url(url: str, feed: dict) -> str:
+    """Recover the original job URL when a legacy row points to the portal."""
     if not url.startswith(PORTAL_URL):
         return url
     match = re.search(r"[?&]job=([0-9a-f]{16})", url)
@@ -40,28 +47,80 @@ def _direct_apply_url(url: str, feed: dict) -> str:
     return str(existing.get("apply_url") or url)
 
 
-def _rewrite_file(path: Path, feed: dict, inventory: list[dict], portal_ready: bool) -> tuple[int, int]:
+def _link_from_cell(value: str) -> str:
+    match = LINK_RE.search(value or "")
+    return match.group(1) if match else ""
+
+
+def _rewrite_file(
+    path: Path,
+    feed: dict,
+    inventory: list[dict],
+    portal_ready: bool,
+) -> tuple[int, int]:
+    """Normalize job tables to direct Apply + separate Resume + Apply columns."""
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines(keepends=True)
     changed = 0
     captured = 0
     out: list[str] = []
+    expect_separator = False
 
     for line in lines:
-        if "|" not in line or "[Apply](" not in line and "[Resume + Apply](" not in line:
+        stripped = line.strip()
+
+        # Normalize both old and new job-table headers to the seven-column shape.
+        if stripped.startswith("| 🏢 Company |") and ("🔗 Apply" in stripped or "🔗 Link" in stripped):
+            if line != HEADER:
+                changed += 1
+            out.append(HEADER)
+            expect_separator = True
+            continue
+
+        if expect_separator and re.fullmatch(r"\|(?:\s*:?-+:?\s*\|){5,8}", stripped):
+            if line != SEPARATOR:
+                changed += 1
+            out.append(SEPARATOR)
+            expect_separator = False
+            continue
+        expect_separator = False
+
+        if "|" not in line or ("[Apply](" not in line and "[Resume + Apply](" not in line):
             out.append(line)
             continue
 
-        cells = line.strip("\r\n").split("|")
-        # Expected table shape: | Company | Location | Role | Apply | ... |
-        if len(cells) < 6:
+        raw_cells = line.strip("\r\n").split("|")
+        if len(raw_cells) < 7:
             out.append(line)
             continue
 
-        company = _clean_cell(cells[1])
-        location = _clean_cell(cells[2])
-        title = _clean_cell(cells[3])
-        apply_cell = cells[4]
+        logical = raw_cells[1:-1]
+        if len(logical) < 5:
+            out.append(line)
+            continue
+
+        company_display = logical[0].strip()
+        location_display = logical[1].strip()
+        title_display = logical[2].strip()
+        company = _clean_cell(company_display)
+        location = _clean_cell(location_display)
+        title = _clean_cell(title_display)
+
+        # Supported historical table layouts:
+        # 5 cols: company, location, role, link, posted
+        # 6 cols: company, location, role, apply/resume, careers, posted
+        # 7 cols: company, location, role, apply, resume, careers, posted
+        apply_cell = logical[3]
+        if len(logical) >= 7:
+            official_cell = logical[5]
+            posted_display = logical[6].strip()
+        elif len(logical) == 6:
+            official_cell = logical[4]
+            posted_display = logical[5].strip()
+        else:
+            official_cell = ""
+            posted_display = logical[4].strip()
+
         apply_match = APPLY_RE.search(apply_cell)
         if not apply_match or not company or not title:
             out.append(line)
@@ -70,41 +129,45 @@ def _rewrite_file(path: Path, feed: dict, inventory: list[dict], portal_ready: b
         shown_url = apply_match.group(1)
         direct_url = _direct_apply_url(shown_url, feed)
         if direct_url.startswith(PORTAL_URL):
+            # A portal id that cannot be resolved safely should remain untouched.
             out.append(line)
             continue
 
-        official_url = direct_url
-        if len(cells) >= 7:
-            official_match = LINK_RE.search(cells[5])
-            if official_match:
-                official_url = official_match.group(1)
-
-        posted = _clean_cell(cells[-2]) if len(cells) >= 6 else "N/A"
-        job = {
-            "company": company,
-            "location": location,
-            "title": title,
-            "link": direct_url,
-            "official_url": official_url,
-            "posted": posted,
-        }
         jid = job_id(direct_url)
-        existing = feed["jobs"].get(jid)
-        if not isinstance(existing, dict) or existing.get("apply_url") != direct_url:
+        existing = feed.get("jobs", {}).get(jid)
+
+        official_url = _link_from_cell(official_cell)
+        if isinstance(existing, dict):
+            official_url = str(existing.get("official_url") or official_url or direct_url)
+        else:
+            job = {
+                "company": company,
+                "location": location,
+                "title": title,
+                "link": direct_url,
+                "official_url": official_url or direct_url,
+                "posted": _clean_cell(posted_display) or "N/A",
+            }
             feed["jobs"][jid] = build_record(job, inventory=inventory)
+            existing = feed["jobs"][jid]
+            official_url = str(existing.get("official_url") or direct_url)
             captured += 1
 
+        direct_cell = f"[Apply]({direct_url})"
         if portal_ready:
-            portal_url = f"{PORTAL_URL}?job={quote(jid)}"
-            replacement = f"[Resume + Apply]({portal_url})"
-            new_apply_cell = APPLY_RE.sub(replacement, apply_cell, count=1)
-            if new_apply_cell != apply_cell:
-                cells[4] = new_apply_cell
-                ending = "\n" if line.endswith("\n") else ""
-                line = "|".join(cells) + ending
-                changed += 1
+            resume_url = f"{PORTAL_URL}?job={quote(jid)}"
+            resume_cell = f"[Resume + Apply]({resume_url})"
+        else:
+            resume_cell = "Portal unavailable"
+        careers_cell = f"[Careers]({official_url})" if official_url else "N/A"
 
-        out.append(line)
+        new_line = (
+            f"| {company_display} | {location_display} | {title_display} | "
+            f"{direct_cell} | {resume_cell} | {careers_cell} | {posted_display} |\n"
+        )
+        if new_line != line:
+            changed += 1
+        out.append(new_line)
 
     new_text = "".join(out)
     if new_text != text:
@@ -133,7 +196,7 @@ def main() -> None:
     _save_feed(feed)
     print(f"Portal live: {portal_ready}")
     print(f"Captured {captured_total} existing jobs into job_signals.json")
-    print(f"Rewrote {changed_total} Apply links to Resume + Apply")
+    print(f"Rewrote {changed_total} table rows/headers with separate Apply and Resume + Apply links")
 
 
 if __name__ == "__main__":
