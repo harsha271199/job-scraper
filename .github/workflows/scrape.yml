@@ -19,6 +19,7 @@ on:
       - 'resume_master_schema.example.json'
       - 'RESUME_TAILOR.md'
       - 'RESUME_BUILDER.md'
+      - 'RESUME_PORTAL.md'
       - 'portal/**'
       - 'companies.csv'
       - 'official_companies.csv'
@@ -45,6 +46,7 @@ on:
       - 'resume_master_schema.example.json'
       - 'RESUME_TAILOR.md'
       - 'RESUME_BUILDER.md'
+      - 'RESUME_PORTAL.md'
       - 'portal/**'
       - 'companies.csv'
       - 'official_companies.csv'
@@ -80,6 +82,21 @@ jobs:
 
       - name: Run regression tests
         run: python -m unittest -v test_job_scraper.py test_official_sources.py test_resume_tailor.py test_resume_builder.py test_resume_portal.py
+
+      - name: Set up Node for portal validation
+        uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+
+      - name: Validate browser portal build
+        run: |
+          npm install --prefix portal --ignore-scripts --no-audit --no-fund
+          ./portal/node_modules/.bin/esbuild portal/app.js \
+            --bundle \
+            --platform=browser \
+            --format=iife \
+            --target=es2020 \
+            --outfile=/tmp/resume-portal.js
 
       - name: Run scraper
         if: github.event_name != 'pull_request'
