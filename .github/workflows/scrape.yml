@@ -4,6 +4,17 @@ on:
   schedule:
     - cron: '0 * * * *'   # runs at the top of every hour
   workflow_dispatch:        # lets you trigger manually from GitHub UI
+  push:
+    branches:
+      - main
+    paths:
+      - 'job_scraper.py'
+      - 'companies.csv'
+      - 'official_companies.csv'
+      - 'requirements.txt'
+      - 'test_job_scraper.py'
+      - 'SETUP.md'
+      - '.github/workflows/scrape.yml'
 
 jobs:
   scrape:
