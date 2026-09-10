@@ -158,6 +158,19 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn("ATS skills in resume", html)
         self.assertIn("experience bullets selected", html)
 
+    def test_portal_keeps_real_titles_but_adds_coherent_role_story(self):
+        html = Path("portal/index.html").read_text(encoding="utf-8")
+        js = Path("portal/app.js").read_text(encoding="utf-8")
+        self.assertIn("TARGET_HEADLINES", js)
+        self.assertIn("Cloud & Data Engineer", js)
+        self.assertIn("DEFAULT_FOCUS", js)
+        self.assertIn("Data Engineering & Platform Automation", js)
+        self.assertIn("resolveFocus", js)
+        self.assertIn("Functional focus:", js)
+        self.assertIn("const MAX_PROJECTS = 3", js)
+        self.assertIn("one or two pages", html)
+        self.assertNotIn("Key strengths aligned to this role include", js)
+
     def test_public_feed_contains_no_resume_private_data(self):
         record = rp.build_record({
             "company": "Example",
