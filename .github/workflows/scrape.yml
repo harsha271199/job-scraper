@@ -13,14 +13,18 @@ on:
       - 'run_scraper.py'
       - 'cleanup_opendoor_batch.py'
       - 'resume_tailor.py'
+      - 'resume_builder.py'
       - 'resume_skill_inventory.json'
+      - 'resume_master_schema.example.json'
       - 'RESUME_TAILOR.md'
+      - 'RESUME_BUILDER.md'
       - 'companies.csv'
       - 'official_companies.csv'
       - 'requirements.txt'
       - 'test_job_scraper.py'
       - 'test_official_sources.py'
       - 'test_resume_tailor.py'
+      - 'test_resume_builder.py'
       - 'SETUP.md'
       - '.github/workflows/scrape.yml'
 
@@ -43,10 +47,10 @@ jobs:
           python-version: '3.11'
 
       - name: Install dependencies
-        run: pip install requests beautifulsoup4 pandas
+        run: pip install -r requirements.txt
 
       - name: Run regression tests
-        run: python -m unittest -v test_job_scraper.py test_official_sources.py test_resume_tailor.py
+        run: python -m unittest -v test_job_scraper.py test_official_sources.py test_resume_tailor.py test_resume_builder.py
 
       - name: Run scraper
         env:
