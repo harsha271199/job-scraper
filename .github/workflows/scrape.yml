@@ -18,6 +18,7 @@ on:
       - 'resume_tailor.py'
       - 'resume_builder.py'
       - 'resume_portal_feed.py'
+      - 'backfill_resume_portal.py'
       - 'resume_skill_inventory.json'
       - 'resume_master_schema.example.json'
       - 'RESUME_TAILOR.md'
@@ -45,6 +46,7 @@ on:
       - 'resume_tailor.py'
       - 'resume_builder.py'
       - 'resume_portal_feed.py'
+      - 'backfill_resume_portal.py'
       - 'resume_skill_inventory.json'
       - 'resume_master_schema.example.json'
       - 'RESUME_TAILOR.md'
@@ -151,6 +153,10 @@ jobs:
           for name in sorted(removed):
               print(f'  deleted: {name}')
           PY
+
+      - name: Backfill recent jobs into Resume + Apply portal
+        if: github.event_name != 'pull_request'
+        run: python backfill_resume_portal.py
 
       - name: Commit and push updated files
         if: github.event_name != 'pull_request'
