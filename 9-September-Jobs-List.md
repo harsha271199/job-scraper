@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-09 18:20:38 MST
+
+📊 **1 new jobs this batch:**
+- Chainalysis: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|
+| **Chainalysis** | Remote - USA | Software Engineer II, Gov Systems | [Apply](https://jobs.ashbyhq.com/chainalysis-careers/4808108e-6a69-46c4-b9da-930070562608) | [Careers](https://www.chainalysis.com/careers/job-openings/) | 2026-07-23T19:48:22.843+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-09 18:17:41 MST
 
 📊 **1 new jobs this batch:**
