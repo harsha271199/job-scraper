@@ -49,17 +49,26 @@ def job_id(link: str) -> str:
 
 
 def classify_profile(title: str, skills: list[str] | None = None) -> str:
-    text = f"{title} {' '.join(skills or [])}".casefold()
-    if any(x in text for x in ("data scientist", "machine learning", "ml engineer", "ai engineer", "applied scientist", "nlp", "llm")):
+    """Classify from the title first; use detected skills only as fallback."""
+    title_text = str(title or "").casefold()
+    checks = (
+        ("machine-learning", ("data scientist", "machine learning", "ml engineer", "ai engineer", "applied scientist", "nlp engineer", "llm engineer")),
+        ("data-engineering", ("data engineer", "analytics engineer", "etl engineer", "pipeline engineer", "big data engineer")),
+        ("data-analytics", ("data analyst", "business analyst", "business intelligence", "bi analyst", "product analyst", "growth analyst", "reporting analyst")),
+        ("cloud-devops", ("cloud engineer", "devops", "site reliability", "sre", "platform engineer")),
+        ("software-engineering", ("software engineer", "software developer", "backend engineer", "swe", "sde")),
+    )
+    for profile, terms in checks:
+        if any(term in title_text for term in terms):
+            return profile
+
+    skill_text = " ".join(skills or []).casefold()
+    if any(x in skill_text for x in ("machine learning", "pytorch", "hugging face")):
         return "machine-learning"
-    if any(x in text for x in ("data engineer", "analytics engineer", "etl engineer", "pipeline engineer", "big data")):
+    if any(x in skill_text for x in ("apache airflow", "dbt", "kafka", "etl/elt")):
         return "data-engineering"
-    if any(x in text for x in ("data analyst", "business analyst", "business intelligence", "bi analyst", "product analyst", "growth analyst", "reporting analyst")):
-        return "data-analytics"
-    if any(x in text for x in ("cloud engineer", "devops", "site reliability", "sre", "platform engineer")):
+    if any(x in skill_text for x in ("terraform", "kubernetes", "docker", "microsoft azure")):
         return "cloud-devops"
-    if any(x in text for x in ("software engineer", "software developer", "backend engineer", "swe", "sde")):
-        return "software-engineering"
     return "general-technical"
 
 
@@ -123,6 +132,14 @@ def detect_skills(text: str, inventory: list[dict] | None = None, limit: int = 2
     return [name for _, name in ranked[:limit]]
 
 
+def _verification_split(skills: list[str], inventory: list[dict]) -> tuple[list[str], list[str]]:
+    status = {str(item.get("name", "")).casefold(): bool(item.get("verified", False)) for item in inventory}
+    verified, gaps = [], []
+    for skill in skills:
+        (verified if status.get(skill.casefold(), False) else gaps).append(skill)
+    return verified, gaps
+
+
 def detect_signal_terms(text: str, limit: int = 12) -> list[str]:
     low = str(text or "").casefold()
     return [term for term in _SIGNAL_TERMS if term in low][:limit]
@@ -150,6 +167,7 @@ def _save_feed(feed: dict) -> None:
 def build_record(job: dict, inventory: list[dict] | None = None) -> dict:
     link = str(job.get("link", "")).strip()
     title = str(job.get("title", "")).strip()
+    inventory = inventory if inventory is not None else _load_inventory()
     page_text = title
     signal_source = "title-only"
     if link:
@@ -162,6 +180,7 @@ def build_record(job: dict, inventory: list[dict] | None = None) -> dict:
             pass
 
     skills = detect_skills(page_text, inventory=inventory)
+    verified_skills, unverified_skills = _verification_split(skills, inventory)
     terms = detect_signal_terms(page_text)
     return {
         "id": job_id(link),
@@ -173,6 +192,8 @@ def build_record(job: dict, inventory: list[dict] | None = None) -> dict:
         "posted": str(job.get("posted", "N/A")),
         "profile": classify_profile(title, skills),
         "detected_skills": skills,
+        "verified_skills": verified_skills,
+        "unverified_skills": unverified_skills,
         "signal_terms": terms,
         "signal_source": signal_source,
         "captured_at": datetime.now(timezone.utc).isoformat(),
@@ -190,8 +211,12 @@ def prepare_portal_jobs(jobs: list[dict]) -> list[dict]:
     for job in jobs:
         link = str(job.get("link", "")).strip()
         jid = job_id(link)
-        record = build_record(job, inventory=inventory)
-        feed["jobs"][jid] = record
+        existing = feed["jobs"].get(jid)
+        if isinstance(existing, dict) and existing.get("apply_url") == link:
+            record = existing
+        else:
+            record = build_record(job, inventory=inventory)
+            feed["jobs"][jid] = record
 
         clone = copy.deepcopy(job)
         clone["link"] = f"{PORTAL_URL}?job={quote(jid)}"
