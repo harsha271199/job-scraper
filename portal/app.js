@@ -8,6 +8,74 @@ import {
 } from "docx";
 
 const MASTER_KEY = "jobScraper.privateMaster.v1";
+const MAX_SKILLS = 15;
+
+const ROLE_CORE_SKILLS = {
+  "data-engineering": [
+    "Python", "SQL", "PostgreSQL", "Apache Spark", "Kafka", "Apache Airflow",
+    "dbt", "AWS", "Redshift", "BigQuery", "Terraform", "Docker",
+    "REST APIs", "JSON", "Pandas"
+  ],
+  "software-engineering": [
+    "Python", "JavaScript", "SQL", "PostgreSQL", "REST APIs", "GitHub Actions",
+    "Docker", "AWS", "Microsoft Azure", "Supabase", "JSON", "Kubernetes",
+    "Terraform", "HTML5", "CSS"
+  ],
+  "cloud-devops": [
+    "Microsoft Azure", "AWS", "Terraform", "Docker", "Kubernetes", "PowerShell",
+    "Bash", "GitHub Actions", "PostgreSQL", "REST APIs", "JSON", "Kafka",
+    "Helm", "Python", "SQL"
+  ],
+  "machine-learning": [
+    "Python", "Machine Learning", "Pandas", "NumPy", "Apache Spark", "SQL",
+    "AWS", "Microsoft Azure", "Docker", "Kafka", "Streamlit", "BigQuery",
+    "PostgreSQL", "REST APIs", "JSON"
+  ],
+  "data-analytics": [
+    "SQL", "Excel", "BigQuery", "PostgreSQL", "Python", "Pandas", "NumPy",
+    "Supabase", "Apache Spark", "dbt", "Streamlit", "Machine Learning",
+    "REST APIs", "JSON", "JavaScript"
+  ],
+  "general-technical": [
+    "Python", "SQL", "PostgreSQL", "AWS", "Microsoft Azure", "Docker",
+    "GitHub Actions", "REST APIs", "JSON", "Excel", "Pandas", "NumPy",
+    "Terraform", "JavaScript", "Apache Spark"
+  ]
+};
+
+const EXPERIENCE_LIMITS = {
+  "data-engineering": {
+    "aramark-data-ops": 5,
+    "ltimindtree-cloud": 5,
+    "infra-developers-web": 1,
+  },
+  "software-engineering": {
+    "aramark-data-ops": 5,
+    "ltimindtree-cloud": 4,
+    "infra-developers-web": 2,
+  },
+  "cloud-devops": {
+    "aramark-data-ops": 3,
+    "ltimindtree-cloud": 6,
+    "infra-developers-web": 1,
+  },
+  "machine-learning": {
+    "aramark-data-ops": 4,
+    "ltimindtree-cloud": 4,
+    "infra-developers-web": 1,
+  },
+  "data-analytics": {
+    "aramark-data-ops": 5,
+    "ltimindtree-cloud": 3,
+    "infra-developers-web": 1,
+  },
+  "general-technical": {
+    "aramark-data-ops": 4,
+    "ltimindtree-cloud": 4,
+    "infra-developers-web": 1,
+  }
+};
+
 let currentJob = null;
 let currentMaster = null;
 let currentCandidate = null;
@@ -20,6 +88,19 @@ function escapeHtml(value) {
   return clean(value).replace(/[&<>"']/g, (ch) => ({
     "&": "&amp;", "<": "&lt;", ">": "&gt;", '"': "&quot;", "'": "&#039;"
   }[ch]));
+}
+
+function unique(values) {
+  const seen = new Set();
+  const out = [];
+  for (const value of values || []) {
+    const cleaned = clean(value);
+    const k = key(cleaned);
+    if (!cleaned || seen.has(k)) continue;
+    seen.add(k);
+    out.push(cleaned);
+  }
+  return out;
 }
 
 function profileLabel(profile) {
@@ -45,6 +126,18 @@ function profileSummary(profile) {
   return summaries[profile] || summaries["general-technical"];
 }
 
+function buildSummary(profile, jdSkills, allSkills) {
+  const base = profileSummary(profile);
+  const strongest = unique(jdSkills).slice(0, 5);
+  if (strongest.length >= 2) {
+    return `${base} Key strengths aligned to this role include ${strongest.join(", ")}.`;
+  }
+  const core = unique(allSkills).slice(0, 5);
+  return core.length
+    ? `${base} Core technical strengths include ${core.join(", ")}.`
+    : base;
+}
+
 function profileBoost(profile, projectId) {
   const map = {
     "data-engineering": ["fraud-pipeline-aws", "job-market-pipeline", "graph-analytics-pipeline"],
@@ -62,18 +155,70 @@ function skillSet(values) {
   return new Set((values || []).map(key).filter(Boolean));
 }
 
+function masterBaseMap(master) {
+  return new Map((master.base_skills || []).map((s) => [key(s), clean(s)]));
+}
+
+function masterEvidenceSkills(master) {
+  const evidence = [...(master.base_skills || [])];
+  for (const entry of [...(master.experience || []), ...(master.projects || [])]) {
+    for (const bullet of entry.bullets || []) {
+      if (bullet.verified === true) evidence.push(...(bullet.skills || []));
+    }
+  }
+  return new Map(unique(evidence).map((s) => [key(s), s]));
+}
+
+function selectSkills(master, job, profile) {
+  const base = masterBaseMap(master);
+  const evidence = masterEvidenceSkills(master);
+  const publicVerified = unique(job.verified_skills || []);
+  const detected = unique(job.detected_skills || []);
+
+  const jdSkills = [];
+  for (const skill of (publicVerified.length ? publicVerified : detected)) {
+    const direct = evidence.get(key(skill)) || base.get(key(skill));
+    if (direct) {
+      jdSkills.push(direct);
+    } else if (publicVerified.some((s) => key(s) === key(skill))) {
+      jdSkills.push(clean(skill));
+    }
+  }
+
+  const roleCore = [];
+  for (const desired of ROLE_CORE_SKILLS[profile] || ROLE_CORE_SKILLS["general-technical"]) {
+    const hit = evidence.get(key(desired)) || base.get(key(desired));
+    if (hit) roleCore.push(hit);
+  }
+
+  const all = unique([...jdSkills, ...roleCore]).slice(0, MAX_SKILLS);
+  const selectedSet = skillSet(all);
+  const selectedJd = unique(jdSkills).filter((s) => selectedSet.has(key(s)));
+  const jdSet = skillSet(selectedJd);
+  const addedCore = all.filter((s) => !jdSet.has(key(s)));
+
+  return { all, jd: selectedJd, core: addedCore };
+}
+
+function scoringSkills(job) {
+  return job.effective_skills || job.verified_skills || job.detected_skills || [];
+}
+
 function scoreBullet(bullet, job, profile, projectId = "") {
   if (!bullet || bullet.verified !== true) return -9999;
-  const detected = skillSet(job.detected_skills);
+  const effective = skillSet(scoringSkills(job));
+  const directJd = skillSet(job.verified_skills || job.detected_skills);
   let score = 0;
 
   for (const skill of bullet.skills || []) {
-    if (detected.has(key(skill))) score += 9;
+    const k = key(skill);
+    if (directJd.has(k)) score += 14;
+    else if (effective.has(k)) score += 7;
   }
 
   const body = key(`${bullet.text || ""} ${(bullet.keywords || []).join(" ")}`);
   for (const term of job.signal_terms || []) {
-    if (body.includes(key(term))) score += 3;
+    if (body.includes(key(term))) score += 4;
   }
 
   const titleWords = key(job.title).split(/\s+/).filter((x) => x.length >= 4);
@@ -96,24 +241,40 @@ function selectBullets(entry, job, profile, maxBullets, projectId = "") {
   return (positive.length ? positive : verified.slice(0, 1)).slice(0, maxBullets);
 }
 
+function experienceLimit(profile, entryId) {
+  return EXPERIENCE_LIMITS[profile]?.[entryId]
+    ?? EXPERIENCE_LIMITS["general-technical"]?.[entryId]
+    ?? 3;
+}
+
+function selectedEntryMatches(entry, job) {
+  const jd = skillSet(job.verified_skills || job.detected_skills);
+  const matched = [];
+  for (const bullet of entry.selectedBullets || []) {
+    for (const skill of bullet.skills || []) {
+      if (jd.has(key(skill))) matched.push(skill);
+    }
+    const body = key(`${bullet.text || ""} ${(bullet.keywords || []).join(" ")}`);
+    for (const term of job.signal_terms || []) {
+      if (body.includes(key(term))) matched.push(term);
+    }
+  }
+  return unique(matched).slice(0, 7);
+}
+
 function selectProjects(master, job, profile) {
   const projects = (master.projects || []).map((project) => {
-    const bullets = selectBullets(project, job, profile, 3, project.id);
+    const bullets = selectBullets(project, job, profile, 2, project.id);
     const score = bullets.reduce((sum, b) => sum + Math.max(0, b._score), 0) + profileBoost(profile, project.id);
-    return { ...project, selectedBullets: bullets, _score: score };
+    return {
+      ...project,
+      selectedBullets: bullets,
+      _score: score,
+      matchedSignals: selectedEntryMatches({ selectedBullets: bullets }, job),
+    };
   });
   projects.sort((a, b) => b._score - a._score);
   return projects.filter((p) => p.selectedBullets.length && p._score > 0).slice(0, 2);
-}
-
-function selectSkills(master, job) {
-  const base = new Map((master.base_skills || []).map((s) => [key(s), clean(s)]));
-  const out = [];
-  for (const detected of job.detected_skills || []) {
-    const hit = base.get(key(detected));
-    if (hit && !out.some((x) => key(x) === key(hit))) out.push(hit);
-  }
-  return out.slice(0, 15);
 }
 
 function validateMaster(master) {
@@ -128,16 +289,30 @@ function validateMaster(master) {
 function buildCandidate(master, job) {
   validateMaster(master);
   const profile = job.profile || "general-technical";
-  const experience = (master.experience || []).map((entry) => ({
-    ...entry,
-    selectedBullets: selectBullets(entry, job, profile, 4),
-  }));
-  const projects = selectProjects(master, job, profile);
-  const skills = selectSkills(master, job);
+  const skillBundle = selectSkills(master, job, profile);
+  const scoringJob = { ...job, effective_skills: skillBundle.all };
+
+  const experience = (master.experience || []).map((entry) => {
+    const selectedBullets = selectBullets(
+      entry,
+      scoringJob,
+      profile,
+      experienceLimit(profile, entry.id)
+    );
+    return {
+      ...entry,
+      selectedBullets,
+      matchedSignals: selectedEntryMatches({ selectedBullets }, job),
+    };
+  });
+
+  const projects = selectProjects(master, scoringJob, profile);
   return {
     contact: master.contact,
-    summary: profileSummary(profile),
-    skills,
+    summary: buildSummary(profile, skillBundle.jd, skillBundle.all),
+    skills: skillBundle.all,
+    jdSkills: skillBundle.jd,
+    coreSkills: skillBundle.core,
     experience,
     projects,
     education: master.education || [],
@@ -155,31 +330,44 @@ function renderJob(job) {
     : '<span class="chip">Title/profile signals only</span>';
   $("signalNote").textContent = job.signal_source === "job-page"
     ? "Skills were derived from the public job page; the full job description is not republished here."
-    : "The job page did not expose enough readable text, so this resume uses title/profile signals. Review the preview before applying.";
+    : "The job page did not expose enough readable text, so this resume uses title/profile signals plus verified core skills for the role. Review the preview before applying.";
 }
 
 function renderCandidate(candidate) {
-  const skillCount = candidate.skills.length;
-  const bulletCount = candidate.experience.reduce((n, e) => n + e.selectedBullets.length, 0)
-    + candidate.projects.reduce((n, p) => n + p.selectedBullets.length, 0);
-  $("skillCount").textContent = String(skillCount);
-  $("bulletCount").textContent = String(bulletCount);
-  $("projectCount").textContent = String(candidate.projects.length);
+  const expBulletCount = candidate.experience.reduce((n, e) => n + e.selectedBullets.length, 0);
+  $("jdSkillCount").textContent = String(candidate.jdSkills.length);
+  $("skillCount").textContent = String(candidate.skills.length);
+  $("bulletCount").textContent = String(expBulletCount);
   $("fitTitle").textContent = `${profileLabel(candidate.profile)} resume ready`;
 
   const parts = [];
   parts.push(`<h3>SUMMARY</h3><p>${escapeHtml(candidate.summary)}</p>`);
-  parts.push(`<h3>SKILLS</h3><p>${escapeHtml(candidate.skills.join(" • ") || "No verified JD skill signals detected")}</p>`);
+  parts.push(`<h3>ATS SKILLS</h3><p>${escapeHtml(candidate.skills.join(" • ") || "No verified skills available")}</p>`);
+  if (candidate.jdSkills.length) {
+    parts.push(`<p class="tiny muted"><strong>Direct JD matches:</strong> ${escapeHtml(candidate.jdSkills.join(" • "))}</p>`);
+  }
+  if (candidate.coreSkills.length) {
+    parts.push(`<p class="tiny muted"><strong>Verified role-core skills added:</strong> ${escapeHtml(candidate.coreSkills.join(" • "))}</p>`);
+  }
+
   parts.push("<h3>EXPERIENCE</h3>");
   for (const exp of candidate.experience) {
     parts.push(`<h4>${escapeHtml(exp.title)} — ${escapeHtml(exp.company)}</h4>`);
     parts.push(`<p class="muted">${escapeHtml([exp.location, exp.start && exp.end ? `${exp.start} – ${exp.end}` : ""].filter(Boolean).join(" • "))}</p>`);
+    if (exp.matchedSignals.length) {
+      parts.push(`<p class="tiny muted"><strong>JD alignment:</strong> ${escapeHtml(exp.matchedSignals.join(" • "))}</p>`);
+    }
     parts.push(`<ul>${exp.selectedBullets.map((b) => `<li>${escapeHtml(b.text)}</li>`).join("")}</ul>`);
   }
+
   if (candidate.projects.length) {
-    parts.push("<h3>PROJECTS</h3>");
+    parts.push(`<h3>PROJECTS <span class="tiny muted">(${candidate.projects.length} selected)</span></h3>`);
     for (const project of candidate.projects) {
-      parts.push(`<h4>${escapeHtml(project.name)}</h4><ul>${project.selectedBullets.map((b) => `<li>${escapeHtml(b.text)}</li>`).join("")}</ul>`);
+      parts.push(`<h4>${escapeHtml(project.name)}</h4>`);
+      if (project.matchedSignals.length) {
+        parts.push(`<p class="tiny muted"><strong>JD alignment:</strong> ${escapeHtml(project.matchedSignals.join(" • "))}</p>`);
+      }
+      parts.push(`<ul>${project.selectedBullets.map((b) => `<li>${escapeHtml(b.text)}</li>`).join("")}</ul>`);
     }
   }
   $("preview").innerHTML = parts.join("");
@@ -247,7 +435,7 @@ async function candidateBlob(candidate) {
   children.push(textParagraph(candidate.summary, { after: 55 }));
 
   if (candidate.skills.length) {
-    children.push(sectionHeading("SKILLS"));
+    children.push(sectionHeading("TECHNICAL SKILLS"));
     children.push(textParagraph(candidate.skills.join(" • "), { after: 55 }));
   }
 
