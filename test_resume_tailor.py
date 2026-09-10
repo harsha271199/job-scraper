@@ -1,6 +1,6 @@
 import unittest
 
-from resume_tailor import rank_jd_skills, replace_skills_section, tailor_resume
+from resume_tailor import load_inventory, rank_jd_skills, replace_skills_section, tailor_resume
 
 
 INVENTORY = [
@@ -55,6 +55,28 @@ class ResumeTailorTests(unittest.TestCase):
         names = [item["name"] for item in ranked]
         self.assertNotIn("Go", names)
         self.assertIn("C++", names)
+
+    def test_real_inventory_matches_documented_resume_stack(self):
+        skills = {item["name"]: item["verified"] for item in load_inventory()}
+        documented = [
+            "AWS",
+            "Terraform",
+            "Kubernetes",
+            "Apache Airflow",
+            "dbt",
+            "Kafka",
+            "JavaScript",
+            "Supabase",
+            "BigQuery",
+            "Excel",
+            "GitHub Actions",
+        ]
+        for name in documented:
+            self.assertTrue(skills[name], name)
+
+        cautious = ["Google Cloud Platform", "Databricks", "Snowflake", "Java", "Cassandra"]
+        for name in cautious:
+            self.assertFalse(skills[name], name)
 
 
 if __name__ == "__main__":
