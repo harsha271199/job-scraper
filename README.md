@@ -1,72 +1,34 @@
 # 📢 Job Listings for Harsha — September 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-09 18:30:17 MST
+
+📊 **8 new jobs this batch:**
+- Opendoor: 8 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|
+| **Opendoor** | Miami, FL | Agentic Analytics Engineer | [Apply](https://www.opendoor.com/careers/open-positions/jobs/agentic-analytics-engineer-61e10868-0439-4bff-adc3-ef4e8afdf644) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
+| **Opendoor** | Miami, FL | Applied Scientist AI/ML | [Apply](https://www.opendoor.com/careers/open-positions/jobs/applied-scientist-ai-ml-02769a4e-625d-4c41-aba8-ae22855c63c2) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
+| **Opendoor** | Seattle, WA | Applied Scientist AI/ML | [Apply](https://www.opendoor.com/careers/open-positions/jobs/applied-scientist-ai-ml-4bb0fc2c-5cc4-4182-b437-7a8f5e76297c) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
+| **Opendoor** | Miami, FL | Applied Scientist- Pricing | [Apply](https://www.opendoor.com/careers/open-positions/jobs/applied-scientist-pricing-6468e326-2214-4b3f-ab82-5ccbbe7182b7) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
+| **Opendoor** | Seattle, WA | Applied Scientist- Pricing | [Apply](https://www.opendoor.com/careers/open-positions/jobs/applied-scientist-pricing-180626d2-2e13-4c2f-b5dc-7ebbf8069359) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
+| **Opendoor** | Seattle, WA | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/data-scientist-e2ea6b22-2166-46bb-a547-109474727fd6) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
+| **Opendoor** | Seattle, WA | Software Engineer | [Apply](https://www.opendoor.com/careers/open-positions/jobs/software-engineer-05abeda8-e37d-4d27-a274-67778c09526e) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
+| **Opendoor** | Miami, FL | Software Engineer | [Apply](https://www.opendoor.com/careers/open-positions/jobs/software-engineer-84685958-6420-4a9e-a231-dc7943a3e6ad) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
+
+---
+
 ### 🕐 Batch at 2026-09-09 18:25:52 MST
 
-📊 **56 new jobs this batch:**
+📊 **2 new jobs this batch:**
 - Hims and Hers: 1 job
 - Modern Treasury: 1 job
-- Opendoor: 54 jobs
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 🏠 Official Careers | 📅 Posted |
 |---|---|---|---|---|---|
 | **Hims and Hers** | US Remote | Software Engineer II, Patient Platform (Backend) | [Apply](https://jobs.ashbyhq.com/hims-and-hers/b8bc9bef-2dd4-452f-bf07-769dddd1a6c0) | [Careers](https://www.hims.com/careers-professionals) | 2026-07-20T19:54:03.975+00:00 |
 | **Modern Treasury** | San Francisco | Software Engineer | [Apply](https://jobs.ashbyhq.com/moderntreasury/f2ff4c9c-0c2f-4bb8-b446-77cab281126a) | [Careers](https://www.moderntreasury.com/careers) | 2025-12-03T22:35:53.471+00:00 |
-| **Opendoor** | Miami, FL | Agentic Analytics Engineer | [Apply](https://www.opendoor.com/careers/open-positions/jobs/agentic-analytics-engineer-61e10868-0439-4bff-adc3-ef4e8afdf644) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Agentic Analytics Engineer | [Apply](https://www.opendoor.com/careers/open-positions/jobs/agentic-analytics-engineer-c3dd5f2e-0528-41a9-a7ad-b0c0a4930764) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Applied Scientist AI/ML | [Apply](https://www.opendoor.com/careers/open-positions/jobs/applied-scientist-ai-ml-f3e08ade-d6ac-41c7-b6e3-8b9d1e1b8aca) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Applied Scientist AI/ML | [Apply](https://www.opendoor.com/careers/open-positions/jobs/applied-scientist-ai-ml-02769a4e-625d-4c41-aba8-ae22855c63c2) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Seattle, WA | Applied Scientist AI/ML | [Apply](https://www.opendoor.com/careers/open-positions/jobs/applied-scientist-ai-ml-4bb0fc2c-5cc4-4182-b437-7a8f5e76297c) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Applied Scientist- Pricing | [Apply](https://www.opendoor.com/careers/open-positions/jobs/applied-scientist-pricing-6468e326-2214-4b3f-ab82-5ccbbe7182b7) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Applied Scientist- Pricing | [Apply](https://www.opendoor.com/careers/open-positions/jobs/applied-scientist-pricing-0a9c38af-cf87-43b3-bfbd-93e189259e7f) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Seattle, WA | Applied Scientist- Pricing | [Apply](https://www.opendoor.com/careers/open-positions/jobs/applied-scientist-pricing-180626d2-2e13-4c2f-b5dc-7ebbf8069359) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/director-fp-a-operations-52d8ea9f-329b-4dee-962f-2b782eed9358) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/director-fp-a-operations-22877584-ba63-4da5-bf4c-dc75e7a1fe78) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Tempe, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/head-of-mortgage-operations-9e72c069-ad0a-49ab-96d9-290448b6d0ff) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/head-of-mortgage-operations-6f70ec63-5aaa-4f37-8baa-c0d3aa1299fe) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Phoenix, AZ · Toronto, Canada | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/payroll-and-equity-analyst-b2502347-6814-4e44-9934-fc61981c74e6) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/senior-tax-manager-74f83f5a-8914-4719-ac04-e171d9ba5625) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Phoenix, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/sr-accountant-1a8108a8-9f02-4fc1-ae34-87dc982e064d) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/sr-accountant-8b943781-adcf-40a3-9690-3b7424bf7d29) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL · Phoenix, AZ · Toronto, Canada | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/tax-manager-f4151766-a433-4133-acf9-f3924b045718) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | San Francisco, CA | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/tax-manager-7b422480-b5da-40a5-bd77-8dcc41815f2b) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL · Tempe, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/treasury-analyst-e7eb08c5-03f6-4156-ab93-c67ba94660a0) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL · Toronto, Canada | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/content-lead-10a2742f-9a2a-4e25-977c-0dde8cc0175b) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL · Phoenix, AZ · Seattle, WA · Toronto, Canada | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/sr-manager-performance-marketing-e15eb760-833b-4b5b-a8a0-39938d5df85b) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL · Tempe, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/compliance-manager-mortgage-ca8c119c-bc76-495c-a58a-84ce67c369f5) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Atlanta, GA · Dallas, TX | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/osn/escrow-officer-71d0d451-8a2c-4128-8a25-dd010a9008aa) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Plano, TX | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/osn/escrow-support-specialist-ba764712-f673-474e-825a-cfe57f9d8dd5) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Duluth, GA | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/osn/escrow-support-specialist-kickoff-46a394fc-2786-43f9-be6b-c199370f1bfa) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL · Tempe, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/homes-project-manager-central-renovations-team-1675b920-53cc-4e75-8841-beefa2dc311f) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Phoenix, AZ · Tempe, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/operations-specialist-ce10c609-80af-4eb1-a939-ae5bf86c7618) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/operations-specialist-aaf9ae29-ad49-4a05-b973-b71011039f82) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/director-people-business-partner-b12d2b07-6b22-4051-a992-7b95e1167129) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/director-people-business-partner-f12d9e67-34bb-4d0c-926d-c7e844bb2fc0) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/people-analytics-automation-specialist-81345c25-022e-449c-bea8-f2e1a7e0f3ac) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/people-analytics-automation-specialist-6457bad7-e976-4042-8f1b-7f0fd89fc781) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Tempe, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/portfolio-manager-43a0dfe8-4330-4e14-8580-e7101f277ad4) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Phoenix, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/pricing-analyst-cb2e7086-1306-4499-a84d-87772a541e64) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/application-security-engineer-4ae52502-e460-4c22-9226-8cf4c0946d57) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/application-security-engineer-9d51e170-8f6d-4569-8aa0-350b2aec8c46) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Seattle, WA | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/data-scientist-e2ea6b22-2166-46bb-a547-109474727fd6) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/enterprise-security-engineer-d4f5c334-a069-4bbc-8f86-163f8d02f03a) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/enterprise-security-engineer-b2f70c26-195c-4560-a54a-6e6903e4a529) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/information-systems-engineer-44d49b85-90e0-4bff-9b45-f257548a4b66) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/infrastructure-security-engineer-07d023a3-6c5d-4964-abe3-f6e75a57c1b5) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/infrastructure-security-engineer-87e99c45-272f-46e2-ab64-9d2bb6e49415) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/it-support-technician-fae40156-2a7c-4020-8b7a-9d08bb48b656) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/it-support-technician-d21186ca-f9f2-40fb-9a7d-c3e4a7c4ab9a) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/account-executive-home-sales-advisor-37773206-51d2-43f1-b78c-5ac5eac8abbd) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Tempe, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/associate-manager-customer-experience-specialist-a5c1cfbc-bb6f-4153-acb6-ea11b21c9485) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/customer-experience-specialist-b2a83c1b-6043-488a-9732-0bab00da2ec5) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Tempe, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/home-sales-advisor-ecbc8c19-e261-453b-a6ce-9f5b62deb9e8) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/homeowner-engagement-associate-f07bbf4c-d2b3-4085-baf0-5248a1f83b18) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL · Phoenix, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/listing-partner-48e4df08-c4e2-4ff2-85cf-41ce2927c311) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Phoenix, AZ | Data Scientist | [Apply](https://www.opendoor.com/careers/open-positions/jobs/transaction-coordinator-ae6381f7-b7b8-46f9-98d2-9f8355ced7e7) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Seattle, WA | Software Engineer | [Apply](https://www.opendoor.com/careers/open-positions/jobs/software-engineer-05abeda8-e37d-4d27-a274-67778c09526e) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Software Engineer | [Apply](https://www.opendoor.com/careers/open-positions/jobs/software-engineer-84685958-6420-4a9e-a231-dc7943a3e6ad) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-| **Opendoor** | Miami, FL | Software Engineer | [Apply](https://www.opendoor.com/careers/open-positions/jobs/software-engineer-9bc276c6-f2c0-4775-98f5-e01d22dfcb47) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
-
 ---
 
 ### 🕐 Batch at 2026-09-09 18:20:38 MST
