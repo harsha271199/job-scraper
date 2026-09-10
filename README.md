@@ -1,6 +1,42 @@
 # 📢 Job Listings for Harsha — September 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-09 18:12:03 MST
+
+📊 **21 new jobs this batch:**
+- Alchemy: 1 job
+- Cerebras: 10 jobs
+- Cohere: 3 jobs
+- Fireworks AI: 1 job
+- Kikoff: 1 job
+- Snap: 5 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|
+| **Alchemy** | San Francisco | Software Engineer - Solutions | [Apply](https://jobs.ashbyhq.com/alchemy/bb82379e-47be-42ef-b7e6-fef50d2a7682) | [Careers](https://www.alchemy.com/careers) | 2025-03-10T00:48:53.358+00:00 |
+| **Cerebras** | Sunnyvale, CA | AI Engineer, Model Quality and Performance | [Apply](https://jobs.ashbyhq.com/cerebras/864698cd-da36-42b6-bbcc-fc39d22010f0) | [Careers](https://www.cerebras.ai/join-us) | 2026-05-15T12:28:49.572+00:00 |
+| **Cerebras** | United States and Canada | Applied Machine Learning Research Scientist | [Apply](https://jobs.ashbyhq.com/cerebras/d654a704-2c58-4ba6-9109-2c92aecb2503) | [Careers](https://www.cerebras.ai/join-us) | 2026-03-05T22:03:05.014+00:00 |
+| **Cerebras** | Sunnyvale, CA | Cluster Operations Software Engineer | [Apply](https://jobs.ashbyhq.com/cerebras/f25b9677-32fa-41ed-84d1-0ed704a98533) | [Careers](https://www.cerebras.ai/join-us) | 2026-08-13T16:10:31.749+00:00 |
+| **Cerebras** | Sunnyvale, CA | Detection and Response Platform Engineer | [Apply](https://jobs.ashbyhq.com/cerebras/d114d16b-3c5f-44a1-9a15-26b37fb45369) | [Careers](https://www.cerebras.ai/join-us) | 2026-09-02T21:24:23.626+00:00 |
+| **Cerebras** | Sunnyvale, CA | Inference ML API SDET | [Apply](https://jobs.ashbyhq.com/cerebras/cf45f13c-b6a9-4df2-b6c3-eefea14a024f) | [Careers](https://www.cerebras.ai/join-us) | 2026-06-29T15:37:31.221+00:00 |
+| **Cerebras** | United States and Canada | Site Reliability Engineer - Ops & Automation | [Apply](https://jobs.ashbyhq.com/cerebras/ae5daf29-d7d0-440e-b41f-c6f0a67489f3) | [Careers](https://www.cerebras.ai/join-us) | 2025-10-14T20:24:04.050+00:00 |
+| **Cerebras** | Sunnyvale, CA | Software Engineer - Tools & Infrastructure / DevOps | [Apply](https://jobs.ashbyhq.com/cerebras/c0d8fa46-fd9e-49b5-80c9-040bbd0da916) | [Careers](https://www.cerebras.ai/join-us) | 2026-07-13T13:25:18.293+00:00 |
+| **Cerebras** | Sunnyvale, CA | Software Engineer, Cluster Deployment | [Apply](https://jobs.ashbyhq.com/cerebras/63b9c135-ce5d-4898-8e4d-9422d39e4ca6) | [Careers](https://www.cerebras.ai/join-us) | 2026-07-23T10:34:15.819+00:00 |
+| **Cerebras** | United States and Canada | Software Engineer, GPU Inference | [Apply](https://jobs.ashbyhq.com/cerebras/1c8cdbc4-bd74-46df-9645-bb910eaa7a37) | [Careers](https://www.cerebras.ai/join-us) | 2025-11-25T18:10:40.280+00:00 |
+| **Cerebras** | Sunnyvale, CA | Software Engineer, Inference Platform | [Apply](https://jobs.ashbyhq.com/cerebras/80775253-7fba-4a3b-87ee-0e70ce8e995c) | [Careers](https://www.cerebras.ai/join-us) | 2026-06-20T01:28:09.918+00:00 |
+| **Cohere** | New York | Data Engineer, Data Foundations | [Apply](https://jobs.ashbyhq.com/cohere/9baccd88-c051-474f-bfe8-6867fca54cee) | [Careers](https://cohere.com/careers) | 2026-08-14T07:10:20.881+00:00 |
+| **Cohere** | United States | Data Scientist, North Insights | [Apply](https://jobs.ashbyhq.com/cohere/e4603bb7-5bbe-4f73-9556-02c93f78b2af) | [Careers](https://cohere.com/careers) | 2026-07-23T10:00:27.920+00:00 |
+| **Cohere** | New York | Software Engineer, Data Infrastructure | [Apply](https://jobs.ashbyhq.com/cohere/6aa3cb2b-ee8b-4c92-b505-3a7509f80d7f) | [Careers](https://cohere.com/careers) | 2026-05-14T19:24:12.210+00:00 |
+| **Fireworks AI** | San Mateo | Applied Machine Learning Engineer | [Apply](https://jobs.ashbyhq.com/fireworks/fc3845e6-e8ba-4756-a03e-654f14ce605b) | [Careers](https://fireworks.ai/careers) | 2025-05-09T20:15:59.468+00:00 |
+| **Kikoff** | San Francisco | Software Engineer - Recent Grad | [Apply](https://job-boards.greenhouse.io/kikoff/jobs/4393822009) | [Careers](https://about.kikoff.com/careers) | 2026-09-02T21:10:54-04:00 |
+| **Snap** | Los Angeles; New York; Palo Alto | Machine Learning Engineer, Generative ML, Level 4 | [Apply](https://careers.snap.com/job?id=H226SWEGML3) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco; Seattle | Machine Learning Engineer, Level 3 | [Apply](https://careers.snap.com/job?id=Q326SWEML1) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **Snap** | Palo Alto; Santa Monica | Software Engineer, iOS, Level 3 | [Apply](https://careers.snap.com/job?id=R0046335) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **Snap** | Palo Alto | Software Engineer, ML Infrastructure, Content Retrieval Platform, Level 4 | [Apply](https://careers.snap.com/job?id=R0046629) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **Snap** | Bellevue; Los Angeles; Palo Alto | Software Engineer, ML Infrastructure, Level 4 | [Apply](https://careers.snap.com/job?id=R0045604) | [Careers](https://careers.snap.com/jobs) | N/A |
+
+---
+
 ### 🕐 Batch at 2026-09-09 18:04:18 MST
 
 📊 **4 new jobs this batch:**
