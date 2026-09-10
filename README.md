@@ -1,5 +1,41 @@
 # 📢 Job Listings for Harsha — September 09, 2026
-> Updated every hour. Newest batch first.
+> Updated every hour. Newest batch first. Times shown in America/Phoenix.
+
+### 🕐 Batch at 2026-09-09 18:03:07 MST
+
+📊 **21 new jobs this batch:**
+- Adobe: 1 job
+- Apple: 15 jobs
+- OpenAI: 2 jobs
+- Stripe: 1 job
+- Workday: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|
+| **Adobe** | San Jose | Machine Learning Engineer | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/Machine-Learning-Engineer_R171645-1) | [Careers](https://careers.adobe.com/us/en/) | Posted 6 Days Ago |
+| **Apple** | N/A | AI/ML Engineer: System RF Data Ecosystem | [Apply](https://jobs.apple.com/en-us/details/200682498-0836/ai-ml-engineer-system-rf-data-ecosystem?team=HRDWR) | [Careers](https://jobs.apple.com/en-us/search) | Sep 08, 2026 |
+| **Apple** | N/A | Machine Learning Engineer - Agentic AI Evaluation Frameworks | [Apply](https://jobs.apple.com/en-us/details/200681825-0836/machine-learning-engineer-agentic-ai-evaluation-frameworks?team=MLAI) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **Apple** | N/A | Machine Learning Engineer - Health AIML | [Apply](https://jobs.apple.com/en-us/details/200662966-0836/machine-learning-engineer-health-aiml?team=MLAI) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **Apple** | N/A | Machine Learning Engineer - Health AIML | [Apply](https://jobs.apple.com/en-us/details/200659977-1242/machine-learning-engineer-health-aiml?team=MLAI) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **Apple** | N/A | Machine Learning Engineer - Health AIML | [Apply](https://jobs.apple.com/en-us/details/200659977-0836/machine-learning-engineer-health-aiml?team=MLAI) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **Apple** | N/A | Research Scientist, Applied Machine Learning Security (Agent Systems), SEAR | [Apply](https://jobs.apple.com/en-us/details/200682701-0836/research-scientist-applied-machine-learning-security-agent-systems-sear?team=SFTWR) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **Apple** | N/A | Site Reliability Engineer - ML, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200682786-2459/site-reliability-engineer-ml-apple-ads?team=SFTWR) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **Apple** | N/A | Site Reliability Engineer, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200681459-0836/site-reliability-engineer-apple-ads?team=SFTWR) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **Apple** | N/A | Software Engineer - 3D Vision & Perception | [Apply](https://jobs.apple.com/en-us/details/200682466-3956/software-engineer-3d-vision-perception?team=HRDWR) | [Careers](https://jobs.apple.com/en-us/search) | Sep 08, 2026 |
+| **Apple** | N/A | Software Engineer, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200682685-0836/software-engineer-apple-ads?team=SFTWR) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **Apple** | N/A | Software Engineer, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200682706-0157/software-engineer-apple-ads?team=SFTWR) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **Apple** | N/A | Software Engineer, Applied ML | [Apply](https://jobs.apple.com/en-us/details/200682462-0836/software-engineer-applied-ml?team=SFTWR) | [Careers](https://jobs.apple.com/en-us/search) | Sep 08, 2026 |
+| **Apple** | N/A | Software Engineer, Developer Relations | [Apply](https://jobs.apple.com/en-us/details/200682051-3956/software-engineer-developer-relations?team=MKTG) | [Careers](https://jobs.apple.com/en-us/search) | Sep 08, 2026 |
+| **Apple** | N/A | Sr Software Engineer, Customer Systems | [Apply](https://jobs.apple.com/en-us/details/200677400-0836/sr-software-engineer-customer-systems?team=SFTWR) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **Apple** | N/A | Sr Software Engineer, Customer Systems | [Apply](https://jobs.apple.com/en-us/details/200677400-3956/sr-software-engineer-customer-systems?team=SFTWR) | [Careers](https://jobs.apple.com/en-us/search) | Sep 09, 2026 |
+| **OpenAI** | Mountain View | Data Engineer, Monetization Data Platform | [Apply](https://jobs.ashbyhq.com/openai/44abed05-4b45-4aa0-bee6-45d113bbef66) | [Careers](https://openai.com/careers/search/) | 2026-08-20T22:40:29.869+00:00 |
+| **OpenAI** | Mountain View | Software Engineer, Monetization Data Systems | [Apply](https://jobs.ashbyhq.com/openai/d2aad13c-6ed0-4905-ae12-8ea2397b190c) | [Careers](https://openai.com/careers/search/) | 2026-08-04T16:40:08.911+00:00 |
+| **Stripe** | US | Backend Engineer, Payments and Risk | [Apply](https://stripe.com/jobs/search?gh_jid=7232592) | [Careers](https://stripe.com/careers/search) | 2026-02-03T12:30:22-05:00 |
+| **Workday** | USA, CA, Pleasanton | Machine Learning Engineer - Payroll | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/Machine-Learning-Engineer---Payroll_JR-0108977) | [Careers](https://workday.wd5.myworkdayjobs.com/en-US/Workday) | Posted Today |
+| **Zoox** | Seattle, WA | Contract Student Worker - Data Analyst (20 hrs/wk) | [Apply](https://jobs.lever.co/zoox/ae2785ae-dfee-484b-8add-3cf32ca2d10e) | [Careers](https://jobs.lever.co/zoox) | 2026-09-09 22:44 |
+
+---
 
 ### 🕐 Batch at 2026-09-09 23:34:58
 
@@ -24,8 +60,6 @@
 | **General Motors** | Sunnyvale, California, United States of America | Software Engineer, AV Frameworks – Early Career | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Software-Engineer--AV-Frameworks---Early-Career_JR-202619943) | Posted Today |
 
 ---
-# 📢 Job Listings for Harsha — September 09, 2026
-> Updated every hour. Newest batch first.
 
 ### 🕐 Batch at 2026-09-09 21:18:21
 
@@ -48,8 +82,6 @@
 | **Booz Allen Hamilton** | Lorton, VA | UAS Ground Control Systems Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/UAS-Ground-Control-Systems-Software-Engineer_R0249023) | Posted Today |
 
 ---
-# 📢 Job Listings for Harsha — September 09, 2026
-> Updated every hour. Newest batch first.
 
 ### 🕐 Batch at 2026-09-09 18:03:48
 
@@ -74,8 +106,6 @@
 | **Verily** | Raleigh, North Carolina | Software Engineer - Participant Ops | [Apply](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Raleigh-North-Carolina/Software-Engineer---Participant-Ops_REQ-926) | Posted Today |
 
 ---
-# 📢 Job Listings for Harsha — September 09, 2026
-> Updated every hour. Newest batch first.
 
 ### 🕐 Batch at 2026-09-09 14:50:43
 
@@ -89,8 +119,6 @@
 | **Booz Allen Hamilton** | Annapolis Junction, MD | CNO Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/CNO-Software-Engineer_R0231398) | Posted Today |
 
 ---
-# 📢 Job Listings for Harsha — September 09, 2026
-> Updated every hour. Newest batch first.
 
 ### 🕐 Batch at 2026-09-09 05:25:45
 
@@ -105,8 +133,6 @@
 | **Northrop Grumman** | United States-California-Redondo Beach | Cloud Software Engineer (Level 2) - AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Cloud-Software-Engineer--Level-2----AHT_R10249870) | Posted Today |
 
 ---
-# 📢 Job Listings for Harsha — September 09, 2026
-> Updated every hour. Newest batch first.
 
 ### 🕐 Batch at 2026-09-09 00:45:43
 
