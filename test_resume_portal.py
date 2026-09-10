@@ -20,6 +20,10 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertEqual("cloud-devops", rp.classify_profile("Site Reliability Engineer"))
         self.assertEqual("machine-learning", rp.classify_profile("Machine Learning Engineer"))
         self.assertEqual("data-analytics", rp.classify_profile("Data Analyst"))
+        self.assertEqual(
+            "data-engineering",
+            rp.classify_profile("Data Engineer", ["Machine Learning", "Python"]),
+        )
 
     def test_detect_skills_uses_inventory_aliases(self):
         inventory = [
@@ -39,13 +43,18 @@ class ResumePortalFeedTests(unittest.TestCase):
             "official_url": "https://example.com/careers",
             "posted": "Today",
         }]
+        fake_jd = (
+            "Minimum qualifications: Python experience required. "
+            "Build reliable Python data pipelines and production data platforms. "
+            "Work with engineering teams on scalable analytics systems."
+        )
         with tempfile.TemporaryDirectory() as td:
             feed_path = Path(td) / "job_signals.json"
             inv_path = Path(td) / "resume_skill_inventory.json"
             inv_path.write_text(json.dumps({"skills": [{"name": "Python", "aliases": [], "verified": True}]}))
             with patch.object(rp, "FEED_PATH", feed_path), \
                  patch.object(rp, "INVENTORY_PATH", inv_path), \
-                 patch.object(rp, "_visible_page_text", return_value="Required Python data pipelines"):
+                 patch.object(rp, "_visible_page_text", return_value=fake_jd):
                 public = rp.prepare_portal_jobs(jobs)
 
             self.assertEqual("https://example.com/job/123", jobs[0]["link"])
@@ -54,6 +63,8 @@ class ResumePortalFeedTests(unittest.TestCase):
             record = next(iter(data["jobs"].values()))
             self.assertEqual("https://example.com/job/123", record["apply_url"])
             self.assertIn("Python", record["detected_skills"])
+            self.assertIn("Python", record["verified_skills"])
+            self.assertEqual([], record["unverified_skills"])
 
     def test_public_feed_contains_no_resume_private_data(self):
         record = rp.build_record({
