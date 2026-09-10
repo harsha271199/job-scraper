@@ -2,7 +2,7 @@ name: Job Scraper — Every Hour
 
 on:
   schedule:
-    - cron: '0 * * * *'   # runs at the top of every hour
+    - cron: '17 * * * *'  # runs once per hour at minute 17 to avoid top-of-hour congestion
   workflow_dispatch:        # lets you trigger manually from GitHub UI
   push:
     branches:
