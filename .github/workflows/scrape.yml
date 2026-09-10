@@ -27,6 +27,29 @@ on:
       - 'test_resume_builder.py'
       - 'SETUP.md'
       - '.github/workflows/scrape.yml'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - 'job_scraper.py'
+      - 'official_sources.py'
+      - 'run_scraper.py'
+      - 'cleanup_opendoor_batch.py'
+      - 'resume_tailor.py'
+      - 'resume_builder.py'
+      - 'resume_skill_inventory.json'
+      - 'resume_master_schema.example.json'
+      - 'RESUME_TAILOR.md'
+      - 'RESUME_BUILDER.md'
+      - 'companies.csv'
+      - 'official_companies.csv'
+      - 'requirements.txt'
+      - 'test_job_scraper.py'
+      - 'test_official_sources.py'
+      - 'test_resume_tailor.py'
+      - 'test_resume_builder.py'
+      - 'SETUP.md'
+      - '.github/workflows/scrape.yml'
 
 jobs:
   scrape:
@@ -53,12 +76,14 @@ jobs:
         run: python -m unittest -v test_job_scraper.py test_official_sources.py test_resume_tailor.py test_resume_builder.py
 
       - name: Run scraper
+        if: github.event_name != 'pull_request'
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python run_scraper.py
 
       - name: Commit and push updated files
+        if: github.event_name != 'pull_request'
         run: |
           git config --global user.name "Job Scraper Bot"
           git config --global user.email "bot@github.com"
