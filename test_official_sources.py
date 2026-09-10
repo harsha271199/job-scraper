@@ -1,9 +1,11 @@
 import unittest
 
 from official_sources import (
+    _opendoor_detail_is_senior,
     parse_color_health_jobs,
     parse_google_company_jobs,
     parse_kula_jobs,
+    parse_opendoor_jobs,
     parse_snap_jobs,
 )
 
@@ -94,6 +96,31 @@ class OfficialSourceTests(unittest.TestCase):
         self.assertEqual("Software Engineer, New Grad 2026", jobs[0]["title"])
         self.assertEqual("South San Francisco, California", jobs[0]["location"])
         self.assertIn("app.careerpuck.com", jobs[0]["link"])
+
+    def test_parse_opendoor_jobs(self):
+        html = """
+        <section>
+          <a href="/careers/open-positions/jobs/software-engineer-abc123">
+            <span>Software Engineer</span>
+            <span>Seattle, WA</span>
+          </a>
+          <a href="/careers/open-positions">All jobs</a>
+        </section>
+        """
+        jobs = list(parse_opendoor_jobs(html))
+        self.assertEqual(1, len(jobs))
+        self.assertEqual("Software Engineer", jobs[0]["title"])
+        self.assertEqual("Seattle, WA", jobs[0]["location"])
+        self.assertEqual(
+            "https://www.opendoor.com/careers/open-positions/jobs/software-engineer-abc123",
+            jobs[0]["link"],
+        )
+
+    def test_opendoor_detail_seniority_guard(self):
+        senior_html = "<h1>Machine Learning Engineer</h1><h2>About the Role — Senior and Above</h2>"
+        regular_html = "<h1>Software Engineer</h1><h2>About the Role</h2>"
+        self.assertTrue(_opendoor_detail_is_senior(senior_html))
+        self.assertFalse(_opendoor_detail_is_senior(regular_html))
 
 
 if __name__ == "__main__":
