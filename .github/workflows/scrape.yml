@@ -2,9 +2,11 @@ name: Job Scraper — Every Hour
 
 on:
   schedule:
-    - cron: '17 * * * *'  # primary hourly run
-    - cron: '47 * * * *'  # fallback run in case GitHub drops/delays the primary
+    - cron: '17 * * * *'  # primary GitHub scheduler run
+    - cron: '47 * * * *'  # fallback GitHub scheduler run
   workflow_dispatch:        # lets you trigger manually from GitHub UI
+  repository_dispatch:
+    types: [hourly-scrape]  # external scheduler trigger
   push:
     branches:
       - main
@@ -60,6 +62,10 @@ on:
       - 'SETUP.md'
       - '.github/workflows/scrape.yml'
 
+concurrency:
+  group: job-scraper-main
+  cancel-in-progress: false
+
 jobs:
   scrape:
     runs-on: ubuntu-latest
@@ -106,7 +112,7 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python run_scraper.py
 
-      - name: Delete job-list Markdown older than 30 days
+      - name: Keep only the latest 7 days of job-list Markdown
         if: github.event_name != 'pull_request'
         run: |
           python - <<'PY'
@@ -116,7 +122,8 @@ jobs:
           import re
 
           today = datetime.now(ZoneInfo('America/Phoenix')).date()
-          cutoff = today - timedelta(days=30)
+          keep_days = 7
+          cutoff = today - timedelta(days=keep_days - 1)
           pattern = re.compile(r'^(\d{1,2})-([A-Za-z]+)-Jobs-List\.md$')
 
           removed = []
@@ -139,8 +146,8 @@ jobs:
                   path.unlink()
                   removed.append(path.name)
 
-          print(f'30-day cutoff: {cutoff.isoformat()}')
-          print(f'Deleted {len(removed)} old job-list files')
+          print(f'Keeping job-list files from {cutoff.isoformat()} through {today.isoformat()}')
+          print(f'Deleted {len(removed)} older job-list files')
           for name in sorted(removed):
               print(f'  deleted: {name}')
           PY
