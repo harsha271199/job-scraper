@@ -4,6 +4,7 @@ import unittest
 from pathlib import Path
 from unittest.mock import Mock, patch
 
+import backfill_resume_portal as bp
 import resume_portal_feed as rp
 
 
@@ -103,6 +104,44 @@ class ResumePortalFeedTests(unittest.TestCase):
             self.assertFalse(data["portal_live"])
             record = next(iter(data["jobs"].values()))
             self.assertEqual("https://example.com/job/456", record["apply_url"])
+
+    def test_backfill_shows_direct_apply_and_resume_apply_side_by_side(self):
+        direct = "https://example.com/jobs/data-engineer-123"
+        jid = rp.job_id(direct)
+        portal = f"{rp.PORTAL_URL}?job={jid}"
+        feed = {
+            "version": 1,
+            "jobs": {
+                jid: {
+                    "id": jid,
+                    "company": "Example",
+                    "title": "Data Engineer",
+                    "location": "Phoenix, AZ",
+                    "apply_url": direct,
+                    "official_url": "https://example.com/careers",
+                    "posted": "Today",
+                    "captured_at": "2026-09-10T00:00:00+00:00",
+                }
+            },
+        }
+        original = (
+            "| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 🏠 Official Careers | 📅 Posted |\n"
+            "|---|---|---|---|---|---|\n"
+            f"| **Example** | Phoenix, AZ | Data Engineer | [Resume + Apply]({portal}) | "
+            "[Careers](https://example.com/careers) | Today |\n"
+        )
+        with tempfile.TemporaryDirectory() as td:
+            path = Path(td) / "README.md"
+            path.write_text(original, encoding="utf-8")
+            captured, changed = bp._rewrite_file(path, feed, [], True)
+            updated = path.read_text(encoding="utf-8")
+
+        self.assertEqual(0, captured)
+        self.assertGreater(changed, 0)
+        self.assertIn("| 🔗 Apply | 📄 Resume + Apply |", updated)
+        self.assertIn(f"[Apply]({direct})", updated)
+        self.assertIn(f"[Resume + Apply]({portal})", updated)
+        self.assertIn("[Careers](https://example.com/careers)", updated)
 
     def test_public_feed_contains_no_resume_private_data(self):
         record = rp.build_record({
