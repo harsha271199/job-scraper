@@ -2,8 +2,8 @@
 
 This module never reads the private master resume. It publishes only derived
 job signals (title, location, detected skills, role profile, and the real apply
-URL) to job_signals.json, then rewrites outward-facing Apply links to the
-browser-only resume portal.
+URL) to job_signals.json. Outward-facing Apply links are rewritten to the
+browser-only resume portal only after the Pages site is actually reachable.
 """
 
 from __future__ import annotations
@@ -24,6 +24,7 @@ PORTAL_URL = "https://harsha271199.github.io/job-scraper/"
 FEED_PATH = Path("job_signals.json")
 INVENTORY_PATH = Path("resume_skill_inventory.json")
 REQUEST_TIMEOUT = 12
+PORTAL_CHECK_TIMEOUT = 5
 
 _SIGNAL_TERMS = (
     "data pipeline", "data pipelines", "etl", "elt", "data warehouse",
@@ -43,9 +44,39 @@ _HEADERS = {
     "Accept-Language": "en-US,en;q=0.9",
 }
 
+_portal_live_cache: bool | None = None
+
 
 def job_id(link: str) -> str:
     return hashlib.sha256(str(link).encode("utf-8")).hexdigest()[:16]
+
+
+def portal_is_live(*, force: bool = False) -> bool:
+    """Return True only when the deployed Pages portal is reachable.
+
+    The result is cached for the lifetime of one scraper process, so hundreds
+    of jobs do not cause hundreds of Pages requests. A deployment becoming live
+    between hourly runs is picked up automatically on the next run.
+    """
+    global _portal_live_cache
+    if _portal_live_cache is not None and not force:
+        return _portal_live_cache
+    try:
+        response = requests.get(
+            PORTAL_URL,
+            headers=_HEADERS,
+            timeout=PORTAL_CHECK_TIMEOUT,
+            allow_redirects=True,
+        )
+        body = response.text.casefold() if response.ok else ""
+        _portal_live_cache = bool(
+            response.ok
+            and "resume + apply" in body
+            and "private master resume" in body
+        )
+    except Exception:
+        _portal_live_cache = False
+    return _portal_live_cache
 
 
 def classify_profile(title: str, skills: list[str] | None = None) -> str:
@@ -201,12 +232,13 @@ def build_record(job: dict, inventory: list[dict] | None = None) -> dict:
 
 
 def prepare_portal_jobs(jobs: list[dict]) -> list[dict]:
-    """Persist public job signals and return copies whose Apply URL opens portal."""
+    """Persist public job signals and route outward links when portal is live."""
     if not jobs:
         return []
     feed = _load_feed()
     inventory = _load_inventory()
     public_jobs = []
+    portal_ready = portal_is_live()
 
     for job in jobs:
         link = str(job.get("link", "")).strip()
@@ -219,10 +251,12 @@ def prepare_portal_jobs(jobs: list[dict]) -> list[dict]:
             feed["jobs"][jid] = record
 
         clone = copy.deepcopy(job)
-        clone["link"] = f"{PORTAL_URL}?job={quote(jid)}"
+        if portal_ready:
+            clone["link"] = f"{PORTAL_URL}?job={quote(jid)}"
         public_jobs.append(clone)
 
     feed["generated_at"] = datetime.now(timezone.utc).isoformat()
+    feed["portal_live"] = portal_ready
     _save_feed(feed)
     return public_jobs
 
