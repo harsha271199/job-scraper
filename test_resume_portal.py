@@ -143,6 +143,21 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn(f"[Resume + Apply]({portal})", updated)
         self.assertIn("[Careers](https://example.com/careers)", updated)
 
+    def test_portal_expands_verified_role_skills_and_experience(self):
+        html = Path("portal/index.html").read_text(encoding="utf-8")
+        js = Path("portal/app.js").read_text(encoding="utf-8")
+        self.assertIn("const MAX_SKILLS = 15", js)
+        self.assertIn("ROLE_CORE_SKILLS", js)
+        self.assertIn('"data-engineering"', js)
+        self.assertIn("EXPERIENCE_LIMITS", js)
+        self.assertIn("experienceLimit", js)
+        self.assertIn("effective_skills", js)
+        self.assertIn("Direct JD matches", js)
+        self.assertIn("Verified role-core skills added", js)
+        self.assertIn("JD skills matched", html)
+        self.assertIn("ATS skills in resume", html)
+        self.assertIn("experience bullets selected", html)
+
     def test_public_feed_contains_no_resume_private_data(self):
         record = rp.build_record({
             "company": "Example",
