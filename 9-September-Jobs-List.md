@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — September 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-09 18:04:18 MST
+
+📊 **4 new jobs this batch:**
+- Snap: 4 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco; Seattle | Data Scientist, Level 4 | [Apply](https://careers.snap.com/job?id=Q326DSA4) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco; Seattle | Machine Learning Engineer, Level 4 | [Apply](https://careers.snap.com/job?id=Q326SWEML3) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco; Seattle | Software Engineer, iOS, Level 4 | [Apply](https://careers.snap.com/job?id=Q326SWEI2) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco; Seattle | Software Engineer, Level 3 | [Apply](https://careers.snap.com/job?id=Q326SWE) | [Careers](https://careers.snap.com/jobs) | N/A |
+
+---
+
 ### 🕐 Batch at 2026-09-09 18:03:07 MST
 
 📊 **21 new jobs this batch:**
