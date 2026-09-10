@@ -11,6 +11,7 @@ on:
       - 'job_scraper.py'
       - 'official_sources.py'
       - 'run_scraper.py'
+      - 'cleanup_opendoor_batch.py'
       - 'companies.csv'
       - 'official_companies.csv'
       - 'requirements.txt'

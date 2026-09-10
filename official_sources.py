@@ -266,7 +266,7 @@ def parse_opendoor_jobs(
     html: str,
     base_url: str = "https://www.opendoor.com/careers/open-positions",
 ):
-    """Yield first-party Opendoor job-detail links from its branded careers page."""
+    """Yield only role-bearing first-party Opendoor job links."""
     soup = BeautifulSoup(html, "html.parser")
     seen = set()
     expected_host = urlparse(base_url).netloc.lower().removeprefix("www.")
@@ -281,13 +281,13 @@ def parse_opendoor_jobs(
         if absolute in seen:
             continue
 
-        card = _nearest_role_container(anchor, max_depth=5)
-        title = _best_role_string(anchor) or _best_role_string(card)
+        # Critical: never infer the title from a parent section. Opendoor groups many
+        # job anchors in one container, so parent fallback can borrow another role's
+        # title and create false positives.
+        title = _best_role_string(anchor)
         if not title:
             continue
         location = _best_us_location_string(anchor)
-        if location == "N/A":
-            location = _best_us_location_string(card)
 
         seen.add(absolute)
         yield {"title": title, "location": location, "link": absolute}
@@ -328,8 +328,6 @@ def scrape_opendoor(url: str, company: str, official_url: str | None = None) -> 
                 if _opendoor_detail_is_senior(detail.text):
                     continue
             except Exception:
-                # The list page still provides enough data to keep the role; one
-                # transient detail-page failure should not suppress the whole board.
                 pass
 
             js.add_result(
