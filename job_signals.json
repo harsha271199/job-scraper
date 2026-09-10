@@ -1,6 +1,445 @@
 {
   "version": 1,
   "jobs": {
+    "82a81fb6182ac72f": {
+      "id": "82a81fb6182ac72f",
+      "company": "Apple",
+      "title": "Data Scientist, AI/ML Model Quality",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200676435-3543/data-scientist-ai-ml-model-quality?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:33.176923+00:00"
+    },
+    "2eda151d492af426": {
+      "id": "2eda151d492af426",
+      "company": "Apple",
+      "title": "Data Scientist, AI/ML Model Quality",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200676435-2459/data-scientist-ai-ml-model-quality?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:30.833119+00:00"
+    },
+    "f91aded317e1063f": {
+      "id": "f91aded317e1063f",
+      "company": "Apple",
+      "title": "Data Scientist, AI/ML Model Quality",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200676435-0157/data-scientist-ai-ml-model-quality?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:28.561112+00:00"
+    },
+    "46bbf9355085a738": {
+      "id": "46bbf9355085a738",
+      "company": "Northrop Grumman",
+      "title": "2027 Spring Co-op Cyber Software Engineer Intern - Cincinnati OH",
+      "location": "United States-Ohio-Cincinnati",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Spring-Co-op-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10250275-1",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "GitHub",
+        "CI/CD",
+        "Git",
+        "GitHub Actions"
+      ],
+      "verified_skills": [
+        "GitHub",
+        "CI/CD",
+        "Git",
+        "GitHub Actions"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "ci/cd"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:26.703321+00:00"
+    },
+    "cfd6ea0ce6ada7c4": {
+      "id": "cfd6ea0ce6ada7c4",
+      "company": "General Motors",
+      "title": "Software Developer – Test Engineering",
+      "location": "Warren, Michigan, United States of America",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Developer---Test-Engineering_JR-202620042",
+      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "CI/CD",
+        "Java",
+        "Python"
+      ],
+      "verified_skills": [
+        "CI/CD",
+        "Python"
+      ],
+      "unverified_skills": [
+        "Java"
+      ],
+      "signal_terms": [
+        "ci/cd",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:26.246392+00:00"
+    },
+    "f0b961ff1aa03857": {
+      "id": "f0b961ff1aa03857",
+      "company": "Citi",
+      "title": "BANAMEX Business Analyst C12 – Pensiones / Afore / Proyectos Regulatorios",
+      "location": "Ciudad De Mexico Distrito Federal Mexico",
+      "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Business-Analyst-C12---Pensiones---Afore---Proyectos-Regulatorios_26994300",
+      "official_url": "https://citi.wd5.myworkdayjobs.com/en-US/2",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:25.798543+00:00"
+    },
+    "26b03d04973897e0": {
+      "id": "26b03d04973897e0",
+      "company": "Flir",
+      "title": "Platform Engineer",
+      "location": "US - Huntsville, AL",
+      "apply_url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Platform-Engineer_REQ36494",
+      "official_url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers",
+      "posted": "Posted Today",
+      "profile": "cloud-devops",
+      "detected_skills": [
+        "Kubernetes",
+        "AWS",
+        "Terraform",
+        "CI/CD",
+        "Docker",
+        "Helm",
+        "Kafka"
+      ],
+      "verified_skills": [
+        "Kubernetes",
+        "AWS",
+        "Terraform",
+        "CI/CD",
+        "Docker",
+        "Helm",
+        "Kafka"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "streaming",
+        "kafka",
+        "microservices",
+        "cloud",
+        "infrastructure as code",
+        "iac",
+        "ci/cd",
+        "observability",
+        "monitoring"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:25.288166+00:00"
+    },
+    "5d6f180ad22fcea2": {
+      "id": "5d6f180ad22fcea2",
+      "company": "Flir",
+      "title": "Platform Engineer",
+      "location": "US - Huntsville, AL",
+      "apply_url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Huntsville-AL/Platform-Engineer_REQ36495",
+      "official_url": "https://flir.wd1.myworkdayjobs.com/en-US/flircareers",
+      "posted": "Posted Today",
+      "profile": "cloud-devops",
+      "detected_skills": [
+        "Kubernetes",
+        "AWS",
+        "Terraform",
+        "CI/CD",
+        "Docker",
+        "Helm",
+        "Kafka"
+      ],
+      "verified_skills": [
+        "Kubernetes",
+        "AWS",
+        "Terraform",
+        "CI/CD",
+        "Docker",
+        "Helm",
+        "Kafka"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "streaming",
+        "kafka",
+        "microservices",
+        "cloud",
+        "infrastructure as code",
+        "iac",
+        "ci/cd",
+        "observability",
+        "monitoring"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:24.833750+00:00"
+    },
+    "950f36fd34748f21": {
+      "id": "950f36fd34748f21",
+      "company": "Cox Enterprises",
+      "title": "Machine Learning Engineer II, GenAI Evaluation Framework",
+      "location": "Atlanta GA",
+      "apply_url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Machine-Learning-Engineer-II--GenAI-Evaluation-Framework_R202682290",
+      "official_url": "https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1",
+      "posted": "Posted Today",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning",
+        "AWS",
+        "CI/CD",
+        "ETL/ELT",
+        "Git",
+        "Python"
+      ],
+      "verified_skills": [
+        "Machine Learning",
+        "AWS",
+        "CI/CD",
+        "ETL/ELT",
+        "Git",
+        "Python"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "data pipeline",
+        "data pipelines",
+        "api",
+        "cloud",
+        "observability",
+        "monitoring",
+        "machine learning",
+        "llm",
+        "dashboard",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:24.268482+00:00"
+    },
+    "2e80db883cd9eea6": {
+      "id": "2e80db883cd9eea6",
+      "company": "Booz Allen Hamilton",
+      "title": "Technical Business Analyst",
+      "location": "Atlanta, GA",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Technical-Business-Analyst_R0249092",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Git",
+        "Microsoft Azure",
+        "Python",
+        "SQL"
+      ],
+      "verified_skills": [
+        "Git",
+        "Microsoft Azure",
+        "Python",
+        "SQL"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "dashboard",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:23.764696+00:00"
+    },
+    "1723311e1e2370e1": {
+      "id": "1723311e1e2370e1",
+      "company": "Booz Allen Hamilton",
+      "title": "AI Data Analyst",
+      "location": "Arlington, VA",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Data-Analyst_R0249104",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Machine Learning",
+        "Apache Spark",
+        "Python",
+        "Kafka",
+        "Pandas",
+        "SQL"
+      ],
+      "verified_skills": [
+        "Machine Learning",
+        "Apache Spark",
+        "Python",
+        "Kafka",
+        "Pandas",
+        "SQL"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "kafka",
+        "machine learning",
+        "llm",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:23.147618+00:00"
+    },
+    "5da3505571587b6a": {
+      "id": "5da3505571587b6a",
+      "company": "Booz Allen Hamilton",
+      "title": "Software Engineer",
+      "location": "Rome, NY",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0249127",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "JavaScript",
+        "React",
+        "C++",
+        "Excel",
+        "Go",
+        "Java",
+        "Python",
+        "SQL"
+      ],
+      "verified_skills": [
+        "JavaScript",
+        "Excel",
+        "Python",
+        "SQL"
+      ],
+      "unverified_skills": [
+        "React",
+        "C++",
+        "Go",
+        "Java"
+      ],
+      "signal_terms": [
+        "cloud",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:22.653386+00:00"
+    },
+    "5fe328bb2694bd3e": {
+      "id": "5fe328bb2694bd3e",
+      "company": "Spotify",
+      "title": "Data Scientist - Music Promotion",
+      "location": "New York, NY",
+      "apply_url": "https://jobs.lever.co/spotify/56ea6f2e-f20b-4e46-ab94-d3eb0a89482d",
+      "official_url": "https://jobs.lever.co/spotify",
+      "posted": "2026-09-10 13:13",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "BigQuery",
+        "dbt",
+        "Python",
+        "SQL",
+        "Tableau"
+      ],
+      "verified_skills": [
+        "BigQuery",
+        "dbt",
+        "Python",
+        "SQL",
+        "Tableau"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "analytics",
+        "dashboard",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:22.161051+00:00"
+    },
+    "8105ecb1d976a09b": {
+      "id": "8105ecb1d976a09b",
+      "company": "Best Egg",
+      "title": "DevOps Engineer II",
+      "location": "Wilmington, DE",
+      "apply_url": "https://jobs.lever.co/BestEgg/0c4ba94e-1b91-45e8-9043-f7b4aaf30b3c",
+      "official_url": "https://jobs.lever.co/BestEgg",
+      "posted": "2026-09-10 14:30",
+      "profile": "cloud-devops",
+      "detected_skills": [
+        "CI/CD",
+        "AWS",
+        "Terraform",
+        "Incident Response",
+        "Docker",
+        "Kubernetes"
+      ],
+      "verified_skills": [
+        "CI/CD",
+        "AWS",
+        "Terraform",
+        "Incident Response",
+        "Docker",
+        "Kubernetes"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "api",
+        "cloud",
+        "infrastructure as code",
+        "ci/cd",
+        "observability",
+        "incident response",
+        "llm"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T16:32:21.909803+00:00"
+    },
     "b58f335ad4b82aae": {
       "id": "b58f335ad4b82aae",
       "company": "HP",
@@ -5841,5 +6280,6 @@
       "captured_at": "2026-09-10T07:17:43.440769+00:00"
     }
   },
-  "portal_live": true
+  "portal_live": true,
+  "generated_at": "2026-09-10T16:32:33.185045+00:00"
 }
