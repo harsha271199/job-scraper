@@ -1,6 +1,87 @@
 {
   "version": 1,
   "jobs": {
+    "644eb1f1c91e7a94": {
+      "id": "644eb1f1c91e7a94",
+      "company": "Apple",
+      "title": "Wireless Analytics & Intelligence Software Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200679300-3401/wireless-analytics-intelligence-software-engineer?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud",
+        "analytics"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T22:39:20.803088+00:00"
+    },
+    "7dc3282a5a5a17df": {
+      "id": "7dc3282a5a5a17df",
+      "company": "Apple",
+      "title": "Machine Learning Engineer - Video Generation Models",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200682734-3401/machine-learning-engineer-video-generation-models?team=MLAI",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud",
+        "machine learning"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T22:39:17.243492+00:00"
+    },
+    "f473bbf020df5f99": {
+      "id": "f473bbf020df5f99",
+      "company": "Apple",
+      "title": "Machine Learning Engineer - Video Generation Models",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200682734/machine-learning-engineer-video-generation-models?team=MLAI",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud",
+        "machine learning"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T22:39:14.288269+00:00"
+    },
+    "e7201af72df70c1d": {
+      "id": "e7201af72df70c1d",
+      "company": "Citi",
+      "title": "BANAMEX Business Analyst C11– Pensiones / Afore / Proyectos Regulatorios",
+      "location": "Ciudad De Mexico Distrito Federal Mexico",
+      "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Business-Analyst-C11--Pensiones---Afore---Proyectos-Regulatorios_26994429-1",
+      "official_url": "https://citi.wd5.myworkdayjobs.com/en-US/2",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T22:39:11.440465+00:00"
+    },
     "6de5720db00be8c0": {
       "id": "6de5720db00be8c0",
       "company": "Reddit",
@@ -7393,5 +7474,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-09-10T21:56:14.640707+00:00"
+  "generated_at": "2026-09-10T22:39:20.812950+00:00"
 }

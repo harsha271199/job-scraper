@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-10 15:39:20 MST
+
+📊 **4 new jobs this batch:**
+- Apple: 3 jobs
+- Citi: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Machine Learning Engineer - Video Generation Models | [Apply](https://jobs.apple.com/en-us/details/200682734/machine-learning-engineer-video-generation-models?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f473bbf020df5f99) | [Careers](https://jobs.apple.com/en-us/search) | Sep 10, 2026 |
+| **Apple** | N/A | Machine Learning Engineer - Video Generation Models | [Apply](https://jobs.apple.com/en-us/details/200682734-3401/machine-learning-engineer-video-generation-models?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7dc3282a5a5a17df) | [Careers](https://jobs.apple.com/en-us/search) | Sep 10, 2026 |
+| **Apple** | N/A | Wireless Analytics & Intelligence Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200679300-3401/wireless-analytics-intelligence-software-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=644eb1f1c91e7a94) | [Careers](https://jobs.apple.com/en-us/search) | Sep 10, 2026 |
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | BANAMEX Business Analyst C11– Pensiones / Afore / Proyectos Regulatorios | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/BANAMEX-Business-Analyst-C11--Pensiones---Afore---Proyectos-Regulatorios_26994429-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e7201af72df70c1d) | [Careers](https://citi.wd5.myworkdayjobs.com/en-US/2) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-10 14:56:14 MST
 
 📊 **13 new jobs this batch:**
