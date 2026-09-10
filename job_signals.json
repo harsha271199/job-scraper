@@ -1,6 +1,131 @@
 {
   "version": 1,
   "jobs": {
+    "4794916a7e02fc1a": {
+      "id": "4794916a7e02fc1a",
+      "company": "Target",
+      "title": "Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027)",
+      "location": "7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445",
+      "apply_url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082",
+      "official_url": "https://target.wd5.myworkdayjobs.com/en-US/targetcareers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T19:46:33.057499+00:00"
+    },
+    "65c5c9f4488fa1f5": {
+      "id": "65c5c9f4488fa1f5",
+      "company": "Boeing",
+      "title": "Associate Software Engineer, Phantom Works",
+      "location": "USA - Berkeley, MO",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Associate-Software-Engineer--Phantom-Works_JR2026523287-2",
+      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "CI/CD",
+        "C++",
+        "Docker",
+        "Git",
+        "REST APIs",
+        "AWS",
+        "Kubernetes",
+        "Machine Learning",
+        "Microsoft Azure",
+        "Python",
+        "React"
+      ],
+      "verified_skills": [
+        "CI/CD",
+        "Docker",
+        "Git",
+        "REST APIs",
+        "AWS",
+        "Kubernetes",
+        "Machine Learning",
+        "Microsoft Azure",
+        "Python"
+      ],
+      "unverified_skills": [
+        "C++",
+        "React"
+      ],
+      "signal_terms": [
+        "api",
+        "cloud",
+        "ci/cd",
+        "llm",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T19:46:32.555813+00:00"
+    },
+    "b226061fa1b55631": {
+      "id": "b226061fa1b55631",
+      "company": "Samsara",
+      "title": "Software Engineer - Data Platform",
+      "location": "Remote - US",
+      "apply_url": "https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530",
+      "official_url": "https://boards.greenhouse.io/samsara",
+      "posted": "2026-06-09T11:21:07-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Apache Spark",
+        "REST APIs",
+        "Amazon S3",
+        "Databricks",
+        "Go",
+        "Docker",
+        "Python",
+        "Apache Airflow",
+        "AWS",
+        "ETL/ELT",
+        "Java",
+        "Kubernetes",
+        "Scala",
+        "SQL",
+        "Terraform"
+      ],
+      "verified_skills": [
+        "Apache Spark",
+        "REST APIs",
+        "Amazon S3",
+        "Docker",
+        "Python",
+        "Apache Airflow",
+        "AWS",
+        "ETL/ELT",
+        "Kubernetes",
+        "Scala",
+        "SQL",
+        "Terraform"
+      ],
+      "unverified_skills": [
+        "Databricks",
+        "Go",
+        "Java"
+      ],
+      "signal_terms": [
+        "etl",
+        "elt",
+        "data lake",
+        "distributed systems",
+        "streaming",
+        "api",
+        "cloud",
+        "observability",
+        "monitoring",
+        "analytics",
+        "dashboard",
+        "sql"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T19:46:32.028342+00:00"
+    },
     "383b46513093aa6f": {
       "id": "383b46513093aa6f",
       "company": "Salesforce",
@@ -6914,5 +7039,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-09-10T19:18:22.650402+00:00"
+  "generated_at": "2026-09-10T19:46:33.066650+00:00"
 }

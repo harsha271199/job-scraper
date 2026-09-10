@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-10 12:46:33 MST
+
+📊 **3 new jobs this batch:**
+- Boeing: 1 job
+- Samsara: 1 job
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Boeing** | USA - Berkeley, MO | Associate Software Engineer, Phantom Works | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Associate-Software-Engineer--Phantom-Works_JR2026523287-2) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=65c5c9f4488fa1f5) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Samsara** | Remote - US | Software Engineer - Data Platform | [Apply](https://www.samsara.com/company/careers/roles/7922530?gh_jid=7922530) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b226061fa1b55631) | [Careers](https://boards.greenhouse.io/samsara) | 2026-06-09T11:21:07-04:00 |
+| **Target** | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | Software Engineering Summer Internship-Minneapolis, MN (Starting June 2027) | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Software-Engineering-Summer-Internship-Minneapolis--MN--Starting-June-2027-_R0000451082) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4794916a7e02fc1a) | [Careers](https://target.wd5.myworkdayjobs.com/en-US/targetcareers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-10 12:18:22 MST
 
 📊 **19 new jobs this batch:**
