@@ -1,6 +1,360 @@
 {
   "version": 1,
   "jobs": {
+    "6de5720db00be8c0": {
+      "id": "6de5720db00be8c0",
+      "company": "Reddit",
+      "title": "Backend Engineer, IAM",
+      "location": "Remote - United States",
+      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8189317",
+      "official_url": "https://redditinc.com/careers",
+      "posted": "2026-09-10T17:18:44-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "AWS",
+        "CI/CD",
+        "Go",
+        "Google Cloud Platform",
+        "Kubernetes"
+      ],
+      "verified_skills": [
+        "AWS",
+        "CI/CD",
+        "Kubernetes"
+      ],
+      "unverified_skills": [
+        "Go",
+        "Google Cloud Platform"
+      ],
+      "signal_terms": [
+        "cloud",
+        "ci/cd"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T21:56:14.630530+00:00"
+    },
+    "8224b031f4638a0f": {
+      "id": "8224b031f4638a0f",
+      "company": "OpenAI",
+      "title": "Full-Stack Software Engineer, Emerging Products",
+      "location": "San Francisco",
+      "apply_url": "https://jobs.ashbyhq.com/openai/f7d155c9-06e8-44f0-b2eb-bfa88707f2c1",
+      "official_url": "https://openai.com/careers/search/",
+      "posted": "2026-09-10T21:55:04.531+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "captured_at": "2026-09-10T21:56:12.704462+00:00"
+    },
+    "70be54f19ff02ed2": {
+      "id": "70be54f19ff02ed2",
+      "company": "OpenAI",
+      "title": "Partner Applied AI Engineer",
+      "location": "San Francisco",
+      "apply_url": "https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd",
+      "official_url": "https://openai.com/careers/search/",
+      "posted": "2026-09-10T19:44:56.038+00:00",
+      "profile": "machine-learning",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "captured_at": "2026-09-10T21:56:12.318962+00:00"
+    },
+    "9af5aed12f2bb79d": {
+      "id": "9af5aed12f2bb79d",
+      "company": "Stripe",
+      "title": "Data Analyst, NYC",
+      "location": "New York",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8189909",
+      "official_url": "https://stripe.com/careers/search",
+      "posted": "2026-09-10T17:39:22-04:00",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "ETL/ELT",
+        "SQL",
+        "Apache Airflow",
+        "Apache Spark",
+        "Data Modeling",
+        "Python",
+        "Scala"
+      ],
+      "verified_skills": [
+        "ETL/ELT",
+        "SQL",
+        "Apache Airflow",
+        "Apache Spark",
+        "Data Modeling",
+        "Python",
+        "Scala"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "data pipeline",
+        "data pipelines",
+        "api",
+        "monitoring",
+        "data modeling",
+        "analytics",
+        "dashboard",
+        "business intelligence",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T21:56:12.193256+00:00"
+    },
+    "177e1694139b883e": {
+      "id": "177e1694139b883e",
+      "company": "Apple",
+      "title": "Data & Analytics Engineer, Health & Fitness, Sensing & Connectivity",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200683024-0836/data-analytics-engineer-health-fitness-sensing-connectivity?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "data-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud",
+        "analytics"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T21:56:11.632339+00:00"
+    },
+    "71736b075c18473c": {
+      "id": "71736b075c18473c",
+      "company": "Apple",
+      "title": "Visual Generation Framework Software Engineer - Proactive",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200680492-3337/visual-generation-framework-software-engineer-proactive?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T21:56:10.198437+00:00"
+    },
+    "0793c2ba0c0cb75c": {
+      "id": "0793c2ba0c0cb75c",
+      "company": "Apple",
+      "title": "Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200683088-3543/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T21:56:08.726070+00:00"
+    },
+    "a97752eab2581b12": {
+      "id": "a97752eab2581b12",
+      "company": "Apple",
+      "title": "System Software Developer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200682058-0836/system-software-developer?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T21:56:07.302601+00:00"
+    },
+    "5d355aed9bd5e7b0": {
+      "id": "5d355aed9bd5e7b0",
+      "company": "SpaceX",
+      "title": "Software Engineer, Test Engineering and Operations",
+      "location": "Hawthorne, CA",
+      "apply_url": "https://boards.greenhouse.io/spacex/jobs/8796056002?gh_jid=8796056002",
+      "official_url": "https://new.spacex.com/careers",
+      "posted": "2026-09-10T16:17:30-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "CI/CD",
+        "Python",
+        "Bash",
+        "ETL/ELT",
+        "SQL"
+      ],
+      "verified_skills": [
+        "CI/CD",
+        "Python",
+        "Bash",
+        "ETL/ELT",
+        "SQL"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "data pipeline",
+        "data pipelines",
+        "api",
+        "iac",
+        "ci/cd",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T21:56:05.732911+00:00"
+    },
+    "f8c50dd5ceeb82ae": {
+      "id": "f8c50dd5ceeb82ae",
+      "company": "Booz Allen Hamilton",
+      "title": "Cloud Engineer",
+      "location": "Chantilly, VA",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cloud-Engineer_R0249204",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "cloud-devops",
+      "detected_skills": [
+        "AWS",
+        "Terraform",
+        "Bash",
+        "Docker",
+        "Kubernetes",
+        "PowerShell",
+        "Python",
+        "SQL",
+        "TypeScript"
+      ],
+      "verified_skills": [
+        "AWS",
+        "Terraform",
+        "Bash",
+        "Docker",
+        "Kubernetes",
+        "PowerShell",
+        "Python",
+        "SQL"
+      ],
+      "unverified_skills": [
+        "TypeScript"
+      ],
+      "signal_terms": [
+        "api",
+        "cloud",
+        "infrastructure as code",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T21:56:05.255366+00:00"
+    },
+    "12e16851890c53b1": {
+      "id": "12e16851890c53b1",
+      "company": "Booz Allen Hamilton",
+      "title": "Cloud Engineer",
+      "location": "Annapolis Junction, MD",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Cloud-Engineer_R0249215",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "cloud-devops",
+      "detected_skills": [
+        "AWS",
+        "Terraform",
+        "Bash",
+        "Docker",
+        "Kubernetes",
+        "PowerShell",
+        "Python",
+        "SQL",
+        "TypeScript"
+      ],
+      "verified_skills": [
+        "AWS",
+        "Terraform",
+        "Bash",
+        "Docker",
+        "Kubernetes",
+        "PowerShell",
+        "Python",
+        "SQL"
+      ],
+      "unverified_skills": [
+        "TypeScript"
+      ],
+      "signal_terms": [
+        "api",
+        "cloud",
+        "infrastructure as code",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T21:56:04.770442+00:00"
+    },
+    "9e436eb9274cef46": {
+      "id": "9e436eb9274cef46",
+      "company": "Booz Allen Hamilton",
+      "title": "Data Analyst",
+      "location": "Washington, DC",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Analyst_R0249069",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Python",
+        "SQL",
+        "Tableau",
+        "TypeScript",
+        "ETL/ELT",
+        "Pandas"
+      ],
+      "verified_skills": [
+        "Python",
+        "SQL",
+        "Tableau",
+        "ETL/ELT",
+        "Pandas"
+      ],
+      "unverified_skills": [
+        "TypeScript"
+      ],
+      "signal_terms": [
+        "etl",
+        "analytics",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-10T21:56:04.292212+00:00"
+    },
+    "fa5f9d9543a1cccc": {
+      "id": "fa5f9d9543a1cccc",
+      "company": "Baseten",
+      "title": "AI Engineer",
+      "location": "San Francisco",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616",
+      "official_url": "https://jobs.ashbyhq.com/baseten",
+      "posted": "2026-09-10T20:18:58.856+00:00",
+      "profile": "machine-learning",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "captured_at": "2026-09-10T21:56:03.649278+00:00"
+    },
     "4794916a7e02fc1a": {
       "id": "4794916a7e02fc1a",
       "company": "Target",
@@ -7039,5 +7393,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-09-10T19:46:33.066650+00:00"
+  "generated_at": "2026-09-10T21:56:14.640707+00:00"
 }

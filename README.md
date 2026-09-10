@@ -1,6 +1,35 @@
 # 📢 Job Listings for Harsha — September 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-10 14:56:14 MST
+
+📊 **13 new jobs this batch:**
+- Apple: 4 jobs
+- Baseten: 1 job
+- Booz Allen Hamilton: 3 jobs
+- OpenAI: 2 jobs
+- Reddit: 1 job
+- SpaceX: 1 job
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Data & Analytics Engineer, Health & Fitness, Sensing & Connectivity | [Apply](https://jobs.apple.com/en-us/details/200683024-0836/data-analytics-engineer-health-fitness-sensing-connectivity?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=177e1694139b883e) | [Careers](https://jobs.apple.com/en-us/search) | Sep 10, 2026 |
+| **Apple** | N/A | System Software Developer | [Apply](https://jobs.apple.com/en-us/details/200682058-0836/system-software-developer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a97752eab2581b12) | [Careers](https://jobs.apple.com/en-us/search) | Sep 10, 2026 |
+| **Apple** | N/A | Visual Generation Framework Software Engineer - Proactive | [Apply](https://jobs.apple.com/en-us/details/200680492-3337/visual-generation-framework-software-engineer-proactive?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=71736b075c18473c) | [Careers](https://jobs.apple.com/en-us/search) | Sep 10, 2026 |
+| **Apple** | N/A | Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems | [Apply](https://jobs.apple.com/en-us/details/200683088-3543/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0793c2ba0c0cb75c) | [Careers](https://jobs.apple.com/en-us/search) | Sep 10, 2026 |
+| **Baseten** | San Francisco | AI Engineer | [Apply](https://jobs.ashbyhq.com/baseten/64181d8a-960d-4aa4-8d98-3cb22b1e0616) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fa5f9d9543a1cccc) | [Careers](https://jobs.ashbyhq.com/baseten) | 2026-09-10T20:18:58.856+00:00 |
+| **Booz Allen Hamilton** | Annapolis Junction, MD | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Cloud-Engineer_R0249215) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=12e16851890c53b1) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cloud-Engineer_R0249204) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f8c50dd5ceeb82ae) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Analyst_R0249069) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9e436eb9274cef46) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **OpenAI** | San Francisco | Full-Stack Software Engineer, Emerging Products | [Apply](https://jobs.ashbyhq.com/openai/f7d155c9-06e8-44f0-b2eb-bfa88707f2c1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8224b031f4638a0f) | [Careers](https://openai.com/careers/search/) | 2026-09-10T21:55:04.531+00:00 |
+| **OpenAI** | San Francisco | Partner Applied AI Engineer | [Apply](https://jobs.ashbyhq.com/openai/552396f4-dc83-43de-9230-6301e5f461bd) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=70be54f19ff02ed2) | [Careers](https://openai.com/careers/search/) | 2026-09-10T19:44:56.038+00:00 |
+| **Reddit** | Remote - United States | Backend Engineer, IAM | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8189317) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6de5720db00be8c0) | [Careers](https://redditinc.com/careers) | 2026-09-10T17:18:44-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer, Test Engineering and Operations | [Apply](https://boards.greenhouse.io/spacex/jobs/8796056002?gh_jid=8796056002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5d355aed9bd5e7b0) | [Careers](https://new.spacex.com/careers) | 2026-09-10T16:17:30-04:00 |
+| **Stripe** | New York | Data Analyst, NYC | [Apply](https://stripe.com/jobs/search?gh_jid=8189909) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9af5aed12f2bb79d) | [Careers](https://stripe.com/careers/search) | 2026-09-10T17:39:22-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-10 12:46:33 MST
 
 📊 **3 new jobs this batch:**
