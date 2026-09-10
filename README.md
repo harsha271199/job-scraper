@@ -1,6 +1,43 @@
 # 📢 Job Listings for Harsha — September 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-10 12:18:22 MST
+
+📊 **19 new jobs this batch:**
+- Apple: 2 jobs
+- Booz Allen Hamilton: 9 jobs
+- Cerebras: 1 job
+- Northrop Grumman: 1 job
+- Ramp: 1 job
+- Salesforce: 1 job
+- Scale AI: 1 job
+- SpaceX: 2 jobs
+- Tanium: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Backend Software Engineer - Camera & Photos Tools & AI Team | [Apply](https://jobs.apple.com/en-us/details/200672256-0836/backend-software-engineer-camera-photos-tools-ai-team?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d6403bfd53513e48) | [Careers](https://jobs.apple.com/en-us/search) | Sep 10, 2026 |
+| **Apple** | N/A | Software Engineer, Infrastructure Services (Data Plane) | [Apply](https://jobs.apple.com/en-us/details/200683048-3401/software-engineer-infrastructure-services-data-plane?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3dac5a2b3860a883) | [Careers](https://jobs.apple.com/en-us/search) | Sep 10, 2026 |
+| **Booz Allen Hamilton** | Riverdale, MD | AI/ML Engineer and Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Riverdale-MD/AI-ML-Engineer-and-Data-Scientist_R0248874) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9e806c8aef4eeeb9) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Norfolk, VA | Azure Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Azure-Cloud-Engineer_R0249135-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f820aa64b3077fc3) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0248483) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bed0070a7c5bc566) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | San Antonio, TX | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/DevOps-Engineer_R0249157) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4b0ea1fbac6c3db1) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | San Antonio, TX | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/DevOps-Engineer_R0249158) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a615fa2013fd36a0) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | San Antonio, TX | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/DevOps-Engineer_R0249154) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ab44ee17474cb90f) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | San Antonio, TX | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/DevOps-Engineer_R0248086) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=72397c7e49e5dd08) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Observability Pipeline Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Observability-Pipeline-Engineer_R0249177) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=987b5a72d1f51303) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Annapolis Junction, MD | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Engineer_R0249159) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=049438f6e13491b7) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Cerebras** | Sunnyvale, CA | Software Engineer - Host and Network IO | [Apply](https://jobs.ashbyhq.com/cerebras/e62f91e4-3079-45aa-87ff-b848b56c54e6) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=759199d840f53eb5) | [Careers](https://www.cerebras.ai/join-us) | 2026-09-10T19:06:12.283+00:00 |
+| **Northrop Grumman** | United States-Florida-Apopka | Data Scientist | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/Data-Scientist_R10250261) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=374db187cd53e9e3) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Backend, Growth | [Apply](https://jobs.ashbyhq.com/ramp/428f41e2-48e8-409d-b5e3-8053f7fc7a27) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=10c41832d15f7ebc) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-05-13T23:29:57.643+00:00 |
+| **Salesforce** | North Carolina - Raleigh | Software Engineer II (Full-Stack) | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359621-2) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=383b46513093aa6f) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Scale AI** | Denver, CO; Honolulu, HI; Washington, DC | Machine Learning Engineer, Public Sector | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4631848005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7b19b3a4da5d3b80) | [Careers](https://boards.greenhouse.io/scaleai) | 2025-11-18T17:39:10-05:00 |
+| **SpaceX** | Hawthorne, CA | Security Software Engineer (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8795658002?gh_jid=8795658002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=de8dce4de2243f2c) | [Careers](https://new.spacex.com/careers) | 2026-09-10T12:42:29-04:00 |
+| **SpaceX** | Washington, DC | Security Software Engineer (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8795665002?gh_jid=8795665002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=24bdb0976e6cc639) | [Careers](https://new.spacex.com/careers) | 2026-09-10T12:44:47-04:00 |
+| **Tanium** | Durham, NC (Hybrid); Emeryville, CA (Hybrid) | Software Engineering Intern – Summer 2027 | [Apply](https://job-boards.greenhouse.io/tanium/jobs/8181017) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fff913b9a02d906c) | [Careers](https://boards.greenhouse.io/tanium) | 2026-09-10T14:19:05-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-10 09:32:33 MST
 
 📊 **14 new jobs this batch:**
