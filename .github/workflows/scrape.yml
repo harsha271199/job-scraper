@@ -9,10 +9,13 @@ on:
       - main
     paths:
       - 'job_scraper.py'
+      - 'official_sources.py'
+      - 'run_scraper.py'
       - 'companies.csv'
       - 'official_companies.csv'
       - 'requirements.txt'
       - 'test_job_scraper.py'
+      - 'test_official_sources.py'
       - 'SETUP.md'
       - '.github/workflows/scrape.yml'
 
@@ -38,13 +41,13 @@ jobs:
         run: pip install requests beautifulsoup4 pandas
 
       - name: Run regression tests
-        run: python -m unittest -v test_job_scraper.py
+        run: python -m unittest -v test_job_scraper.py test_official_sources.py
 
       - name: Run scraper
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-        run: python job_scraper.py
+        run: python run_scraper.py
 
       - name: Commit and push updated files
         run: |
