@@ -262,6 +262,88 @@ def scrape_color_health(url: str, company: str, official_url: str | None = None)
         js.log_error(company, f"Color Health official careers: {exc}")
 
 
+def parse_opendoor_jobs(
+    html: str,
+    base_url: str = "https://www.opendoor.com/careers/open-positions",
+):
+    """Yield first-party Opendoor job-detail links from its branded careers page."""
+    soup = BeautifulSoup(html, "html.parser")
+    seen = set()
+    expected_host = urlparse(base_url).netloc.lower().removeprefix("www.")
+    prefix = "/careers/open-positions/jobs/"
+
+    for anchor in soup.find_all("a", href=True):
+        absolute = urljoin(base_url, anchor.get("href", ""))
+        parsed = urlparse(absolute)
+        host = parsed.netloc.lower().removeprefix("www.")
+        if host != expected_host or not parsed.path.startswith(prefix):
+            continue
+        if absolute in seen:
+            continue
+
+        card = _nearest_role_container(anchor, max_depth=5)
+        title = _best_role_string(anchor) or _best_role_string(card)
+        if not title:
+            continue
+        location = _best_us_location_string(anchor)
+        if location == "N/A":
+            location = _best_us_location_string(card)
+
+        seen.add(absolute)
+        yield {"title": title, "location": location, "link": absolute}
+
+
+def _opendoor_detail_is_senior(html: str) -> bool:
+    """Reject Opendoor postings whose detail page explicitly says senior-or-above."""
+    soup = BeautifulSoup(html, "html.parser")
+    headings = " ".join(
+        _clean(node.get_text(" ", strip=True))
+        for node in soup.find_all(["h1", "h2", "h3"], limit=20)
+    ).lower()
+    return any(
+        marker in headings
+        for marker in (
+            "senior and above",
+            "senior & above",
+            "senior-level",
+            "staff and above",
+            "principal and above",
+        )
+    )
+
+
+def scrape_opendoor(url: str, company: str, official_url: str | None = None) -> None:
+    """Scrape Opendoor's first-party careers catalog and keep branded job URLs."""
+    try:
+        response = js._request(url)
+        home = official_url or "https://www.opendoor.com/careers/open-positions"
+        for job in parse_opendoor_jobs(response.text, response.url):
+            if not js.keyword_match(job["title"]):
+                continue
+
+            # Opendoor sometimes leaves seniority out of the card title but states
+            # it explicitly near the top of the job detail page.
+            try:
+                detail = js._request(job["link"])
+                if _opendoor_detail_is_senior(detail.text):
+                    continue
+            except Exception:
+                # The list page still provides enough data to keep the role; one
+                # transient detail-page failure should not suppress the whole board.
+                pass
+
+            js.add_result(
+                company,
+                job["title"],
+                job["location"],
+                job["link"],
+                "N/A",
+                home,
+            )
+    except Exception as exc:
+        js.log_error(company, f"Opendoor official careers: {exc}")
+
+
 def install() -> None:
     """Extend job_scraper.scrape_company with proprietary official sources."""
     if getattr(js, "_official_adapters_installed", False):
@@ -273,6 +355,7 @@ def install() -> None:
         "kula": scrape_kula,
         "deepmind": scrape_deepmind,
         "color_health": scrape_color_health,
+        "opendoor": scrape_opendoor,
     }
 
     def scrape_company_with_official_adapters(row) -> None:
