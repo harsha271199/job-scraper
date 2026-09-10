@@ -116,6 +116,22 @@ class OfficialSourceTests(unittest.TestCase):
             jobs[0]["link"],
         )
 
+    def test_opendoor_does_not_borrow_role_from_sibling(self):
+        html = """
+        <section>
+          <a href="/careers/open-positions/jobs/director-fp-a-aaa">
+            <span>Director, FP&A - Operations</span><span>Miami, FL</span>
+          </a>
+          <a href="/careers/open-positions/jobs/data-scientist-bbb">
+            <span>Data Scientist</span><span>Seattle, WA</span>
+          </a>
+        </section>
+        """
+        jobs = list(parse_opendoor_jobs(html))
+        self.assertEqual(1, len(jobs))
+        self.assertEqual("Data Scientist", jobs[0]["title"])
+        self.assertIn("data-scientist-bbb", jobs[0]["link"])
+
     def test_opendoor_detail_seniority_guard(self):
         senior_html = "<h1>Machine Learning Engineer</h1><h2>About the Role — Senior and Above</h2>"
         regular_html = "<h1>Software Engineer</h1><h2>About the Role</h2>"
