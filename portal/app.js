@@ -9,6 +9,7 @@ import {
 
 const MASTER_KEY = "jobScraper.privateMaster.v1";
 const MAX_SKILLS = 15;
+const MAX_PROJECTS = 3;
 
 const ROLE_CORE_SKILLS = {
   "data-engineering": [
@@ -43,21 +44,57 @@ const ROLE_CORE_SKILLS = {
   ]
 };
 
+const TARGET_HEADLINES = {
+  "data-engineering": "Cloud & Data Engineer | Data Platforms, ETL/ELT & Distributed Systems",
+  "software-engineering": "Software & Cloud Engineer | Backend, Platforms & Automation",
+  "cloud-devops": "Azure Cloud & DevOps Engineer | Infrastructure, Automation & Reliability",
+  "machine-learning": "Data & ML Engineer | Cloud, Pipelines & Applied Machine Learning",
+  "data-analytics": "Data & Cloud Analytics Engineer | SQL, Reporting & Data Quality",
+  "general-technical": "Cloud, Data & Software Engineer"
+};
+
+const DEFAULT_FOCUS = {
+  "aramark-data-ops": {
+    "data-engineering": "Data Engineering & Operational Platforms",
+    "software-engineering": "Software & Data Platform Development",
+    "cloud-devops": "Platform Operations & Automation",
+    "machine-learning": "Data & ML Analytics",
+    "data-analytics": "Data Analytics & Reporting",
+    "general-technical": "Data Platforms & Operations"
+  },
+  "ltimindtree-cloud": {
+    "data-engineering": "Data Engineering & Platform Automation",
+    "software-engineering": "Platform & Infrastructure Engineering",
+    "cloud-devops": "Azure Infrastructure & DevOps",
+    "machine-learning": "Data & ML Infrastructure",
+    "data-analytics": "Cloud Operations & Data Analytics",
+    "general-technical": "Azure Infrastructure & Automation"
+  },
+  "infra-developers-web": {
+    "data-engineering": "Web Data Capture & Lead Workflows",
+    "software-engineering": "Full-Stack Web Development",
+    "cloud-devops": "Web Deployment & Operations",
+    "machine-learning": "Web Data Capture & Analytics",
+    "data-analytics": "Lead Analytics & Web Measurement",
+    "general-technical": "Full-Stack Web Development"
+  }
+};
+
 const EXPERIENCE_LIMITS = {
   "data-engineering": {
     "aramark-data-ops": 5,
     "ltimindtree-cloud": 5,
-    "infra-developers-web": 1,
+    "infra-developers-web": 2,
   },
   "software-engineering": {
     "aramark-data-ops": 5,
-    "ltimindtree-cloud": 4,
-    "infra-developers-web": 2,
+    "ltimindtree-cloud": 5,
+    "infra-developers-web": 3,
   },
   "cloud-devops": {
     "aramark-data-ops": 3,
     "ltimindtree-cloud": 6,
-    "infra-developers-web": 1,
+    "infra-developers-web": 2,
   },
   "machine-learning": {
     "aramark-data-ops": 4,
@@ -66,13 +103,13 @@ const EXPERIENCE_LIMITS = {
   },
   "data-analytics": {
     "aramark-data-ops": 5,
-    "ltimindtree-cloud": 3,
-    "infra-developers-web": 1,
+    "ltimindtree-cloud": 4,
+    "infra-developers-web": 2,
   },
   "general-technical": {
     "aramark-data-ops": 4,
     "ltimindtree-cloud": 4,
-    "infra-developers-web": 1,
+    "infra-developers-web": 2,
   }
 };
 
@@ -114,28 +151,20 @@ function profileLabel(profile) {
   })[profile] || "Technical";
 }
 
-function profileSummary(profile) {
-  const summaries = {
-    "data-engineering": "Data and cloud engineer with professional Azure experience and hands-on ETL/ELT, streaming, data warehouse, SQL, Python, and cloud data-platform projects. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University.",
-    "software-engineering": "Software and data engineer with full-stack JavaScript/PostgreSQL experience, production Azure cloud engineering background, and hands-on API, automation, and cloud projects. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University.",
-    "cloud-devops": "Cloud and data engineer with professional Azure infrastructure experience and hands-on Terraform, Kubernetes, Docker, CI/CD, monitoring, incident-response, and AWS projects. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University.",
-    "machine-learning": "M.S. Data Science candidate with Python and machine-learning experience, cloud engineering background, and hands-on data pipelines, model-oriented analytics, and scalable infrastructure projects.",
-    "data-analytics": "Data and operations analyst with SQL, Excel, BigQuery, PostgreSQL, reconciliation, data-quality, and reporting experience, backed by professional Azure cloud engineering experience and an M.S. in Data Science in progress.",
-    "general-technical": "M.S. Data Science candidate with professional Azure cloud engineering experience and hands-on software, data, automation, and cloud projects."
-  };
-  return summaries[profile] || summaries["general-technical"];
+function targetHeadline(profile) {
+  return TARGET_HEADLINES[profile] || TARGET_HEADLINES["general-technical"];
 }
 
-function buildSummary(profile, jdSkills, allSkills) {
-  const base = profileSummary(profile);
-  const strongest = unique(jdSkills).slice(0, 5);
-  if (strongest.length >= 2) {
-    return `${base} Key strengths aligned to this role include ${strongest.join(", ")}.`;
-  }
-  const core = unique(allSkills).slice(0, 5);
-  return core.length
-    ? `${base} Core technical strengths include ${core.join(", ")}.`
-    : base;
+function profileSummary(profile) {
+  const summaries = {
+    "data-engineering": "Cloud and data engineer with more than two years of professional Azure experience and current hands-on work building operational data platforms. Experience spans ETL/ELT, SQL, data modeling, streaming systems, cloud automation, and production-scale infrastructure; currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University.",
+    "software-engineering": "Software and cloud engineer with full-stack web development experience, production Azure engineering background, and current work building a role-based operational platform with JavaScript, PostgreSQL, and Supabase. Brings hands-on experience across APIs, automation, databases, cloud infrastructure, and production troubleshooting while completing an M.S. in Data Science at Arizona State University.",
+    "cloud-devops": "Azure cloud and DevOps engineer with more than two years of experience supporting large production environments and hands-on work with Terraform, Kubernetes, Docker, automation, monitoring, incident response, and AWS. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University.",
+    "machine-learning": "Data and ML engineer with an M.S. in Data Science in progress, professional Azure cloud engineering experience, and hands-on work across Python, machine learning, scalable data pipelines, streaming systems, and cloud infrastructure. Combines model-oriented analytics with production engineering experience.",
+    "data-analytics": "Data and cloud analytics engineer with current SQL, Excel, BigQuery, PostgreSQL, reconciliation, data-quality, and reporting experience plus a professional Azure engineering background. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University.",
+    "general-technical": "Cloud, data, and software engineer with professional Azure experience, current operational platform work, prior full-stack development, and an M.S. in Data Science in progress at Arizona State University."
+  };
+  return summaries[profile] || summaries["general-technical"];
 }
 
 function profileBoost(profile, projectId) {
@@ -148,7 +177,7 @@ function profileBoost(profile, projectId) {
   };
   const ids = map[profile] || [];
   const pos = ids.indexOf(projectId);
-  return pos < 0 ? 0 : (6 - pos * 2);
+  return pos < 0 ? 0 : (8 - pos * 2);
 }
 
 function skillSet(values) {
@@ -177,12 +206,8 @@ function selectSkills(master, job, profile) {
 
   const jdSkills = [];
   for (const skill of (publicVerified.length ? publicVerified : detected)) {
-    const direct = evidence.get(key(skill)) || base.get(key(skill));
-    if (direct) {
-      jdSkills.push(direct);
-    } else if (publicVerified.some((s) => key(s) === key(skill))) {
-      jdSkills.push(clean(skill));
-    }
+    const hit = evidence.get(key(skill)) || base.get(key(skill));
+    if (hit) jdSkills.push(hit);
   }
 
   const roleCore = [];
@@ -196,7 +221,6 @@ function selectSkills(master, job, profile) {
   const selectedJd = unique(jdSkills).filter((s) => selectedSet.has(key(s)));
   const jdSet = skillSet(selectedJd);
   const addedCore = all.filter((s) => !jdSet.has(key(s)));
-
   return { all, jd: selectedJd, core: addedCore };
 }
 
@@ -212,7 +236,7 @@ function scoreBullet(bullet, job, profile, projectId = "") {
 
   for (const skill of bullet.skills || []) {
     const k = key(skill);
-    if (directJd.has(k)) score += 14;
+    if (directJd.has(k)) score += 16;
     else if (effective.has(k)) score += 7;
   }
 
@@ -247,6 +271,15 @@ function experienceLimit(profile, entryId) {
     ?? 3;
 }
 
+function resolveFocus(entry, profile) {
+  const fromMaster = entry?.functional_focus;
+  if (fromMaster && typeof fromMaster === "object") {
+    const hit = clean(fromMaster[profile] || fromMaster["general-technical"]);
+    if (hit) return hit;
+  }
+  return clean(DEFAULT_FOCUS[entry?.id]?.[profile] || DEFAULT_FOCUS[entry?.id]?.["general-technical"] || "");
+}
+
 function selectedEntryMatches(entry, job) {
   const jd = skillSet(job.verified_skills || job.detected_skills);
   const matched = [];
@@ -274,7 +307,7 @@ function selectProjects(master, job, profile) {
     };
   });
   projects.sort((a, b) => b._score - a._score);
-  return projects.filter((p) => p.selectedBullets.length && p._score > 0).slice(0, 2);
+  return projects.filter((p) => p.selectedBullets.length && p._score > 0).slice(0, MAX_PROJECTS);
 }
 
 function validateMaster(master) {
@@ -301,6 +334,7 @@ function buildCandidate(master, job) {
     );
     return {
       ...entry,
+      functionalFocus: resolveFocus(entry, profile),
       selectedBullets,
       matchedSignals: selectedEntryMatches({ selectedBullets }, job),
     };
@@ -309,7 +343,8 @@ function buildCandidate(master, job) {
   const projects = selectProjects(master, scoringJob, profile);
   return {
     contact: master.contact,
-    summary: buildSummary(profile, skillBundle.jd, skillBundle.all),
+    headline: targetHeadline(profile),
+    summary: profileSummary(profile),
     skills: skillBundle.all,
     jdSkills: skillBundle.jd,
     coreSkills: skillBundle.core,
@@ -341,6 +376,7 @@ function renderCandidate(candidate) {
   $("fitTitle").textContent = `${profileLabel(candidate.profile)} resume ready`;
 
   const parts = [];
+  parts.push(`<h3>TARGET POSITIONING</h3><p><strong>${escapeHtml(candidate.headline)}</strong></p>`);
   parts.push(`<h3>SUMMARY</h3><p>${escapeHtml(candidate.summary)}</p>`);
   parts.push(`<h3>ATS SKILLS</h3><p>${escapeHtml(candidate.skills.join(" • ") || "No verified skills available")}</p>`);
   if (candidate.jdSkills.length) {
@@ -354,6 +390,9 @@ function renderCandidate(candidate) {
   for (const exp of candidate.experience) {
     parts.push(`<h4>${escapeHtml(exp.title)} — ${escapeHtml(exp.company)}</h4>`);
     parts.push(`<p class="muted">${escapeHtml([exp.location, exp.start && exp.end ? `${exp.start} – ${exp.end}` : ""].filter(Boolean).join(" • "))}</p>`);
+    if (exp.functionalFocus) {
+      parts.push(`<p><em>Functional focus: ${escapeHtml(exp.functionalFocus)}</em></p>`);
+    }
     if (exp.matchedSignals.length) {
       parts.push(`<p class="tiny muted"><strong>JD alignment:</strong> ${escapeHtml(exp.matchedSignals.join(" • "))}</p>`);
     }
@@ -381,6 +420,7 @@ function textParagraph(text, options = {}) {
     children: [new TextRun({
       text: clean(text),
       bold: !!options.bold,
+      italics: !!options.italics,
       size: options.size || 20,
       font: "Arial",
     })],
@@ -422,14 +462,16 @@ function safeFilename(job) {
 
 async function candidateBlob(candidate) {
   const children = [];
-  children.push(textParagraph(candidate.contact.name, { bold: true, size: 30, center: true, after: 40 }));
+  children.push(textParagraph(candidate.contact.name, { bold: true, size: 30, center: true, after: 20 }));
+  children.push(textParagraph(candidate.headline, { bold: true, size: 20, center: true, after: 35 }));
+
   const contactLine = [
     candidate.contact.location,
     candidate.contact.email,
     candidate.contact.phone,
     ...(candidate.contact.links || []),
   ].filter(Boolean).join(" | ");
-  children.push(textParagraph(contactLine, { center: true, size: 17, after: 85 }));
+  children.push(textParagraph(contactLine, { center: true, size: 17, after: 75 }));
 
   children.push(sectionHeading("SUMMARY"));
   children.push(textParagraph(candidate.summary, { after: 55 }));
@@ -442,11 +484,14 @@ async function candidateBlob(candidate) {
   children.push(sectionHeading("EXPERIENCE"));
   for (const exp of candidate.experience) {
     children.push(roleParagraph(exp));
+    if (exp.functionalFocus) {
+      children.push(textParagraph(`Functional focus: ${exp.functionalFocus}`, { italics: true, size: 18, after: 28 }));
+    }
     for (const bullet of exp.selectedBullets) children.push(bulletParagraph(bullet.text));
   }
 
   if (candidate.projects.length) {
-    children.push(sectionHeading("PROJECTS"));
+    children.push(sectionHeading("SELECTED PROJECTS"));
     for (const project of candidate.projects) {
       children.push(roleParagraph({
         title: project.name,
@@ -488,7 +533,7 @@ async function candidateBlob(candidate) {
     sections: [{
       properties: {
         page: {
-          margin: { top: 620, right: 620, bottom: 620, left: 620 },
+          margin: { top: 560, right: 590, bottom: 560, left: 590 },
         },
       },
       children,
