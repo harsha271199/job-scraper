@@ -1,0 +1,79 @@
+{
+  "contact": {
+    "name": "Your Name",
+    "headline": "Data / Software / Cloud Professional",
+    "email": "you@example.com",
+    "phone": "555-555-5555",
+    "location": "City, ST",
+    "links": [
+      "https://www.linkedin.com/in/your-profile",
+      "https://github.com/your-handle"
+    ]
+  },
+  "summary": "Optional factual summary. The builder preserves this text verbatim.",
+  "experience": [
+    {
+      "id": "experience-1",
+      "company": "Employer Name",
+      "title": "Job Title",
+      "location": "City, ST",
+      "start": "Jan 2024",
+      "end": "Present",
+      "locked": true,
+      "bullets": [
+        {
+          "id": "exp1-b1",
+          "text": "Built and maintained cloud infrastructure using verified tools and processes.",
+          "skills": ["Microsoft Azure", "PowerShell", "Linux"],
+          "keywords": ["cloud infrastructure", "automation"],
+          "verified": true
+        },
+        {
+          "id": "exp1-b2",
+          "text": "Automated operational workflows and documented repeatable support procedures.",
+          "skills": ["PowerShell", "Git"],
+          "keywords": ["automation", "documentation", "operations"],
+          "verified": true
+        }
+      ]
+    }
+  ],
+  "projects": [
+    {
+      "id": "project-1",
+      "name": "Project Name",
+      "subtitle": "Optional project descriptor",
+      "locked": true,
+      "bullets": [
+        {
+          "id": "proj1-b1",
+          "text": "Implemented a data pipeline and evaluated model performance using verified technologies.",
+          "skills": ["Python", "SQL", "Machine Learning"],
+          "keywords": ["data pipeline", "model evaluation"],
+          "verified": true
+        }
+      ]
+    }
+  ],
+  "education": [
+    {
+      "school": "University Name",
+      "degree": "Degree Name",
+      "location": "City, ST",
+      "start": "Aug 2024",
+      "end": "Dec 2026",
+      "details": [],
+      "locked": true
+    }
+  ],
+  "certifications": [
+    "Certification Name"
+  ],
+  "base_skills": [
+    "Python",
+    "SQL",
+    "Microsoft Azure",
+    "Docker",
+    "Linux"
+  ]
+}
