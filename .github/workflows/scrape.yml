@@ -14,10 +14,12 @@ on:
       - 'cleanup_opendoor_batch.py'
       - 'resume_tailor.py'
       - 'resume_builder.py'
+      - 'resume_portal_feed.py'
       - 'resume_skill_inventory.json'
       - 'resume_master_schema.example.json'
       - 'RESUME_TAILOR.md'
       - 'RESUME_BUILDER.md'
+      - 'portal/**'
       - 'companies.csv'
       - 'official_companies.csv'
       - 'requirements.txt'
@@ -25,6 +27,7 @@ on:
       - 'test_official_sources.py'
       - 'test_resume_tailor.py'
       - 'test_resume_builder.py'
+      - 'test_resume_portal.py'
       - 'SETUP.md'
       - '.github/workflows/scrape.yml'
   pull_request:
@@ -37,10 +40,12 @@ on:
       - 'cleanup_opendoor_batch.py'
       - 'resume_tailor.py'
       - 'resume_builder.py'
+      - 'resume_portal_feed.py'
       - 'resume_skill_inventory.json'
       - 'resume_master_schema.example.json'
       - 'RESUME_TAILOR.md'
       - 'RESUME_BUILDER.md'
+      - 'portal/**'
       - 'companies.csv'
       - 'official_companies.csv'
       - 'requirements.txt'
@@ -48,6 +53,7 @@ on:
       - 'test_official_sources.py'
       - 'test_resume_tailor.py'
       - 'test_resume_builder.py'
+      - 'test_resume_portal.py'
       - 'SETUP.md'
       - '.github/workflows/scrape.yml'
 
@@ -73,7 +79,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run regression tests
-        run: python -m unittest -v test_job_scraper.py test_official_sources.py test_resume_tailor.py test_resume_builder.py
+        run: python -m unittest -v test_job_scraper.py test_official_sources.py test_resume_tailor.py test_resume_builder.py test_resume_portal.py
 
       - name: Run scraper
         if: github.event_name != 'pull_request'
@@ -87,6 +93,6 @@ jobs:
         run: |
           git config --global user.name "Job Scraper Bot"
           git config --global user.email "bot@github.com"
-          git add README.md seen_links.csv *-Jobs-List.md || true
+          git add README.md seen_links.csv job_signals.json *-Jobs-List.md || true
           git diff --staged --quiet || git commit -m "🤖 Job update — $(date +'%Y-%m-%d %H:%M')"
           git push
