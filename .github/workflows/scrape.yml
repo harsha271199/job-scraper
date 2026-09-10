@@ -8,7 +8,7 @@ on:
 jobs:
   scrape:
     runs-on: ubuntu-latest
-    timeout-minutes: 10        # ← hard kill after 10 min no matter what
+    timeout-minutes: 10
     permissions:
       contents: write
 
@@ -25,6 +25,9 @@ jobs:
 
       - name: Install dependencies
         run: pip install requests beautifulsoup4 pandas
+
+      - name: Run regression tests
+        run: python -m unittest -v test_job_scraper.py
 
       - name: Run scraper
         env:
