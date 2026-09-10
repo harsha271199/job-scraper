@@ -2,7 +2,8 @@ name: Job Scraper — Every Hour
 
 on:
   schedule:
-    - cron: '17 * * * *'  # runs once per hour at minute 17 to avoid top-of-hour congestion
+    - cron: '17 * * * *'  # primary hourly run
+    - cron: '47 * * * *'  # fallback run in case GitHub drops/delays the primary
   workflow_dispatch:        # lets you trigger manually from GitHub UI
   push:
     branches:
@@ -105,11 +106,50 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: python run_scraper.py
 
+      - name: Delete job-list Markdown older than 30 days
+        if: github.event_name != 'pull_request'
+        run: |
+          python - <<'PY'
+          from datetime import date, datetime, timedelta
+          from pathlib import Path
+          from zoneinfo import ZoneInfo
+          import re
+
+          today = datetime.now(ZoneInfo('America/Phoenix')).date()
+          cutoff = today - timedelta(days=30)
+          pattern = re.compile(r'^(\d{1,2})-([A-Za-z]+)-Jobs-List\.md$')
+
+          removed = []
+          for path in Path('.').glob('*-Jobs-List.md'):
+              match = pattern.match(path.name)
+              if not match:
+                  continue
+              day = int(match.group(1))
+              try:
+                  month = datetime.strptime(match.group(2), '%B').month
+              except ValueError:
+                  continue
+
+              year = today.year
+              file_date = date(year, month, day)
+              if file_date > today:
+                  file_date = date(year - 1, month, day)
+
+              if file_date < cutoff:
+                  path.unlink()
+                  removed.append(path.name)
+
+          print(f'30-day cutoff: {cutoff.isoformat()}')
+          print(f'Deleted {len(removed)} old job-list files')
+          for name in sorted(removed):
+              print(f'  deleted: {name}')
+          PY
+
       - name: Commit and push updated files
         if: github.event_name != 'pull_request'
         run: |
           git config --global user.name "Job Scraper Bot"
           git config --global user.email "bot@github.com"
-          git add README.md seen_links.csv job_signals.json *-Jobs-List.md || true
+          git add -A -- README.md seen_links.csv job_signals.json '*-Jobs-List.md' || true
           git diff --staged --quiet || git commit -m "🤖 Job update — $(date +'%Y-%m-%d %H:%M')"
           git push
