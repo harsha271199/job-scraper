@@ -58,13 +58,13 @@
           <p class="eyebrow">TAILORED RESULT</p>
           <h2 id="fitTitle">Resume ready</h2>
         </div>
-        <span id="fitBadge" class="badge good">Verified only</span>
+        <span id="fitBadge" class="badge good">Verified facts only</span>
       </div>
 
       <div class="metricGrid">
-        <div><strong id="skillCount">0</strong><span>JD skills used</span></div>
-        <div><strong id="bulletCount">0</strong><span>verified bullets</span></div>
-        <div><strong id="projectCount">0</strong><span>projects selected</span></div>
+        <div><strong id="jdSkillCount">0</strong><span>JD skills matched</span></div>
+        <div><strong id="skillCount">0</strong><span>ATS skills in resume</span></div>
+        <div><strong id="bulletCount">0</strong><span>experience bullets selected</span></div>
       </div>
 
       <div class="actions">
@@ -73,11 +73,11 @@
         <button id="openApply" class="secondary" type="button">Open Official Application</button>
       </div>
 
-      <details>
-        <summary>Preview selected content</summary>
+      <details open>
+        <summary>Preview selected content and JD alignment</summary>
         <div id="preview" class="preview"></div>
       </details>
-      <p class="tiny muted">No generative-AI API is called. The page only selects verified facts already present in your private master file.</p>
+      <p class="tiny muted">JD-matched skills are used first. Verified core skills for the detected role are then added up to 15 total. Experience bullets are selected and ranked from verified facts only; unsupported skills or invented metrics are never added.</p>
     </section>
 
     <section id="errorCard" class="card error hidden">
