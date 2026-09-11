@@ -1,6 +1,42 @@
 {
   "version": 1,
   "jobs": {
+    "4afa539418c31eb3": {
+      "id": "4afa539418c31eb3",
+      "company": "Apple",
+      "title": "Client Software Engineer - Private Cloud Compute",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200682986-3543/client-software-engineer-private-cloud-compute?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 10, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-11T00:34:53.428043+00:00"
+    },
+    "da7d72229f935ade": {
+      "id": "da7d72229f935ade",
+      "company": "Apple",
+      "title": "WiFi Experience Software Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200679966-3401/wifi-experience-software-engineer?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 11, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-11T00:34:49.053916+00:00"
+    },
     "644eb1f1c91e7a94": {
       "id": "644eb1f1c91e7a94",
       "company": "Apple",
@@ -7474,5 +7510,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-09-10T22:39:20.812950+00:00"
+  "generated_at": "2026-09-11T00:34:53.439475+00:00"
 }

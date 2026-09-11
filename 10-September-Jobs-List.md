@@ -1,6 +1,18 @@
 # 📢 Job Listings for Harsha — September 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-10 17:34:53 MST
+
+📊 **2 new jobs this batch:**
+- Apple: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Client Software Engineer - Private Cloud Compute | [Apply](https://jobs.apple.com/en-us/details/200682986-3543/client-software-engineer-private-cloud-compute?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4afa539418c31eb3) | [Careers](https://jobs.apple.com/en-us/search) | Sep 10, 2026 |
+| **Apple** | N/A | WiFi Experience Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200679966-3401/wifi-experience-software-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=da7d72229f935ade) | [Careers](https://jobs.apple.com/en-us/search) | Sep 11, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-09-10 15:39:20 MST
 
 📊 **4 new jobs this batch:**
