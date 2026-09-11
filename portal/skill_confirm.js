@@ -73,7 +73,7 @@
     }
     if (!job) return;
 
-    const topJd = unique(job.detected_skills || []).slice(0, TOP_JD_SKILLS);
+    const topJd = unique(job.top_jd_skills || job.detected_skills || []).slice(0, TOP_JD_SKILLS);
     const evidence = evidenceSkills(master);
     const missing = topJd.filter((skill) => !evidence.has(key(skill)));
     if (!missing.length) return;
@@ -88,13 +88,13 @@
     panel.style.background = "rgba(15,23,42,.35)";
 
     const title = document.createElement("h3");
-    title.textContent = "Confirm Top JD skills already in your real skill set";
+    title.textContent = "Confirm Top 10 JD skills you already know";
     title.style.margin = "0 0 6px";
     panel.appendChild(title);
 
     const note = document.createElement("p");
     note.className = "tiny muted";
-    note.textContent = "These skills appear in the Top 10 for this JD but are missing from your private master. Check only skills you genuinely know. Confirmed skills are saved only in this browser and will be included in future tailored resumes.";
+    note.textContent = "Skills captured directly from the JD are used first. If the captured posting exposes fewer than 10 named skills, closely related skills for that role fill the remaining slots. Check only the skills you already know. Confirmed skills are saved in this browser and added to Technical Skills. Experience bullets are only prioritized when your existing verified experience supports the skill; the portal does not invent experience.";
     panel.appendChild(note);
 
     const options = document.createElement("div");
@@ -164,8 +164,6 @@
     timer = setTimeout(buildPanel, 120);
   };
 
-  // Watch only the result card visibility state. Watching the entire DOM caused
-  // this script to react to its own panel mutations and repeatedly rebuild it.
   const resultCard = document.getElementById("resultCard");
   if (resultCard) {
     const observer = new MutationObserver((mutations) => {
