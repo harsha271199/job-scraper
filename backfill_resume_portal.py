@@ -58,8 +58,9 @@ def _rewrite_file(
     feed: dict,
     inventory: list[dict],
     portal_ready: bool,
+    refresh_stale: bool = False,
 ) -> tuple[int, int]:
-    """Normalize job tables and refresh stale JD-skill records."""
+    """Normalize job tables and optionally refresh stale JD-skill records."""
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines(keepends=True)
     changed = 0
@@ -131,7 +132,10 @@ def _rewrite_file(
         jid = job_id(direct_url)
         existing = feed.get("jobs", {}).get(jid)
         official_url = _link_from_cell(official_cell)
-        stale = not isinstance(existing, dict) or existing.get("jd_skill_version") != JD_SKILL_VERSION
+        stale = (
+            not isinstance(existing, dict)
+            or (refresh_stale and existing.get("jd_skill_version") != JD_SKILL_VERSION)
+        )
 
         if stale:
             job = {
@@ -187,7 +191,13 @@ def main() -> None:
         if path in seen_paths or not path.exists():
             continue
         seen_paths.add(path)
-        captured, changed = _rewrite_file(path, feed, inventory, portal_ready)
+        captured, changed = _rewrite_file(
+            path,
+            feed,
+            inventory,
+            portal_ready,
+            refresh_stale=True,
+        )
         captured_total += captured
         changed_total += changed
 
