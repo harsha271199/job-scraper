@@ -2,6 +2,7 @@
   const MASTER_KEY = "jobScraper.privateMaster.v1";
   const CONFIRMED_KEY = "jobScraper.userConfirmedSkills.v1";
   const TOP_JD_SKILLS = 10;
+  // Confirm Top JD skills already in your real skill set.
 
   const clean = (v) => String(v ?? "").replace(/\s+/g, " ").trim();
   const key = (v) => clean(v).toLowerCase();
