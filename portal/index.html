@@ -77,7 +77,7 @@
         <summary>Preview selected content and JD alignment</summary>
         <div id="preview" class="preview"></div>
       </details>
-      <p class="tiny muted">The portal builds a Top-10 skill set for every job. Skills detected from the captured JD are used first; if fewer than 10 named skills were captured, closely related role skills fill the remaining slots for your confirmation. Skills you confirm are added to Technical Skills. Experience bullets are re-ranked around the same Top-10 set, but the generator never invents professional experience for a skill that is not supported by an existing verified bullet.</p>
+      <p class="tiny muted">The portal extracts up to 10 skills and competencies that are actually written in the captured job description. Skills already supported by your private master are shown as matched; the remaining JD skills are shown as checkboxes so you can confirm the ones you already know. Confirmed skills are added to Technical Skills. Experience and project bullets are re-ranked around the same JD skill set, but the generator does not invent work experience for a newly confirmed skill.</p>
     </section>
 
     <section id="errorCard" class="card error hidden">
@@ -85,8 +85,8 @@
       <p id="errorText"></p>
     </section>
   </main>
-  <script src="./jd_top10.js?v=20260910-3"></script>
-  <script src="./app.js?v=20260910-3"></script>
-  <script src="./skill_confirm.js?v=20260910-3"></script>
+  <script src="./jd_top10.js?v=20260910-4"></script>
+  <script src="./app.js?v=20260910-4"></script>
+  <script src="./skill_confirm.js?v=20260910-4"></script>
 </body>
 </html>
