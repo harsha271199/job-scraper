@@ -86,12 +86,10 @@
     }
     if (!job) return;
 
-    const topJd = unique(job.top_jd_skills || job.detected_skills || []).slice(0, TOP_JD_SKILLS);
-    if (!topJd.length) return;
-
-    const evidence = evidenceSkills(master);
-    const matched = topJd.filter((skill) => evidence.has(key(skill)));
-    const missing = topJd.filter((skill) => !evidence.has(key(skill)));
+    const sourceSkills = Array.isArray(job.top_jd_skills) && job.top_jd_skills.length
+      ? job.top_jd_skills
+      : (job.detected_skills || []);
+    const topJd = unique(sourceSkills).slice(0, TOP_JD_SKILLS);
 
     const panel = document.createElement("section");
     panel.id = "jdSkillConfirmPanel";
@@ -106,6 +104,21 @@
     title.textContent = "Top JD skills: matched + confirm remaining";
     title.style.margin = "0 0 8px";
     panel.appendChild(title);
+
+    if (!topJd.length) {
+      const pending = document.createElement("p");
+      pending.className = "tiny muted";
+      pending.textContent = "This saved job does not yet contain readable JD skills. The scraper will retry the official job page instead of treating this empty result as final.";
+      panel.appendChild(pending);
+      const metricGrid = resultCard.querySelector(".metricGrid");
+      if (metricGrid?.nextSibling) resultCard.insertBefore(panel, metricGrid.nextSibling);
+      else resultCard.appendChild(panel);
+      return;
+    }
+
+    const evidence = evidenceSkills(master);
+    const matched = topJd.filter((skill) => evidence.has(key(skill)));
+    const missing = topJd.filter((skill) => !evidence.has(key(skill)));
 
     const note = document.createElement("p");
     note.className = "tiny muted";
