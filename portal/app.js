@@ -8,7 +8,9 @@ import {
 } from "docx";
 
 const MASTER_KEY = "jobScraper.privateMaster.v1";
-const MAX_SKILLS = 15;
+const TOP_JD_SKILLS = 10;
+const MAX_RELATED_SKILLS = 9;
+const MAX_SKILLS = TOP_JD_SKILLS + MAX_RELATED_SKILLS;
 const MAX_PROJECTS = 3;
 
 const ROLE_CORE_SKILLS = {
@@ -201,13 +203,21 @@ function masterEvidenceSkills(master) {
 function selectSkills(master, job, profile) {
   const base = masterBaseMap(master);
   const evidence = masterEvidenceSkills(master);
-  const publicVerified = unique(job.verified_skills || []);
   const detected = unique(job.detected_skills || []);
+  const topJd = detected.slice(0, TOP_JD_SKILLS);
 
-  const jdSkills = [];
-  for (const skill of (publicVerified.length ? publicVerified : detected)) {
+  const verifiedTopJd = [];
+  const jdGaps = [];
+  for (const skill of topJd) {
     const hit = evidence.get(key(skill)) || base.get(key(skill));
-    if (hit) jdSkills.push(hit);
+    if (hit) verifiedTopJd.push(hit);
+    else jdGaps.push(skill);
+  }
+
+  const extraJdVerified = [];
+  for (const skill of detected.slice(TOP_JD_SKILLS)) {
+    const hit = evidence.get(key(skill)) || base.get(key(skill));
+    if (hit) extraJdVerified.push(hit);
   }
 
   const roleCore = [];
@@ -216,22 +226,29 @@ function selectSkills(master, job, profile) {
     if (hit) roleCore.push(hit);
   }
 
-  const all = unique([...jdSkills, ...roleCore]).slice(0, MAX_SKILLS);
-  const selectedSet = skillSet(all);
-  const selectedJd = unique(jdSkills).filter((s) => selectedSet.has(key(s)));
-  const jdSet = skillSet(selectedJd);
-  const addedCore = all.filter((s) => !jdSet.has(key(s)));
-  return { all, jd: selectedJd, core: addedCore };
+  const topSet = skillSet(verifiedTopJd);
+  const related = unique([...extraJdVerified, ...roleCore])
+    .filter((s) => !topSet.has(key(s)))
+    .slice(0, MAX_RELATED_SKILLS);
+  const all = unique([...verifiedTopJd, ...related]).slice(0, MAX_SKILLS);
+
+  return {
+    all,
+    topJd,
+    jd: unique(verifiedTopJd),
+    gaps: unique(jdGaps),
+    related,
+  };
 }
 
 function scoringSkills(job) {
-  return job.effective_skills || job.verified_skills || job.detected_skills || [];
+  return job.effective_skills || job.detected_skills || job.verified_skills || [];
 }
 
 function scoreBullet(bullet, job, profile, projectId = "") {
   if (!bullet || bullet.verified !== true) return -9999;
   const effective = skillSet(scoringSkills(job));
-  const directJd = skillSet(job.verified_skills || job.detected_skills);
+  const directJd = skillSet(job.top_jd_skills || job.detected_skills || job.verified_skills || []);
   let score = 0;
 
   for (const skill of bullet.skills || []) {
@@ -281,7 +298,7 @@ function resolveFocus(entry, profile) {
 }
 
 function selectedEntryMatches(entry, job) {
-  const jd = skillSet(job.verified_skills || job.detected_skills);
+  const jd = skillSet(job.top_jd_skills || job.detected_skills || job.verified_skills || []);
   const matched = [];
   for (const bullet of entry.selectedBullets || []) {
     for (const skill of bullet.skills || []) {
@@ -323,7 +340,11 @@ function buildCandidate(master, job) {
   validateMaster(master);
   const profile = job.profile || "general-technical";
   const skillBundle = selectSkills(master, job, profile);
-  const scoringJob = { ...job, effective_skills: skillBundle.all };
+  const scoringJob = {
+    ...job,
+    effective_skills: skillBundle.all,
+    top_jd_skills: skillBundle.topJd,
+  };
 
   const experience = (master.experience || []).map((entry) => {
     const selectedBullets = selectBullets(
@@ -336,7 +357,7 @@ function buildCandidate(master, job) {
       ...entry,
       functionalFocus: resolveFocus(entry, profile),
       selectedBullets,
-      matchedSignals: selectedEntryMatches({ selectedBullets }, job),
+      matchedSignals: selectedEntryMatches({ selectedBullets }, scoringJob),
     };
   });
 
@@ -346,8 +367,10 @@ function buildCandidate(master, job) {
     headline: targetHeadline(profile),
     summary: profileSummary(profile),
     skills: skillBundle.all,
+    topJdSkills: skillBundle.topJd,
     jdSkills: skillBundle.jd,
-    coreSkills: skillBundle.core,
+    jdGaps: skillBundle.gaps,
+    relatedSkills: skillBundle.related,
     experience,
     projects,
     education: master.education || [],
@@ -360,17 +383,19 @@ function renderJob(job) {
   $("jobTitle").textContent = job.title || "Job";
   $("jobMeta").textContent = [job.company, job.location, job.posted].filter(Boolean).join(" • ");
   $("profileBadge").textContent = profileLabel(job.profile);
-  $("skills").innerHTML = (job.detected_skills || []).length
-    ? job.detected_skills.map((s) => `<span class="chip">${escapeHtml(s)}</span>`).join("")
+  const topJd = unique(job.detected_skills || []).slice(0, TOP_JD_SKILLS);
+  $("skills").innerHTML = topJd.length
+    ? topJd.map((s) => `<span class="chip">${escapeHtml(s)}</span>`).join("")
     : '<span class="chip">Title/profile signals only</span>';
   $("signalNote").textContent = job.signal_source === "job-page"
-    ? "Skills were derived from the public job page; the full job description is not republished here."
+    ? `Showing the top ${topJd.length || TOP_JD_SKILLS} detected JD skills. The full job description is not republished here.`
     : "The job page did not expose enough readable text, so this resume uses title/profile signals plus verified core skills for the role. Review the preview before applying.";
 }
 
 function renderCandidate(candidate) {
   const expBulletCount = candidate.experience.reduce((n, e) => n + e.selectedBullets.length, 0);
-  $("jdSkillCount").textContent = String(candidate.jdSkills.length);
+  const jdDenominator = candidate.topJdSkills.length || TOP_JD_SKILLS;
+  $("jdSkillCount").textContent = `${candidate.jdSkills.length}/${jdDenominator}`;
   $("skillCount").textContent = String(candidate.skills.length);
   $("bulletCount").textContent = String(expBulletCount);
   $("fitTitle").textContent = `${profileLabel(candidate.profile)} resume ready`;
@@ -378,12 +403,18 @@ function renderCandidate(candidate) {
   const parts = [];
   parts.push(`<h3>TARGET POSITIONING</h3><p><strong>${escapeHtml(candidate.headline)}</strong></p>`);
   parts.push(`<h3>SUMMARY</h3><p>${escapeHtml(candidate.summary)}</p>`);
-  parts.push(`<h3>ATS SKILLS</h3><p>${escapeHtml(candidate.skills.join(" • ") || "No verified skills available")}</p>`);
-  if (candidate.jdSkills.length) {
-    parts.push(`<p class="tiny muted"><strong>Direct JD matches:</strong> ${escapeHtml(candidate.jdSkills.join(" • "))}</p>`);
+  parts.push(`<h3>RELEVANT VERIFIED SKILLS</h3><p>${escapeHtml(candidate.skills.join(" • ") || "No verified skills available")}</p>`);
+  if (candidate.topJdSkills.length) {
+    parts.push(`<p class="tiny muted"><strong>Top JD skills detected:</strong> ${escapeHtml(candidate.topJdSkills.join(" • "))}</p>`);
   }
-  if (candidate.coreSkills.length) {
-    parts.push(`<p class="tiny muted"><strong>Verified role-core skills added:</strong> ${escapeHtml(candidate.coreSkills.join(" • "))}</p>`);
+  if (candidate.jdSkills.length) {
+    parts.push(`<p class="tiny muted"><strong>Top JD skills verified:</strong> ${escapeHtml(candidate.jdSkills.join(" • "))}</p>`);
+  }
+  if (candidate.jdGaps.length) {
+    parts.push(`<p class="tiny muted"><strong>JD gaps not claimed:</strong> ${escapeHtml(candidate.jdGaps.join(" • "))}</p>`);
+  }
+  if (candidate.relatedSkills.length) {
+    parts.push(`<p class="tiny muted"><strong>Additional verified JD/role strengths:</strong> ${escapeHtml(candidate.relatedSkills.join(" • "))}</p>`);
   }
 
   parts.push("<h3>EXPERIENCE</h3>");
@@ -391,7 +422,7 @@ function renderCandidate(candidate) {
     parts.push(`<h4>${escapeHtml(exp.title)} — ${escapeHtml(exp.company)}</h4>`);
     parts.push(`<p class="muted">${escapeHtml([exp.location, exp.start && exp.end ? `${exp.start} – ${exp.end}` : ""].filter(Boolean).join(" • "))}</p>`);
     if (exp.functionalFocus) {
-      parts.push(`<p><em>Functional focus: ${escapeHtml(exp.functionalFocus)}</em></p>`);
+      parts.push(`<p><em>${escapeHtml(exp.functionalFocus)}</em></p>`);
     }
     if (exp.matchedSignals.length) {
       parts.push(`<p class="tiny muted"><strong>JD alignment:</strong> ${escapeHtml(exp.matchedSignals.join(" • "))}</p>`);
@@ -485,7 +516,7 @@ async function candidateBlob(candidate) {
   for (const exp of candidate.experience) {
     children.push(roleParagraph(exp));
     if (exp.functionalFocus) {
-      children.push(textParagraph(`Functional focus: ${exp.functionalFocus}`, { italics: true, size: 18, after: 28 }));
+      children.push(textParagraph(exp.functionalFocus, { italics: true, size: 18, after: 28 }));
     }
     for (const bullet of exp.selectedBullets) children.push(bulletParagraph(bullet.text));
   }

@@ -143,20 +143,22 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn(f"[Resume + Apply]({portal})", updated)
         self.assertIn("[Careers](https://example.com/careers)", updated)
 
-    def test_portal_expands_verified_role_skills_and_experience(self):
+    def test_portal_prioritizes_top_10_jd_skills_and_verified_related_strengths(self):
         html = Path("portal/index.html").read_text(encoding="utf-8")
         js = Path("portal/app.js").read_text(encoding="utf-8")
-        self.assertIn("const MAX_SKILLS = 15", js)
+        self.assertIn("const TOP_JD_SKILLS = 10", js)
+        self.assertIn("const MAX_RELATED_SKILLS = 9", js)
+        self.assertIn("const MAX_SKILLS = TOP_JD_SKILLS + MAX_RELATED_SKILLS", js)
         self.assertIn("ROLE_CORE_SKILLS", js)
-        self.assertIn('"data-engineering"', js)
-        self.assertIn("EXPERIENCE_LIMITS", js)
-        self.assertIn("experienceLimit", js)
-        self.assertIn("effective_skills", js)
-        self.assertIn("Direct JD matches", js)
-        self.assertIn("Verified role-core skills added", js)
-        self.assertIn("JD skills matched", html)
-        self.assertIn("ATS skills in resume", html)
-        self.assertIn("experience bullets selected", html)
+        self.assertIn("topJd", js)
+        self.assertIn("jdGaps", js)
+        self.assertIn("Top JD skills detected", js)
+        self.assertIn("Top JD skills verified", js)
+        self.assertIn("JD gaps not claimed", js)
+        self.assertIn("Additional verified JD/role strengths", js)
+        self.assertIn("Top JD skills verified", html)
+        self.assertIn("Relevant verified skills included", html)
+        self.assertIn("JD-prioritized experience bullets", html)
 
     def test_portal_keeps_real_titles_but_adds_coherent_role_story(self):
         html = Path("portal/index.html").read_text(encoding="utf-8")
@@ -166,9 +168,9 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn("DEFAULT_FOCUS", js)
         self.assertIn("Data Engineering & Platform Automation", js)
         self.assertIn("resolveFocus", js)
-        self.assertIn("Functional focus:", js)
         self.assertIn("const MAX_PROJECTS = 3", js)
         self.assertIn("one or two pages", html)
+        self.assertNotIn("Functional focus:", js)
         self.assertNotIn("Key strengths aligned to this role include", js)
 
     def test_public_feed_contains_no_resume_private_data(self):
