@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — September 11, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-11 15:39:07 MST
+
+📊 **4 new jobs this batch:**
+- Apple: 1 job
+- Garner Health: 1 job
+- General Motors: 1 job
+- Reddit: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | DevOps Engineer, Info Apps | [Apply](https://jobs.apple.com/en-us/details/200683230-0836/devops-engineer-info-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=028ad392c52f6e4a) | [Careers](https://jobs.apple.com/en-us/search) | Sep 11, 2026 |
+| **Garner Health** | New York City, New York | Associate Applied Scientist | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6174213004) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=eabbc99c54ac8ac6) | [Careers](https://boards.greenhouse.io/garnerhealth) | 2026-09-11T18:00:54-04:00 |
+| **General Motors** | Sunnyvale, California, United States of America | Machine Learning Engineer, AI Inference Solutions (Early in Career) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/Machine-Learning-Engineer--AI-Inference-Solutions--University-Grad-_JR-202610103) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b26f4f0168f15e03) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **Reddit** | Remote - United States | Front End Software Engineer, Media Player | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8198102) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6827a67a8ae07d7a) | [Careers](https://redditinc.com/careers) | 2026-09-11T18:27:39-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-11 14:21:20 MST
 
 📊 **13 new jobs this batch:**
