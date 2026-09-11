@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 11, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-11 16:33:18 MST
+
+📊 **1 new jobs this batch:**
+- CoreWeave: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **CoreWeave** | Bellevue, WA / Sunnyvale, CA / San Francisco, CA / Livingston, NJ / Manhattan, NY / Philadelphia, PA / Dallas, TX | Software Engineer | [Apply](https://coreweave.com/careers/job?4712428006&board=coreweave&gh_jid=4712428006) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4678d583a8806ea8) | [Careers](https://boards.greenhouse.io/coreweave) | 2026-09-11T18:53:25-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-11 15:39:07 MST
 
 📊 **4 new jobs this batch:**
