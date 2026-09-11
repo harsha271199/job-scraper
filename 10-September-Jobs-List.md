@@ -1,6 +1,18 @@
 # 📢 Job Listings for Harsha — September 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-10 18:25:55 MST
+
+📊 **2 new jobs this batch:**
+- Apple: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Bluetooth Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200683007-3401/bluetooth-software-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=55780b1e339f0def) | [Careers](https://jobs.apple.com/en-us/search) | Sep 11, 2026 |
+| **Apple** | N/A | Machine Learning Engineer | [Apply](https://jobs.apple.com/en-us/details/200683023-0836/machine-learning-engineer?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1c1b77ea2f80f124) | [Careers](https://jobs.apple.com/en-us/search) | Sep 11, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-09-10 17:34:53 MST
 
 📊 **2 new jobs this batch:**

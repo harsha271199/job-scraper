@@ -1,6 +1,47 @@
 {
   "version": 1,
   "jobs": {
+    "55780b1e339f0def": {
+      "id": "55780b1e339f0def",
+      "company": "Apple",
+      "title": "Bluetooth Software Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200683007-3401/bluetooth-software-engineer?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 11, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-11T01:25:55.458047+00:00"
+    },
+    "1c1b77ea2f80f124": {
+      "id": "1c1b77ea2f80f124",
+      "company": "Apple",
+      "title": "Machine Learning Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200683023-0836/machine-learning-engineer?team=MLAI",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 11, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud",
+        "machine learning"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-11T01:25:53.494473+00:00"
+    },
     "4afa539418c31eb3": {
       "id": "4afa539418c31eb3",
       "company": "Apple",
@@ -7510,5 +7551,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-09-11T00:34:53.439475+00:00"
+  "generated_at": "2026-09-11T01:25:55.465953+00:00"
 }
