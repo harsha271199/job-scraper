@@ -54,6 +54,7 @@ jobs:
           mkdir -p _site
           cp portal/index.html _site/index.html
           cp portal/styles.css _site/styles.css
+          cp portal/skill_confirm.js _site/skill_confirm.js
           cp job_signals.json _site/job_signals.json
           cp resume_skill_inventory.json _site/resume_skill_inventory.json
           ./portal/node_modules/.bin/esbuild portal/app.js \
