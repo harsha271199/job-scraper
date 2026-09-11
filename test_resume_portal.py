@@ -143,9 +143,10 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn(f"[Resume + Apply]({portal})", updated)
         self.assertIn("[Careers](https://example.com/careers)", updated)
 
-    def test_portal_prioritizes_top_10_jd_skills_and_verified_related_strengths(self):
+    def test_portal_prioritizes_top_10_jd_skills_and_user_confirmation(self):
         html = Path("portal/index.html").read_text(encoding="utf-8")
         js = Path("portal/app.js").read_text(encoding="utf-8")
+        confirm = Path("portal/skill_confirm.js").read_text(encoding="utf-8")
         self.assertIn("const TOP_JD_SKILLS = 10", js)
         self.assertIn("const MAX_RELATED_SKILLS = 9", js)
         self.assertIn("const MAX_SKILLS = TOP_JD_SKILLS + MAX_RELATED_SKILLS", js)
@@ -153,12 +154,15 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn("topJd", js)
         self.assertIn("jdGaps", js)
         self.assertIn("Top JD skills detected", js)
-        self.assertIn("Top JD skills verified", js)
-        self.assertIn("JD gaps not claimed", js)
         self.assertIn("Additional verified JD/role strengths", js)
-        self.assertIn("Top JD skills verified", html)
-        self.assertIn("Relevant verified skills included", html)
+        self.assertIn("Top JD skills confirmed", html)
+        self.assertIn("Relevant skills included", html)
         self.assertIn("JD-prioritized experience bullets", html)
+        self.assertIn("skill_confirm.js", html)
+        self.assertIn("Confirm Top JD skills already in your real skill set", confirm)
+        self.assertIn("user-confirmed-from-job-description", confirm)
+        self.assertIn("latestMaster.base_skills", confirm)
+        self.assertIn("Check only skills you genuinely know", confirm)
 
     def test_portal_keeps_real_titles_but_adds_coherent_role_story(self):
         html = Path("portal/index.html").read_text(encoding="utf-8")
@@ -169,7 +173,7 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn("Data Engineering & Platform Automation", js)
         self.assertIn("resolveFocus", js)
         self.assertIn("const MAX_PROJECTS = 3", js)
-        self.assertIn("one or two pages", html)
+        self.assertIn("1–2 page", html)
         self.assertNotIn("Functional focus:", js)
         self.assertNotIn("Key strengths aligned to this role include", js)
 
@@ -189,7 +193,8 @@ class ResumePortalFeedTests(unittest.TestCase):
     def test_portal_source_has_no_private_resume_or_ai_api(self):
         html = Path("portal/index.html").read_text(encoding="utf-8")
         js = Path("portal/app.js").read_text(encoding="utf-8")
-        source = (html + js).casefold()
+        confirm = Path("portal/skill_confirm.js").read_text(encoding="utf-8")
+        source = (html + js + confirm).casefold()
         self.assertNotIn("harshabalraj99", source)
         self.assertNotIn("623-341-9706", source)
         self.assertNotIn("api.openai.com", source)
