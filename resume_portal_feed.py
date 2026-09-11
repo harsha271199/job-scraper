@@ -25,6 +25,8 @@ FEED_PATH = Path("job_signals.json")
 INVENTORY_PATH = Path("resume_skill_inventory.json")
 REQUEST_TIMEOUT = 12
 PORTAL_CHECK_TIMEOUT = 5
+JD_SKILL_VERSION = 2
+TOP_JD_SKILLS = 10
 
 _SIGNAL_TERMS = (
     "data pipeline", "data pipelines", "etl", "elt", "data warehouse",
@@ -34,6 +36,87 @@ _SIGNAL_TERMS = (
     "root cause analysis", "data quality", "data modeling", "schema design",
     "machine learning", "deep learning", "nlp", "llm", "analytics",
     "dashboard", "business intelligence", "sql", "python",
+)
+
+# These are JD terms, not claims about the candidate. They let the public feed
+# recognize requirements that are not yet present in the private resume master.
+_JD_EXTRA_SKILLS: dict[str, tuple[str, ...]] = {
+    "Data Warehousing": ("data warehouse", "data warehousing"),
+    "Data Lakes": ("data lake", "data lakes"),
+    "Distributed Systems": ("distributed systems", "distributed system"),
+    "Streaming Systems": ("streaming systems", "real-time streaming", "stream processing"),
+    "Microservices": ("microservices", "microservice architecture"),
+    "Cloud Computing": ("cloud computing", "cloud platforms"),
+    "Observability": ("observability",),
+    "Monitoring": ("monitoring",),
+    "Deep Learning": ("deep learning",),
+    "NLP": ("natural language processing", "NLP"),
+    "Large Language Models": ("large language models", "large language model", "LLMs", "LLM"),
+    "Generative AI": ("generative AI", "genAI", "gen AI"),
+    "Retrieval-Augmented Generation": ("retrieval-augmented generation", "retrieval augmented generation", "RAG"),
+    "Computer Vision": ("computer vision",),
+    "scikit-learn": ("scikit-learn", "sklearn"),
+    "TensorFlow": ("TensorFlow",),
+    "Keras": ("Keras",),
+    "MLOps": ("MLOps", "ML Ops"),
+    "Model Deployment": ("model deployment", "deploy models", "productionize models"),
+    "Feature Engineering": ("feature engineering",),
+    "Statistics": ("statistics", "statistical analysis", "statistical modeling"),
+    "Experimentation": ("experimentation", "experiments"),
+    "A/B Testing": ("A/B testing", "A/B tests", "AB testing"),
+    "MLflow": ("MLflow",),
+    "Vector Databases": ("vector database", "vector databases", "vector store", "vector stores"),
+    "Hadoop": ("Hadoop",),
+    "Hive": ("Apache Hive", "Hive"),
+    "Trino": ("Trino", "Presto"),
+    "Apache Flink": ("Apache Flink", "Flink"),
+    "NoSQL": ("NoSQL", "non-relational database", "non relational database"),
+    "MongoDB": ("MongoDB",),
+    "Redis": ("Redis",),
+    "MySQL": ("MySQL",),
+    "Oracle": ("Oracle Database", "Oracle SQL", "Oracle"),
+    "Data Governance": ("data governance",),
+    "Data Architecture": ("data architecture",),
+    "Data Visualization": ("data visualization", "visualization", "visualisations", "visualizations"),
+    "Business Intelligence": ("business intelligence", "BI reporting"),
+    "Dashboarding": ("dashboarding", "dashboards", "dashboard development"),
+    "Power BI": ("Power BI",),
+    "Looker": ("Looker",),
+    "Linux": ("Linux",),
+    "Jenkins": ("Jenkins",),
+    "Ansible": ("Ansible",),
+    "Prometheus": ("Prometheus",),
+    "Grafana": ("Grafana",),
+    "Networking": ("networking", "computer networks", "network infrastructure"),
+    "System Design": ("system design", "systems design"),
+    "Testing": ("unit testing", "integration testing", "automated testing", "test automation"),
+    "Node.js": ("Node.js", "NodeJS", "Node JS"),
+    "Spring Boot": ("Spring Boot",),
+    ".NET": (".NET", "dotnet"),
+    "C#": ("C#",),
+    "GitLab": ("GitLab",),
+    "Argo CD": ("Argo CD", "ArgoCD"),
+    "CloudFormation": ("CloudFormation", "AWS CloudFormation"),
+    "Serverless": ("serverless", "serverless architecture"),
+    "AWS Lambda": ("AWS Lambda", "Lambda functions"),
+    "Agile": ("Agile", "Agile development"),
+    "Scrum": ("Scrum",),
+    "Stakeholder Management": ("stakeholder management", "stakeholder communication", "stakeholders"),
+    "Communication": ("communication skills", "written and verbal communication", "written communication", "verbal communication"),
+    "Problem Solving": ("problem solving", "problem-solving"),
+    "Collaboration": ("cross-functional collaboration", "collaboration", "collaborative"),
+}
+
+_SOFT_JD_SKILLS = {
+    "Agile", "Scrum", "Stakeholder Management", "Communication",
+    "Problem Solving", "Collaboration",
+}
+
+_REQUIREMENT_MARKERS = (
+    "required", "requirements", "qualification", "qualifications", "preferred",
+    "must have", "nice to have", "experience with", "experience in",
+    "proficiency", "proficient", "knowledge of", "familiarity with",
+    "skills", "you have", "we are looking for",
 )
 
 _HEADERS = {
@@ -47,17 +130,25 @@ _HEADERS = {
 _portal_live_cache: bool | None = None
 
 
+def _unique(values: list[str]) -> list[str]:
+    seen: set[str] = set()
+    out: list[str] = []
+    for value in values:
+        text = str(value or "").strip()
+        key = text.casefold()
+        if not text or key in seen:
+            continue
+        seen.add(key)
+        out.append(text)
+    return out
+
+
 def job_id(link: str) -> str:
     return hashlib.sha256(str(link).encode("utf-8")).hexdigest()[:16]
 
 
 def portal_is_live(*, force: bool = False) -> bool:
-    """Return True only when the deployed Pages portal is reachable.
-
-    The result is cached for the lifetime of one scraper process, so hundreds
-    of jobs do not cause hundreds of Pages requests. A deployment becoming live
-    between hourly runs is picked up automatically on the next run.
-    """
+    """Return True only when the deployed Pages portal is reachable."""
     global _portal_live_cache
     if _portal_live_cache is not None and not force:
         return _portal_live_cache
@@ -94,11 +185,11 @@ def classify_profile(title: str, skills: list[str] | None = None) -> str:
             return profile
 
     skill_text = " ".join(skills or []).casefold()
-    if any(x in skill_text for x in ("machine learning", "pytorch", "hugging face")):
+    if any(x in skill_text for x in ("machine learning", "pytorch", "hugging face", "tensorflow")):
         return "machine-learning"
-    if any(x in skill_text for x in ("apache airflow", "dbt", "kafka", "etl/elt")):
+    if any(x in skill_text for x in ("apache airflow", "dbt", "kafka", "etl/elt", "data warehousing")):
         return "data-engineering"
-    if any(x in skill_text for x in ("terraform", "kubernetes", "docker", "microsoft azure")):
+    if any(x in skill_text for x in ("terraform", "kubernetes", "docker", "microsoft azure", "jenkins", "ansible")):
         return "cloud-devops"
     return "general-technical"
 
@@ -144,7 +235,12 @@ def _load_inventory() -> list[dict]:
         return []
 
 
+def _safe_pattern(alias: str) -> re.Pattern[str]:
+    return re.compile(rf"(?<![A-Za-z0-9]){re.escape(alias)}(?![A-Za-z0-9])", re.I)
+
+
 def detect_skills(text: str, inventory: list[dict] | None = None, limit: int = 24) -> list[str]:
+    """Detect skills known to the resume inventory."""
     inventory = inventory if inventory is not None else _load_inventory()
     haystack = str(text or "")
     ranked: list[tuple[int, str]] = []
@@ -155,12 +251,64 @@ def detect_skills(text: str, inventory: list[dict] | None = None, limit: int = 2
             alias = alias.strip()
             if not alias:
                 continue
-            pattern = re.compile(rf"(?<![A-Za-z0-9]){re.escape(alias)}(?![A-Za-z0-9])", re.I)
-            count += len(pattern.findall(haystack))
+            count += len(_safe_pattern(alias).findall(haystack))
         if count:
             ranked.append((count, str(item["name"])))
     ranked.sort(key=lambda x: (-x[0], x[1].casefold()))
     return [name for _, name in ranked[:limit]]
+
+
+def _jd_catalog(inventory: list[dict]) -> dict[str, list[str]]:
+    catalog: dict[str, list[str]] = {}
+    for item in inventory:
+        name = str(item.get("name", "")).strip()
+        if not name:
+            continue
+        catalog[name] = _unique([name, *[str(a) for a in item.get("aliases", [])]])
+    for name, aliases in _JD_EXTRA_SKILLS.items():
+        catalog[name] = _unique([*(catalog.get(name) or []), name, *aliases])
+    return catalog
+
+
+def detect_jd_skills(
+    text: str,
+    inventory: list[dict] | None = None,
+    limit: int = TOP_JD_SKILLS,
+) -> list[str]:
+    """Rank skills that are actually written in the job description.
+
+    The catalog is intentionally broader than the resume inventory so a JD skill
+    can still be shown for user confirmation even when it is absent from the
+    private master resume.
+    """
+    inventory = inventory if inventory is not None else _load_inventory()
+    haystack = str(text or "")
+    low = haystack.casefold()
+    ranked: list[tuple[int, int, str]] = []
+
+    for name, aliases in _jd_catalog(inventory).items():
+        score = 0
+        first_pos = len(haystack) + 1
+        matched = False
+        for alias in aliases:
+            alias = alias.strip()
+            if not alias or (len(alias) == 1 and alias.isalpha()):
+                continue
+            for match in _safe_pattern(alias).finditer(haystack):
+                matched = True
+                first_pos = min(first_pos, match.start())
+                score += 10
+                window = low[max(0, match.start() - 220): min(len(low), match.end() + 220)]
+                if any(marker in window for marker in _REQUIREMENT_MARKERS):
+                    score += 7
+        if not matched:
+            continue
+        if name in _SOFT_JD_SKILLS:
+            score -= 6
+        ranked.append((score, first_pos, name))
+
+    ranked.sort(key=lambda x: (-x[0], x[1], x[2].casefold()))
+    return [name for _, _, name in ranked[:limit]]
 
 
 def _verification_split(skills: list[str], inventory: list[dict]) -> tuple[list[str], list[str]]:
@@ -210,7 +358,9 @@ def build_record(job: dict, inventory: list[dict] | None = None) -> dict:
         except Exception:
             pass
 
-    skills = detect_skills(page_text, inventory=inventory)
+    inventory_skills = detect_skills(page_text, inventory=inventory)
+    top_jd_skills = detect_jd_skills(page_text, inventory=inventory)
+    skills = _unique([*top_jd_skills, *inventory_skills])[:24]
     verified_skills, unverified_skills = _verification_split(skills, inventory)
     terms = detect_signal_terms(page_text)
     return {
@@ -223,10 +373,12 @@ def build_record(job: dict, inventory: list[dict] | None = None) -> dict:
         "posted": str(job.get("posted", "N/A")),
         "profile": classify_profile(title, skills),
         "detected_skills": skills,
+        "top_jd_skills": top_jd_skills,
         "verified_skills": verified_skills,
         "unverified_skills": unverified_skills,
         "signal_terms": terms,
         "signal_source": signal_source,
+        "jd_skill_version": JD_SKILL_VERSION,
         "captured_at": datetime.now(timezone.utc).isoformat(),
     }
 
@@ -244,7 +396,12 @@ def prepare_portal_jobs(jobs: list[dict]) -> list[dict]:
         link = str(job.get("link", "")).strip()
         jid = job_id(link)
         existing = feed["jobs"].get(jid)
-        if isinstance(existing, dict) and existing.get("apply_url") == link:
+        current = (
+            isinstance(existing, dict)
+            and existing.get("apply_url") == link
+            and existing.get("jd_skill_version") == JD_SKILL_VERSION
+        )
+        if current:
             record = existing
         else:
             record = build_record(job, inventory=inventory)
