@@ -164,8 +164,18 @@
     timer = setTimeout(buildPanel, 120);
   };
 
-  const observer = new MutationObserver(schedule);
-  observer.observe(document.documentElement, { subtree: true, childList: true, attributes: true });
+  // Watch only the result card visibility state. Watching the entire DOM caused
+  // this script to react to its own panel mutations and repeatedly rebuild it.
+  const resultCard = document.getElementById("resultCard");
+  if (resultCard) {
+    const observer = new MutationObserver((mutations) => {
+      if (mutations.some((mutation) => mutation.type === "attributes" && mutation.attributeName === "class")) {
+        schedule();
+      }
+    });
+    observer.observe(resultCard, { attributes: true, attributeFilter: ["class"] });
+  }
+
   window.addEventListener("load", schedule);
   schedule();
 })();
