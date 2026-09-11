@@ -1,6 +1,42 @@
 # 📢 Job Listings for Harsha — September 11, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-11 12:48:02 MST
+
+📊 **18 new jobs this batch:**
+- Amgen: 1 job
+- Apple: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 6 jobs
+- Commure: 2 jobs
+- Lyft: 1 job
+- PayPal: 3 jobs
+- Salesforce: 2 jobs
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Amgen** | United States - Remote | Grad Intern – Software Engineer – Amgen’s Technology & Medical Organizations (Summer 2027) | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Grad-Intern---Software-Engineer---Amgen-s-Technology---Medical-Organizations--Summer-2027-_R-255745) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4213896786463cf3) | [Careers](https://amgen.wd1.myworkdayjobs.com/en-US/careers) | Posted Today |
+| **Apple** | N/A | Data Scientist, Apple Pay | [Apply](https://jobs.apple.com/en-us/details/200683123-0836/data-scientist-apple-pay?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=db823f0918be15ab) | [Careers](https://jobs.apple.com/en-us/search) | Sep 11, 2026 |
+| **Boeing** | USA - Seattle, WA | Customer Operations and Identity & Access Management Business Systems & Data Analyst | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seattle-WA/Customer-Operations-and-Identity---Access-Management-Business-Systems---Data-Analyst_JR2026520323-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a4f5dacefe5a3ab4) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0249294) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=32c25ecc2719a6a1) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist, Junior | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Junior_R0248942) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=47dea0eb9b0c5d2c) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Databricks Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Databricks-Platform-Engineer_R0249299-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f0f6c3b595dd87a4) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Fayetteville, NC | Kubernetes Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Kubernetes-Platform-Engineer_R0249312) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9a2170c2d886c552) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Beavercreek, OH | Modeling and Simulation Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Beavercreek-OH/Modeling-and-Simulation-Software-Engineer_R0249475) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b2d8615c6029dc0d) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | San Antonio, TX | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Antonio-TX/Software-Engineer_R0249268) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2a546facc089778e) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Commure** | Mountain View, CA | Software Engineer, Early Career 2027 | [Apply](https://jobs.ashbyhq.com/commure/c6a735ef-3d84-4447-94a9-9e8b2dfefced) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a95c553477a558c9) | [Careers](https://jobs.ashbyhq.com/commure) | 2026-09-11T18:00:01.660+00:00 |
+| **Commure** | Mountain View, CA | Software Engineering Intern, Summer 2027 | [Apply](https://jobs.ashbyhq.com/commure/62841aa1-3ee5-4547-8380-637b737b2cb3) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=da1614ffa8389bdd) | [Careers](https://jobs.ashbyhq.com/commure) | 2026-09-11T17:55:47.323+00:00 |
+| **Lyft** | New York, NY | Data Analyst Intern (Summer 2027) | [Apply](https://app.careerpuck.com/job-board/lyft/job/8802198002?gh_jid=8802198002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5f4f2b91b5128c6e) | [Careers](https://boards.greenhouse.io/lyft) | 2026-09-11T15:20:57-04:00 |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0137731) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f3191ba86915a1e4) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
+| **PayPal** | Austin, Texas, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Austin-Texas-United-States-of-America/Sr-Software-Engineer_R0137733) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=593ef7b28db2d60d) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Software-Engineer_R0137730) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4f5c5165b85d201c) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
+| **Salesforce** | Washington - Seattle | Data Engineer | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Seattle/Data-Engineer_JR358418) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=40d49be61250fb16) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Salesforce** | North Carolina - Raleigh | Software Engineer II (Full-Stack) | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/North-Carolina---Raleigh/Software-Engineer-II--Full-Stack-_JR359977-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=41319d9e153c99c5) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Zoox** | Foster City, CA | Software Engineer - Pipeline Infrastructure & Integration | [Apply](https://jobs.lever.co/zoox/978e36ef-e8e9-4874-ade6-f33a80e46309) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=962a440e46c6622d) | [Careers](https://jobs.lever.co/zoox) | 2026-09-08 16:46 |
+
+---
+
 ### 🕐 Batch at 2026-09-11 10:56:42 MST
 
 📊 **9 new jobs this batch:**
