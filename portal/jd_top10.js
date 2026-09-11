@@ -51,51 +51,14 @@
     "python": "Python"
   };
 
-  const PROFILE_CANDIDATES = {
-    "machine-learning": [
-      "Python", "SQL", "Machine Learning", "PyTorch", "Deep Learning",
-      "scikit-learn", "Pandas", "NumPy", "NLP", "Large Language Models",
-      "MLOps", "Model Deployment", "Statistics", "Experimentation",
-      "AWS", "Microsoft Azure", "Docker", "Kubernetes", "Apache Spark"
-    ],
-    "data-engineering": [
-      "Python", "SQL", "ETL/ELT", "Apache Spark", "Kafka", "Apache Airflow",
-      "dbt", "Data Modeling", "Data Warehousing", "AWS", "Microsoft Azure",
-      "Snowflake", "Databricks", "PostgreSQL", "Redshift", "BigQuery",
-      "Docker", "Kubernetes", "Terraform", "REST APIs"
-    ],
-    "cloud-devops": [
-      "Microsoft Azure", "AWS", "Terraform", "Docker", "Kubernetes",
-      "PowerShell", "Bash", "Linux", "CI/CD", "GitHub Actions", "Jenkins",
-      "Ansible", "Helm", "Prometheus", "Grafana", "Monitoring",
-      "Observability", "Networking", "Incident Response", "Python"
-    ],
-    "software-engineering": [
-      "Python", "JavaScript", "TypeScript", "Java", "SQL", "REST APIs",
-      "PostgreSQL", "Microservices", "System Design", "Testing", "Docker",
-      "Kubernetes", "AWS", "Microsoft Azure", "GitHub Actions", "CI/CD",
-      "Node.js", "React", "Git", "Linux"
-    ],
-    "data-analytics": [
-      "SQL", "Excel", "Python", "Tableau", "Power BI", "BigQuery",
-      "PostgreSQL", "Pandas", "NumPy", "Statistics", "Data Visualization",
-      "Business Intelligence", "Data Modeling", "ETL/ELT", "A/B Testing",
-      "Data Quality", "Dashboarding", "Analytics"
-    ],
-    "general-technical": [
-      "Python", "SQL", "AWS", "Microsoft Azure", "Docker", "Kubernetes",
-      "Terraform", "GitHub Actions", "REST APIs", "PostgreSQL", "Linux",
-      "CI/CD", "Git", "JSON", "Bash"
-    ]
-  };
-
   function buildTop10(job) {
-    const explicit = unique(job.top_jd_skills || job.detected_skills || []);
+    // Prefer server-side extraction from the real JD. For legacy feed rows, use
+    // only terms that were actually detected from the captured posting. Do not
+    // fill missing slots with generic role skills and call them JD skills.
+    const explicit = unique(job.top_jd_skills || []);
+    const detected = unique(job.detected_skills || []);
     const fromSignals = unique((job.signal_terms || []).map((term) => SIGNAL_TO_SKILL[key(term)]).filter(Boolean));
-    const profile = job.profile || "general-technical";
-    const role = PROFILE_CANDIDATES[profile] || PROFILE_CANDIDATES["general-technical"];
-    const top = unique([...explicit, ...fromSignals, ...role]).slice(0, TOP_JD_SKILLS);
-    return top;
+    return unique([...explicit, ...detected, ...fromSignals]).slice(0, TOP_JD_SKILLS);
   }
 
   function augmentFeed(data) {
@@ -105,8 +68,8 @@
       const top = buildTop10(job);
       if (!top.length) continue;
       job.top_jd_skills = top;
-      job.detected_skills = unique([...(job.detected_skills || []), ...top]);
-      job.effective_skills = unique([...(job.effective_skills || []), ...top]);
+      job.detected_skills = unique([...top, ...(job.detected_skills || [])]);
+      job.effective_skills = unique([...top, ...(job.effective_skills || [])]);
     }
     return data;
   }
