@@ -88,7 +88,7 @@
     panel.style.background = "rgba(15,23,42,.35)";
 
     const title = document.createElement("h3");
-    title.textContent = "Confirm Top 10 JD skills you already know";
+    title.textContent = "Confirm Top JD skills already in your real skill set (Top 10)";
     title.style.margin = "0 0 6px";
     panel.appendChild(title);
 
