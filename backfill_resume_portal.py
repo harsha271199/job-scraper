@@ -15,6 +15,7 @@ from pathlib import Path
 from urllib.parse import quote
 
 from resume_portal_feed import (
+    JD_SKILL_VERSION,
     PORTAL_URL,
     _load_feed,
     _load_inventory,
@@ -58,7 +59,7 @@ def _rewrite_file(
     inventory: list[dict],
     portal_ready: bool,
 ) -> tuple[int, int]:
-    """Normalize job tables to direct Apply + separate Resume + Apply columns."""
+    """Normalize job tables and refresh stale JD-skill records."""
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines(keepends=True)
     changed = 0
@@ -69,7 +70,6 @@ def _rewrite_file(
     for line in lines:
         stripped = line.strip()
 
-        # Normalize both old and new job-table headers to the seven-column shape.
         if stripped.startswith("| 🏢 Company |") and ("🔗 Apply" in stripped or "🔗 Link" in stripped):
             if line != HEADER:
                 changed += 1
@@ -106,10 +106,6 @@ def _rewrite_file(
         location = _clean_cell(location_display)
         title = _clean_cell(title_display)
 
-        # Supported historical table layouts:
-        # 5 cols: company, location, role, link, posted
-        # 6 cols: company, location, role, apply/resume, careers, posted
-        # 7 cols: company, location, role, apply, resume, careers, posted
         apply_cell = logical[3]
         if len(logical) >= 7:
             official_cell = logical[5]
@@ -129,29 +125,32 @@ def _rewrite_file(
         shown_url = apply_match.group(1)
         direct_url = _direct_apply_url(shown_url, feed)
         if direct_url.startswith(PORTAL_URL):
-            # A portal id that cannot be resolved safely should remain untouched.
             out.append(line)
             continue
 
         jid = job_id(direct_url)
         existing = feed.get("jobs", {}).get(jid)
-
         official_url = _link_from_cell(official_cell)
-        if isinstance(existing, dict):
-            official_url = str(existing.get("official_url") or official_url or direct_url)
-        else:
+        stale = not isinstance(existing, dict) or existing.get("jd_skill_version") != JD_SKILL_VERSION
+
+        if stale:
             job = {
                 "company": company,
                 "location": location,
                 "title": title,
                 "link": direct_url,
-                "official_url": official_url or direct_url,
+                "official_url": (
+                    str(existing.get("official_url"))
+                    if isinstance(existing, dict) and existing.get("official_url")
+                    else (official_url or direct_url)
+                ),
                 "posted": _clean_cell(posted_display) or "N/A",
             }
             feed["jobs"][jid] = build_record(job, inventory=inventory)
             existing = feed["jobs"][jid]
-            official_url = str(existing.get("official_url") or direct_url)
             captured += 1
+
+        official_url = str(existing.get("official_url") or official_url or direct_url)
 
         direct_cell = f"[Apply]({direct_url})"
         if portal_ready:
@@ -195,7 +194,7 @@ def main() -> None:
     feed["portal_live"] = portal_ready
     _save_feed(feed)
     print(f"Portal live: {portal_ready}")
-    print(f"Captured {captured_total} existing jobs into job_signals.json")
+    print(f"Captured/refreshed {captured_total} jobs into job_signals.json")
     print(f"Rewrote {changed_total} table rows/headers with separate Apply and Resume + Apply links")
 
 
