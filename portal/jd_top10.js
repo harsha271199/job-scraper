@@ -1,5 +1,6 @@
 (() => {
   const TOP_JD_SKILLS = 10;
+  const MANUAL_JD_KEY = "jobScraper.manualJdSkills.v1";
 
   const clean = (v) => String(v ?? "").replace(/\s+/g, " ").trim();
   const key = (v) => clean(v).toLowerCase();
@@ -51,21 +52,27 @@
     "python": "Python"
   };
 
-  function buildTop10(job) {
-    // Prefer server-side extraction from the real JD. For legacy feed rows, use
-    // only terms that were actually detected from the captured posting. Do not
-    // fill missing slots with generic role skills and call them JD skills.
+  function readManualMap() {
+    try {
+      return JSON.parse(localStorage.getItem(MANUAL_JD_KEY) || "{}") || {};
+    } catch {
+      return {};
+    }
+  }
+
+  function buildTop10(job, manualSkills = []) {
     const explicit = unique(job.top_jd_skills || []);
     const detected = unique(job.detected_skills || []);
     const fromSignals = unique((job.signal_terms || []).map((term) => SIGNAL_TO_SKILL[key(term)]).filter(Boolean));
-    return unique([...explicit, ...detected, ...fromSignals]).slice(0, TOP_JD_SKILLS);
+    return unique([...manualSkills, ...explicit, ...detected, ...fromSignals]).slice(0, TOP_JD_SKILLS);
   }
 
   function augmentFeed(data) {
     if (!data || typeof data !== "object" || !data.jobs || typeof data.jobs !== "object") return data;
-    for (const job of Object.values(data.jobs)) {
+    const manual = readManualMap();
+    for (const [jid, job] of Object.entries(data.jobs)) {
       if (!job || typeof job !== "object") continue;
-      const top = buildTop10(job);
+      const top = buildTop10(job, manual[jid] || []);
       if (!top.length) continue;
       job.top_jd_skills = top;
       job.detected_skills = unique([...top, ...(job.detected_skills || [])]);
