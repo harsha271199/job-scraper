@@ -1,6 +1,76 @@
 {
   "version": 1,
   "jobs": {
+    "af4e49b1f586bd7a": {
+      "id": "af4e49b1f586bd7a",
+      "company": "Cohere",
+      "title": "Software Engineer, Data Infrastructure",
+      "location": "United States",
+      "apply_url": "https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673",
+      "official_url": "https://cohere.com/careers",
+      "posted": "2026-09-11T02:02:46.540+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "captured_at": "2026-09-11T02:37:27.775114+00:00"
+    },
+    "6166fcead4715ee5": {
+      "id": "6166fcead4715ee5",
+      "company": "OpenAI",
+      "title": "Software Engineer, API Frontiers",
+      "location": "New York City",
+      "apply_url": "https://jobs.ashbyhq.com/openai/b6a86e39-8059-4ccf-8d33-1bf5bd92fa86",
+      "official_url": "https://openai.com/careers/search/",
+      "posted": "2026-09-11T01:36:02.480+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "api"
+      ],
+      "signal_source": "title-only",
+      "captured_at": "2026-09-11T02:37:27.603732+00:00"
+    },
+    "fb249471ae6ff7ee": {
+      "id": "fb249471ae6ff7ee",
+      "company": "Apple",
+      "title": "Bluetooth Software Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200683018-0836/bluetooth-software-engineer?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 11, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-11T02:37:27.236141+00:00"
+    },
+    "1e71871724ed15af": {
+      "id": "1e71871724ed15af",
+      "company": "Apple",
+      "title": "Carrier Technologies Software Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200683059-3401/carrier-technologies-software-engineer?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Sep 11, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "captured_at": "2026-09-11T02:37:25.223259+00:00"
+    },
     "55780b1e339f0def": {
       "id": "55780b1e339f0def",
       "company": "Apple",
@@ -7551,5 +7621,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-09-11T01:25:55.465953+00:00"
+  "generated_at": "2026-09-11T02:37:27.785127+00:00"
 }

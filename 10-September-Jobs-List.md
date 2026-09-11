@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — September 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-10 19:37:27 MST
+
+📊 **4 new jobs this batch:**
+- Apple: 2 jobs
+- Cohere: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Bluetooth Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200683018-0836/bluetooth-software-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fb249471ae6ff7ee) | [Careers](https://jobs.apple.com/en-us/search) | Sep 11, 2026 |
+| **Apple** | N/A | Carrier Technologies Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200683059-3401/carrier-technologies-software-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1e71871724ed15af) | [Careers](https://jobs.apple.com/en-us/search) | Sep 11, 2026 |
+| **Cohere** | United States | Software Engineer, Data Infrastructure | [Apply](https://jobs.ashbyhq.com/cohere/70313283-6532-450a-8cae-18f9e05a7673) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=af4e49b1f586bd7a) | [Careers](https://cohere.com/careers) | 2026-09-11T02:02:46.540+00:00 |
+| **OpenAI** | New York City | Software Engineer, API Frontiers | [Apply](https://jobs.ashbyhq.com/openai/b6a86e39-8059-4ccf-8d33-1bf5bd92fa86) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6166fcead4715ee5) | [Careers](https://openai.com/careers/search/) | 2026-09-11T01:36:02.480+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-10 18:25:55 MST
 
 📊 **2 new jobs this batch:**
