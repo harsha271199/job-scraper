@@ -62,7 +62,7 @@
       </div>
 
       <div class="metricGrid">
-        <div><strong id="jdSkillCount">0/10</strong><span>Top JD skills confirmed</span></div>
+        <div><strong id="jdSkillCount">0/10</strong><span>Top 10 JD skills confirmed</span></div>
         <div><strong id="skillCount">0</strong><span>Relevant skills included</span></div>
         <div><strong id="bulletCount">0</strong><span>JD-prioritized experience bullets</span></div>
       </div>
@@ -77,7 +77,7 @@
         <summary>Preview selected content and JD alignment</summary>
         <div id="preview" class="preview"></div>
       </details>
-      <p class="tiny muted">The generator ranks the top 10 detected JD skills. Skills already supported by your private master are included automatically; any Top-10 skill missing from the master is shown for your one-click confirmation if you already know it. Confirmed skills are saved only in this browser. The resume then adds up to 9 additional relevant skills and prioritizes real experience/project bullets that support the role.</p>
+      <p class="tiny muted">The portal builds a Top-10 skill set for every job. Skills detected from the captured JD are used first; if fewer than 10 named skills were captured, closely related role skills fill the remaining slots for your confirmation. Skills you confirm are added to Technical Skills. Experience bullets are re-ranked around the same Top-10 set, but the generator never invents professional experience for a skill that is not supported by an existing verified bullet.</p>
     </section>
 
     <section id="errorCard" class="card error hidden">
@@ -85,7 +85,8 @@
       <p id="errorText"></p>
     </section>
   </main>
-  <script src="./app.js?v=20260910-2"></script>
-  <script src="./skill_confirm.js?v=20260910-2"></script>
+  <script src="./jd_top10.js?v=20260910-3"></script>
+  <script src="./app.js?v=20260910-3"></script>
+  <script src="./skill_confirm.js?v=20260910-3"></script>
 </body>
 </html>
