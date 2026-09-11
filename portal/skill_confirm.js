@@ -94,7 +94,7 @@
 
     const note = document.createElement("p");
     note.className = "tiny muted";
-    note.textContent = "Skills captured directly from the JD are used first. If the captured posting exposes fewer than 10 named skills, closely related skills for that role fill the remaining slots. Check only the skills you already know. Confirmed skills are saved in this browser and added to Technical Skills. Experience bullets are only prioritized when your existing verified experience supports the skill; the portal does not invent experience.";
+    note.textContent = "Skills captured directly from the JD are used first. If the captured posting exposes fewer than 10 named skills, closely related skills for that role fill the remaining slots. Check only skills you genuinely know. Confirmed skills are saved in this browser and added to Technical Skills. Experience bullets are only prioritized when your existing verified experience supports the skill; the portal does not invent experience.";
     panel.appendChild(note);
 
     const options = document.createElement("div");
