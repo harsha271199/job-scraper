@@ -16,6 +16,7 @@ from urllib.parse import quote
 
 from resume_portal_feed import (
     JD_SKILL_VERSION,
+    TOP_JD_SKILLS,
     PORTAL_URL,
     _load_feed,
     _load_inventory,
@@ -60,7 +61,7 @@ def _rewrite_file(
     portal_ready: bool,
     refresh_stale: bool = False,
 ) -> tuple[int, int]:
-    """Normalize job tables and optionally refresh stale JD-skill records."""
+    """Normalize job tables and optionally refresh stale/incomplete JD records."""
     text = path.read_text(encoding="utf-8")
     lines = text.splitlines(keepends=True)
     changed = 0
@@ -132,9 +133,17 @@ def _rewrite_file(
         jid = job_id(direct_url)
         existing = feed.get("jobs", {}).get(jid)
         official_url = _link_from_cell(official_cell)
+        existing_top = existing.get("top_jd_skills") if isinstance(existing, dict) else []
         stale = (
             not isinstance(existing, dict)
-            or (refresh_stale and existing.get("jd_skill_version") != JD_SKILL_VERSION)
+            or (
+                refresh_stale
+                and (
+                    existing.get("jd_skill_version") != JD_SKILL_VERSION
+                    or len(existing_top or []) < TOP_JD_SKILLS
+                    or existing.get("signal_source") != "job-page"
+                )
+            )
         )
 
         if stale:
@@ -150,8 +159,14 @@ def _rewrite_file(
                 ),
                 "posted": _clean_cell(posted_display) or "N/A",
             }
-            feed["jobs"][jid] = build_record(job, inventory=inventory)
-            existing = feed["jobs"][jid]
+            refreshed = build_record(job, inventory=inventory)
+            # Never replace a better previous extraction with a worse retry.
+            if (
+                not isinstance(existing, dict)
+                or len(refreshed.get("top_jd_skills") or []) >= len(existing_top or [])
+            ):
+                feed["jobs"][jid] = refreshed
+                existing = refreshed
             captured += 1
 
         official_url = str(existing.get("official_url") or official_url or direct_url)
