@@ -1,6 +1,7 @@
 (() => {
   const MASTER_KEY = "jobScraper.privateMaster.v1";
   const CONFIRMED_KEY = "jobScraper.userConfirmedSkills.v1";
+  const MANUAL_JD_KEY = "jobScraper.manualJdSkills.v1";
   const TOP_JD_SKILLS = 10;
   // Confirm Top JD skills already in your real skill set.
 
@@ -18,6 +19,55 @@
     }
     return out;
   };
+
+  const JD_SKILL_ALIASES = [
+    ["Python", ["python"]], ["JavaScript", ["javascript", "js"]],
+    ["TypeScript", ["typescript"]], ["Java", ["java"]], ["C++", ["c++"]],
+    ["C#", ["c#"]], ["Go", ["golang", "go language"]], ["Scala", ["scala"]],
+    ["R", ["r programming", "r language"]], ["SQL", ["sql"]],
+    ["PostgreSQL", ["postgresql", "postgres"]], ["MySQL", ["mysql"]],
+    ["MongoDB", ["mongodb"]], ["Redis", ["redis"]], ["NoSQL", ["nosql"]],
+    ["REST APIs", ["rest api", "restful api", "rest apis"]], ["GraphQL", ["graphql"]],
+    ["Microservices", ["microservices", "microservice architecture"]],
+    ["System Design", ["system design", "systems design"]],
+    ["React", ["react.js", "reactjs", "react"]], ["Node.js", ["node.js", "nodejs"]],
+    ["Angular", ["angular"]], ["Spring Boot", ["spring boot"]],
+    ["AWS", ["amazon web services", "aws"]], ["Microsoft Azure", ["microsoft azure", "azure"]],
+    ["Google Cloud", ["google cloud", "gcp"]], ["Docker", ["docker"]],
+    ["Kubernetes", ["kubernetes", "k8s"]], ["Terraform", ["terraform", "infrastructure as code", "iac"]],
+    ["Jenkins", ["jenkins"]], ["Ansible", ["ansible"]], ["Helm", ["helm"]],
+    ["GitHub Actions", ["github actions"]], ["CI/CD", ["ci/cd", "continuous integration", "continuous delivery"]],
+    ["Linux", ["linux"]], ["PowerShell", ["powershell"]], ["Bash", ["bash"]],
+    ["Prometheus", ["prometheus"]], ["Grafana", ["grafana"]],
+    ["Observability", ["observability"]], ["Monitoring", ["monitoring"]],
+    ["Apache Spark", ["apache spark", "spark"]], ["Kafka", ["apache kafka", "kafka"]],
+    ["Apache Airflow", ["apache airflow", "airflow"]], ["dbt", ["dbt"]],
+    ["Snowflake", ["snowflake"]], ["Databricks", ["databricks"]],
+    ["Redshift", ["redshift"]], ["BigQuery", ["bigquery"]], ["Hadoop", ["hadoop"]],
+    ["Hive", ["apache hive", "hive"]], ["Apache Flink", ["apache flink", "flink"]],
+    ["ETL/ELT", ["etl", "elt", "data pipeline", "data pipelines"]],
+    ["Data Modeling", ["data modeling", "data modelling", "schema design"]],
+    ["Data Warehousing", ["data warehouse", "data warehousing"]],
+    ["Data Lakes", ["data lake", "data lakes"]], ["Data Quality", ["data quality"]],
+    ["Machine Learning", ["machine learning", "ml models", "ml model"]],
+    ["Deep Learning", ["deep learning"]], ["PyTorch", ["pytorch"]],
+    ["TensorFlow", ["tensorflow"]], ["scikit-learn", ["scikit-learn", "sklearn"]],
+    ["NLP", ["natural language processing", "nlp"]],
+    ["Large Language Models", ["large language models", "large language model", "llm", "llms"]],
+    ["Generative AI", ["generative ai", "genai", "gen ai"]],
+    ["MLOps", ["mlops", "ml ops"]], ["MLflow", ["mlflow"]],
+    ["Model Deployment", ["model deployment", "deploy models", "productionize models"]],
+    ["Feature Engineering", ["feature engineering"]], ["Statistics", ["statistics", "statistical modeling", "statistical analysis"]],
+    ["A/B Testing", ["a/b testing", "a/b tests", "ab testing"]],
+    ["Pandas", ["pandas"]], ["NumPy", ["numpy"]], ["Tableau", ["tableau"]],
+    ["Power BI", ["power bi"]], ["Looker", ["looker"]], ["Excel", ["excel"]],
+    ["Data Visualization", ["data visualization", "visualization", "dashboards"]],
+    ["Agile", ["agile"]], ["Scrum", ["scrum"]],
+    ["Stakeholder Management", ["stakeholder management", "stakeholders"]],
+    ["Communication", ["communication skills", "written communication", "verbal communication"]],
+    ["Collaboration", ["cross-functional collaboration", "collaboration", "collaborative"]],
+    ["Problem Solving", ["problem solving", "problem-solving"]],
+  ];
 
   function evidenceSkills(master) {
     const skills = [...(master.base_skills || []), ...(master.user_confirmed_skills || [])];
@@ -38,13 +88,35 @@
     }
   }
 
+  function extractSkillsFromText(text) {
+    const haystack = String(text || "");
+    const low = haystack.toLowerCase();
+    const ranked = [];
+    for (const [name, aliases] of JD_SKILL_ALIASES) {
+      let score = 0;
+      let first = Number.MAX_SAFE_INTEGER;
+      for (const alias of aliases) {
+        const term = alias.toLowerCase();
+        let pos = low.indexOf(term);
+        while (pos >= 0) {
+          score += 10;
+          first = Math.min(first, pos);
+          const window = low.slice(Math.max(0, pos - 180), Math.min(low.length, pos + term.length + 180));
+          if (/required|requirements|qualifications|preferred|must have|experience with|proficiency|knowledge of|familiarity with|skills/.test(window)) score += 6;
+          pos = low.indexOf(term, pos + term.length);
+        }
+      }
+      if (score > 0) ranked.push({ name, score, first });
+    }
+    ranked.sort((a, b) => b.score - a.score || a.first - b.first || a.name.localeCompare(b.name));
+    return unique(ranked.map((x) => x.name)).slice(0, TOP_JD_SKILLS);
+  }
+
   function hideOldGapLanguage() {
     const preview = document.getElementById("preview");
     if (!preview) return;
     for (const p of preview.querySelectorAll("p")) {
-      if (clean(p.textContent).toLowerCase().startsWith("jd gaps not claimed:")) {
-        p.style.display = "none";
-      }
+      if (clean(p.textContent).toLowerCase().startsWith("jd gaps not claimed:")) p.style.display = "none";
     }
   }
 
@@ -62,6 +134,55 @@
     span.style.borderRadius = "999px";
     span.style.background = good ? "rgba(22,101,52,.22)" : "transparent";
     return span;
+  }
+
+  function appendPasteFallback(panel, jid, topJd) {
+    if (topJd.length >= TOP_JD_SKILLS) return;
+
+    const wrap = document.createElement("div");
+    wrap.style.marginTop = "16px";
+    wrap.style.paddingTop = "14px";
+    wrap.style.borderTop = "1px solid rgba(148,163,184,.25)";
+
+    const heading = document.createElement("p");
+    heading.innerHTML = `<strong>Need all 10? Paste the full JD here (${topJd.length}/10 extracted automatically)</strong>`;
+    wrap.appendChild(heading);
+
+    const help = document.createElement("p");
+    help.className = "tiny muted";
+    help.textContent = "Some company sites block automated reading. Paste the job description here and the extraction runs only in this browser; the JD text is not saved or uploaded.";
+    wrap.appendChild(help);
+
+    const textarea = document.createElement("textarea");
+    textarea.rows = 7;
+    textarea.placeholder = "Paste the complete job description / qualifications here…";
+    textarea.style.width = "100%";
+    textarea.style.boxSizing = "border-box";
+    textarea.style.margin = "8px 0 10px";
+    textarea.style.padding = "10px";
+    textarea.style.borderRadius = "10px";
+    textarea.style.border = "1px solid rgba(148,163,184,.35)";
+    textarea.style.background = "rgba(15,23,42,.45)";
+    textarea.style.color = "inherit";
+    wrap.appendChild(textarea);
+
+    const extractButton = document.createElement("button");
+    extractButton.type = "button";
+    extractButton.className = "secondary";
+    extractButton.textContent = "Extract Top 10 JD skills";
+    extractButton.addEventListener("click", () => {
+      const extracted = extractSkillsFromText(textarea.value);
+      if (!extracted.length) {
+        help.textContent = "I could not identify skill terms in that text. Paste the full qualifications/responsibilities section and try again.";
+        return;
+      }
+      const manualMap = readJsonStorage(MANUAL_JD_KEY, {});
+      manualMap[jid] = extracted;
+      localStorage.setItem(MANUAL_JD_KEY, JSON.stringify(manualMap));
+      location.reload();
+    });
+    wrap.appendChild(extractButton);
+    panel.appendChild(wrap);
   }
 
   async function buildPanel() {
@@ -108,8 +229,9 @@
     if (!topJd.length) {
       const pending = document.createElement("p");
       pending.className = "tiny muted";
-      pending.textContent = "This saved job does not yet contain readable JD skills. The scraper will retry the official job page instead of treating this empty result as final.";
+      pending.textContent = "This saved job does not yet contain readable JD skills. The scraper will retry the official job page; you can also paste the JD below now.";
       panel.appendChild(pending);
+      appendPasteFallback(panel, jid, topJd);
       const metricGrid = resultCard.querySelector(".metricGrid");
       if (metricGrid?.nextSibling) resultCard.insertBefore(panel, metricGrid.nextSibling);
       else resultCard.appendChild(panel);
@@ -188,10 +310,7 @@
         for (const skill of selected) {
           existing.set(key(skill), { skill, confirmed_at: now, source: "user-confirmed-from-job-description" });
         }
-        latestMaster.user_confirmed_skills = unique([
-          ...(latestMaster.user_confirmed_skills || []),
-          ...selected,
-        ]);
+        latestMaster.user_confirmed_skills = unique([...(latestMaster.user_confirmed_skills || []), ...selected]);
 
         localStorage.setItem(MASTER_KEY, JSON.stringify(latestMaster));
         localStorage.setItem(CONFIRMED_KEY, JSON.stringify([...existing.values()]));
@@ -204,6 +323,8 @@
       done.textContent = "All extracted Top-JD skills are already confirmed in your master.";
       panel.appendChild(done);
     }
+
+    appendPasteFallback(panel, jid, topJd);
 
     const metricGrid = resultCard.querySelector(".metricGrid");
     if (metricGrid?.nextSibling) resultCard.insertBefore(panel, metricGrid.nextSibling);
@@ -219,9 +340,7 @@
   const resultCard = document.getElementById("resultCard");
   if (resultCard) {
     const observer = new MutationObserver((mutations) => {
-      if (mutations.some((mutation) => mutation.type === "attributes" && mutation.attributeName === "class")) {
-        schedule();
-      }
+      if (mutations.some((mutation) => mutation.type === "attributes" && mutation.attributeName === "class")) schedule();
     });
     observer.observe(resultCard, { attributes: true, attributeFilter: ["class"] });
   }
