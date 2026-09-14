@@ -168,5 +168,15 @@ jobs:
           git config --global user.name "Job Scraper Bot"
           git config --global user.email "bot@github.com"
           git add -A -- README.md seen_links.csv job_signals.json '*-Jobs-List.md' || true
-          git diff --staged --quiet || git commit -m "🤖 Job update — $(date +'%Y-%m-%d %H:%M')"
-          git push
+
+          if ! git diff --staged --quiet; then
+            git commit -m "🤖 Job update — $(date +'%Y-%m-%d %H:%M')"
+          fi
+
+          # A scraper/backfill run can take several minutes. If main changed while
+          # this job was running (for example, a portal/code update was merged),
+          # rebase the generated job-data commit onto the latest main before push.
+          # This avoids false hourly failures caused only by non-fast-forward pushes.
+          git fetch origin main
+          git rebase origin/main
+          git push origin HEAD:main
