@@ -31,6 +31,40 @@
       <p id="signalNote" class="tiny muted"></p>
     </section>
 
+    <section id="manualJdCard" class="card">
+      <p class="eyebrow">ANY JOB — EVEN IF IT IS NOT IN GITHUB</p>
+      <h2>Paste the JD or use a job link</h2>
+      <p class="muted">Use this when you find a role that is missing from the job scraper. The JD is processed in this browser and the full JD text is not saved or uploaded. The same verified-facts resume tailoring flow is then used.</p>
+
+      <div class="formGrid twoCol">
+        <label class="field">
+          <span>Job link <small>(optional when pasting JD)</small></span>
+          <input id="manualJobLink" type="url" placeholder="https://company.com/careers/job/..." autocomplete="url">
+        </label>
+        <label class="field">
+          <span>Company <small>(optional)</small></span>
+          <input id="manualJobCompany" type="text" placeholder="Tesla">
+        </label>
+      </div>
+
+      <label class="field">
+        <span>Job title <small>(optional — helps role classification)</small></span>
+        <input id="manualJobTitle" type="text" placeholder="Data Engineer">
+      </label>
+
+      <label class="field">
+        <span>Job description</span>
+        <textarea id="manualJdText" rows="9" placeholder="Paste the full job description, especially responsibilities and qualifications…"></textarea>
+      </label>
+
+      <div class="actions compactActions">
+        <button id="manualTailorPaste" class="primary" type="button">Tailor Resume from Pasted JD</button>
+        <button id="manualTailorLink" class="secondary" type="button">Try Reading Job Link</button>
+        <button id="manualClear" class="ghost" type="button">Clear Manual Job</button>
+      </div>
+      <p id="manualJdStatus" class="tiny muted manualStatus">Paste a JD or try a job link. If the company blocks browser reading, paste the JD instead.</p>
+    </section>
+
     <section id="masterCard" class="card">
       <p class="eyebrow">PRIVATE MASTER RESUME</p>
       <div id="masterMissing">
@@ -77,7 +111,7 @@
         <summary>Preview selected content and JD alignment</summary>
         <div id="preview" class="preview"></div>
       </details>
-      <p class="tiny muted">The portal extracts up to 10 skills and competencies that are actually written in the captured job description. Skills already supported by your private master are shown as matched; the remaining JD skills are shown as checkboxes so you can confirm the ones you already know. If a company blocks automatic JD reading, you can paste the JD locally in your browser to extract the Top 10. Confirmed skills are added to Technical Skills. Experience and project bullets are re-ranked around the same JD skill set, but the generator does not invent work experience for a newly confirmed skill.</p>
+      <p class="tiny muted">The portal extracts up to 10 skills and competencies that are actually written in the captured or pasted job description. Skills already supported by your private master are shown as matched; the remaining JD skills are shown as checkboxes so you can confirm the ones you genuinely know. Confirmed skills are added to Technical Skills. Experience and project bullets are re-ranked around the same JD skill set, but the generator does not invent work experience for a newly confirmed skill.</p>
     </section>
 
     <section id="errorCard" class="card error hidden">
@@ -85,8 +119,9 @@
       <p id="errorText"></p>
     </section>
   </main>
-  <script src="./jd_top10.js?v=20260910-6"></script>
-  <script src="./app.js?v=20260910-6"></script>
-  <script src="./skill_confirm.js?v=20260910-6"></script>
+  <script src="./manual_jd.js?v=20260913-1"></script>
+  <script src="./jd_top10.js?v=20260913-1"></script>
+  <script src="./app.js?v=20260913-1"></script>
+  <script src="./skill_confirm.js?v=20260913-1"></script>
 </body>
 </html>
