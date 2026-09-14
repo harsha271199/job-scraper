@@ -3,6 +3,7 @@
   const MANUAL_JOB_KEY = "jobScraper.manualJob.v1";
   const MANUAL_JD_SKILLS_KEY = "jobScraper.manualJdSkills.v1";
   const TOP_JD_SKILLS = 10;
+  const MAX_JD_FILE_BYTES = 2 * 1024 * 1024;
 
   const clean = (v) => String(v ?? "").replace(/\s+/g, " ").trim();
   const key = (v) => clean(v).toLowerCase();
@@ -152,6 +153,8 @@
       posted: "Manual input",
       profile,
       detected_skills: skills,
+      top_jd_skills: skills,
+      jd_skill_candidates: skills,
       verified_skills: [],
       unverified_skills: skills,
       signal_terms: skills,
@@ -165,13 +168,15 @@
     return {
       id: MANUAL_JOB_ID,
       company: "Custom Job",
-      title: "Paste a JD or job link below",
+      title: "Paste, upload, or link a JD below",
       location: "Private browser mode",
       apply_url: "",
       official_url: "",
       posted: "Manual input",
       profile: "general-technical",
       detected_skills: [],
+      top_jd_skills: [],
+      jd_skill_candidates: [],
       verified_skills: [],
       unverified_skills: [],
       signal_terms: [],
@@ -240,6 +245,28 @@
     return { text, title };
   }
 
+  async function readJdFile(file) {
+    if (!file) throw new Error("Choose a JD file first.");
+    if (file.size > MAX_JD_FILE_BYTES) throw new Error("JD file is too large. Keep it under 2 MB or paste the JD text.");
+
+    const name = String(file.name || "").toLowerCase();
+    const allowed = [".txt", ".md", ".html", ".htm", ".json", ".csv"];
+    if (!allowed.some((ext) => name.endsWith(ext))) {
+      throw new Error("Upload TXT, MD, HTML, JSON or CSV. For PDF/DOCX, copy and paste the JD text instead.");
+    }
+
+    const raw = await file.text();
+    if (!raw || raw.trim().length < 80) throw new Error("The uploaded file does not contain enough readable JD text.");
+
+    if (name.endsWith(".html") || name.endsWith(".htm")) {
+      const doc = new DOMParser().parseFromString(raw, "text/html");
+      for (const node of doc.querySelectorAll("script,style,noscript,svg")) node.remove();
+      return clean(doc.body?.innerText || doc.body?.textContent || "");
+    }
+
+    return raw.trim();
+  }
+
   function setStatus(message, isError = false) {
     const el = document.getElementById("manualJdStatus");
     if (!el) return;
@@ -249,6 +276,7 @@
 
   function setupManualUi() {
     const jd = document.getElementById("manualJdText");
+    const jdFile = document.getElementById("manualJdFile");
     const link = document.getElementById("manualJobLink");
     const title = document.getElementById("manualJobTitle");
     const company = document.getElementById("manualJobCompany");
@@ -283,6 +311,29 @@
       }
     });
 
+    jdFile?.addEventListener("change", async () => {
+      try {
+        const file = jdFile.files?.[0];
+        if (!file) return;
+        setStatus(`Reading ${file.name} locally in your browser…`);
+        const text = await readJdFile(file);
+        jd.value = text;
+        const jobUrl = link.value.trim() ? normalizeJobUrl(link.value) : "";
+        const job = makeManualJob({
+          jdText: text,
+          jobUrl,
+          title: title.value,
+          company: company.value,
+          source: "manual-upload"
+        });
+        setStatus(`Loaded ${file.name}; found ${job.detected_skills.length} top JD skills. Tailoring your resume now…`);
+        activateManualJob(job);
+      } catch (err) {
+        setStatus(err.message, true);
+        jdFile.value = "";
+      }
+    });
+
     linkButton.addEventListener("click", async () => {
       try {
         const jobUrl = normalizeJobUrl(link.value);
@@ -298,7 +349,7 @@
         setStatus(`Found ${job.detected_skills.length} top JD skills. Tailoring your resume now…`);
         activateManualJob(job);
       } catch (err) {
-        setStatus(`That site blocked browser reading or did not expose the JD. Paste the JD below instead. ${err.message}`, true);
+        setStatus(`That site blocked browser reading or did not expose the JD. Paste or upload the JD instead. ${err.message}`, true);
       }
     });
 
@@ -306,6 +357,7 @@
       localStorage.removeItem(MANUAL_JOB_KEY);
       clearManualSkillOverlay();
       jd.value = "";
+      if (jdFile) jdFile.value = "";
       link.value = "";
       title.value = "";
       company.value = "";
@@ -315,9 +367,9 @@
 
     const activeManual = new URLSearchParams(location.search).get("job") === MANUAL_JOB_ID;
     if (activeManual && saved) {
-      setStatus(`Manual job active: ${saved.detected_skills?.length || 0} JD skills extracted. The resume below uses the same verified-facts tailoring flow as GitHub job links.`);
+      setStatus(`Manual job active: ${saved.detected_skills?.length || 0} JD skills extracted. The resume below uses the same tailoring flow as GitHub job links.`);
     } else if (activeManual && !saved) {
-      setStatus("Paste a JD or try a job link to generate a tailored resume for a role that is not in the GitHub feed.");
+      setStatus("Paste a JD, upload a supported JD file, or try a job link to generate a tailored resume for a role that is not in the GitHub feed.");
       setTimeout(() => document.getElementById("resultCard")?.classList.add("hidden"), 0);
     }
 
