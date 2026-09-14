@@ -66,6 +66,10 @@ jobs:
             --target=es2020 \
             --minify \
             --outfile=_site/app.js
+          test -s _site/manual_jd.js
+          test -s _site/jd_top10.js
+          test -s _site/skill_confirm.js
+          test -s _site/app.js
 
       - name: Configure Pages
         uses: actions/configure-pages@v5
