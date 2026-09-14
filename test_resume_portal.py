@@ -164,6 +164,23 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn("latestMaster.base_skills", confirm)
         self.assertIn("Check only skills you genuinely know", confirm)
 
+    def test_manual_jd_and_job_link_tailoring_flow_present(self):
+        html = Path("portal/index.html").read_text(encoding="utf-8")
+        manual = Path("portal/manual_jd.js").read_text(encoding="utf-8")
+        self.assertIn("Paste the JD or use a job link", html)
+        self.assertIn('id="manualJdText"', html)
+        self.assertIn('id="manualJobLink"', html)
+        self.assertIn("Tailor Resume from Pasted JD", html)
+        self.assertIn("Try Reading Job Link", html)
+        self.assertIn("manual_jd.js", html)
+        self.assertIn('const MANUAL_JOB_ID = "manual-local"', manual)
+        self.assertIn("extractSkillsFromText", manual)
+        self.assertIn("classifyProfile", manual)
+        self.assertIn("makeManualJob", manual)
+        self.assertIn("manual-paste", manual)
+        self.assertIn("manual-link", manual)
+        self.assertIn("full JD text is not saved or uploaded", html)
+
     def test_portal_keeps_real_titles_but_adds_coherent_role_story(self):
         html = Path("portal/index.html").read_text(encoding="utf-8")
         js = Path("portal/app.js").read_text(encoding="utf-8")
@@ -194,7 +211,8 @@ class ResumePortalFeedTests(unittest.TestCase):
         html = Path("portal/index.html").read_text(encoding="utf-8")
         js = Path("portal/app.js").read_text(encoding="utf-8")
         confirm = Path("portal/skill_confirm.js").read_text(encoding="utf-8")
-        source = (html + js + confirm).casefold()
+        manual = Path("portal/manual_jd.js").read_text(encoding="utf-8")
+        source = (html + js + confirm + manual).casefold()
         self.assertNotIn("harshabalraj99", source)
         self.assertNotIn("623-341-9706", source)
         self.assertNotIn("api.openai.com", source)
