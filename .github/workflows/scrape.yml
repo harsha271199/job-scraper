@@ -13,6 +13,7 @@ on:
     paths:
       - 'job_scraper.py'
       - 'official_sources.py'
+      - 'tesla_source.py'
       - 'run_scraper.py'
       - 'cleanup_opendoor_batch.py'
       - 'resume_tailor.py'
@@ -30,6 +31,7 @@ on:
       - 'requirements.txt'
       - 'test_job_scraper.py'
       - 'test_official_sources.py'
+      - 'test_tesla_source.py'
       - 'test_resume_tailor.py'
       - 'test_resume_builder.py'
       - 'test_resume_portal.py'
@@ -41,6 +43,7 @@ on:
     paths:
       - 'job_scraper.py'
       - 'official_sources.py'
+      - 'tesla_source.py'
       - 'run_scraper.py'
       - 'cleanup_opendoor_batch.py'
       - 'resume_tailor.py'
@@ -58,6 +61,7 @@ on:
       - 'requirements.txt'
       - 'test_job_scraper.py'
       - 'test_official_sources.py'
+      - 'test_tesla_source.py'
       - 'test_resume_tailor.py'
       - 'test_resume_builder.py'
       - 'test_resume_portal.py'
@@ -90,7 +94,7 @@ jobs:
         run: pip install -r requirements.txt
 
       - name: Run regression tests
-        run: python -m unittest -v test_job_scraper.py test_official_sources.py test_resume_tailor.py test_resume_builder.py test_resume_portal.py
+        run: python -m unittest -v test_job_scraper.py test_official_sources.py test_tesla_source.py test_resume_tailor.py test_resume_builder.py test_resume_portal.py
 
       - name: Set up Node for portal validation
         uses: actions/setup-node@v4
