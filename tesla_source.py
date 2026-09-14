@@ -4,6 +4,8 @@ from __future__ import annotations
 
 import re
 
+import pandas as pd
+
 import job_scraper as js
 
 TESLA_CAREERS_URL = "https://www.tesla.com/careers"
@@ -75,5 +77,32 @@ def scrape_tesla(url: str, company: str, official_url: str | None = None) -> Non
 
 
 def install() -> None:
-    """Replace the legacy Tesla parser before job_scraper.main() runs."""
+    """Route Tesla rows directly through this adapter before other wrappers.
+
+    Patching only ``js.scrape_tesla`` was too easy for later dispatch wrappers to
+    bypass. Wrapping ``js.scrape_company`` guarantees that every row whose
+    platform is ``tesla`` reaches this adapter, while all other companies keep
+    using the existing scraper chain.
+    """
+    if getattr(js, "_tesla_adapter_installed", False):
+        return
+
+    original = js.scrape_company
+
+    def scrape_company_with_tesla(row) -> None:
+        platform = str(row.get("platform", "")).lower().strip()
+        if platform != "tesla":
+            original(row)
+            return
+
+        company = str(row.get("company", "Tesla")).strip() or "Tesla"
+        url = str(row.get("careers_url", TESLA_CAREERS_URL)).strip() or TESLA_CAREERS_URL
+        raw_official = row.get("official_url", "")
+        official_url = "" if pd.isna(raw_official) else str(raw_official).strip()
+        scrape_tesla(url, company, official_url or TESLA_CAREERS_URL)
+
+    # Keep the direct function patched too for callers that explicitly dispatch
+    # to js.scrape_tesla, but the company wrapper is the authoritative route.
     js.scrape_tesla = scrape_tesla
+    js.scrape_company = scrape_company_with_tesla
+    js._tesla_adapter_installed = True
