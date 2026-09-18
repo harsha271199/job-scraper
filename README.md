@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — September 18, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-18 12:15:14 MST
+
+📊 **12 new jobs this batch:**
+- Apple: 6 jobs
+- Booz Allen Hamilton: 2 jobs
+- Broadcom: 1 job
+- Twitch: 2 jobs
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer (AML), AI & Data Platforms (AiDP) | [Apply](https://jobs.apple.com/en-us/details/200684574-0157/software-engineer-aml-ai-data-platforms-aidp?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6838e4bff5472479) | [Careers](https://jobs.apple.com/en-us/search) | Sep 18, 2026 |
+| **Apple** | N/A | Software Engineer (Data Solutions), AI & Data Platforms (AiDP) | [Apply](https://jobs.apple.com/en-us/details/200684577-0157/software-engineer-data-solutions-ai-data-platforms-aidp?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4e4f863ac4ab831d) | [Careers](https://jobs.apple.com/en-us/search) | Sep 18, 2026 |
+| **Apple** | N/A | Software Engineer (Data Solutions), AI & Data Platforms (AiDP) | [Apply](https://jobs.apple.com/en-us/details/200684577-3956/software-engineer-data-solutions-ai-data-platforms-aidp?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3f16f4c3002c7628) | [Careers](https://jobs.apple.com/en-us/search) | Sep 18, 2026 |
+| **Apple** | N/A | Software Engineer - Journal Team | [Apply](https://jobs.apple.com/en-us/details/200684192-0836/software-engineer-journal-team?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=65074ac9cc760afd) | [Careers](https://jobs.apple.com/en-us/search) | Sep 18, 2026 |
+| **Apple** | N/A | Software Engineer - Journal Team | [Apply](https://jobs.apple.com/en-us/details/200684192-3543/software-engineer-journal-team?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=002c02cc43cd788c) | [Careers](https://jobs.apple.com/en-us/search) | Sep 18, 2026 |
+| **Apple** | N/A | Software Engineer - UI Rendering | [Apply](https://jobs.apple.com/en-us/details/200680505-0836/software-engineer-ui-rendering?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4bd2d2bc16110bfd) | [Careers](https://jobs.apple.com/en-us/search) | Sep 18, 2026 |
+| **Booz Allen Hamilton** | Lexington, MA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Software-Engineer_R0249879) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=82165b4946d646de) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Lexington, MA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Software-Engineer_R0249875) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4b05c2e3f8e21b1d) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Broadcom** | USA-CA - Promontory D | Software Engineer | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-D/Software-Engineer_R027077) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c56f003897f405a7) | [Careers](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career) | Posted Today |
+| **Twitch** | Seattle, WA | Software Engineer, Data Platform | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8821382002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4d28d045e8f15af8) | [Careers](https://boards.greenhouse.io/twitch) | 2026-09-18T13:03:18-04:00 |
+| **Twitch** | San Francisco, CA | Software Engineer, Data Platform | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8817023002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=167e947e7a8a964d) | [Careers](https://boards.greenhouse.io/twitch) | 2026-09-18T13:03:17-04:00 |
+| **Waymo** | Mountain View, CA, USA; San Francisco, CA, USA | Machine Learning Engineer, Perception | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8212478) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6439a0c721dd46bc) | [Careers](https://boards.greenhouse.io/waymo) | 2026-09-18T13:08:17-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-18 09:29:54 MST
 
 📊 **8 new jobs this batch:**
