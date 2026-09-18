@@ -167,11 +167,11 @@ class ResumePortalFeedTests(unittest.TestCase):
     def test_manual_jd_and_job_link_tailoring_flow_present(self):
         html = Path("portal/index.html").read_text(encoding="utf-8")
         manual = Path("portal/manual_jd.js").read_text(encoding="utf-8")
-        self.assertIn("Paste the JD or use a job link", html)
+        self.assertIn("Paste, upload, or use a job link", html)
         self.assertIn('id="manualJdText"', html)
         self.assertIn('id="manualJobLink"', html)
         self.assertIn("Tailor Resume from Pasted JD", html)
-        self.assertIn("Try Reading Job Link", html)
+        self.assertIn("Tailor Resume from Job Link", html)
         self.assertIn("manual_jd.js", html)
         self.assertIn('const MANUAL_JOB_ID = "manual-local"', manual)
         self.assertIn("extractSkillsFromText", manual)
