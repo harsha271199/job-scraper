@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 18, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-18 12:41:23 MST
+
+📊 **1 new jobs this batch:**
+- Guidehouse: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Guidehouse** | US - VA, Springfield | Transportation Security Business Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Transportation-Security-Business-Analyst_36318) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5320b3c582471fcc) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-18 12:15:14 MST
 
 📊 **12 new jobs this batch:**
