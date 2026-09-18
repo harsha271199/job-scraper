@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 18, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-18 04:52:28 MST
+
+📊 **1 new jobs this batch:**
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Northrop Grumman** | United States-Ohio-Beavercreek | Associate AI Software Engineer/ AI Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Beavercreek/Associate-AI-Software-Engineer--AI-Software-Engineer_R10251662) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b284aa3bbff47144) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-18 04:23:30 MST
 
 📊 **1 new jobs this batch:**
