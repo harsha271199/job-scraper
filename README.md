@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — September 18, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-18 14:54:31 MST
+
+📊 **9 new jobs this batch:**
+- Apple: 3 jobs
+- Booz Allen Hamilton: 1 job
+- Gemini: 1 job
+- Guidehouse: 2 jobs
+- Northrop Grumman: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer - Systems | [Apply](https://jobs.apple.com/en-us/details/200684670-0836/software-engineer-systems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5d8a449603090822) | [Careers](https://jobs.apple.com/en-us/search) | Sep 18, 2026 |
+| **Apple** | N/A | Software Engineer, Algorithms (SDE) | [Apply](https://jobs.apple.com/en-us/details/200672921-0836/software-engineer-algorithms-sde?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c4b6bc581973a6ce) | [Careers](https://jobs.apple.com/en-us/search) | Sep 18, 2026 |
+| **Apple** | N/A | Software Engineer, Finance Engineering | [Apply](https://jobs.apple.com/en-us/details/200684265-3401/software-engineer-finance-engineering?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7ab66ed99f596ee5) | [Careers](https://jobs.apple.com/en-us/search) | Sep 18, 2026 |
+| **Booz Allen Hamilton** | Lorton, VA | AI and ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/AI-and-ML-Engineer_R0249794) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b37035f3d08f3860) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Gemini** | New York, New York | Software Engineering Intern (Winter 2027) | [Apply](https://boards.greenhouse.io/embed/job_app?for=gemini&token=8214272&gh_jid=8214272) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=af603076d68c3b4a) | [Careers](https://boards.greenhouse.io/gemini) | 2026-09-18T15:48:52-04:00 |
+| **Guidehouse** | US - VA, Arlington | Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Scientist_44647) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a08bf83b6432b760) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Guidehouse** | US - VA, Arlington | Federal Law Enforcement Data Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Federal-Law-Enforcement-Data-Analyst_44533) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8031db1a55bb7a3f) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Colorado Springs | Software Engineer (26-419) Space AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer--26-419--Space-AHT_R10251897) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=67e32d8a5a6ad797) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Colorado Springs | Software Engineer (26-423) Space AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Software-Engineer--26-423--Space-AHT_R10251891) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3c5a965258fbb2de) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-18 12:41:23 MST
 
 📊 **1 new jobs this batch:**
