@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 18, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-18 15:38:10 MST
+
+📊 **3 new jobs this batch:**
+- Northrop Grumman: 1 job
+- SpaceX: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer (26-420) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer--26-420-_R10251590) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d0f7dd7a74d1adfa) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **SpaceX** | Starbase, TX | Software Engineer | [Apply](https://boards.greenhouse.io/spacex/jobs/8822280002?gh_jid=8822280002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3c9c517f7329c033) | [Careers](https://new.spacex.com/careers) | 2026-09-18T18:28:05-04:00 |
+| **Waymo** | Mountain View, California, USA | 2027 Summer Intern, MS/PhD, Software Engineer, Multiverse | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8214519) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f13fc1f24fa65103) | [Careers](https://boards.greenhouse.io/waymo) | 2026-09-18T18:09:27-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-18 14:54:31 MST
 
 📊 **9 new jobs this batch:**
