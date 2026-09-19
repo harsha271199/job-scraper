@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 18, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-18 18:14:46 MST
+
+📊 **1 new jobs this batch:**
+- Fireworks AI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Fireworks AI** | San Mateo | Analytics Engineer | [Apply](https://jobs.ashbyhq.com/fireworks/85486dc8-023f-4a82-9cdb-8394bbfcf1ab) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=34d9967459ef52fa) | [Careers](https://fireworks.ai/careers) | 2026-09-19T00:45:32.721+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-18 17:40:09 MST
 
 📊 **4 new jobs this batch:**
