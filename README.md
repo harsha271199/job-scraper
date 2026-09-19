@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — September 18, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-18 17:40:09 MST
+
+📊 **4 new jobs this batch:**
+- Lyft: 1 job
+- Nvidia: 1 job
+- Pinterest: 1 job
+- Reddit: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Lyft** | San Francisco, CA | Backend Software Engineer, Airports | [Apply](https://app.careerpuck.com/job-board/lyft/job/8806570002?gh_jid=8806570002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4498f4a8bef1342c) | [Careers](https://boards.greenhouse.io/lyft) | 2026-09-18T18:40:33-04:00 |
+| **Nvidia** | US, CA, Santa Clara | Research Scientist, Networking Research - PhD New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Networking-Research---PhD-New-College-Grad-2026_JR2024900-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=204817c6d6567b43) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **Pinterest** | San Francisco, CA, US; Remote, US | Software Engineer II, Data Analytics & Engineering | [Apply](https://www.pinterestcareers.com/jobs/?gh_jid=8213988) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b19cf8637ef33a93) | [Careers](https://www.pinterestcareers.com/jobs/) | 2026-09-18T20:32:32-04:00 |
+| **Reddit** | Remote - United States | Software Engineer, Ingestion Platform | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8214910) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ff61b160122e8fef) | [Careers](https://redditinc.com/careers) | 2026-09-18T19:35:09-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-18 15:38:10 MST
 
 📊 **3 new jobs this batch:**
