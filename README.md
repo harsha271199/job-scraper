@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — September 21, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-21 16:21:23 MST
+
+📊 **10 new jobs this batch:**
+- Abnormal Security: 1 job
+- Apple: 3 jobs
+- Mastercard: 1 job
+- Ramp: 1 job
+- SingleStore: 1 job
+- Upstart: 1 job
+- Waymo: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Abnormal Security** | Remote - USA | Software Engineer I - Data Platforms | [Apply](https://abnormal.ai/careers/jobs/8000334003?gh_jid=8000334003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7bd19d3924533bcf) | [Careers](https://boards.greenhouse.io/abnormalsecurity) | 2026-09-21T13:20:16-04:00 |
+| **Apple** | N/A | Software Engineer - Generative UI, Input Experience | [Apply](https://jobs.apple.com/en-us/details/200684878-0836/software-engineer-generative-ui-input-experience?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1ccfea34c26b3914) | [Careers](https://jobs.apple.com/en-us/search) | Sep 21, 2026 |
+| **Apple** | N/A | Software Engineer, Employee Experience & Productivity | [Apply](https://jobs.apple.com/en-us/details/200652948-0670/software-engineer-employee-experience-productivity?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=91e8f115c93da759) | [Careers](https://jobs.apple.com/en-us/search) | Sep 21, 2026 |
+| **Apple** | N/A | Software Engineer, Employee Experience & Productivity | [Apply](https://jobs.apple.com/en-us/details/200671481-0670/software-engineer-employee-experience-productivity?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4a659334ed2570ba) | [Careers](https://jobs.apple.com/en-us/search) | Sep 21, 2026 |
+| **Mastercard** | New York City, New York | Data Scientist | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/New-York-City-New-York/Data-Scientist_R-291128) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b4a49412f801b85a) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Frontend, Growth | [Apply](https://jobs.ashbyhq.com/ramp/7cd46077-05fe-4cd7-816f-5528638342f1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=86edeebc60799f49) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-09-21T22:38:37.920+00:00 |
+| **SingleStore** | San Francisco, CA, United States | MIT- Software Engineer Intern | Engine | [Apply](https://harsha271199.github.io/job-scraper/?job=dcd2c076e3161b4e) | [Careers](https://boards.greenhouse.io/singlestore) | 2026-09-21T17:51:00-04:00 |
+| **Upstart** | United States | Remote | Software Engineer II, Marketplace Optimzation | [Apply](https://harsha271199.github.io/job-scraper/?job=1165a285fce7d80b) | [Careers](https://boards.greenhouse.io/upstart) | 2026-09-21T16:58:21-04:00 |
+| **Waymo** | Mountain View, California, USA | 2027 Summer Intern, MS/PhD, Software Engineer, Simulation Evaluation ML Model | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221795) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fc26fd10f655f64c) | [Careers](https://boards.greenhouse.io/waymo) | 2026-09-21T17:30:27-04:00 |
+| **Waymo** | Mountain View, California, USA | 2027 Summer Intern, MS/PhD, Software/ML Engineer, Simulation | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8221851) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1c294e78bfd50d0f) | [Careers](https://boards.greenhouse.io/waymo) | 2026-09-21T17:40:43-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-21 14:15:53 MST
 
 📊 **25 new jobs this batch:**
