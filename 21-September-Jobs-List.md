@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 21, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-21 17:18:55 MST
+
+📊 **4 new jobs this batch:**
+- Apple: 3 jobs
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Data Engineer, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200684964-0836/data-engineer-apple-ads?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=de8532a3a719225b) | [Careers](https://jobs.apple.com/en-us/search) | Sep 22, 2026 |
+| **Apple** | N/A | Systems Software Engineer, Platform Architecture | [Apply](https://jobs.apple.com/en-us/details/200684973-0157/systems-software-engineer-platform-architecture?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bba48d3b93efb3bb) | [Careers](https://jobs.apple.com/en-us/search) | Sep 22, 2026 |
+| **Apple** | N/A | Systems Software Engineer, Platform Architecture | [Apply](https://jobs.apple.com/en-us/details/200684973-0836/systems-software-engineer-platform-architecture?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cb41fd322f4e517e) | [Careers](https://jobs.apple.com/en-us/search) | Sep 22, 2026 |
+| **Workday** | USA.VA.Reston | Software Development Engineer, SRE (US Federal) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Development-Engineer--SRE--US-Federal-_JR-0110178) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1f5140db119e8e99) | [Careers](https://workday.wd5.myworkdayjobs.com/en-US/Workday) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-21 16:21:23 MST
 
 📊 **10 new jobs this batch:**
