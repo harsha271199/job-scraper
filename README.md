@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — September 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-22 08:11:36 MST
+
+📊 **2 new jobs this batch:**
+- Asana: 1 job
+- CVS Health: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Asana** | San Francisco | Software Engineer, AI Teammates Experience | [Apply](https://www.asana.com/jobs/apply/8155344?gh_jid=8155344) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b065adfd3f134e2f) | [Careers](https://boards.greenhouse.io/asana) | 2026-09-22T11:10:09-04:00 |
+| **CVS Health** | TX - Work from home | Sr Software Development Engineer - AI Engineering | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/TX---Work-from-home/Sr-Software-Development-Engineer---AI-Engineering_R1044474) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1ca705a468610e98) | [Careers](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-22 08:00:20 MST
 
 📊 **4 new jobs this batch:**
