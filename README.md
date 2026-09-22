@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — September 21, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-21 22:05:16 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 1 job
+- SpaceX: 3 jobs
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Analog Mixed-Signal Design Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200684916-0836/analog-mixed-signal-design-software-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1e9cf87b427f1105) | [Careers](https://jobs.apple.com/en-us/search) | Sep 22, 2026 |
+| **SpaceX** | Hawthorne, CA | Simulation Software Engineer (Vehicle Engineering) | [Apply](https://boards.greenhouse.io/spacex/jobs/8829312002?gh_jid=8829312002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=184116f82ee05898) | [Careers](https://new.spacex.com/careers) | 2026-09-21T20:44:16-04:00 |
+| **SpaceX** | Palo Alto, CA | Site Reliability Engineer, AI Infrastructure (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8829681002?gh_jid=8829681002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b5d3e4c8cd739c26) | [Careers](https://new.spacex.com/careers) | 2026-09-21T21:34:05-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer, Simulations (Vehicle Engineering) | [Apply](https://boards.greenhouse.io/spacex/jobs/8829307002?gh_jid=8829307002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=023fac52f3de93d3) | [Careers](https://new.spacex.com/careers) | 2026-09-21T20:44:19-04:00 |
+| **Stripe** | Seattle, WA | Data Scientist | [Apply](https://stripe.com/jobs/search?gh_jid=8222149) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ac4441146edf30f1) | [Careers](https://stripe.com/careers/search) | 2026-09-21T20:23:42-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-21 17:18:55 MST
 
 📊 **4 new jobs this batch:**
