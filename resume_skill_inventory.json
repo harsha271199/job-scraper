@@ -409,6 +409,79 @@
       "name": "Cassandra",
       "aliases": [],
       "verified": false
+    },
+    {
+      "name": "Google Analytics",
+      "aliases": [
+        "GA",
+        "GA4"
+      ],
+      "verified": true
+    },
+    {
+      "name": "Google Search Console",
+      "aliases": [
+        "Search Console",
+        "GSC"
+      ],
+      "verified": true
+    },
+    {
+      "name": "SEO",
+      "aliases": [
+        "Search Engine Optimization",
+        "technical SEO",
+        "on-page SEO"
+      ],
+      "verified": true
+    },
+    {
+      "name": "Responsive Web Design",
+      "aliases": [
+        "responsive design"
+      ],
+      "verified": true
+    },
+    {
+      "name": "DNS & Hosting",
+      "aliases": [
+        "DNS",
+        "hosting setup",
+        "domain setup"
+      ],
+      "verified": true
+    },
+    {
+      "name": "Data Validation",
+      "aliases": [
+        "data quality validation"
+      ],
+      "verified": true
+    },
+    {
+      "name": "Data Reconciliation",
+      "aliases": [
+        "reconciliation"
+      ],
+      "verified": true
+    },
+    {
+      "name": "LLM Fine-Tuning",
+      "aliases": [
+        "LLM finetuning",
+        "fine-tuning",
+        "Qwen2.5-Coder-7B"
+      ],
+      "verified": true
+    },
+    {
+      "name": "HPC",
+      "aliases": [
+        "High Performance Computing",
+        "GPU/HPC",
+        "GPU cluster"
+      ],
+      "verified": true
     }
   ]
 }
