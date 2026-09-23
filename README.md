@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — September 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-23 13:42:16 MST
+
+📊 **5 new jobs this batch:**
+- Airwallex: 1 job
+- Booz Allen Hamilton: 3 jobs
+- CVS Health: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airwallex** | US - Seattle | Software Engineer, Infrastructure AI | [Apply](https://jobs.ashbyhq.com/airwallex/5031c6ab-8fd3-4b2f-8c1d-4271e85075b0) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a580c893fc6ff286) | [Careers](https://jobs.ashbyhq.com/airwallex) | 2026-09-23T20:33:53.142+00:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Business-Analyst_R0250078) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7dd84470058cd2b7) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Analyst_R0250205-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=940a0bf92cc33384) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Detroit, MI | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Detroit-MI/Data-Scientist_R0249703) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d0b1e5fabc062c33) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **CVS Health** | Chicago-525 West Monroe | Data Scientist - PBM Pricing Optimization and Advanced Analytics | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/Chicago-525-West-Monroe/Data-Scientist---PBM-Pricing-Optimization-and-Advanced-Analytics_R1049928) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e9ce8270731ed73e) | [Careers](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-23 13:27:54 MST
 
 📊 **23 new jobs this batch:**
