@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-22 17:41:33 MST
+
+📊 **3 new jobs this batch:**
+- DoorDash: 1 job
+- Intel: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **DoorDash** | San Francisco, CA | Software Engineer, Backend - Autonomous Delivery Platform | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8224641) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=56483458dcf394da) | [Careers](https://careersatdoordash.com/job-search/) | 2026-09-22T18:37:30-04:00 |
+| **Intel** | US, Oregon, Hillsboro | Business Intelligence Analyst | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Business-Intelligence-Analyst_JR0287298) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4dc309e59fa5a81c) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **Waymo** | San Francisco, California, United States | 2027 Summer Intern, MS/PhD, Machine Learning Engineer - Simulator Realism Evaluation | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8214350) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6478ab2d3649807f) | [Careers](https://boards.greenhouse.io/waymo) | 2026-09-22T20:04:03-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-22 15:26:15 MST
 
 📊 **1 new jobs this batch:**
