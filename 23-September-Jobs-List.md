@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — September 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-23 16:11:30 MST
+
+📊 **6 new jobs this batch:**
+- Airbnb: 1 job
+- Booz Allen Hamilton: 1 job
+- Nvidia: 1 job
+- SeatGeek: 2 jobs
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airbnb** | United States | Software Engineer, Application Platform | [Apply](https://careers.airbnb.com/positions/8227620?gh_jid=8227620) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e7cb0ee5d31a4624) | [Careers](https://careers.airbnb.com/positions/) | 2026-09-23T17:27:50-04:00 |
+| **Booz Allen Hamilton** | Scott AFB, IL | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Scott-AFB-IL/Cloud-Engineer_R0241630) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fcbe10312854931d) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Research Scientist, Physical AI - Foundation Models - PhD New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Generative-AI-for-Physical-AI---PhD-New-College-Grad-2026_JR2016032) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ff92f2cadf29dd91) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **SeatGeek** | New York, New York | Software Engineer - Internship | [Apply](https://seatgeek.com/jobs/8227553?gh_jid=8227553) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=31431d426fba0686) | [Careers](https://boards.greenhouse.io/seatgeek) | 2026-09-23T16:44:26-04:00 |
+| **SeatGeek** | New York, New York | Software Engineer - New Grad | [Apply](https://seatgeek.com/jobs/8227548?gh_jid=8227548) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c318637f61161861) | [Careers](https://boards.greenhouse.io/seatgeek) | 2026-09-23T16:43:35-04:00 |
+| **SpaceX** | Hawthorne, CA | Full Stack Software Engineer (Components) | [Apply](https://boards.greenhouse.io/spacex/jobs/8839057002?gh_jid=8839057002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1b29280f17aed9e5) | [Careers](https://new.spacex.com/careers) | 2026-09-23T18:44:10-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-23 13:42:16 MST
 
 📊 **5 new jobs this batch:**
