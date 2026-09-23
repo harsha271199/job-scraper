@@ -1,6 +1,18 @@
 # 📢 Job Listings for Harsha — September 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-22 17:57:43 MST
+
+📊 **2 new jobs this batch:**
+- Apple: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Backend Software Engineer (Golang) | [Apply](https://jobs.apple.com/en-us/details/200676254-0157/backend-software-engineer-golang?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6887a6e8620cac9a) | [Careers](https://jobs.apple.com/en-us/search) | Sep 23, 2026 |
+| **Apple** | N/A | Backend Software Engineer (Golang) | [Apply](https://jobs.apple.com/en-us/details/200676254-3543/backend-software-engineer-golang?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e648aaf2255e482b) | [Careers](https://jobs.apple.com/en-us/search) | Sep 23, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-09-22 17:41:33 MST
 
 📊 **3 new jobs this batch:**
