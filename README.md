@@ -1,6 +1,52 @@
 # 📢 Job Listings for Harsha — September 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-23 13:27:54 MST
+
+📊 **23 new jobs this batch:**
+- Amgen: 1 job
+- Apple: 2 jobs
+- Block: 2 jobs
+- Booz Allen Hamilton: 5 jobs
+- Commure: 2 jobs
+- DoorDash: 1 job
+- Figma: 1 job
+- Guidehouse: 1 job
+- Modal: 1 job
+- Northrop Grumman: 2 jobs
+- Nuro: 1 job
+- Ramp: 1 job
+- Scale AI: 1 job
+- Waymo: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Amgen** | US - California - Thousand Oaks | Associate AI Engineer, OI&A | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Associate-AI-Engineer--OI-A_R-255988) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ccc4b0f321ac5ae6) | [Careers](https://amgen.wd1.myworkdayjobs.com/en-US/careers) | Posted Today |
+| **Apple** | N/A | Data Engineer - Capacity Planning - Apple Data Platform | [Apply](https://jobs.apple.com/en-us/details/200685421-3337/data-engineer-capacity-planning-apple-data-platform?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e53f3f2ce56287fe) | [Careers](https://jobs.apple.com/en-us/search) | Sep 23, 2026 |
+| **Apple** | N/A | Software Engineer — Face ID | [Apply](https://jobs.apple.com/en-us/details/200685202-3956/software-engineer-face-id?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ccb0960537ad9e18) | [Careers](https://jobs.apple.com/en-us/search) | Sep 23, 2026 |
+| **Block** | Bay Area, CA, United States of America | Software Engineer, Data Platform | [Apply](http://block.xyz/careers/jobs/5381381008?gh_jid=5381381008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=90e2eb80fb68529d) | [Careers](https://boards.greenhouse.io/block) | 2026-08-28T15:07:02-04:00 |
+| **Block** | Bay Area, CA, United States of America | Software Engineer, Privacy Engineering | [Apply](http://block.xyz/careers/jobs/5418586008?gh_jid=5418586008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1e9288aae371c275) | [Careers](https://boards.greenhouse.io/block) | 2026-09-23T16:17:41-04:00 |
+| **Booz Allen Hamilton** | McLean, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0250207) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d9c21ac9005e2471) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0250204-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0c615f2180a40059) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0250185) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5c98446d528aa252) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Vandenberg AFB, CA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Vandenberg-AFB-CA/Data-Scientist_R0249308) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e2dbc85ea60111c2) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Annapolis Junction, MD | Software Engineer and Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Software-Engineer-and-Developer_R0249415) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b060a48d3fdced48) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Commure** | Mountain View, CA | Software Engineer, Scribe AI | [Apply](https://jobs.ashbyhq.com/commure/259988fe-0389-461f-823c-36d81840d465) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b92f44e25bbad6db) | [Careers](https://jobs.ashbyhq.com/commure) | 2026-09-23T17:30:18.217+00:00 |
+| **Commure** | Mountain View, CA | Software Engineer, Voice Agents | [Apply](https://jobs.ashbyhq.com/commure/0e3440aa-4ddc-4a43-b4c3-804e60a1b2ff) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ca8573f058623893) | [Careers](https://jobs.ashbyhq.com/commure) | 2026-09-23T17:29:11.591+00:00 |
+| **DoorDash** | San Francisco, CA | Autonomy Platform Engineer | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8225722) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7bd0c9091a34d92c) | [Careers](https://careersatdoordash.com/job-search/) | 2026-09-23T14:04:38-04:00 |
+| **Figma** | San Francisco, CA • New York, NY | Data Engineer Intern (2027) | [Apply](https://boards.greenhouse.io/figma/jobs/6178851004?gh_jid=6178851004) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e13d50bb01905000) | [Careers](https://www.figma.com/careers/) | 2026-09-23T15:30:27-04:00 |
+| **Guidehouse** | US - VA, Arlington | Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Scientist_44707-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0cae8c7d5ade0f8c) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Modal** | New York | Analytics Engineer | [Apply](https://jobs.ashbyhq.com/modal/a518f2cd-e0c7-4105-9004-d7971f7b1daf) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=09f0ef01075c2a55) | [Careers](https://jobs.ashbyhq.com/modal) | 2026-09-23T18:49:25.298+00:00 |
+| **Northrop Grumman** | United States-Florida-Apopka | Data Scientist | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Apopka/Data-Scientist_R10252532) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=24feaf4e5af834e1) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | R10251590 Software Engineer (26-420) Space AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/R10251590-Software-Engineer--26-420--Space-AHT_R10252583) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=49ccc6cff63dbe62) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Nuro** | Mountain View, California (HQ) | Software Engineer, Performance Tooling and Infrastructure New Grad | [Apply](https://nuro.ai/careersitem?gh_jid=8227399) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5088855c2bd46144) | [Careers](https://boards.greenhouse.io/nuro) | 2026-09-23T16:25:45-04:00 |
+| **Ramp** | New York, NY (HQ) | Machine Learning Engineer | [Apply](https://jobs.ashbyhq.com/ramp/2888b101-b1da-4e53-a02e-1bb9b1b5a951) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=51fe2e8d32acbe8e) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-09-23T19:39:11.015+00:00 |
+| **Scale AI** | San Francisco, CA | Software Engineer, Public Sector - New Grad | [Apply](https://job-boards.greenhouse.io/scaleai/jobs/4736426005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ed177010356ae53d) | [Careers](https://boards.greenhouse.io/scaleai) | 2026-09-23T13:55:35-04:00 |
+| **Waymo** | Mountain View, California | 2027 Summer Intern, MS/PhD, Road Understanding, ML Engineer | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8224746) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ed8ebf1474a7a623) | [Careers](https://boards.greenhouse.io/waymo) | 2026-09-23T15:28:48-04:00 |
+| **Waymo** | Mountain View, California | 2027 Summer Intern, MS/PhD, Software Engineer | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8224729) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1c3d0a0ea83df16b) | [Careers](https://boards.greenhouse.io/waymo) | 2026-09-23T15:28:59-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-23 10:30:07 MST
 
 📊 **3 new jobs this batch:**
