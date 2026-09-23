@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — September 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-22 23:03:11 MST
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Guidehouse: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | McLean, VA | AI and ML Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/AI-and-ML-Data-Scientist_R0242343) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6c148b8ec77e9693) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Guidehouse** | US - VA, McLean | Data Scientist/Data Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-McLean/Data-Scientist-Data-Analyst_44615) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=32a8df8f4e8e3341) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-22 17:57:43 MST
 
 📊 **2 new jobs this batch:**
