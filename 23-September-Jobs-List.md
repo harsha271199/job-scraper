@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — September 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-23 16:45:37 MST
+
+📊 **2 new jobs this batch:**
+- Anthropic: 1 job
+- Notion: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY | Seattle, WA | Research Scientist, Multi-Agent | [Apply](https://harsha271199.github.io/job-scraper/?job=9a655de94b635b68) | [Careers](https://www.anthropic.com/careers/jobs) | 2024-04-22T12:52:37-04:00 |
+| **Notion** | San Francisco, California | Software Engineer, Model Capabilities | [Apply](https://jobs.ashbyhq.com/notion/ab383335-1dd5-4d6a-971f-439cebf48a9d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c6b258a4f155dce2) | [Careers](https://jobs.ashbyhq.com/notion) | 2026-09-23T23:30:04.563+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-23 16:11:30 MST
 
 📊 **6 new jobs this batch:**
