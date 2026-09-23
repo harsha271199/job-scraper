@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-22 23:42:54 MST
+
+📊 **1 new jobs this batch:**
+- Anthropic: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY | Seattle, WA | Software Engineer, Labs | [Apply](https://harsha271199.github.io/job-scraper/?job=44f617790ac16a42) | [Careers](https://www.anthropic.com/careers/jobs) | 2025-12-08T16:38:47-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-22 23:03:11 MST
 
 📊 **2 new jobs this batch:**
