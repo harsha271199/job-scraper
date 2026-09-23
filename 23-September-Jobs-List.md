@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — September 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-23 10:30:07 MST
+
+📊 **3 new jobs this batch:**
+- Sierra: 2 jobs
+- WorkOS: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Sierra** | San Francisco, CA | Software Engineer, Agent - Tech, Media & Telecom | [Apply](https://jobs.ashbyhq.com/Sierra/fd5df98a-e2c8-4d47-a803-daee5cccb36f) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2f501a61dbf3c5b6) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-09-23T17:08:47.244+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Agent - Travel & Hospitality | [Apply](https://jobs.ashbyhq.com/Sierra/d2dc9baf-30d4-4708-9227-62a946b4b37e) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=df15b7300c167230) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-09-23T17:08:27.771+00:00 |
+| **WorkOS** | United States & Canada | Software Engineer - Infrastructure Security | [Apply](https://jobs.ashbyhq.com/workos/ffba59a1-cead-4231-bd2d-a24649c6a3b9) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1bb919ffb458727f) | [Careers](https://jobs.ashbyhq.com/workos) | 2026-09-23T17:16:02.908+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-23 10:09:43 MST
 
 📊 **15 new jobs this batch:**
