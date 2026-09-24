@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — September 24, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-24 13:49:15 MST
+
+📊 **7 new jobs this batch:**
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Broadcom: 1 job
+- CircleCI: 1 job
+- Notion: 1 job
+- OpenAI: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Boeing** | USA - Oklahoma City, OK | Associate Software Engineer - Developers | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Oklahoma-City-OK/Associate-Software-Engineer---Developers_JR2026512427-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8b29ad185c855ebd) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | IT Business Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Business-Analyst--Mid_R0248530) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=18a470fd8f5037a5) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Broadcom** | USA-TX Plano Legacy Drive Suite 700 | Software Engineer (ICB 4) | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-TX-Plano-Legacy-Drive-Suite-700/Software-Engineer--ICB-4-_R027155) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c396da900f076d2b) | [Careers](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career) | Posted Today |
+| **CircleCI** | Canada (Remote), United States (Remote) | Software Engineer | [Apply](http://www.circleci.com/careers/jobs/8420901002/?gh_jid=8420901002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2d20d3b0ddf2571b) | [Careers](https://boards.greenhouse.io/circleci) | 2026-02-24T17:13:02-05:00 |
+| **Notion** | San Francisco, California | Software Engineer Intern, Mobile (Winter 2027) | [Apply](https://jobs.ashbyhq.com/notion/2b587e66-deac-421a-a824-9415ba78b5a7) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b4f1ebcaf2a784ef) | [Careers](https://jobs.ashbyhq.com/notion) | 2026-09-24T19:58:11.492+00:00 |
+| **OpenAI** | Seattle | Machine Learning Engineer, Core Experimentation | [Apply](https://jobs.ashbyhq.com/openai/9d4d2727-27f3-4a63-857c-a96466130645) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=70e4632755980f01) | [Careers](https://openai.com/careers/search/) | 2026-09-24T20:40:14.837+00:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer (Components) | [Apply](https://boards.greenhouse.io/spacex/jobs/8842775002?gh_jid=8842775002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=27e50294a2430011) | [Careers](https://new.spacex.com/careers) | 2026-09-24T13:53:59-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-24 12:15:05 MST
 
 📊 **8 new jobs this batch:**
