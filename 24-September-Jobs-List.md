@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — September 24, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-24 12:15:05 MST
+
+📊 **8 new jobs this batch:**
+- Block: 1 job
+- Boeing: 1 job
+- Guidehouse: 3 jobs
+- Motorola Solutions: 1 job
+- Warp: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Block** | Bay Area, CA, United States of America | Data Scientist, Payments | [Apply](http://block.xyz/careers/jobs/5214784008?gh_jid=5214784008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a70a3d728ff07204) | [Careers](https://boards.greenhouse.io/block) | 2026-09-24T15:14:19-04:00 |
+| **Boeing** | USA - Huntsville, AL | Associate Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Huntsville-AL/Associate-Software-Engineer_JR2026520254-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4419ad597aaf27c1) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Guidehouse** | US - VA, Arlington | Data Analyst (Dashboard Developer) | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Analyst--Dashboard-Developer-_44646) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3f051da438271af5) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Guidehouse** | US - VA, Arlington | Data Analyst (Dashboard Developer) | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Analyst--Dashboard-Developer-_44741) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=aa55a181978b88e8) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Guidehouse** | US - VA, Fairfax | Data Scientist - National Security | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Fairfax/Data-Scientist---National-Security_44827) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=334a6d77b814ed05) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Motorola Solutions** | Plantation, FL | Software Engineering Intern - Summer 2027 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Software-Engineering-Intern---Summer-2027_R69136) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=15a23659d020e618) | [Careers](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | Posted Today |
+| **Warp** | New York | Applied AI Engineer | [Apply](https://jobs.ashbyhq.com/warp/718d38f5-dc6c-43cd-b7e5-ce70eab048d6) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=001a2de577d90e45) | [Careers](https://jobs.ashbyhq.com/warp) | 2026-09-24T17:44:53.937+00:00 |
+| **Zoox** | Foster City, CA | Software Engineer - Mission Planning | [Apply](https://jobs.lever.co/zoox/6efb15a8-ebe0-4ffc-bcc6-1d8f8375dbee) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7a301bfe381096ae) | [Careers](https://jobs.lever.co/zoox) | 2026-01-09 22:06 |
+
+---
+
 ### 🕐 Batch at 2026-09-24 10:34:39 MST
 
 📊 **10 new jobs this batch:**
