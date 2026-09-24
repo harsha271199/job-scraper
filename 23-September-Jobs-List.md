@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-23 21:59:08 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 5 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Camera Machine Learning Engineer | [Apply](https://jobs.apple.com/en-us/details/200684944-0836/camera-machine-learning-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f84b8554da1de13b) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Camera Machine Learning Engineer | [Apply](https://jobs.apple.com/en-us/details/200684934-0836/camera-machine-learning-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9657282ec535d24a) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Distributed Systems Software Engineer (Golang) | [Apply](https://jobs.apple.com/en-us/details/200676528-0157/distributed-systems-software-engineer-golang?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e9ca5b30049f4f54) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Distributed Systems Software Engineer (Golang) | [Apply](https://jobs.apple.com/en-us/details/200676528-3543/distributed-systems-software-engineer-golang?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fa039c491bfdd571) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Distributed Systems Software Engineer (Golang) | [Apply](https://jobs.apple.com/en-us/details/200676528-3749/distributed-systems-software-engineer-golang?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fac52ae2b1de3860) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-09-23 18:40:31 MST
 
 📊 **7 new jobs this batch:**
