@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — September 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-23 18:40:31 MST
+
+📊 **7 new jobs this batch:**
+- Apple: 2 jobs
+- Ramp: 4 jobs
+- Roblox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Sr Analytics Engineer, Retail Data Products | [Apply](https://jobs.apple.com/en-us/details/200685523-0157/sr-analytics-engineer-retail-data-products?team=OPMFG) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=427c7d5e29e5df91) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Sr Analytics Engineer, Retail Data Products | [Apply](https://jobs.apple.com/en-us/details/200685523-0836/sr-analytics-engineer-retail-data-products?team=OPMFG) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f697c59802dce078) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Ramp** | New York, NY (HQ) | Software Engineer Internship, Frontend | [Apply](https://jobs.ashbyhq.com/ramp/a13ae586-f4cb-4385-8822-c42b9b54ed74) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=55b9d341586c61e0) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-09-24T00:40:15.975+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineering Intern, Android | [Apply](https://jobs.ashbyhq.com/ramp/fcf118cc-521a-4a62-9d13-945e5b6e3cb8) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ff67f8203b414425) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-09-24T00:55:33.807+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineering Intern, Backend | [Apply](https://jobs.ashbyhq.com/ramp/acf6b28d-767f-483f-8ff2-114620cd7e04) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d3b9189f6f909caa) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-04-09T01:01:29.953+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineering Intern, iOS | [Apply](https://jobs.ashbyhq.com/ramp/b66be397-240b-41a6-9b05-493299b270a9) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8ed0e5452caa04d5) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-09-24T01:01:49.394+00:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Data Access | [Apply](https://careers.roblox.com/jobs/8168881?gh_jid=8168881) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=188ed8963fdc5d24) | [Careers](https://careers.roblox.com/) | 2026-09-23T21:20:58-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-23 16:45:37 MST
 
 📊 **2 new jobs this batch:**
