@@ -1,6 +1,35 @@
 # 📢 Job Listings for Harsha — September 24, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-24 15:31:37 MST
+
+📊 **14 new jobs this batch:**
+- Apple: 9 jobs
+- Asana: 1 job
+- Booz Allen Hamilton: 1 job
+- Discord: 1 job
+- Northrop Grumman: 1 job
+- Sierra: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Data Engineer - Capacity Planning - Apple Data Platform | [Apply](https://jobs.apple.com/en-us/details/200685421-0836/data-engineer-capacity-planning-apple-data-platform?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a46ca87062a934a5) | [Careers](https://jobs.apple.com/en-us/search) | Sep 23, 2026 |
+| **Apple** | N/A | Software Engineer, Reliability Engineering, AiDP | [Apply](https://jobs.apple.com/en-us/details/200685582-0240/software-engineer-reliability-engineering-aidp?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0a17dfad0021c00a) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Software Engineer, Reliability Engineering, AiDP | [Apply](https://jobs.apple.com/en-us/details/200685582-3956/software-engineer-reliability-engineering-aidp?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9feef0409a7fde18) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Sr Software Engineer, Employee Experience & Productivity | [Apply](https://jobs.apple.com/en-us/details/200685683-0670/sr-software-engineer-employee-experience-productivity?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3dfc3c0441e5a720) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Systems Software Engineer, Platform Architecture | [Apply](https://jobs.apple.com/en-us/details/200685675-0157/systems-software-engineer-platform-architecture?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fee9bed1ec601302) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Systems Software Engineer, Platform Architecture | [Apply](https://jobs.apple.com/en-us/details/200685675-0836/systems-software-engineer-platform-architecture?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1f1ce09a5f82d726) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Systems Software Engineer, Platform Architecture | [Apply](https://jobs.apple.com/en-us/details/200685673-0157/systems-software-engineer-platform-architecture?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c116c586cd123671) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Systems Software Engineer, Platform Architecture | [Apply](https://jobs.apple.com/en-us/details/200685673-0836/systems-software-engineer-platform-architecture?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=69f8730bbd7db142) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems | [Apply](https://jobs.apple.com/en-us/details/200685701-0836/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=34a02cbbe1e520e1) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Asana** | San Francisco | Software Engineer | [Apply](https://www.asana.com/jobs/apply/8078102?gh_jid=8078102) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d56527a5620fc9a0) | [Careers](https://boards.greenhouse.io/asana) | 2026-09-24T17:42:35-04:00 |
+| **Booz Allen Hamilton** | Chantilly, VA | Software DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-DevOps-Engineer_R0250321) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=93271351291ff6bf) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Discord** | San Francisco Bay Area | Data Scientist - Client Platform | [Apply](https://job-boards.greenhouse.io/discord/jobs/8840756002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d7bf0e72c30ffe45) | [Careers](https://boards.greenhouse.io/discord) | 2026-09-24T17:26:49-04:00 |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Associate Software Engineer / Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer---Software-Engineer_R10253028-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0e1a37129e2a0530) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Sierra** | San Francisco, CA | Software Engineer, Horizon | [Apply](https://jobs.ashbyhq.com/Sierra/87f2a303-c2a1-484e-9e4b-efdcaafa440e) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0219f6bd37d0bab6) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-09-24T22:10:13.906+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-24 13:49:15 MST
 
 📊 **7 new jobs this batch:**
