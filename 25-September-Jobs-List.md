@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 25, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-25 15:51:18 MST
+
+📊 **1 new jobs this batch:**
+- Snowflake: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Snowflake** | US-CA-Menlo Park | Software Engineer - Postgres | [Apply](https://jobs.ashbyhq.com/snowflake/6e96b818-2350-4601-8bdd-7ddd6c4a5f6d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c39ddfbab472e0fa) | [Careers](https://careers.snowflake.com/us/en) | 2026-09-25T22:42:33.837+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-25 15:26:49 MST
 
 📊 **10 new jobs this batch:**
