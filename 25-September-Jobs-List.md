@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 25, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-25 08:35:37 MST
+
+📊 **4 new jobs this batch:**
+- Apple: 2 jobs
+- Booz Allen Hamilton: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Gate-level IR/EM CAD/NLP Engineer | [Apply](https://jobs.apple.com/en-us/details/200685870-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fd23f4b5824bb6f4) | [Careers](https://jobs.apple.com/en-us/search) | Sep 25, 2026 |
+| **Apple** | N/A | Gate-level IR/EM CAD/NLP Engineer | [Apply](https://jobs.apple.com/en-us/details/200685870-3956/gate-level-ir-em-cad-nlp-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5c322049e78db624) | [Careers](https://jobs.apple.com/en-us/search) | Sep 25, 2026 |
+| **Booz Allen Hamilton** | Langley AFB, VA | Full-Stack Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Langley-AFB-VA/Full-Stack-Software-Engineer_R0250249) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e325ab9f3861b7ab) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Alexandria, VA | Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Software-Developer_R0250227) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ab447701f336ce71) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-25 06:53:58 MST
 
 📊 **1 new jobs this batch:**
