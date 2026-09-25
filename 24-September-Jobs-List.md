@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 24, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-24 22:26:54 MST
+
+📊 **1 new jobs this batch:**
+- Gartner: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Gartner** | Irving, TX | Business Analyst, Conferences Business Solutions | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Irving-TX/Business-Analyst--Conferences-Business-Solutions_114484) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ff90d694b3cfc5de) | [Careers](https://gartner.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-24 18:35:28 MST
 
 📊 **5 new jobs this batch:**
