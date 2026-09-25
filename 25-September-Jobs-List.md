@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — September 25, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-25 12:35:08 MST
+
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Glean: 1 job
+- Intel: 1 job
+- Roblox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Huntsville, AL | Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Software-Developer_R0250389) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=31c56dbbc051bd90) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Huntsville, AL | Software Developer SME | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Software-Developer-SME_R0250383-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9b974e42dcdd4a12) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Glean** | San Francisco, CA | Machine Learning Engineer, Search Quality | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4738120005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=824ec0417a047663) | [Careers](https://boards.greenhouse.io/gleanwork) | 2026-09-25T14:50:37-04:00 |
+| **Intel** | US, Oregon, Hillsboro | System Software Engineering - PhD Intern | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/System-Software-Engineering---PhD-Intern_JR0287457) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=744e1ba0bceecbf9) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, GenAI Platform | [Apply](https://careers.roblox.com/jobs/8171283?gh_jid=8171283) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=57310828bd13243b) | [Careers](https://careers.roblox.com/) | 2026-09-25T15:11:37-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-25 11:41:44 MST
 
 📊 **12 new jobs this batch:**
