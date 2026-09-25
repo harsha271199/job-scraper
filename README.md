@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — September 25, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-25 15:26:49 MST
+
+📊 **10 new jobs this batch:**
+- Apple: 3 jobs
+- Booz Allen Hamilton: 1 job
+- Chainalysis: 1 job
+- Salesforce: 1 job
+- SpaceX: 1 job
+- Waymo: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Machine Learning Engineer, SIML | [Apply](https://jobs.apple.com/en-us/details/200661302-0836/machine-learning-engineer-siml?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=85ef5ead219925e6) | [Careers](https://jobs.apple.com/en-us/search) | Sep 25, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, SIML | [Apply](https://jobs.apple.com/en-us/details/200661302-3337/machine-learning-engineer-siml?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=61176fcc067107eb) | [Careers](https://jobs.apple.com/en-us/search) | Sep 25, 2026 |
+| **Apple** | N/A | Software Engineer - Traffic (ASE) - Secure Service Networking | [Apply](https://jobs.apple.com/en-us/details/200641231-3337/software-engineer-traffic-ase-secure-service-networking?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e0d12073b6372ce6) | [Careers](https://jobs.apple.com/en-us/search) | Sep 25, 2026 |
+| **Booz Allen Hamilton** | Quantico, VA | Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Software-Developer_R0250386) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=89631103e7124488) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Chainalysis** | New York Office | Platform Engineer II, Foundation | [Apply](https://jobs.ashbyhq.com/chainalysis-careers/81cc6986-9330-441a-8611-0edd84cea5b1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f182cb9bbdedeb02) | [Careers](https://www.chainalysis.com/careers/job-openings/) | 2026-09-25T20:24:21.993+00:00 |
+| **Salesforce** | Washington - Bellevue | Software Engineer (MTS), Frontier Strike (EntSecTech) | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Washington---Bellevue/Software-Engineer--MTS---Frontier-Strike--EntSecTech-_JR361861) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d2274c940c262fea) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **SpaceX** | Redmond, WA | Software Engineer (Starlink Ground Network) | [Apply](https://boards.greenhouse.io/spacex/jobs/8841324002?gh_jid=8841324002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9587321e61b66d34) | [Careers](https://new.spacex.com/careers) | 2026-09-25T16:46:12-04:00 |
+| **Waymo** | Mountain View, CA, USA | 2027 Summer Intern, BS, Software Engineer, Driver Refinement Foundations | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8224900) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2eed7fef1966ba32) | [Careers](https://boards.greenhouse.io/waymo) | 2026-09-25T16:20:21-04:00 |
+| **Waymo** | Mountain View, CA, USA | 2027 Summer Intern, MS/PhD, Software Engineer, Sys Intel & Machine Learning | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8233746) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ff2570c9008dc51e) | [Careers](https://boards.greenhouse.io/waymo) | 2026-09-25T17:01:50-04:00 |
+| **Waymo** | Mountain View, CA, USA | 2027 Summer Intern, MS/PhD, Software Engineering, Sys Intel & ML | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8234161) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=436bcb54fa6e9e1d) | [Careers](https://boards.greenhouse.io/waymo) | 2026-09-25T17:55:21-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-25 12:35:08 MST
 
 📊 **5 new jobs this batch:**
