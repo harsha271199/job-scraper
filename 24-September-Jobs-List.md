@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — September 24, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-24 18:35:28 MST
+
+📊 **5 new jobs this batch:**
+- OpenAI: 1 job
+- Snowflake: 3 jobs
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer, Search Infrastructure | [Apply](https://jobs.ashbyhq.com/openai/7caed1e8-c6f6-4569-9d45-2d7a7a56a025) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f9a44da83910359b) | [Careers](https://openai.com/careers/search/) | 2026-09-25T01:05:08.971+00:00 |
+| **Snowflake** | US-CA-Menlo Park | Software Engineer Intern (AI / ML) - Spring 2027 | [Apply](https://jobs.ashbyhq.com/snowflake/4be290ae-dd9d-488c-9d90-56fcd69101ca) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8bae52b0005d7899) | [Careers](https://careers.snowflake.com/us/en) | 2026-09-25T01:05:50.921+00:00 |
+| **Snowflake** | US-CA-Menlo Park | Software Engineer Intern (Core, Infrastructure & Security) — Spring 2027 | [Apply](https://jobs.ashbyhq.com/snowflake/5315b6f6-2c14-4cb9-a884-c2bae69f2c69) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=76c7dd3fa3ee2e0c) | [Careers](https://careers.snowflake.com/us/en) | 2026-09-25T01:03:02.890+00:00 |
+| **Snowflake** | US-CA-Menlo Park | Software Engineer Intern (Database Engineering) - Spring 2027 | [Apply](https://jobs.ashbyhq.com/snowflake/7bd393df-67d7-4009-ba4f-1cd79a82b0be) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bf3519be0d74ff90) | [Careers](https://careers.snowflake.com/us/en) | 2026-09-25T01:04:54.726+00:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer (AI Data Engineering) | [Apply](https://boards.greenhouse.io/spacex/jobs/8843640002?gh_jid=8843640002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e3d1fb8df0fa08c5) | [Careers](https://new.spacex.com/careers) | 2026-09-24T20:23:40-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-24 17:01:58 MST
 
 📊 **3 new jobs this batch:**
