@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 25, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-25 06:53:58 MST
+
+📊 **1 new jobs this batch:**
+- Morgan Stanley: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Morgan Stanley** | New York, New York, United States of America | Associate, Software Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Associate--Software-Engineer_JR036259) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fac706e35b3cc0dd) | [Careers](https://ms.wd5.myworkdayjobs.com/en-US/External) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-25 03:35:25 MST
 
 📊 **2 new jobs this batch:**
