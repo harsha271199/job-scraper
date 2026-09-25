@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — September 24, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-24 17:01:58 MST
+
+📊 **3 new jobs this batch:**
+- Apple: 2 jobs
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer, Music Search | [Apply](https://jobs.apple.com/en-us/details/200685742-0670/software-engineer-music-search?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d05013d2b78454d3) | [Careers](https://jobs.apple.com/en-us/search) | Sep 24, 2026 |
+| **Apple** | N/A | Visual Generation Framework Software Engineer - Proactive | [Apply](https://jobs.apple.com/en-us/details/200680492-0836/visual-generation-framework-software-engineer-proactive?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=70a57e6e83709540) | [Careers](https://jobs.apple.com/en-us/search) | Sep 25, 2026 |
+| **Northrop Grumman** | United States-California-Redondo Beach | DevOps Engineer - Level 3/4 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/DevOps-Engineer---Level-3-4--AHT-_R10252254) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0814fd156ee64bd2) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-24 15:31:37 MST
 
 📊 **14 new jobs this batch:**
