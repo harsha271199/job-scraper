@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 25, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-25 18:38:23 MST
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Intel: 1 job
+- Nuro: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0250409) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1d554f8cfb490a99) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Intel** | Virtual US | Business Analyst | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Virtual-US/Business-Analyst_JR0284479) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=dbde51632dc87a1b) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **Nuro** | Mountain View, California (HQ) | Software Engineer, Cloud Infrastructure and Observability | [Apply](https://nuro.ai/careersitem?gh_jid=8221208) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1806244367a574a7) | [Careers](https://boards.greenhouse.io/nuro) | 2026-09-25T18:57:20-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-25 15:51:18 MST
 
 📊 **1 new jobs this batch:**
