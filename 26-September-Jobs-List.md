@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 26, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-26 01:00:42 MST
+
+📊 **1 new jobs this batch:**
+- Apple: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Machine Learning Engineer, Proactive | [Apply](https://jobs.apple.com/en-us/details/200685771-0836/machine-learning-engineer-proactive?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3a83483ab858494f) | [Careers](https://jobs.apple.com/en-us/search) | Sep 26, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-09-26 00:48:07 MST
 
 📊 **1 new jobs this batch:**
