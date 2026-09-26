@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — September 26, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-26 10:14:42 MST
+
+📊 **1 new jobs this batch:**
+- Apple: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Data Scientist - Capacity Planning - Apple Data Platform | [Apply](https://jobs.apple.com/en-us/details/200685421-0836/data-scientist-capacity-planning-apple-data-platform?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cb4d4a7e1cae7f7b) | [Careers](https://jobs.apple.com/en-us/search) | Sep 26, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-09-26 01:00:42 MST
 
 📊 **1 new jobs this batch:**
