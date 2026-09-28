@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — September 28, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-28 15:06:49 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 2 jobs
+- Booz Allen Hamilton: 1 job
+- Lyft: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Finance Data Engineer | [Apply](https://jobs.apple.com/en-us/details/200684451-0836/finance-data-engineer?team=CORSV) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=79d43360dcf7ff1b) | [Careers](https://jobs.apple.com/en-us/search) | Sep 28, 2026 |
+| **Apple** | & Spatial Awareness, Sensing & Connectivity Software and Services Sep 28, 2026 | Software Engineer - Location & Spatial Awareness, Sensing & Connectivity | [Apply](https://jobs.apple.com/en-us/details/200686212-0836/software-engineer-location-spatial-awareness-sensing-connectivity?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ec47883045075a15) | [Careers](https://jobs.apple.com/en-us/search) | Sep 28, 2026 |
+| **Booz Allen Hamilton** | Camp Lejeune, NC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Data-Scientist_R0250530) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=de4b2c8bd623902a) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Lyft** | San Francisco, CA | Applied Scientist Intern (Summer 2027) | [Apply](https://app.careerpuck.com/job-board/lyft/job/8843341002?gh_jid=8843341002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ea58d58e19c8f937) | [Careers](https://boards.greenhouse.io/lyft) | 2026-09-28T17:44:14-04:00 |
+| **Salesforce** | California - San Francisco | Software Engineering MTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-MTS_JR354592) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c678cf284a9cdaad) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-28 13:51:11 MST
 
 📊 **22 new jobs this batch:**
