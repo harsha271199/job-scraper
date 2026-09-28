@@ -1,6 +1,54 @@
 # 📢 Job Listings for Harsha — September 28, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-28 13:51:11 MST
+
+📊 **22 new jobs this batch:**
+- Anthropic: 1 job
+- Apple: 4 jobs
+- Boeing: 1 job
+- Booz Allen Hamilton: 3 jobs
+- Broadcom: 1 job
+- Cox Enterprises: 1 job
+- Discord: 1 job
+- DoorDash: 1 job
+- Flir: 1 job
+- Guidehouse: 1 job
+- HP: 1 job
+- Hadrian: 1 job
+- Morgan Stanley: 1 job
+- Nvidia: 1 job
+- OpenAI: 1 job
+- Stripe: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY | Software Engineer, Account Abuse (Machine Learning) | [Apply](https://harsha271199.github.io/job-scraper/?job=ca201c4f7e7396d0) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-09-28T16:31:13-04:00 |
+| **Apple** | N/A | ML Engineer - Automated Evaluation and Adversarial Design | [Apply](https://jobs.apple.com/en-us/details/200657970-0670/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bb392484f7f643e7) | [Careers](https://jobs.apple.com/en-us/search) | Sep 28, 2026 |
+| **Apple** | N/A | ML Engineer - Automated Evaluation and Adversarial Design | [Apply](https://jobs.apple.com/en-us/details/200657970-0836/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e65d7d3234b17c16) | [Careers](https://jobs.apple.com/en-us/search) | Sep 28, 2026 |
+| **Apple** | N/A | ML Engineer - Automated Evaluation and Adversarial Design | [Apply](https://jobs.apple.com/en-us/details/200657970-3543/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=850d6d9c5d8858d8) | [Careers](https://jobs.apple.com/en-us/search) | Sep 28, 2026 |
+| **Apple** | N/A | ML Engineer - Automated Evaluation and Adversarial Design | [Apply](https://jobs.apple.com/en-us/details/200657970-3337/ml-engineer-automated-evaluation-and-adversarial-design?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4c49b18ffc5c4501) | [Careers](https://jobs.apple.com/en-us/search) | Sep 28, 2026 |
+| **Boeing** | USA - Renton, WA | Product Analyst | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Renton-WA/Product-Analyst_JR2026521514-2) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=772494fefd2f3404) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist_R0250148-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7ed0af66c7e4285f) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Full Stack Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Full-Stack-Software-Engineer--Mid_R0250672) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2c20574a02556b98) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Infrastructure Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Infrastructure-Cloud-Engineer_R0250510) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=31efe7274358f86e) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Broadcom** | USA-CA - Promontory B | Software Engineer 3 | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/Software-Engineer-3_R027176) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b9f37b8d7d9e3ae3) | [Careers](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career) | Posted Today |
+| **Cox Enterprises** | REMOTE - USA | Data Analyst II | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/REMOTE---USA/Data-Analyst-II_R202682704) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0d55ab7fa8bb653c) | [Careers](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1) | Posted Today |
+| **Discord** | San Francisco Bay Area | Software Engineer, Consumer Revenue | [Apply](https://job-boards.greenhouse.io/discord/jobs/8846732002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3c98b4e3f52bcd17) | [Careers](https://boards.greenhouse.io/discord) | 2026-09-28T16:44:39-04:00 |
+| **DoorDash** | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York, NY; Los Angeles, CA | Software Engineer, Full Stack - Experimentation Platform | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8236946) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2fa4a22d27e36c6a) | [Careers](https://careersatdoordash.com/job-search/) | 2026-09-28T13:40:08-04:00 |
+| **Flir** | US - Goleta, CA | Calibration Software Engineer | [Apply](https://flir.wd1.myworkdayjobs.com/en-US/flircareers/job/US---Goleta-CA/Calibration-Software-Engineer_REQ36890) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fc909699d69278e9) | [Careers](https://flir.wd1.myworkdayjobs.com/en-US/flircareers) | Posted Today |
+| **Guidehouse** | US - IN, Indianapolis | Data Analyst/FM Product Consultant | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---IN-Indianapolis/Data-Analyst-FM-Product-Consultant_36597) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3377d03592828ca9) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Hadrian** | Los Angeles, CA | Software Engineer, Identity | [Apply](https://jobs.ashbyhq.com/hadrian-automation/e2f4b767-6e66-43fc-98bb-e2ebab6e5b9a) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5652d8339f29b522) | [Careers](https://jobs.ashbyhq.com/hadrian-automation) | 2026-09-28T16:32:06.239+00:00 |
+| **HP** | Vancouver, Washington, United States of America | Data Scientist | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/Data-Scientist_3166863-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d37f00077e8a7b70) | [Careers](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) | Posted Today |
+| **Morgan Stanley** | Alpharetta, Georgia, United States of America | Associate, Software Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR040855) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a05277be9bc8f150) | [Careers](https://ms.wd5.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Platform Software Validation Engineer - SDET | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Senior-Software-Development-Engineer-in-Test---Datacenter-Server-OS_JR2011122) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c79d6f9ec166eb61) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **OpenAI** | San Francisco | Software Engineer, DevOps | [Apply](https://jobs.ashbyhq.com/openai/a5dd77a2-9ab1-4165-98aa-c7bb0260985b) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=27743c512d9e5855) | [Careers](https://openai.com/careers/search/) | 2026-09-28T18:26:42.221+00:00 |
+| **Stripe** | San Francisco | Machine Learning Engineer, Growth Platform | [Apply](https://stripe.com/jobs/search?gh_jid=8224915) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8373df1327e77b98) | [Careers](https://stripe.com/careers/search) | 2026-09-28T11:58:13-04:00 |
+| **Zoox** | Boston, MA | Software Engineer - Planner GPU Compute | [Apply](https://jobs.lever.co/zoox/5915823a-3546-4748-b102-85e85c0dc71d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=74dfc18e139ff251) | [Careers](https://jobs.lever.co/zoox) | 2026-09-27 06:17 |
+
+---
+
 ### 🕐 Batch at 2026-09-28 08:35:06 MST
 
 📊 **4 new jobs this batch:**
