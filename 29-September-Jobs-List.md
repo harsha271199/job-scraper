@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — September 29, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-29 13:52:44 MST
+
+📊 **9 new jobs this batch:**
+- Airbnb: 2 jobs
+- Booz Allen Hamilton: 5 jobs
+- New Relic: 1 job
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airbnb** | Remote, USA | Software Engineer, Passport & Commerce, iOS | [Apply](https://careers.airbnb.com/positions/8239985?gh_jid=8239985) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4bcf994c7bc72cab) | [Careers](https://careers.airbnb.com/positions/) | 2026-09-29T16:21:59-04:00 |
+| **Airbnb** | Remote, USA | Software Engineer, Passport & Commerce, Web | [Apply](https://careers.airbnb.com/positions/8239930?gh_jid=8239930) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=307621744e888a1e) | [Careers](https://careers.airbnb.com/positions/) | 2026-09-29T16:21:36-04:00 |
+| **Booz Allen Hamilton** | San Diego, CA | Business Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Business-Analyst_R0250598) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e10ae717e893cce8) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0250787) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=618d8c618d6c3e63) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Bethesda, MD | Security Infrastructure Support and Data Pipeline Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Bethesda-MD/Security-Infrastructure-Support-and-Data-Pipeline-Engineer_R0250589) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=22a51609d0ddcc07) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0250618) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=dc8acb72a2e4e169) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Software-Engineer_R0250590) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5a939b358b1897b5) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **New Relic** | Portland, Oregon, USA | Software Engineer II - Query Gateway | [Apply](https://job-boards.greenhouse.io/newrelic/jobs/5438172008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=636cb7dcdba70490) | [Careers](https://boards.greenhouse.io/newrelic) | 2026-09-29T16:46:15-04:00 |
+| **Nvidia** | US, CA, Santa Clara | Applied Machine Learning Engineer, AI for VLSI Design - New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Applied-Machine-Learning-Engineer--AI-for-VLSI-Design---New-College-Grad-2026_JR2026576) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=70c28c59a9e07e04) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-29 12:40:40 MST
 
 📊 **12 new jobs this batch:**
