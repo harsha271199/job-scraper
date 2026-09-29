@@ -1,6 +1,34 @@
 # 📢 Job Listings for Harsha — September 29, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-29 16:13:58 MST
+
+📊 **11 new jobs this batch:**
+- Block: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Citi: 2 jobs
+- Coinbase: 1 job
+- CoreWeave: 1 job
+- Northrop Grumman: 1 job
+- Nvidia: 2 jobs
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Block** | San Francisco, CA, United States of America | Business Intelligence Analyst | [Apply](http://block.xyz/careers/jobs/5439140008?gh_jid=5439140008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=51e7f5e074aea245) | [Careers](https://boards.greenhouse.io/block) | 2026-09-29T17:10:41-04:00 |
+| **Booz Allen Hamilton** | Aurora, CO | AI/ML Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/AI-ML-Engineer--Mid_R0250628) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3dbcf24523499aea) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Aurora, CO | Remote Sensing Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Remote-Sensing-Software-Engineer--Mid_R0250626) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e076cd44893d552e) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Citi** | Irving Texas United States | Data Platform Engineer, Cybersecurity Operations | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Data-Platform-Engineer--Cybersecurity--Operations_26997079) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7edd5e50c240f213) | [Careers](https://citi.wd5.myworkdayjobs.com/en-US/2) | Posted Today |
+| **Citi** | Irving Texas United States | Threat & Exposure Management Platform Engineer | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Irving-Texas-United-States/Threat---Exposure-Management-Platform-Engineer_26997074) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=19fc511c5b7f64d0) | [Careers](https://citi.wd5.myworkdayjobs.com/en-US/2) | Posted Today |
+| **Coinbase** | Remote - USA | Software Engineer, CDP - Foundations | [Apply](https://www.coinbase.com/careers/positions/8241522?gh_jid=8241522) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b6b8aedb7440222f) | [Careers](https://www.coinbase.com/careers/positions) | 2026-09-29T18:40:13-04:00 |
+| **CoreWeave** | Sunnyvale, CA / Bellevue, WA | Sr. Applied ML Engineer II | [Apply](https://coreweave.com/careers/job?4666682006&board=coreweave&gh_jid=4666682006) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=54331eb67b951cab) | [Careers](https://boards.greenhouse.io/coreweave) | 2026-03-25T10:28:23-04:00 |
+| **Northrop Grumman** | United States-Florida-Melbourne | 2027 Associate Software Engineer / Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer_R10253396) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9c0c5b7ddad24f88) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Research Scientist, Fundamental Generative AI - New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Fundamental-Generative-AI---New-College-Grad-2026_JR2026739) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b1bd1351768a8850) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | System Software Engineer - GPU Power and Performance Management | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---GPU-Power-and-Performance-Management_JR2026396) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a1a8e548c67eb06c) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **OpenAI** | San Francisco | Software Engineer, Implicit Signals | [Apply](https://jobs.ashbyhq.com/openai/c7bcdaec-9714-44b0-8ba8-adc824594b54) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=010ce280f093fc14) | [Careers](https://openai.com/careers/search/) | 2026-09-29T23:06:45.847+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-29 13:52:44 MST
 
 📊 **9 new jobs this batch:**
