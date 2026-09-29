@@ -1,6 +1,34 @@
 # 📢 Job Listings for Harsha — September 29, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-29 12:40:40 MST
+
+📊 **12 new jobs this batch:**
+- Amgen: 1 job
+- Anthropic: 1 job
+- Apple: 4 jobs
+- Booz Allen Hamilton: 2 jobs
+- Doximity: 1 job
+- Northrop Grumman: 2 jobs
+- Snowflake: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Amgen** | US - IL - Deerfield | Sr Data Scientist | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---IL---Deerfield/Sr-Data-Scientist_R-256842) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2af4bd210f1314d6) | [Careers](https://amgen.wd1.myworkdayjobs.com/en-US/careers) | Posted Today |
+| **Anthropic** | San Francisco, CA | New York City, NY | Seattle, WA | Research Engineer / Research Scientist, RL Frontiers | [Apply](https://harsha271199.github.io/job-scraper/?job=c0fbae7cf7ca579c) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-09-29T15:03:37-04:00 |
+| **Apple** | N/A | Full Stack Software Engineer, Developer Publications | [Apply](https://jobs.apple.com/en-us/details/200678186-3543/full-stack-software-engineer-developer-publications?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8f6cf2cc72698ff1) | [Careers](https://jobs.apple.com/en-us/search) | Sep 29, 2026 |
+| **Apple** | N/A | Software Engineer, Information Systems & Technology | [Apply](https://jobs.apple.com/en-us/details/200685186-3956/software-engineer-information-systems-technology?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=df8e09241fc69f91) | [Careers](https://jobs.apple.com/en-us/search) | Sep 29, 2026 |
+| **Apple** | N/A | Software Engineer, Information Systems & Technology | [Apply](https://jobs.apple.com/en-us/details/200685188-0157/software-engineer-information-systems-technology?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=117fe3c63a17a706) | [Careers](https://jobs.apple.com/en-us/search) | Sep 29, 2026 |
+| **Apple** | N/A | Wi-Fi Software Engineer, Wireless Technologies & Ecosystems | [Apply](https://jobs.apple.com/en-us/details/200666337-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c8a2de34b1fa0ac2) | [Careers](https://jobs.apple.com/en-us/search) | Sep 29, 2026 |
+| **Booz Allen Hamilton** | Fort Belvoir, VA | AI and ML Engineer and Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/AI-and-ML-Engineer-and-Data-Scientist_R0250572) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a242f31439393de4) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Camp Lejeune, NC | Artificial Intelligence and Machine Learning Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Artificial-Intelligence-and-Machine-Learning-Engineer_R0250591) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4332ce28d47c03fa) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Doximity** | San Francisco, CA or Remote (U.S.) | Commercial Data Scientist | [Apply](https://job-boards.greenhouse.io/doximity/jobs/8222144) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=03889ad9034492a4) | [Careers](https://boards.greenhouse.io/doximity) | 2026-09-29T14:30:28-04:00 |
+| **Northrop Grumman** | United States-Alabama-Huntsville | 2027 Associate Software Engineer - Huntsville (AL) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Huntsville--AL-_R10253518) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4cf74366461d6447) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Florida-Melbourne | Associate Software Engineer / Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Florida-Melbourne/Associate-Software-Engineer---Software-Engineer_R10253287) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=91515b10f1bc460b) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Snowflake** | CA-Ontario-Toronto | Software Engineer, Notebooks | [Apply](https://jobs.ashbyhq.com/snowflake/ea0df7ad-11c5-41e6-8789-1af6068fc8f6) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=63927c6a50cbc74c) | [Careers](https://careers.snowflake.com/us/en) | 2026-07-07T15:06:15.981+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-29 08:57:37 MST
 
 📊 **7 new jobs this batch:**
