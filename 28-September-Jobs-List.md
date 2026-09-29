@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — September 28, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-28 18:17:52 MST
+
+📊 **6 new jobs this batch:**
+- Apple: 1 job
+- Benchling: 1 job
+- Cloudflare: 1 job
+- OpenAI: 1 job
+- Salesforce: 1 job
+- Spring Health: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Machine Learning Engineer - Apple News | [Apply](https://jobs.apple.com/en-us/details/200686238-0836/machine-learning-engineer-apple-news?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3e2d1630c79e31ec) | [Careers](https://jobs.apple.com/en-us/search) | Sep 28, 2026 |
+| **Benchling** | San Francisco, CA | Software Engineer, Full Stack (Process Execution) | [Apply](https://jobs.ashbyhq.com/benchling/9b850e1f-1ba8-47e3-9057-0562e0739e6f) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6f206709ea35fa71) | [Careers](https://jobs.ashbyhq.com/benchling) | 2026-09-28T22:52:29.185+00:00 |
+| **Cloudflare** | In-Office | Software Engineer Intern (2027) - Austin, TX | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8199958?gh_jid=8199958) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=38f2661c26641fc5) | [Careers](https://www.cloudflare.com/careers/jobs/) | 2026-09-16T21:57:53-04:00 |
+| **OpenAI** | San Francisco | Software Engineer, Product Velocity | [Apply](https://jobs.ashbyhq.com/openai/9909555b-3dc4-4ba2-859e-43eae7c97a34) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f4e0febb331f0d8d) | [Careers](https://openai.com/careers/search/) | 2026-09-28T22:14:02.004+00:00 |
+| **Salesforce** | California - San Francisco | Software Engineer- Infrastructure/Service Mesh | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer--Infrastructure-Service-Mesh_JR358458) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a8082a69b5e7ddfc) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Spring Health** | San Francisco, CA (Hybrid) | Data Analyst II, Customer Reporting | [Apply](https://job-boards.greenhouse.io/springhealth66/jobs/4737127005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=790f811e2886fc2a) | [Careers](https://boards.greenhouse.io/springhealth66) | 2026-09-28T18:55:03-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-28 15:06:49 MST
 
 📊 **5 new jobs this batch:**
