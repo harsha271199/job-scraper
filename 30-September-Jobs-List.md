@@ -1,6 +1,30 @@
 # 📢 Job Listings for Harsha — September 30, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-30 16:55:32 MST
+
+📊 **8 new jobs this batch:**
+- Affirm: 1 job
+- Apple: 2 jobs
+- Block: 1 job
+- HP: 1 job
+- Nvidia: 1 job
+- Snowflake: 1 job
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Affirm** | Remote US | Software Engineer II, Backend (Streaming) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8003020003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=399768f906f280d6) | [Careers](https://boards.greenhouse.io/affirm) | 2026-09-30T18:27:01-04:00 |
+| **Apple** | N/A | RealityKit Media Pipeline Engineer, Vision Products Software | [Apply](https://jobs.apple.com/en-us/details/200686638-3956/realitykit-media-pipeline-engineer-vision-products-software?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9e1e0b202a85d52f) | [Careers](https://jobs.apple.com/en-us/search) | Sep 30, 2026 |
+| **Apple** | N/A | Software Development Engineer in Test (SDET), Creativity Apps | [Apply](https://jobs.apple.com/en-us/details/200685278-3543/software-development-engineer-in-test-sdet-creativity-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0571b44191a80d1f) | [Careers](https://jobs.apple.com/en-us/search) | Sep 30, 2026 |
+| **Block** | Bay Area, CA, United States of America | Software Engineer, Program Engineering | [Apply](http://block.xyz/careers/jobs/5427880008?gh_jid=5427880008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=aa059e10e3d140e8) | [Careers](https://boards.greenhouse.io/block) | 2026-09-30T17:05:34-04:00 |
+| **HP** | Spring, Texas, United States of America | Quality Data Engineer | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Spring-Texas-United-States-of-America/Quality-Data-Engineer_3164674) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9778c5393000958e) | [Careers](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | System Software Engineer - Robotics Simulation | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/System-Software-Engineer---Robotics-Simulation_JR2026819) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c93d13104b0b65f0) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **Snowflake** | US-CA-Menlo Park | Software Engineer – Mobile Team | [Apply](https://jobs.ashbyhq.com/snowflake/16d130a1-4014-4458-829f-ea2ba48d366d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=762d6975322bc6f3) | [Careers](https://careers.snowflake.com/us/en) | 2026-09-30T21:33:58.519+00:00 |
+| **Stripe** | US | Data Analyst | [Apply](https://stripe.com/jobs/search?gh_jid=5601881) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3f393bb1a6ec408c) | [Careers](https://stripe.com/careers/search) | 2024-01-09T16:58:15-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-30 14:02:50 MST
 
 📊 **3 new jobs this batch:**
