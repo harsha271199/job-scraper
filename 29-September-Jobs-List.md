@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — September 29, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-29 17:32:27 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 2 jobs
+- Baseten: 1 job
+- Booz Allen Hamilton: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Machine Learning Engineer - Proactive | [Apply](https://jobs.apple.com/en-us/details/200686466-0836/machine-learning-engineer-proactive?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=067a2cf39a4763cd) | [Careers](https://jobs.apple.com/en-us/search) | Sep 30, 2026 |
+| **Apple** | N/A | Software Engineer, Shortcuts - Proactive | [Apply](https://jobs.apple.com/en-us/details/200686475-0836/software-engineer-shortcuts-proactive?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c68c44ba173bf692) | [Careers](https://jobs.apple.com/en-us/search) | Sep 30, 2026 |
+| **Baseten** | San Francisco | Software Engineer - Partner Platform | [Apply](https://jobs.ashbyhq.com/baseten/57204e3c-1431-49c5-919c-4fff65f5c3a5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e449804007ba3563) | [Careers](https://jobs.ashbyhq.com/baseten) | 2026-09-29T23:48:23.744+00:00 |
+| **Booz Allen Hamilton** | Atlanta, GA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Data-Scientist_R0249503) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4f1acadbbe104b2b) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering SMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR357622) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d99a74b77e373730) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-09-29 16:13:58 MST
 
 📊 **11 new jobs this batch:**
