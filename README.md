@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — September 30, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-30 14:02:50 MST
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Guidehouse: 1 job
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Fort Belvoir, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Belvoir-VA/Data-Engineer_R0250764) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=72e4016086dc812b) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Guidehouse** | US - TX, San Antonio | Technical Data Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-San-Antonio/Technical-Data-Analyst_45081) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=315f0456e5499954) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Stripe** | Seattle, San Francisco | High School Internship, Software Engineering (Summer 2027) | [Apply](https://stripe.com/jobs/search?gh_jid=8241260) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ef9302a2ce69d709) | [Careers](https://stripe.com/careers/search) | 2026-09-30T11:38:09-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-30 12:27:34 MST
 
 📊 **25 new jobs this batch:**
