@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — September 29, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-29 23:48:14 MST
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | McLean, VA | Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Platform-Engineer_R0242482) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7f9f688b14e04be1) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **OpenAI** | San Francisco | Data Scientist, B2B Generalist | [Apply](https://jobs.ashbyhq.com/openai/756d8c20-649a-47f2-8012-553b5f6cb0c5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0985395d2fec6c54) | [Careers](https://openai.com/careers/search/) | 2026-09-30T03:10:05.214+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-29 17:32:27 MST
 
 📊 **5 new jobs this batch:**
