@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — September 30, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-30 17:51:56 MST
+
+📊 **2 new jobs this batch:**
+- OpenAI: 1 job
+- Roblox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **OpenAI** | San Francisco | Technical Sourcer, Research SWE | [Apply](https://jobs.ashbyhq.com/openai/2d1785b0-8bfa-485e-97d2-a19ff3e15570) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2b6c0b4ffcb0dcbc) | [Careers](https://openai.com/careers/search/) | 2026-10-01T00:37:32.541+00:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Engine Scalability | [Apply](https://careers.roblox.com/jobs/8226958?gh_jid=8226958) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=67e4edb81871e0d2) | [Careers](https://careers.roblox.com/) | 2026-09-30T19:05:14-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-30 16:55:32 MST
 
 📊 **8 new jobs this batch:**
