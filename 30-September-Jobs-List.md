@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — September 30, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-09-30 23:04:11 MST
+
+📊 **4 new jobs this batch:**
+- Apple: 1 job
+- Intel: 1 job
+- SpaceX: 1 job
+- Suno: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Simulation Generative Data Engineer | [Apply](https://jobs.apple.com/en-us/details/200686621-0836/simulation-generative-data-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f5cae4ef0baa738b) | [Careers](https://jobs.apple.com/en-us/search) | Oct 01, 2026 |
+| **Intel** | Costa Rica, San Jose | AI Software Engineering Undergraduate Intern | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/Costa-Rica-San-Jose/AI-Software-Engineering-Undergraduate-Intern_JR0287583) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6404c3d36d43e282) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **SpaceX** | Hawthorne, CA | Full Stack Software Engineer, Platform | [Apply](https://boards.greenhouse.io/spacex/jobs/8859566002?gh_jid=8859566002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=eb0506b9a3749d55) | [Careers](https://new.spacex.com/careers) | 2026-09-30T21:36:33-04:00 |
+| **Suno** | San Francisco | Machine Learning Engineer - Content Discovery | [Apply](https://jobs.ashbyhq.com/suno/e94b6a03-6315-45c2-a439-51630af15f05) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e2286e577024068c) | [Careers](https://jobs.ashbyhq.com/suno) | 2026-10-01T02:01:25.853+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-09-30 17:51:56 MST
 
 📊 **2 new jobs this batch:**
