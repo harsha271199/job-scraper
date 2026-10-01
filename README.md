@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — October 01, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-01 13:32:58 MST
+
+📊 **3 new jobs this batch:**
+- Apple: 1 job
+- SeatGeek: 1 job
+- Yugabyte: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Backend Software Engineer (Golang) | [Apply](https://jobs.apple.com/en-us/details/200686863-3543/backend-software-engineer-golang?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ef83b48661addda5) | [Careers](https://jobs.apple.com/en-us/search) | Oct 01, 2026 |
+| **SeatGeek** | New York, New York | Data Analyst - New Grad | [Apply](https://seatgeek.com/jobs/8247550?gh_jid=8247550) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3d6ec29f2aa29880) | [Careers](https://boards.greenhouse.io/seatgeek) | 2026-10-01T15:09:48-04:00 |
+| **Yugabyte** | Sunnyvale, CA | Software Engineer II | [Apply](https://job-boards.greenhouse.io/yugabyte/jobs/4683621006) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f3ea5d5ccd8386a5) | [Careers](https://boards.greenhouse.io/yugabyte) | 2026-10-01T16:14:42-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-01 12:36:32 MST
 
 📊 **30 new jobs this batch:**
