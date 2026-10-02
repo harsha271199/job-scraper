@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — October 01, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-01 22:47:19 MST
+
+📊 **8 new jobs this batch:**
+- Apple: 4 jobs
+- General Motors: 3 jobs
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer: Linux Driver and Kernel Developer | [Apply](https://jobs.apple.com/en-us/details/200686880-0157/software-engineer-linux-driver-and-kernel-developer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5b2eec42dec0cedb) | [Careers](https://jobs.apple.com/en-us/search) | Oct 02, 2026 |
+| **Apple** | N/A | Software Engineer: Linux Driver and Kernel Developer | [Apply](https://jobs.apple.com/en-us/details/200686880-0505/software-engineer-linux-driver-and-kernel-developer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8db4d3eaaedce396) | [Careers](https://jobs.apple.com/en-us/search) | Oct 02, 2026 |
+| **Apple** | N/A | Software Engineer: Linux Driver and Kernel Developer | [Apply](https://jobs.apple.com/en-us/details/200686880-0836/software-engineer-linux-driver-and-kernel-developer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9009e4c63d91c056) | [Careers](https://jobs.apple.com/en-us/search) | Oct 02, 2026 |
+| **Apple** | N/A | Software Engineer: Linux Driver and Kernel Developer | [Apply](https://jobs.apple.com/en-us/details/200686880-3543/software-engineer-linux-driver-and-kernel-developer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=efd7562d5418395f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 02, 2026 |
+| **General Motors** | Sunnyvale, California, United States of America | 2027 Summer Intern - AI/ML Engineer, Autonomous Vehicle: Simulation | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicle--Simulation_JR-202621508) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=af537addff32bc1b) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **General Motors** | Sunnyvale, California, United States of America | 2027 Summer Intern - Software Engineer, Autonomous Vehicle: Simulation | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Software-Engineer--Autonomous-Vehicle--Simulation_JR-202621503) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a0cee082d5280add) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **General Motors** | Sunnyvale, California, United States of America | 2027 Summer Intern – AI/ML Engineer, Autonomous Vehicles: Simulation (PhD) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer--Autonomous-Vehicles--Simulation--PhD-_JR-202621511) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=59c942f204e93ec3) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **Workday** | USA.VA.Reston | Software Engineer - DevOps (US Federal) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Software-Engineer---DevOps--US-Federal-_JR-0110541-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=43a37e7530eb6492) | [Careers](https://workday.wd5.myworkdayjobs.com/en-US/Workday) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-01 16:57:08 MST
 
 📊 **18 new jobs this batch:**
