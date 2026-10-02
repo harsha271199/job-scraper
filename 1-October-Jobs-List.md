@@ -1,6 +1,41 @@
 # 📢 Job Listings for Harsha — October 01, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-01 16:57:08 MST
+
+📊 **18 new jobs this batch:**
+- Airbnb: 1 job
+- Apple: 7 jobs
+- Coinbase: 1 job
+- Intel: 1 job
+- Mastercard: 1 job
+- Snap: 2 jobs
+- Snowflake: 1 job
+- SpaceX: 4 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airbnb** | Remote, USA | Software Engineer, Passport & Commerce, Android | [Apply](https://careers.airbnb.com/positions/8247303?gh_jid=8247303) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c8d124e6701c5f2e) | [Careers](https://careers.airbnb.com/positions/) | 2026-10-01T17:35:44-04:00 |
+| **Apple** | N/A | AI Software Engineer, App Intelligence | [Apply](https://jobs.apple.com/en-us/details/200686874-0836/ai-software-engineer-app-intelligence?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9e3524ed4c28a36a) | [Careers](https://jobs.apple.com/en-us/search) | Oct 01, 2026 |
+| **Apple** | N/A | Core OS Software Engineer - USB4/Thunderbolt | [Apply](https://jobs.apple.com/en-us/details/200685812-0836/core-os-software-engineer-usb4-thunderbolt?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=52efc0528900bdc8) | [Careers](https://jobs.apple.com/en-us/search) | Oct 01, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, ML/GenAI Evaluation | [Apply](https://jobs.apple.com/en-us/details/200671401-0157/machine-learning-engineer-ml-genai-evaluation?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6dc2e41740a0fde5) | [Careers](https://jobs.apple.com/en-us/search) | Oct 01, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, ML/GenAI Evaluation | [Apply](https://jobs.apple.com/en-us/details/200671401-2459/machine-learning-engineer-ml-genai-evaluation?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9cac9582d2a37d02) | [Careers](https://jobs.apple.com/en-us/search) | Oct 01, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, ML/GenAI Evaluation | [Apply](https://jobs.apple.com/en-us/details/200671401-3543/machine-learning-engineer-ml-genai-evaluation?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e4adc395ae5ac031) | [Careers](https://jobs.apple.com/en-us/search) | Oct 01, 2026 |
+| **Apple** | N/A | Software Engineer (Framework Solutions), AI & Data Platforms (AiDP) | [Apply](https://jobs.apple.com/en-us/details/200656819-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a7bc0b835e0fab9f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 01, 2026 |
+| **Apple** | N/A | Software Engineer, Cloud Services ASE | [Apply](https://jobs.apple.com/en-us/details/200674218-0157/software-engineer-cloud-services-ase?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=093862abcc256853) | [Careers](https://jobs.apple.com/en-us/search) | Oct 01, 2026 |
+| **Coinbase** | Remote - USA | Software Engineer, CDP - Stablecoin | [Apply](https://www.coinbase.com/careers/positions/8234278?gh_jid=8234278) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b23928f137c5428e) | [Careers](https://www.coinbase.com/careers/positions) | 2026-10-01T16:38:28-04:00 |
+| **Intel** | US, Oregon, Hillsboro | Software Engineering PhD Intern New 2027 | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/Software-Engineering-PhD-Intern-New-2027_JR0287458-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=dbcb6d3b75f8b017) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-288896) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3e42cca50c478622) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco | Machine Learning Engineer, Level 3 | [Apply](https://careers.snap.com/job?id=Q426SWEML1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=11ac0b6de8f681eb) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco | Machine Learning Engineer, Level 4 | [Apply](https://careers.snap.com/job?id=Q426SWEML3) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2a089f96b78bfae0) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **Snowflake** | US-CA-Menlo Park | Business Intelligence Analyst | [Apply](https://jobs.ashbyhq.com/snowflake/4557ced6-d472-45c7-ab02-15c2024e8936) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=056ed049406a167d) | [Careers](https://careers.snowflake.com/us/en) | 2026-10-01T23:48:31.328+00:00 |
+| **SpaceX** | Washington, DC | Software Engineer, AI Infrastructure (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8861901002?gh_jid=8861901002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d7cb84c91fd001cc) | [Careers](https://new.spacex.com/careers) | 2026-10-01T18:55:41-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer, AI Infrastructure (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8861900002?gh_jid=8861900002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fa112af0833ac620) | [Careers](https://new.spacex.com/careers) | 2026-10-01T18:55:39-04:00 |
+| **SpaceX** | Redmond, WA | Software Engineer, AI Infrastructure (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8861902002?gh_jid=8861902002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=114c1daa1ee6d1ee) | [Careers](https://new.spacex.com/careers) | 2026-10-01T18:55:43-04:00 |
+| **SpaceX** | Palo Alto, CA | Software Engineer, AI Infrastructure (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8861903002?gh_jid=8861903002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=67fa0dd024bb308f) | [Careers](https://new.spacex.com/careers) | 2026-10-01T18:55:44-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-01 13:32:58 MST
 
 📊 **3 new jobs this batch:**
