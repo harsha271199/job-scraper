@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 02, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-02 11:43:13 MST
+
+📊 **1 new jobs this batch:**
+- Chime: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Chime** | San Francisco, CA, USA | Software Engineer, Infrastructure Platform | [Apply](https://boards.greenhouse.io/chime/jobs/8859182002?gh_jid=8859182002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d48239dc877e2a06) | [Careers](https://boards.greenhouse.io/chime) | 2026-10-02T14:36:33-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-02 11:29:07 MST
 
 📊 **15 new jobs this batch:**
