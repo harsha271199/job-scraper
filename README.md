@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 02, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-02 16:01:45 MST
+
+📊 **2 new jobs this batch:**
+- LangChain: 1 job
+- Snap: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **LangChain** | United States | Analytics Engineer | [Apply](https://jobs.ashbyhq.com/langchain/e10513d4-1b8d-492f-a6af-94bdae366a1a) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6c9a22670cf0132b) | [Careers](https://jobs.ashbyhq.com/langchain) | 2026-10-02T22:44:56.359+00:00 |
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco | Software Engineer, iOS, Level 4 | [Apply](https://careers.snap.com/job?id=Q426SWEI2) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a19abe1dab6d01c5) | [Careers](https://careers.snap.com/jobs) | N/A |
+
+---
+
 ### 🕐 Batch at 2026-10-02 15:35:52 MST
 
 📊 **22 new jobs this batch:**
