@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 02, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-02 19:03:29 MST
+
+📊 **1 new jobs this batch:**
+- Snap: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco; Seattle | Data Scientist, Level 3 | [Apply](https://careers.snap.com/job?id=Q426DSA3) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bcb859e00ef43508) | [Careers](https://careers.snap.com/jobs) | N/A |
+
+---
+
 ### 🕐 Batch at 2026-10-02 18:28:59 MST
 
 📊 **3 new jobs this batch:**
