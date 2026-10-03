@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — October 02, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-02 18:28:59 MST
+
+📊 **3 new jobs this batch:**
+- Apple: 2 jobs
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Core Audio Software Engineer, Audio & Media Technologies | [Apply](https://jobs.apple.com/en-us/details/200686866-0836/core-audio-software-engineer-audio-media-technologies?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b68a036ff2c6138f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 02, 2026 |
+| **Apple** | N/A | Teamcenter Site Reliability Engineer, Enterprise Technology Services | [Apply](https://jobs.apple.com/en-us/details/200663858-0157/teamcenter-site-reliability-engineer-enterprise-technology-services?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=699bd0cea6b2dcee) | [Careers](https://jobs.apple.com/en-us/search) | Oct 03, 2026 |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer - Level 4 - Space AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer---Level-4---Space-AHT_R10254240) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=19fa0649cde35117) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-02 16:01:45 MST
 
 📊 **2 new jobs this batch:**
