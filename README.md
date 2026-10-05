@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 05, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-05 15:56:22 MST
+
+📊 **2 new jobs this batch:**
+- Apple: 1 job
+- Citi: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer, Apple Intelligence Model Platform | [Apply](https://jobs.apple.com/en-us/details/200687353-0836/software-engineer-apple-intelligence-model-platform?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=27e6e8d60a3c1684) | [Careers](https://jobs.apple.com/en-us/search) | Oct 05, 2026 |
+| **Citi** | Jersey City New Jersey United States | Java Software Engineer, Data Platform | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Java-Software-Engineer--Data-Platform_26998465) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d583cc97ce7cc31c) | [Careers](https://citi.wd5.myworkdayjobs.com/en-US/2) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-05 15:43:17 MST
 
 📊 **20 new jobs this batch:**
