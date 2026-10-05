@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 05, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-05 09:24:41 MST
+
+📊 **1 new jobs this batch:**
+- General Motors: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **General Motors** | Warren, Michigan, United States of America | 2027 Summer Intern, AI/ML Engineer, Mapping | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping_JR-202621778) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6411bf5ca478b9c7) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-05 09:07:28 MST
 
 📊 **6 new jobs this batch:**
