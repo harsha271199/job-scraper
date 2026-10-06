@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — October 05, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-05 20:03:56 MST
+
+📊 **7 new jobs this batch:**
+- Baseten: 2 jobs
+- Cloudflare: 2 jobs
+- Rocket Money: 1 job
+- Sierra: 1 job
+- Snap: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Baseten** | San Francisco | Software Engineer- Inference Performance | [Apply](https://jobs.ashbyhq.com/baseten/7cb19a05-8e5b-44cf-b3e7-19949e2eff04) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3c0bcd043d247be3) | [Careers](https://jobs.ashbyhq.com/baseten) | 2026-10-05T23:25:08.828+00:00 |
+| **Baseten** | San Francisco | Software Engineer- Inference Platform | [Apply](https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=21042d95ed1fe3b3) | [Careers](https://jobs.ashbyhq.com/baseten) | 2026-10-05T23:30:18.959+00:00 |
+| **Cloudflare** | In-Office | Software Engineer Intern (2027) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245211?gh_jid=8245211) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=16ec2f4652543f93) | [Careers](https://www.cloudflare.com/careers/jobs/) | 2026-10-05T22:40:05-04:00 |
+| **Cloudflare** | In-Office | Software Engineer Intern (2027) | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8245197?gh_jid=8245197) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b28c25855ff21933) | [Careers](https://www.cloudflare.com/careers/jobs/) | 2026-10-05T22:42:06-04:00 |
+| **Rocket Money** | San Francisco, CA, Washington, D.C., New York City, N.Y., Remote (USA) | Software Engineer, Design Systems | [Apply](https://job-boards.greenhouse.io/truebill/jobs/8013696003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2c8916589d3d8dc8) | [Careers](https://boards.greenhouse.io/truebill) | 2026-10-05T19:37:07-04:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Inference | [Apply](https://jobs.ashbyhq.com/Sierra/b8666a78-fcb1-47bb-ad07-5edb6cd3ad71) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b4c09da6a9e10cae) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-10-05T23:30:38.889+00:00 |
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco; Seattle | Data Scientist, Level 4 | [Apply](https://careers.snap.com/job?id=Q426DSA4) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=35c6881fbc29d434) | [Careers](https://careers.snap.com/jobs) | N/A |
+
+---
+
 ### 🕐 Batch at 2026-10-05 15:56:22 MST
 
 📊 **2 new jobs this batch:**
