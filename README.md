@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 06, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-06 10:26:01 MST
+
+📊 **1 new jobs this batch:**
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Northrop Grumman** | United States-Ohio-Wright-Patterson AFB | Software Engineer - CLOUDworks (SkillBridge Conversion) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Wright-Patterson-AFB/Software-Engineer---CLOUDworks--SkillBridge-Conversion-_R10254680) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b15d67550e72b413) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-06 10:15:53 MST
 
 📊 **10 new jobs this batch:**
