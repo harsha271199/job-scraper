@@ -1,6 +1,44 @@
 # 📢 Job Listings for Harsha — October 06, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-06 14:43:31 MST
+
+📊 **16 new jobs this batch:**
+- Affirm: 2 jobs
+- Apple: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 2 jobs
+- CrowdStrike: 1 job
+- Fastly: 1 job
+- General Motors: 1 job
+- Guidehouse: 1 job
+- Lyft: 1 job
+- Morgan Stanley: 1 job
+- OpenAI: 1 job
+- Roblox: 1 job
+- Waymo: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Affirm** | New York, New York, United States | Software Engineer I (New Grad 2027) (NYC) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8008649003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=575cd3acf4457eac) | [Careers](https://boards.greenhouse.io/affirm) | 2026-10-06T15:02:34-04:00 |
+| **Affirm** | San Francisco, California, United States | Software Engineer I (New Grad 2027) (SF) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8010617003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e16f68047e9a1335) | [Careers](https://boards.greenhouse.io/affirm) | 2026-10-06T15:57:18-04:00 |
+| **Apple** | N/A | Software Development Engineering Test (SDET) - Quality Engineer | [Apply](https://jobs.apple.com/en-us/details/200686414-0836/software-development-engineering-test-sdet-quality-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f4627d6e0d05f277) | [Careers](https://jobs.apple.com/en-us/search) | Oct 06, 2026 |
+| **Boeing** | USA - Heath, OH | Associate Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Heath-OH/Associate-Software-Engineer_JR2026526261-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=58c78ed3f09116d7) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Engineer_R0251162) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=621833e0e7c233dd) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Rome, NY | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/Software-Engineer_R0251176) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8b7dcccc2b29a603) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **CrowdStrike** | USA - Sunnyvale, CA | EII Cloud Software Engineer - Cloud (Hybrid) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Software-Engineer---Cloud--Hybrid-_R28302) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f57e78f34b543d17) | [Careers](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | Posted Today |
+| **Fastly** | New York City, NY; San Francisco, CA | Software Engineer - Platform Observability and Intelligence | [Apply](https://www.fastly.com/about/jobs/apply?gh_jid=8256238) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=502e04d1526f611f) | [Careers](https://boards.greenhouse.io/fastly) | 2026-10-06T16:36:13-04:00 |
+| **General Motors** | Milford, Michigan, United States of America | Controls Software Engineer - Energy Source Control | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Controls-Software-Engineer---Energy-Source-Control_JR-202619801) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e789e71d0489233b) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **Guidehouse** | US - DC, Washington | DHS Business Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/DHS-Business-Analyst_44948) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=54db2242736588fc) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Lyft** | San Francisco, CA | PhD Machine Learning Software Engineer Intern (Summer 2027) | [Apply](https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d3af4212f9a18080) | [Careers](https://boards.greenhouse.io/lyft) | 2026-10-06T16:01:21-04:00 |
+| **Morgan Stanley** | Purchase, New York, United States of America | Digital Client Experience and Platforms Business Analyst – Associate | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Digital-Client-Experience-and-Platforms-Business-Analyst---Associate_PT-JR043844) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f70e09aea6cfc273) | [Careers](https://ms.wd5.myworkdayjobs.com/en-US/External) | Posted Today |
+| **OpenAI** | San Francisco | Software Engineer, Shop/Feed Ads | [Apply](https://jobs.ashbyhq.com/openai/4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1d80af6bc6e505dd) | [Careers](https://openai.com/careers/search/) | 2026-10-06T19:50:26.215+00:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Test Frameworks & Tooling | [Apply](https://careers.roblox.com/jobs/8229705?gh_jid=8229705) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=17eb74b02c77fa6a) | [Careers](https://careers.roblox.com/) | 2026-10-06T14:02:28-04:00 |
+| **Waymo** | Mountain View, CA, USA | 2027 Summer Intern, BS, Software Engineer, Model Eval | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8257660) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e8ca61cd0c2aa6a5) | [Careers](https://boards.greenhouse.io/waymo) | 2026-10-06T16:59:12-04:00 |
+| **Waymo** | Mountain View, California, United States | 2027 Summer Intern, MS, PhD, Software Engineer | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8250220) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fb6414507caaf136) | [Careers](https://boards.greenhouse.io/waymo) | 2026-10-06T16:50:50-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-06 10:26:01 MST
 
 📊 **1 new jobs this batch:**
