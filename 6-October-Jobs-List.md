@@ -1,6 +1,41 @@
 # 📢 Job Listings for Harsha — October 06, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-06 18:37:49 MST
+
+📊 **18 new jobs this batch:**
+- Anthropic: 1 job
+- Apple: 6 jobs
+- Baseten: 1 job
+- Booz Allen Hamilton: 1 job
+- Fiserv: 4 jobs
+- Nuro: 1 job
+- OpenAI: 1 job
+- SpaceX: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | Washington, DC | Applied AI Engineer, Public Sector | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5445410008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2f766e65f09814da) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-06T20:00:19-04:00 |
+| **Apple** | N/A | AI Software Engineer, App Intelligence | [Apply](https://jobs.apple.com/en-us/details/200687573-0836/ai-software-engineer-app-intelligence?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=df949c194f7c9511) | [Careers](https://jobs.apple.com/en-us/search) | Oct 06, 2026 |
+| **Apple** | N/A | Gate-level IR/EM CAD/NLP Engineer | [Apply](https://jobs.apple.com/en-us/details/200687478-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=041b09505545a3f3) | [Careers](https://jobs.apple.com/en-us/search) | Oct 07, 2026 |
+| **Apple** | N/A | Gate-level IR/EM CAD/NLP Engineer | [Apply](https://jobs.apple.com/en-us/details/200687478-3956/gate-level-ir-em-cad-nlp-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=11764fb796d3999c) | [Careers](https://jobs.apple.com/en-us/search) | Oct 07, 2026 |
+| **Apple** | N/A | Gate-level IR/EM CAD/NLP Engineer | [Apply](https://jobs.apple.com/en-us/details/200687477-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=28e500aa9f68b4fc) | [Careers](https://jobs.apple.com/en-us/search) | Oct 07, 2026 |
+| **Apple** | N/A | Gate-level IR/EM CAD/NLP Engineer | [Apply](https://jobs.apple.com/en-us/details/200687477-3956/gate-level-ir-em-cad-nlp-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=00fcd899047d69d4) | [Careers](https://jobs.apple.com/en-us/search) | Oct 07, 2026 |
+| **Apple** | N/A | Software Engineer, Observability | [Apply](https://jobs.apple.com/en-us/details/200686823-0836/software-engineer-observability?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=786e220b4141f4f7) | [Careers](https://jobs.apple.com/en-us/search) | Oct 06, 2026 |
+| **Baseten** | San Francisco | Product Data Scientist | [Apply](https://jobs.ashbyhq.com/baseten/84c24e55-1db0-49b6-99d8-9bce9e16892f) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6b35ff5c0dcedd98) | [Careers](https://jobs.ashbyhq.com/baseten) | 2026-10-07T00:46:25.274+00:00 |
+| **Booz Allen Hamilton** | McLean, VA | Platform and Databricks DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Platform-and-Databricks-DevOps-Engineer_R0240630) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a35bbf07cbd4be60) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Fiserv** | Alpharetta, Georgia | FTS Cloud Services - Infrastructure Cloud Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Alpharetta-Georgia/FTS-Cloud-Services---Infrastructure-Cloud-Engineer_R-10403948) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=585438d7c8624bad) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Fiserv** | Alpharetta, Georgia | FTS Cloud Services - Infrastructure Cloud Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Alpharetta-Georgia/FTS-Cloud-Services---Infrastructure-Cloud-Engineer_R-10403947) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8cef31c060238c22) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Fiserv** | Alpharetta, Georgia | FTS Cloud Services - Infrastructure Cloud Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Alpharetta-Georgia/FTS-Cloud-Services---Infrastructure-Cloud-Engineer_R-10403945) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7af725bb5049c9b8) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Fiserv** | Alpharetta, Georgia | FTS Cloud Services - Infrastructure Cloud Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Alpharetta-Georgia/FTS-Cloud-Services---Infrastructure-Cloud-Engineer_R-10403943-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2ca762a49a696f53) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Nuro** | Mountain View, California (HQ) | Software Engineer, Software Updates | [Apply](https://nuro.ai/careersitem?gh_jid=8230855) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c8f9b372228ecd34) | [Careers](https://boards.greenhouse.io/nuro) | 2026-10-06T18:35:12-04:00 |
+| **OpenAI** | San Francisco | Software Engineer, Life Sciences | [Apply](https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b8a1fa87780a33dd) | [Careers](https://openai.com/careers/search/) | 2026-10-06T23:58:11.643+00:00 |
+| **SpaceX** | Hawthorne, CA | Application Software Engineer, Employee Experience | [Apply](https://boards.greenhouse.io/spacex/jobs/8873383002?gh_jid=8873383002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=87764f682dfdcb0e) | [Careers](https://new.spacex.com/careers) | 2026-10-06T21:14:54-04:00 |
+| **SpaceX** | Washington, DC | Software Engineer (Starshield Products) | [Apply](https://boards.greenhouse.io/spacex/jobs/8865057002?gh_jid=8865057002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f90e08e5d9728e08) | [Careers](https://new.spacex.com/careers) | 2026-10-02T21:03:44-04:00 |
+| **SpaceX** | Palo Alto, CA | Software Engineer (Starshield Products) | [Apply](https://boards.greenhouse.io/spacex/jobs/8864991002?gh_jid=8864991002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=df0ab89c013bc4b1) | [Careers](https://new.spacex.com/careers) | 2026-10-02T21:03:46-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-06 14:43:31 MST
 
 📊 **16 new jobs this batch:**
