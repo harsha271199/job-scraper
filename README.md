@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 07, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-07 15:17:44 MST
+
+📊 **1 new jobs this batch:**
+- Reddit: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Reddit** | San Francisco, CA | Android Software Engineer, Consumer Engineering | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8263406) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=db5b3c66b506000b) | [Careers](https://redditinc.com/careers) | 2026-10-07T18:13:20-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-07 15:03:08 MST
 
 📊 **25 new jobs this batch:**
