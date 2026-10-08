@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — October 08, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-08 15:30:23 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 3 jobs
+- SpaceX: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Applied AI Engineer, Agent Harness | [Apply](https://jobs.apple.com/en-us/details/200688056-0836/applied-ai-engineer-agent-harness?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=429de5c6bfa29c19) | [Careers](https://jobs.apple.com/en-us/search) | Oct 08, 2026 |
+| **Apple** | N/A | Applied Data Scientist - Operations Decision Intelligence | [Apply](https://jobs.apple.com/en-us/details/200686918-3337/applied-data-scientist-operations-decision-intelligence?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3df6099d8342ea90) | [Careers](https://jobs.apple.com/en-us/search) | Oct 08, 2026 |
+| **Apple** | N/A | Machine Learning Engineer - Agentic AI | [Apply](https://jobs.apple.com/en-us/details/200688057-3956/machine-learning-engineer-agentic-ai?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2b2ba1f244b1870e) | [Careers](https://jobs.apple.com/en-us/search) | Oct 08, 2026 |
+| **SpaceX** | Bastrop, TX | Site Reliability Engineer, Data Center Infrastructure | [Apply](https://boards.greenhouse.io/spacex/jobs/8880672002?gh_jid=8880672002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e7f5f3beef8bd093) | [Careers](https://new.spacex.com/careers) | 2026-10-08T18:24:38-04:00 |
+| **SpaceX** | Bastrop, TX | Site Reliability Engineer, Platform Infrastructure | [Apply](https://boards.greenhouse.io/spacex/jobs/8776746002?gh_jid=8776746002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e4fd3e78e40d1727) | [Careers](https://new.spacex.com/careers) | 2026-09-02T20:25:10-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-08 15:09:15 MST
 
 📊 **17 new jobs this batch:**
