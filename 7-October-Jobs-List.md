@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 07, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-07 19:01:16 MST
+
+📊 **2 new jobs this batch:**
+- Apple: 1 job
+- Epic Games: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Applied AI Engineer | [Apply](https://jobs.apple.com/en-us/details/200670689-0836/applied-ai-engineer?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=99bcdcc55119a769) | [Careers](https://jobs.apple.com/en-us/search) | Oct 07, 2026 |
+| **Epic Games** | Cary,North Carolina,United States | SDET Intern | [Apply](https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0c582e3cf77f79a7) | [Careers](https://boards.greenhouse.io/epicgames) | 2026-10-07T20:26:05-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-07 15:17:44 MST
 
 📊 **1 new jobs this batch:**
