@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — October 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-09 09:38:00 MST
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Cursor: 1 job
+- Qualtrics: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Chantilly, VA | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cloud-Engineer_R0251441) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=75e34e4e0c940a14) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Cursor** | Palo Alto, CA | Software Engineer, Grok Connectors | [Apply](https://jobs.ashbyhq.com/cursor/5afc044a-00ed-4392-8759-59c7effe179d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=454cb54b32344031) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-10-09T16:20:54.964+00:00 |
+| **Qualtrics** | Provo, Utah, United States | Software Engineer I | [Apply](https://www.qualtrics.com/careers/us/en/job/8264811?gh_jid=8264811) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=30635ba5695e4b20) | [Careers](https://boards.greenhouse.io/qualtrics) | 2026-10-09T12:28:55-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-09 09:20:16 MST
 
 📊 **5 new jobs this batch:**
