@@ -1,6 +1,30 @@
 # 📢 Job Listings for Harsha — October 08, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-08 19:15:13 MST
+
+📊 **9 new jobs this batch:**
+- Apple: 1 job
+- General Motors: 1 job
+- OpenAI: 2 jobs
+- Roblox: 1 job
+- Snowflake: 1 job
+- SpaceX: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Backend Software Engineer - Apple TV Catalog | [Apply](https://jobs.apple.com/en-us/details/200683887-0836/backend-software-engineer-apple-tv-catalog?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9e0776b58a482a65) | [Careers](https://jobs.apple.com/en-us/search) | Oct 08, 2026 |
+| **General Motors** | Milford, Michigan, United States of America | Software Engineer | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202620600-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=227f37b93c8bb6c4) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **OpenAI** | San Francisco | Data Scientist, FinEng | [Apply](https://jobs.ashbyhq.com/openai/082f4d82-499f-4150-892f-0b0d1105fffe) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=95129dba10773c22) | [Careers](https://openai.com/careers/search/) | 2026-10-08T23:23:59.805+00:00 |
+| **OpenAI** | San Francisco | Frontend Software Engineer, ChatGPT Space | [Apply](https://jobs.ashbyhq.com/openai/1f99d5d3-4512-4247-aaba-3133a3dabf5a) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e6a7fd70e3f17bcb) | [Careers](https://openai.com/careers/search/) | 2026-10-08T23:10:44.537+00:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Data Model | [Apply](https://careers.roblox.com/jobs/8159857?gh_jid=8159857) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d3622fd23ff7e954) | [Careers](https://careers.roblox.com/) | 2026-10-08T20:03:41-04:00 |
+| **Snowflake** | US-CA-Menlo Park | Software Engineer - Customer Experience Engineering | [Apply](https://jobs.ashbyhq.com/snowflake/5ca0fa74-9e43-4468-8f1c-0a3aa0a993ec) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cf93358325a400f1) | [Careers](https://careers.snowflake.com/us/en) | 2026-10-08T23:15:41.144+00:00 |
+| **SpaceX** | Washington, DC | AI Security Software Engineer (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8880570002?gh_jid=8880570002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=611871a8e0107ea2) | [Careers](https://new.spacex.com/careers) | 2026-10-08T18:49:20-04:00 |
+| **SpaceX** | Hawthorne, CA | AI Security Software Engineer (Starshield) | [Apply](https://boards.greenhouse.io/spacex/jobs/8880556002?gh_jid=8880556002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=eb2f56266e3dd427) | [Careers](https://new.spacex.com/careers) | 2026-10-08T18:49:17-04:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer (AI Data Engineering) | [Apply](https://boards.greenhouse.io/spacex/jobs/8880868002?gh_jid=8880868002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e08440a8a93ced7e) | [Careers](https://new.spacex.com/careers) | 2026-10-08T20:39:23-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-08 15:30:23 MST
 
 📊 **5 new jobs this batch:**
