@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — October 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-09 18:18:04 MST
+
+📊 **8 new jobs this batch:**
+- Abnormal Security: 1 job
+- Apple: 2 jobs
+- Roblox: 2 jobs
+- SpaceX: 1 job
+- Suno: 1 job
+- Twitch: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Abnormal Security** | Remote - USA | Software Engineer 2 - Development Infrastructure | [Apply](https://abnormal.ai/careers/jobs/8015189003?gh_jid=8015189003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6a3b4e782c354161) | [Careers](https://boards.greenhouse.io/abnormalsecurity) | 2026-10-09T19:40:56-04:00 |
+| **Apple** | N/A | Graphics Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200688303-0157/graphics-software-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8f0514be77a77090) | [Careers](https://jobs.apple.com/en-us/search) | Oct 09, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, Evaluation, Agentic Search Capabilities | [Apply](https://jobs.apple.com/en-us/details/200670397-0836/machine-learning-engineer-evaluation-agentic-search-capabilities?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=81c8b00d6c397fee) | [Careers](https://jobs.apple.com/en-us/search) | Oct 09, 2026 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Account Security | [Apply](https://careers.roblox.com/jobs/8209006?gh_jid=8209006) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=939b7ee5cdeb726b) | [Careers](https://careers.roblox.com/) | 2026-10-09T19:51:45-04:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, ROS | [Apply](https://careers.roblox.com/jobs/8262223?gh_jid=8262223) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cb95c2d5340971aa) | [Careers](https://careers.roblox.com/) | 2026-10-09T18:30:13-04:00 |
+| **SpaceX** | Bastrop, TX | Site Reliability Engineer, Data Center Infrastructure | [Apply](https://boards.greenhouse.io/spacex/jobs/8882642002?gh_jid=8882642002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=373998c73a5f372e) | [Careers](https://new.spacex.com/careers) | 2026-10-09T21:15:44-04:00 |
+| **Suno** | Boston | Software Engineer, Internal Tools | [Apply](https://jobs.ashbyhq.com/suno/f19de1aa-0965-43db-acbe-b6917e268ff0) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=015d16d9f05056df) | [Careers](https://jobs.ashbyhq.com/suno) | 2026-10-09T22:27:27.506+00:00 |
+| **Twitch** | San Francisco, CA | Software Engineer II, Fintech | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8879836002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=886b53c8470af630) | [Careers](https://boards.greenhouse.io/twitch) | 2026-10-09T17:44:05-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-09 14:20:26 MST
 
 📊 **20 new jobs this batch:**
