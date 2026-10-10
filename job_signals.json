@@ -17,7 +17,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:56.280172+00:00"
+      "captured_at": "2026-10-10T07:48:29.624728+00:00"
     },
     "454cb54b32344031": {
       "id": "454cb54b32344031",
@@ -35,7 +35,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:54.593168+00:00"
+      "captured_at": "2026-10-10T07:48:29.014151+00:00"
     },
     "6ad790900acd5c5e": {
       "id": "6ad790900acd5c5e",
@@ -53,7 +53,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:54.476862+00:00"
+      "captured_at": "2026-10-10T07:48:28.740290+00:00"
     },
     "9b77d000b55f375f": {
       "id": "9b77d000b55f375f",
@@ -99,7 +99,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:54.238720+00:00"
+      "captured_at": "2026-10-10T07:48:28.531021+00:00"
     },
     "a9e73e50d1583e74": {
       "id": "a9e73e50d1583e74",
@@ -119,7 +119,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:53.863939+00:00"
+      "captured_at": "2026-10-10T07:48:27.783503+00:00"
     },
     "e4a05f4a53da5abf": {
       "id": "e4a05f4a53da5abf",
@@ -146,7 +146,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:49.769423+00:00"
+      "captured_at": "2026-10-10T07:48:26.177223+00:00"
     },
     "26b93f8cc0d2e630": {
       "id": "26b93f8cc0d2e630",
@@ -166,7 +166,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:45.369048+00:00"
+      "captured_at": "2026-10-10T07:48:24.179241+00:00"
     },
     "84929db7320041b5": {
       "id": "84929db7320041b5",
@@ -221,7 +221,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:38.825601+00:00"
+      "captured_at": "2026-10-10T07:48:21.969996+00:00"
     },
     "015d16d9f05056df": {
       "id": "015d16d9f05056df",
@@ -239,7 +239,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:38.504123+00:00"
+      "captured_at": "2026-10-10T07:48:21.719190+00:00"
     },
     "cb95c2d5340971aa": {
       "id": "cb95c2d5340971aa",
@@ -256,7 +256,9 @@
         "React",
         "Problem Solving",
         "Communication",
-        "ETL/ELT"
+        "ETL/ELT",
+        "Generative AI",
+        "Machine Learning"
       ],
       "top_jd_skills": [
         "TypeScript",
@@ -264,27 +266,32 @@
         "React",
         "Problem Solving",
         "Communication",
-        "ETL/ELT"
+        "ETL/ELT",
+        "Generative AI",
+        "Machine Learning"
       ],
       "verified_skills": [
         "Python",
-        "ETL/ELT"
+        "ETL/ELT",
+        "Machine Learning"
       ],
       "unverified_skills": [
         "TypeScript",
         "React",
         "Problem Solving",
-        "Communication"
+        "Communication",
+        "Generative AI"
       ],
       "signal_terms": [
         "data pipeline",
         "data pipelines",
         "api",
+        "machine learning",
         "python"
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:38.299364+00:00"
+      "captured_at": "2026-10-10T07:48:21.558027+00:00"
     },
     "939b7ee5cdeb726b": {
       "id": "939b7ee5cdeb726b",
@@ -298,29 +305,29 @@
       "detected_skills": [
         "Go",
         "Python",
+        "Machine Learning",
         "TypeScript",
         "C#",
         "JavaScript",
         "Stakeholder Management",
-        "Machine Learning",
         "Experimentation",
         "A/B Testing"
       ],
       "top_jd_skills": [
         "Go",
         "Python",
+        "Machine Learning",
         "TypeScript",
         "C#",
         "JavaScript",
         "Stakeholder Management",
-        "Machine Learning",
         "Experimentation",
         "A/B Testing"
       ],
       "verified_skills": [
         "Python",
-        "JavaScript",
-        "Machine Learning"
+        "Machine Learning",
+        "JavaScript"
       ],
       "unverified_skills": [
         "Go",
@@ -336,7 +343,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:38.183369+00:00"
+      "captured_at": "2026-10-10T07:48:20.948724+00:00"
     },
     "81c8b00d6c397fee": {
       "id": "81c8b00d6c397fee",
@@ -363,7 +370,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:37.993413+00:00"
+      "captured_at": "2026-10-10T07:48:20.808964+00:00"
     },
     "8f0514be77a77090": {
       "id": "8f0514be77a77090",
@@ -383,7 +390,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:34.211784+00:00"
+      "captured_at": "2026-10-10T07:48:17.975438+00:00"
     },
     "cada82f7d3af36af": {
       "id": "cada82f7d3af36af",
@@ -438,7 +445,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:30.602823+00:00"
+      "captured_at": "2026-10-10T07:48:15.348676+00:00"
     },
     "da2e89512b29185d": {
       "id": "da2e89512b29185d",
@@ -491,7 +498,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:30.472768+00:00"
+      "captured_at": "2026-10-10T07:48:14.928459+00:00"
     },
     "0533a8e2ef502586": {
       "id": "0533a8e2ef502586",
@@ -545,7 +552,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:29.831500+00:00"
+      "captured_at": "2026-10-10T07:48:14.545093+00:00"
     },
     "fd5284bf0e5981a1": {
       "id": "fd5284bf0e5981a1",
@@ -591,7 +598,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:29.471788+00:00"
+      "captured_at": "2026-10-10T07:48:14.169410+00:00"
     },
     "b8bd4501652f0c15": {
       "id": "b8bd4501652f0c15",
@@ -647,7 +654,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:29.084604+00:00"
+      "captured_at": "2026-10-10T07:48:13.757149+00:00"
     },
     "39d5992d12cf09a8": {
       "id": "39d5992d12cf09a8",
@@ -682,7 +689,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:28.692486+00:00"
+      "captured_at": "2026-10-10T07:48:13.416702+00:00"
     },
     "8177212a9fb87780": {
       "id": "8177212a9fb87780",
@@ -702,7 +709,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:28.130035+00:00"
+      "captured_at": "2026-10-10T07:48:12.836408+00:00"
     },
     "24c8920fee509d19": {
       "id": "24c8920fee509d19",
@@ -738,7 +745,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:23.310563+00:00"
+      "captured_at": "2026-10-10T07:48:10.351503+00:00"
     },
     "d4d8a43269e2e57f": {
       "id": "d4d8a43269e2e57f",
@@ -764,7 +771,40 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:23.012240+00:00"
+      "captured_at": "2026-10-10T07:48:10.016268+00:00"
+    },
+    "c726c67f8dece14d": {
+      "id": "c726c67f8dece14d",
+      "company": "Roblox",
+      "title": "Software Engineer, Engine Systems",
+      "location": "San Mateo, CA, United States",
+      "apply_url": "https://careers.roblox.com/jobs/8159854?gh_jid=8159854",
+      "official_url": "https://careers.roblox.com/",
+      "posted": "2026-10-08T16:11:24-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "C++",
+        "C#",
+        "Machine Learning"
+      ],
+      "top_jd_skills": [
+        "C++",
+        "C#",
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [
+        "C++",
+        "C#"
+      ],
+      "signal_terms": [
+        "machine learning"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:48:08.283532+00:00"
     },
     "51ffd1a8e61f4498": {
       "id": "51ffd1a8e61f4498",
@@ -782,7 +822,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:20.379999+00:00"
+      "captured_at": "2026-10-10T07:48:08.107327+00:00"
     },
     "a9a35f0260763c5d": {
       "id": "a9a35f0260763c5d",
@@ -800,7 +840,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:20.094162+00:00"
+      "captured_at": "2026-10-10T07:48:07.860471+00:00"
     },
     "3fc515771e773843": {
       "id": "3fc515771e773843",
@@ -826,7 +866,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:19.958821+00:00"
+      "captured_at": "2026-10-10T07:48:07.787897+00:00"
     },
     "34b76bbc2b8572f9": {
       "id": "34b76bbc2b8572f9",
@@ -844,7 +884,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:19.841715+00:00"
+      "captured_at": "2026-10-10T07:48:07.544447+00:00"
     },
     "66feb1c1a115c20b": {
       "id": "66feb1c1a115c20b",
@@ -883,7 +923,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:19.614976+00:00"
+      "captured_at": "2026-10-10T07:48:07.394891+00:00"
     },
     "c8aeaf83baec1ff0": {
       "id": "c8aeaf83baec1ff0",
@@ -903,7 +943,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:19.207400+00:00"
+      "captured_at": "2026-10-10T07:48:06.859862+00:00"
     },
     "d5ff07f4cfd44ce7": {
       "id": "d5ff07f4cfd44ce7",
@@ -923,7 +963,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:15.412662+00:00"
+      "captured_at": "2026-10-10T07:48:04.628860+00:00"
     },
     "2b2ba1f244b1870e": {
       "id": "2b2ba1f244b1870e",
@@ -950,7 +990,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:12.523031+00:00"
+      "captured_at": "2026-10-10T07:48:02.206570+00:00"
     },
     "3df6099d8342ea90": {
       "id": "3df6099d8342ea90",
@@ -970,7 +1010,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:08.668168+00:00"
+      "captured_at": "2026-10-10T07:47:59.833007+00:00"
     },
     "429de5c6bfa29c19": {
       "id": "429de5c6bfa29c19",
@@ -990,7 +1030,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:06.490761+00:00"
+      "captured_at": "2026-10-10T07:47:57.608289+00:00"
     },
     "eb2f56266e3dd427": {
       "id": "eb2f56266e3dd427",
@@ -1044,7 +1084,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:00.858302+00:00"
+      "captured_at": "2026-10-10T07:47:55.386581+00:00"
     },
     "611871a8e0107ea2": {
       "id": "611871a8e0107ea2",
@@ -1098,7 +1138,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:50:00.421890+00:00"
+      "captured_at": "2026-10-10T07:47:54.950899+00:00"
     },
     "cf93358325a400f1": {
       "id": "cf93358325a400f1",
@@ -1116,7 +1156,53 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:59.968061+00:00"
+      "captured_at": "2026-10-10T07:47:54.562403+00:00"
+    },
+    "d3622fd23ff7e954": {
+      "id": "d3622fd23ff7e954",
+      "company": "Roblox",
+      "title": "Software Engineer, Data Model",
+      "location": "San Mateo, CA, United States",
+      "apply_url": "https://careers.roblox.com/jobs/8159857?gh_jid=8159857",
+      "official_url": "https://careers.roblox.com/",
+      "posted": "2026-10-08T20:03:41-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "C++",
+        "C#",
+        "Go",
+        "Python",
+        "Networking",
+        "Machine Learning",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "C++",
+        "C#",
+        "Go",
+        "Python",
+        "Networking",
+        "Machine Learning",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "Python",
+        "Machine Learning"
+      ],
+      "unverified_skills": [
+        "C++",
+        "C#",
+        "Go",
+        "Networking",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "machine learning",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:54.437246+00:00"
     },
     "e6a7fd70e3f17bcb": {
       "id": "e6a7fd70e3f17bcb",
@@ -1134,7 +1220,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:59.517013+00:00"
+      "captured_at": "2026-10-10T07:47:53.852217+00:00"
     },
     "95129dba10773c22": {
       "id": "95129dba10773c22",
@@ -1152,7 +1238,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:59.233932+00:00"
+      "captured_at": "2026-10-10T07:47:53.606134+00:00"
     },
     "227f37b93c8bb6c4": {
       "id": "227f37b93c8bb6c4",
@@ -1188,7 +1274,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:58.911018+00:00"
+      "captured_at": "2026-10-10T07:47:53.315875+00:00"
     },
     "9e0776b58a482a65": {
       "id": "9e0776b58a482a65",
@@ -1208,7 +1294,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:58.484415+00:00"
+      "captured_at": "2026-10-10T07:47:52.913389+00:00"
     },
     "703a9a875ea3fb37": {
       "id": "703a9a875ea3fb37",
@@ -1228,7 +1314,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:54.870131+00:00"
+      "captured_at": "2026-10-10T07:47:50.389275+00:00"
     },
     "178cb3ef86e71ee4": {
       "id": "178cb3ef86e71ee4",
@@ -1246,7 +1332,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:50.979882+00:00"
+      "captured_at": "2026-10-10T07:47:46.966477+00:00"
     },
     "e408a5cc2a2a3057": {
       "id": "e408a5cc2a2a3057",
@@ -1273,7 +1359,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:50.586608+00:00"
+      "captured_at": "2026-10-10T07:47:46.708252+00:00"
     },
     "407163a574151806": {
       "id": "407163a574151806",
@@ -1300,52 +1386,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:50.243460+00:00"
-    },
-    "b7dbfee3ed366509": {
-      "id": "b7dbfee3ed366509",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineering Intern - Roy UT",
-      "location": "United States-Utah-Roy",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
-      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Testing",
-        "Python",
-        "C++",
-        "Java",
-        "GitLab",
-        "Tableau",
-        "Networking"
-      ],
-      "top_jd_skills": [
-        "Testing",
-        "Python",
-        "C++",
-        "Java",
-        "GitLab",
-        "Tableau",
-        "Networking"
-      ],
-      "verified_skills": [
-        "Python",
-        "Tableau"
-      ],
-      "unverified_skills": [
-        "Testing",
-        "C++",
-        "Java",
-        "GitLab",
-        "Networking"
-      ],
-      "signal_terms": [
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:49.876959+00:00"
+      "captured_at": "2026-10-10T07:47:46.346855+00:00"
     },
     "89bda6af4fc40c64": {
       "id": "89bda6af4fc40c64",
@@ -1390,7 +1431,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:49.485825+00:00"
+      "captured_at": "2026-10-10T07:47:45.442429+00:00"
     },
     "45db95707ee5d142": {
       "id": "45db95707ee5d142",
@@ -1446,7 +1487,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:48.884768+00:00"
+      "captured_at": "2026-10-10T07:47:44.766557+00:00"
     },
     "827f1cee7ae7764c": {
       "id": "827f1cee7ae7764c",
@@ -1466,7 +1507,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:48.615521+00:00"
+      "captured_at": "2026-10-10T07:47:44.486429+00:00"
     },
     "cc89cc0d5bd20ba4": {
       "id": "cc89cc0d5bd20ba4",
@@ -1486,7 +1527,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:44.628584+00:00"
+      "captured_at": "2026-10-10T07:47:41.787936+00:00"
     },
     "9fd387bb6012e144": {
       "id": "9fd387bb6012e144",
@@ -1535,7 +1576,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:40.651447+00:00"
+      "captured_at": "2026-10-10T07:47:38.890117+00:00"
     },
     "cf917656acf0e8ea": {
       "id": "cf917656acf0e8ea",
@@ -1591,7 +1632,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:39.852627+00:00"
+      "captured_at": "2026-10-10T07:47:38.079103+00:00"
     },
     "1b5cec2ea3aa3959": {
       "id": "1b5cec2ea3aa3959",
@@ -1604,21 +1645,21 @@
       "profile": "software-engineering",
       "detected_skills": [
         "Collaboration",
+        "Communication",
         "REST APIs",
         "Docker",
         "Kubernetes",
         "AWS",
-        "Communication",
         "ETL/ELT",
         "Stakeholder Management"
       ],
       "top_jd_skills": [
         "Collaboration",
+        "Communication",
         "REST APIs",
         "Docker",
         "Kubernetes",
         "AWS",
-        "Communication",
         "ETL/ELT",
         "Stakeholder Management"
       ],
@@ -1641,7 +1682,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:39.246313+00:00"
+      "captured_at": "2026-10-10T07:47:37.371636+00:00"
     },
     "478c72acfbbd8bbc": {
       "id": "478c72acfbbd8bbc",
@@ -1689,7 +1730,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:38.680556+00:00"
+      "captured_at": "2026-10-10T07:47:36.608622+00:00"
     },
     "9a75a56ec1f457d3": {
       "id": "9a75a56ec1f457d3",
@@ -1722,7 +1763,1748 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:38.029042+00:00"
+      "captured_at": "2026-10-10T07:47:35.165375+00:00"
+    },
+    "be82d44ad21ed608": {
+      "id": "be82d44ad21ed608",
+      "company": "Handshake",
+      "title": "Software Engineer I, Build Review & Test",
+      "location": "San Francisco, CA",
+      "apply_url": "https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58",
+      "official_url": "https://jobs.ashbyhq.com/handshake",
+      "posted": "2026-10-07T20:22:50.985+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:34.202050+00:00"
+    },
+    "8ebf68d6d3173d47": {
+      "id": "8ebf68d6d3173d47",
+      "company": "Decagon",
+      "title": "Software Engineer, Enterprise Product",
+      "location": "San Francisco",
+      "apply_url": "https://jobs.ashbyhq.com/decagon/0f41f8dc-a3c9-47e1-a3fe-5f137d83850e",
+      "official_url": "https://jobs.ashbyhq.com/decagon",
+      "posted": "2026-10-07T18:04:32.837+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:33.967914+00:00"
+    },
+    "f96dc9fc9f5d6f20": {
+      "id": "f96dc9fc9f5d6f20",
+      "company": "Crusoe",
+      "title": "Software Engineer II, Flex Compute",
+      "location": "San Francisco, CA - US",
+      "apply_url": "https://jobs.ashbyhq.com/crusoe/e9f2ba2c-e9af-4565-bd88-3dada421226f",
+      "official_url": "https://jobs.ashbyhq.com/crusoe",
+      "posted": "2026-10-07T18:09:12.242+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:33.721611+00:00"
+    },
+    "5743e9e8cbc15f5b": {
+      "id": "5743e9e8cbc15f5b",
+      "company": "Chime",
+      "title": "Software Engineer, Trust & Safety",
+      "location": "Chicago, IL, USA; San Francisco, CA, USA",
+      "apply_url": "https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002",
+      "official_url": "https://boards.greenhouse.io/chime",
+      "posted": "2026-10-07T14:22:15-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "REST APIs"
+      ],
+      "top_jd_skills": [
+        "REST APIs"
+      ],
+      "verified_skills": [
+        "REST APIs"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "api"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:33.576127+00:00"
+    },
+    "616c102e304937e5": {
+      "id": "616c102e304937e5",
+      "company": "Cerebras",
+      "title": "ML Research Scientist - Inference Core",
+      "location": "United States and Canada",
+      "apply_url": "https://jobs.ashbyhq.com/cerebras/cb57dac6-84cc-4860-9732-39c60514a2ab",
+      "official_url": "https://www.cerebras.ai/join-us",
+      "posted": "2026-10-02T23:45:55.090+00:00",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning"
+      ],
+      "top_jd_skills": [
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:33.055174+00:00"
+    },
+    "08c8c2d1aededa00": {
+      "id": "08c8c2d1aededa00",
+      "company": "Apple",
+      "title": "Software Engineer, Wireless Technologies & Ecosystems",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687773-3956/software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 07, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:32.271644+00:00"
+    },
+    "f8c1883705deb858": {
+      "id": "f8c1883705deb858",
+      "company": "Apple",
+      "title": "Site Reliability Engineer, Enterprise Technology Services",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200648586-0157/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 07, 2026",
+      "profile": "cloud-devops",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:30.394991+00:00"
+    },
+    "72f4e019339cfbe6": {
+      "id": "72f4e019339cfbe6",
+      "company": "Apple",
+      "title": "Machine Learning Engineer – LLMs, Agent Systems, and Simulation Tooling, Siri Core Modeling",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687821-0836/machine-learning-engineer-llms-agent-systems-and-simulation-tooling-siri-core-modeling?team=MLAI",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 07, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning",
+        "Large Language Models"
+      ],
+      "top_jd_skills": [
+        "Machine Learning",
+        "Large Language Models"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [
+        "Large Language Models"
+      ],
+      "signal_terms": [
+        "cloud",
+        "machine learning",
+        "llm"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:28.159169+00:00"
+    },
+    "db5b3c66b506000b": {
+      "id": "db5b3c66b506000b",
+      "company": "Reddit",
+      "title": "Android Software Engineer, Consumer Engineering",
+      "location": "San Francisco, CA",
+      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8263406",
+      "official_url": "https://redditinc.com/careers",
+      "posted": "2026-10-07T18:13:20-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Experimentation",
+        "Machine Learning",
+        "REST APIs",
+        "Stakeholder Management",
+        "Distributed Systems",
+        "SEO",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Experimentation",
+        "Machine Learning",
+        "REST APIs",
+        "Stakeholder Management",
+        "Distributed Systems",
+        "SEO",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "Machine Learning",
+        "REST APIs",
+        "SEO"
+      ],
+      "unverified_skills": [
+        "Experimentation",
+        "Stakeholder Management",
+        "Distributed Systems",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "distributed systems",
+        "api",
+        "iac",
+        "analytics"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:24.921068+00:00"
+    },
+    "0c582e3cf77f79a7": {
+      "id": "0c582e3cf77f79a7",
+      "company": "Epic Games",
+      "title": "SDET Intern",
+      "location": "Cary,North Carolina,United States",
+      "apply_url": "https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004",
+      "official_url": "https://boards.greenhouse.io/epicgames",
+      "posted": "2026-10-07T20:26:05-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:24.590209+00:00"
+    },
+    "99bcdcc55119a769": {
+      "id": "99bcdcc55119a769",
+      "company": "Apple",
+      "title": "Applied AI Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200670689-0836/applied-ai-engineer?team=MLAI",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 07, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:24.256621+00:00"
+    },
+    "623a59a2602aefd6": {
+      "id": "623a59a2602aefd6",
+      "company": "General Motors",
+      "title": "Software Engineer",
+      "location": "Warren, Michigan, United States of America",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer_JR-202621867",
+      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Git",
+        "Agile",
+        "C#",
+        "SQL"
+      ],
+      "top_jd_skills": [
+        "Git",
+        "Agile",
+        "C#",
+        "SQL"
+      ],
+      "verified_skills": [
+        "Git",
+        "SQL"
+      ],
+      "unverified_skills": [
+        "Agile",
+        "C#"
+      ],
+      "signal_terms": [
+        "sql"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:20.004642+00:00"
+    },
+    "9328d06a94d4e34c": {
+      "id": "9328d06a94d4e34c",
+      "company": "Apple",
+      "title": "Sr Software Engineer - G&A Solutions Engineering (GSE)",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687107-3401/sr-software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 06, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:19.499877+00:00"
+    },
+    "a4856b4e4ae50341": {
+      "id": "a4856b4e4ae50341",
+      "company": "Apple",
+      "title": "Gate-level IR/EM CAD/NLP Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687474-3956/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 06, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "NLP"
+      ],
+      "top_jd_skills": [
+        "NLP"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "NLP"
+      ],
+      "signal_terms": [
+        "cloud",
+        "nlp"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:16.788485+00:00"
+    },
+    "cc1ad27d6f7f192c": {
+      "id": "cc1ad27d6f7f192c",
+      "company": "Apple",
+      "title": "Gate-level IR/EM CAD/NLP Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687474-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 06, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "NLP"
+      ],
+      "top_jd_skills": [
+        "NLP"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "NLP"
+      ],
+      "signal_terms": [
+        "cloud",
+        "nlp"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:14.711807+00:00"
+    },
+    "e06db99affc7bada": {
+      "id": "e06db99affc7bada",
+      "company": "Affirm",
+      "title": "Software Engineer II, Backend (Decisions Orchestration)",
+      "location": "Remote US",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
+      "official_url": "https://boards.greenhouse.io/affirm",
+      "posted": "2026-10-06T09:57:14-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "GitHub",
+        "Testing",
+        "Communication",
+        "Go",
+        "Python",
+        "Redis",
+        "MySQL",
+        "AWS"
+      ],
+      "top_jd_skills": [
+        "GitHub",
+        "Testing",
+        "Communication",
+        "Go",
+        "Python",
+        "Redis",
+        "MySQL",
+        "AWS"
+      ],
+      "verified_skills": [
+        "GitHub",
+        "Python",
+        "AWS"
+      ],
+      "unverified_skills": [
+        "Testing",
+        "Communication",
+        "Go",
+        "Redis",
+        "MySQL"
+      ],
+      "signal_terms": [
+        "api",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:13.422585+00:00"
+    },
+    "1d80af6bc6e505dd": {
+      "id": "1d80af6bc6e505dd",
+      "company": "OpenAI",
+      "title": "Software Engineer, Shop/Feed Ads",
+      "location": "San Francisco",
+      "apply_url": "https://jobs.ashbyhq.com/openai/4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2",
+      "official_url": "https://openai.com/careers/search/",
+      "posted": "2026-10-06T19:50:26.215+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:12.328668+00:00"
+    },
+    "f70e09aea6cfc273": {
+      "id": "f70e09aea6cfc273",
+      "company": "Morgan Stanley",
+      "title": "Digital Client Experience and Platforms Business Analyst – Associate",
+      "location": "Purchase, New York, United States of America",
+      "apply_url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Digital-Client-Experience-and-Platforms-Business-Analyst---Associate_PT-JR043844",
+      "official_url": "https://ms.wd5.myworkdayjobs.com/en-US/External",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Communication",
+        "Agile",
+        "Testing",
+        "Stakeholder Management",
+        "Generative AI",
+        "Excel",
+        "Scrum"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Agile",
+        "Testing",
+        "Stakeholder Management",
+        "Generative AI",
+        "Excel",
+        "Scrum"
+      ],
+      "verified_skills": [
+        "Excel"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Agile",
+        "Testing",
+        "Stakeholder Management",
+        "Generative AI",
+        "Scrum"
+      ],
+      "signal_terms": [
+        "api",
+        "analytics"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:12.088780+00:00"
+    },
+    "d3af4212f9a18080": {
+      "id": "d3af4212f9a18080",
+      "company": "Lyft",
+      "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
+      "location": "San Francisco, CA",
+      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
+      "official_url": "https://boards.greenhouse.io/lyft",
+      "posted": "2026-10-06T16:01:21-04:00",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning"
+      ],
+      "top_jd_skills": [
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "machine learning"
+      ],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:11.459474+00:00"
+    },
+    "54db2242736588fc": {
+      "id": "54db2242736588fc",
+      "company": "Guidehouse",
+      "title": "DHS Business Analyst",
+      "location": "US - DC, Washington",
+      "apply_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/DHS-Business-Analyst_44948",
+      "official_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Problem Solving",
+        "Agile",
+        "Dashboarding",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Problem Solving",
+        "Agile",
+        "Dashboarding",
+        "Collaboration"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Problem Solving",
+        "Agile",
+        "Dashboarding",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "analytics",
+        "dashboard"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:11.280831+00:00"
+    },
+    "e789e71d0489233b": {
+      "id": "e789e71d0489233b",
+      "company": "General Motors",
+      "title": "Controls Software Engineer - Energy Source Control",
+      "location": "Milford, Michigan, United States of America",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Controls-Software-Engineer---Energy-Source-Control_JR-202619801",
+      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C++",
+        "Agile",
+        "Scrum",
+        "Problem Solving",
+        "Root Cause Analysis",
+        "Testing",
+        "Python"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C++",
+        "Agile",
+        "Scrum",
+        "Problem Solving",
+        "Root Cause Analysis",
+        "Testing",
+        "Python"
+      ],
+      "verified_skills": [
+        "Root Cause Analysis",
+        "Python"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "C++",
+        "Agile",
+        "Scrum",
+        "Problem Solving",
+        "Testing"
+      ],
+      "signal_terms": [
+        "elt",
+        "root cause analysis",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:10.751944+00:00"
+    },
+    "502e04d1526f611f": {
+      "id": "502e04d1526f611f",
+      "company": "Fastly",
+      "title": "Software Engineer - Platform Observability and Intelligence",
+      "location": "New York City, NY; San Francisco, CA",
+      "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8256238",
+      "official_url": "https://boards.greenhouse.io/fastly",
+      "posted": "2026-10-06T16:36:13-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "REST APIs",
+        "Monitoring",
+        "Observability"
+      ],
+      "top_jd_skills": [
+        "REST APIs",
+        "Monitoring",
+        "Observability"
+      ],
+      "verified_skills": [
+        "REST APIs"
+      ],
+      "unverified_skills": [
+        "Monitoring",
+        "Observability"
+      ],
+      "signal_terms": [
+        "streaming",
+        "api",
+        "cloud",
+        "observability",
+        "monitoring",
+        "dashboard"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:10.338261+00:00"
+    },
+    "f4627d6e0d05f277": {
+      "id": "f4627d6e0d05f277",
+      "company": "Apple",
+      "title": "Software Development Engineering Test (SDET) - Quality Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200686414-0836/software-development-engineering-test-sdet-quality-engineer?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 06, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:07.092578+00:00"
+    },
+    "e16f68047e9a1335": {
+      "id": "e16f68047e9a1335",
+      "company": "Affirm",
+      "title": "Software Engineer I (New Grad 2027) (SF)",
+      "location": "San Francisco, California, United States",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
+      "official_url": "https://boards.greenhouse.io/affirm",
+      "posted": "2026-10-06T15:57:18-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Collaboration",
+        "Go",
+        "GitHub"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Collaboration",
+        "Go",
+        "GitHub"
+      ],
+      "verified_skills": [
+        "GitHub"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Collaboration",
+        "Go"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:04.020935+00:00"
+    },
+    "575cd3acf4457eac": {
+      "id": "575cd3acf4457eac",
+      "company": "Affirm",
+      "title": "Software Engineer I (New Grad 2027) (NYC)",
+      "location": "New York, New York, United States",
+      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
+      "official_url": "https://boards.greenhouse.io/affirm",
+      "posted": "2026-10-06T15:02:34-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Collaboration",
+        "Go",
+        "GitHub"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Collaboration",
+        "Go",
+        "GitHub"
+      ],
+      "verified_skills": [
+        "GitHub"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Collaboration",
+        "Go"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:03.731202+00:00"
+    },
+    "b8a1fa87780a33dd": {
+      "id": "b8a1fa87780a33dd",
+      "company": "OpenAI",
+      "title": "Software Engineer, Life Sciences",
+      "location": "San Francisco",
+      "apply_url": "https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075",
+      "official_url": "https://openai.com/careers/search/",
+      "posted": "2026-10-06T23:58:11.643+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:03.386908+00:00"
+    },
+    "c8f9b372228ecd34": {
+      "id": "c8f9b372228ecd34",
+      "company": "Nuro",
+      "title": "Software Engineer, Software Updates",
+      "location": "Mountain View, California (HQ)",
+      "apply_url": "https://nuro.ai/careersitem?gh_jid=8230855",
+      "official_url": "https://boards.greenhouse.io/nuro",
+      "posted": "2026-10-06T18:35:12-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:47:03.065572+00:00"
+    },
+    "6b35ff5c0dcedd98": {
+      "id": "6b35ff5c0dcedd98",
+      "company": "Baseten",
+      "title": "Product Data Scientist",
+      "location": "San Francisco",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/84c24e55-1db0-49b6-99d8-9bce9e16892f",
+      "official_url": "https://jobs.ashbyhq.com/baseten",
+      "posted": "2026-10-07T00:46:25.274+00:00",
+      "profile": "machine-learning",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:51.134779+00:00"
+    },
+    "786e220b4141f4f7": {
+      "id": "786e220b4141f4f7",
+      "company": "Apple",
+      "title": "Software Engineer, Observability",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200686823-0836/software-engineer-observability?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 06, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Observability"
+      ],
+      "top_jd_skills": [
+        "Observability"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Observability"
+      ],
+      "signal_terms": [
+        "cloud",
+        "observability"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:50.878872+00:00"
+    },
+    "00fcd899047d69d4": {
+      "id": "00fcd899047d69d4",
+      "company": "Apple",
+      "title": "Gate-level IR/EM CAD/NLP Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687477-3956/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 07, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "NLP"
+      ],
+      "top_jd_skills": [
+        "NLP"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "NLP"
+      ],
+      "signal_terms": [
+        "cloud",
+        "nlp"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:47.578763+00:00"
+    },
+    "28e500aa9f68b4fc": {
+      "id": "28e500aa9f68b4fc",
+      "company": "Apple",
+      "title": "Gate-level IR/EM CAD/NLP Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687477-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 07, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "NLP"
+      ],
+      "top_jd_skills": [
+        "NLP"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "NLP"
+      ],
+      "signal_terms": [
+        "cloud",
+        "nlp"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:43.968387+00:00"
+    },
+    "11764fb796d3999c": {
+      "id": "11764fb796d3999c",
+      "company": "Apple",
+      "title": "Gate-level IR/EM CAD/NLP Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687478-3956/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 07, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "NLP"
+      ],
+      "top_jd_skills": [
+        "NLP"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "NLP"
+      ],
+      "signal_terms": [
+        "cloud",
+        "nlp"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:39.637868+00:00"
+    },
+    "041b09505545a3f3": {
+      "id": "041b09505545a3f3",
+      "company": "Apple",
+      "title": "Gate-level IR/EM CAD/NLP Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687478-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 07, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "NLP"
+      ],
+      "top_jd_skills": [
+        "NLP"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "NLP"
+      ],
+      "signal_terms": [
+        "cloud",
+        "nlp"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:36.850010+00:00"
+    },
+    "df949c194f7c9511": {
+      "id": "df949c194f7c9511",
+      "company": "Apple",
+      "title": "AI Software Engineer, App Intelligence",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687573-0836/ai-software-engineer-app-intelligence?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 06, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:33.737509+00:00"
+    },
+    "2f766e65f09814da": {
+      "id": "2f766e65f09814da",
+      "company": "Anthropic",
+      "title": "Applied AI Engineer, Public Sector",
+      "location": "Washington, DC",
+      "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008",
+      "official_url": "https://www.anthropic.com/careers/jobs",
+      "posted": "2026-10-06T20:00:19-04:00",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Communication",
+        "Large Language Models",
+        "Collaboration",
+        "TypeScript",
+        "Python",
+        "Stakeholder Management",
+        "Machine Learning"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Large Language Models",
+        "Collaboration",
+        "TypeScript",
+        "Python",
+        "Stakeholder Management",
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Python",
+        "Machine Learning"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Large Language Models",
+        "Collaboration",
+        "TypeScript",
+        "Stakeholder Management"
+      ],
+      "signal_terms": [
+        "api",
+        "cloud",
+        "machine learning",
+        "llm",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:30.685654+00:00"
+    },
+    "74ae569fca17f315": {
+      "id": "74ae569fca17f315",
+      "company": "Nvidia",
+      "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
+      "location": "US, CA, Santa Clara",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
+      "official_url": "https://jobs.nvidia.com/",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Machine Learning",
+        "Linux",
+        "C++",
+        "Python",
+        "Computer Vision",
+        "PyTorch",
+        "Problem Solving"
+      ],
+      "top_jd_skills": [
+        "Machine Learning",
+        "Linux",
+        "C++",
+        "Python",
+        "Computer Vision",
+        "PyTorch",
+        "Problem Solving"
+      ],
+      "verified_skills": [
+        "Machine Learning",
+        "Python",
+        "PyTorch"
+      ],
+      "unverified_skills": [
+        "Linux",
+        "C++",
+        "Computer Vision",
+        "Problem Solving"
+      ],
+      "signal_terms": [
+        "machine learning",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:30.333919+00:00"
+    },
+    "9fa7017b3d891c08": {
+      "id": "9fa7017b3d891c08",
+      "company": "Apple",
+      "title": "Traffic and Secure Services Network SRE Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200686351-3337/traffic-and-secure-services-network-sre-engineer?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 05, 2026",
+      "profile": "cloud-devops",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:29.907638+00:00"
+    },
+    "85f3dcdb166322ae": {
+      "id": "85f3dcdb166322ae",
+      "company": "Watershed",
+      "title": "Software engineer, energy management",
+      "location": "New York City",
+      "apply_url": "https://jobs.ashbyhq.com/watershed/275cb3f7-f6f0-4b1e-a9ea-7b377934606c",
+      "official_url": "https://jobs.ashbyhq.com/watershed",
+      "posted": "2026-08-06T20:08:10.385+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:26.227739+00:00"
+    },
+    "4bcbf68af91d36a4": {
+      "id": "4bcbf68af91d36a4",
+      "company": "Qualtrics",
+      "title": "Data Analyst, GTM Analytics",
+      "location": "Provo, Utah, United States",
+      "apply_url": "https://www.qualtrics.com/careers/us/en/job/8247259?gh_jid=8247259",
+      "official_url": "https://boards.greenhouse.io/qualtrics",
+      "posted": "2026-10-05T04:22:20-04:00",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Go"
+      ],
+      "top_jd_skills": [
+        "Go"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Go"
+      ],
+      "signal_terms": [
+        "analytics"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:26.050645+00:00"
+    },
+    "2f863d30e0a77121": {
+      "id": "2f863d30e0a77121",
+      "company": "Khan Academy",
+      "title": "Software Engineer Intern (Summer 2027)",
+      "location": "Remote (US + Canada Only)",
+      "apply_url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
+      "official_url": "https://boards.greenhouse.io/khanacademy",
+      "posted": "2026-10-05T10:46:40-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "React",
+        "Go",
+        "JavaScript",
+        "Google Cloud Platform",
+        "Testing",
+        "GitHub",
+        "Communication"
+      ],
+      "top_jd_skills": [
+        "React",
+        "Go",
+        "JavaScript",
+        "Google Cloud Platform",
+        "Testing",
+        "GitHub",
+        "Communication"
+      ],
+      "verified_skills": [
+        "JavaScript",
+        "GitHub"
+      ],
+      "unverified_skills": [
+        "React",
+        "Go",
+        "Google Cloud Platform",
+        "Testing",
+        "Communication"
+      ],
+      "signal_terms": [
+        "cloud",
+        "iac",
+        "llm"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:25.234470+00:00"
+    },
+    "2c96b339bf557eb9": {
+      "id": "2c96b339bf557eb9",
+      "company": "General Motors",
+      "title": "Software Engineer",
+      "location": "Milford, Michigan, United States of America",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202621759",
+      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "C++",
+        "Java",
+        "Python",
+        "Communication",
+        "Agile",
+        "Scrum"
+      ],
+      "top_jd_skills": [
+        "C++",
+        "Java",
+        "Python",
+        "Communication",
+        "Agile",
+        "Scrum"
+      ],
+      "verified_skills": [
+        "Python"
+      ],
+      "unverified_skills": [
+        "C++",
+        "Java",
+        "Communication",
+        "Agile",
+        "Scrum"
+      ],
+      "signal_terms": [
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:24.845316+00:00"
+    },
+    "aceae364b8b2021b": {
+      "id": "aceae364b8b2021b",
+      "company": "Pinterest",
+      "title": "Sr Software Engineer, Monetization Engineering",
+      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US",
+      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8231071",
+      "official_url": "https://www.pinterestcareers.com/jobs/",
+      "posted": "2026-10-05T17:10:51-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Go",
+        "Machine Learning",
+        "Communication",
+        "Collaboration",
+        "Testing",
+        "JavaScript",
+        "React",
+        "A/B Testing"
+      ],
+      "top_jd_skills": [
+        "Go",
+        "Machine Learning",
+        "Communication",
+        "Collaboration",
+        "Testing",
+        "JavaScript",
+        "React",
+        "A/B Testing"
+      ],
+      "verified_skills": [
+        "Machine Learning",
+        "JavaScript"
+      ],
+      "unverified_skills": [
+        "Go",
+        "Communication",
+        "Collaboration",
+        "Testing",
+        "React",
+        "A/B Testing"
+      ],
+      "signal_terms": [
+        "api",
+        "machine learning"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:24.425305+00:00"
+    },
+    "5d2c21e84e47713c": {
+      "id": "5d2c21e84e47713c",
+      "company": "Pinterest",
+      "title": "Software Engineer II, Monetization Engineering",
+      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US",
+      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8227344",
+      "official_url": "https://www.pinterestcareers.com/jobs/",
+      "posted": "2026-10-05T16:42:04-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Go",
+        "Communication",
+        "Machine Learning",
+        "Collaboration",
+        "Testing",
+        "JavaScript",
+        "React",
+        "A/B Testing"
+      ],
+      "top_jd_skills": [
+        "Go",
+        "Communication",
+        "Machine Learning",
+        "Collaboration",
+        "Testing",
+        "JavaScript",
+        "React",
+        "A/B Testing"
+      ],
+      "verified_skills": [
+        "Machine Learning",
+        "JavaScript"
+      ],
+      "unverified_skills": [
+        "Go",
+        "Communication",
+        "Collaboration",
+        "Testing",
+        "React",
+        "A/B Testing"
+      ],
+      "signal_terms": [
+        "api",
+        "machine learning"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:24.173902+00:00"
+    },
+    "ca5c445ab00d8b3e": {
+      "id": "ca5c445ab00d8b3e",
+      "company": "Pinterest",
+      "title": "Security Software Engineer II, Detection and Response",
+      "location": "San Francisco, CA, US; Remote, US",
+      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015547",
+      "official_url": "https://www.pinterestcareers.com/jobs/",
+      "posted": "2026-10-05T16:37:04-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Go",
+        "Incident Response",
+        "Networking",
+        "Linux",
+        "Python",
+        "Testing",
+        "Data Quality",
+        "Data Validation",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Go",
+        "Incident Response",
+        "Networking",
+        "Linux",
+        "Python",
+        "Testing",
+        "Data Quality",
+        "Data Validation",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "Incident Response",
+        "Python",
+        "Data Quality",
+        "Data Validation"
+      ],
+      "unverified_skills": [
+        "Go",
+        "Networking",
+        "Linux",
+        "Testing",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "cloud",
+        "incident response",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:23.925201+00:00"
+    },
+    "b8c83e4af503e550": {
+      "id": "b8c83e4af503e550",
+      "company": "Nuro",
+      "title": "New Grad Software Engineer, Routing",
+      "location": "Mountain View, California (HQ)",
+      "apply_url": "https://nuro.ai/careersitem?gh_jid=8248317",
+      "official_url": "https://boards.greenhouse.io/nuro",
+      "posted": "2026-10-05T15:14:38-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:23.412149+00:00"
+    },
+    "1b86730512cc1897": {
+      "id": "1b86730512cc1897",
+      "company": "Apple",
+      "title": "Sr Software Engineer, GenAI Platform & Practice",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200671236-0836/sr-software-engineer-genai-platform-practice?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 05, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Generative AI"
+      ],
+      "top_jd_skills": [
+        "Generative AI"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Generative AI"
+      ],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:20.819279+00:00"
+    },
+    "eec36f1070433449": {
+      "id": "eec36f1070433449",
+      "company": "Apple",
+      "title": "Software Engineer, Wireless Technologies & Ecosystems",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200686852-0836/software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 05, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:18.312965+00:00"
+    },
+    "a2dc707376145de9": {
+      "id": "a2dc707376145de9",
+      "company": "Apple",
+      "title": "Software Engineer - System Scheduling Performance",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687310-3543/software-engineer-system-scheduling-performance?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 05, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:15.756445+00:00"
+    },
+    "a4223d4e75d4e286": {
+      "id": "a4223d4e75d4e286",
+      "company": "Apple",
+      "title": "Site Reliability Engineer, Enterprise Technology Services",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200663858-0157/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 03, 2026",
+      "profile": "cloud-devops",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:12.671810+00:00"
+    },
+    "77ec0229d64b2ca5": {
+      "id": "77ec0229d64b2ca5",
+      "company": "Apple",
+      "title": "iOS Telephony Software Engineer, Wireless Technologies & Ecosystems",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687104-0836/ios-telephony-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 05, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:10.871487+00:00"
+    },
+    "fcf2445e3d4debf2": {
+      "id": "fcf2445e3d4debf2",
+      "company": "Apple",
+      "title": "Core OS Software Engineer - USB4/Thunderbolt",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687151-0836/core-os-software-engineer-usb4-thunderbolt?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 05, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:08.741354+00:00"
+    },
+    "631c9165d9da3a64": {
+      "id": "631c9165d9da3a64",
+      "company": "Apple",
+      "title": "AIML - Applied ML Research Scientist - Accessibility, Human Centered Machine Intelligence",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687240-3337/aiml-applied-ml-research-scientist-accessibility-human-centered-machine-intelligence?team=MLAI",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 05, 2026",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Machine Learning"
+      ],
+      "top_jd_skills": [
+        "Machine Learning"
+      ],
+      "verified_skills": [
+        "Machine Learning"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:05.693405+00:00"
+    },
+    "27e6e8d60a3c1684": {
+      "id": "27e6e8d60a3c1684",
+      "company": "Apple",
+      "title": "Software Engineer, Apple Intelligence Model Platform",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200687353-0836/software-engineer-apple-intelligence-model-platform?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 05, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:03.225456+00:00"
+    },
+    "b4c09da6a9e10cae": {
+      "id": "b4c09da6a9e10cae",
+      "company": "Sierra",
+      "title": "Software Engineer, Inference",
+      "location": "San Francisco, CA",
+      "apply_url": "https://jobs.ashbyhq.com/Sierra/b8666a78-fcb1-47bb-ad07-5edb6cd3ad71",
+      "official_url": "https://jobs.ashbyhq.com/Sierra",
+      "posted": "2026-10-05T23:30:38.889+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:00.680830+00:00"
+    },
+    "2c8916589d3d8dc8": {
+      "id": "2c8916589d3d8dc8",
+      "company": "Rocket Money",
+      "title": "Software Engineer, Design Systems",
+      "location": "San Francisco, CA, Washington, D.C., New York City, N.Y., Remote (USA)",
+      "apply_url": "https://job-boards.greenhouse.io/truebill/jobs/8013696003",
+      "official_url": "https://boards.greenhouse.io/truebill",
+      "posted": "2026-10-05T19:37:07-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "React",
+        "Testing",
+        "REST APIs",
+        "TypeScript",
+        "Collaboration",
+        "Stakeholder Management"
+      ],
+      "top_jd_skills": [
+        "React",
+        "Testing",
+        "REST APIs",
+        "TypeScript",
+        "Collaboration",
+        "Stakeholder Management"
+      ],
+      "verified_skills": [
+        "REST APIs"
+      ],
+      "unverified_skills": [
+        "React",
+        "Testing",
+        "TypeScript",
+        "Collaboration",
+        "Stakeholder Management"
+      ],
+      "signal_terms": [
+        "api"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:46:00.129887+00:00"
+    },
+    "21042d95ed1fe3b3": {
+      "id": "21042d95ed1fe3b3",
+      "company": "Baseten",
+      "title": "Software Engineer- Inference Platform",
+      "location": "San Francisco",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456",
+      "official_url": "https://jobs.ashbyhq.com/baseten",
+      "posted": "2026-10-05T23:30:18.959+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:45:59.857141+00:00"
+    },
+    "3c0bcd043d247be3": {
+      "id": "3c0bcd043d247be3",
+      "company": "Baseten",
+      "title": "Software Engineer- Inference Performance",
+      "location": "San Francisco",
+      "apply_url": "https://jobs.ashbyhq.com/baseten/7cb19a05-8e5b-44cf-b3e7-19949e2eff04",
+      "official_url": "https://jobs.ashbyhq.com/baseten",
+      "posted": "2026-10-05T23:25:08.828+00:00",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [],
+      "signal_source": "title-only",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:45:59.672206+00:00"
+    },
+    "267f3432a54eee03": {
+      "id": "267f3432a54eee03",
+      "company": "Gartner",
+      "title": "Associate Data Scientist - Spring 2027 Master's level graduates",
+      "location": "Stamford, CT",
+      "apply_url": "https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311",
+      "official_url": "https://gartner.wd5.myworkdayjobs.com/en-US/EXT",
+      "posted": "Posted Today",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Stakeholder Management",
+        "NLP",
+        "Communication",
+        "Data Modeling",
+        "Feature Engineering",
+        "Machine Learning",
+        "Generative AI",
+        "Statistics",
+        "Python",
+        "SQL",
+        "Apache Spark",
+        "Excel",
+        "Go"
+      ],
+      "top_jd_skills": [
+        "Stakeholder Management",
+        "NLP",
+        "Communication",
+        "Data Modeling",
+        "Feature Engineering",
+        "Machine Learning",
+        "Generative AI",
+        "Statistics",
+        "Python",
+        "SQL"
+      ],
+      "verified_skills": [
+        "Data Modeling",
+        "Machine Learning",
+        "Python",
+        "SQL",
+        "Apache Spark",
+        "Excel"
+      ],
+      "unverified_skills": [
+        "Stakeholder Management",
+        "NLP",
+        "Communication",
+        "Feature Engineering",
+        "Generative AI",
+        "Statistics",
+        "Go"
+      ],
+      "signal_terms": [
+        "api",
+        "data modeling",
+        "machine learning",
+        "nlp",
+        "analytics",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T07:45:58.520327+00:00"
+    },
+    "b7dbfee3ed366509": {
+      "id": "b7dbfee3ed366509",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineering Intern - Roy UT",
+      "location": "United States-Utah-Roy",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Utah-Roy/XMLNAME-2027-Software-Engineering-Intern---Roy-UT_R10254852",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Python",
+        "C++",
+        "Java",
+        "GitLab",
+        "Tableau",
+        "Networking"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Python",
+        "C++",
+        "Java",
+        "GitLab",
+        "Tableau",
+        "Networking"
+      ],
+      "verified_skills": [
+        "Python",
+        "Tableau"
+      ],
+      "unverified_skills": [
+        "Testing",
+        "C++",
+        "Java",
+        "GitLab",
+        "Networking"
+      ],
+      "signal_terms": [
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-10T01:49:49.876959+00:00"
     },
     "5d5e2508189a46e1": {
       "id": "5d5e2508189a46e1",
@@ -1769,110 +3551,6 @@
       "signal_source": "job-page",
       "jd_skill_version": 2,
       "captured_at": "2026-10-10T01:49:37.643662+00:00"
-    },
-    "be82d44ad21ed608": {
-      "id": "be82d44ad21ed608",
-      "company": "Handshake",
-      "title": "Software Engineer I, Build Review & Test",
-      "location": "San Francisco, CA",
-      "apply_url": "https://jobs.ashbyhq.com/handshake/b434ac30-8288-417a-96b0-29fa8dac7d58",
-      "official_url": "https://jobs.ashbyhq.com/handshake",
-      "posted": "2026-10-07T20:22:50.985+00:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:37.276675+00:00"
-    },
-    "8ebf68d6d3173d47": {
-      "id": "8ebf68d6d3173d47",
-      "company": "Decagon",
-      "title": "Software Engineer, Enterprise Product",
-      "location": "San Francisco",
-      "apply_url": "https://jobs.ashbyhq.com/decagon/0f41f8dc-a3c9-47e1-a3fe-5f137d83850e",
-      "official_url": "https://jobs.ashbyhq.com/decagon",
-      "posted": "2026-10-07T18:04:32.837+00:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:37.158913+00:00"
-    },
-    "f96dc9fc9f5d6f20": {
-      "id": "f96dc9fc9f5d6f20",
-      "company": "Crusoe",
-      "title": "Software Engineer II, Flex Compute",
-      "location": "San Francisco, CA - US",
-      "apply_url": "https://jobs.ashbyhq.com/crusoe/e9f2ba2c-e9af-4565-bd88-3dada421226f",
-      "official_url": "https://jobs.ashbyhq.com/crusoe",
-      "posted": "2026-10-07T18:09:12.242+00:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:36.938507+00:00"
-    },
-    "5743e9e8cbc15f5b": {
-      "id": "5743e9e8cbc15f5b",
-      "company": "Chime",
-      "title": "Software Engineer, Trust & Safety",
-      "location": "Chicago, IL, USA; San Francisco, CA, USA",
-      "apply_url": "https://boards.greenhouse.io/chime/jobs/8875663002?gh_jid=8875663002",
-      "official_url": "https://boards.greenhouse.io/chime",
-      "posted": "2026-10-07T14:22:15-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "REST APIs"
-      ],
-      "top_jd_skills": [
-        "REST APIs"
-      ],
-      "verified_skills": [
-        "REST APIs"
-      ],
-      "unverified_skills": [],
-      "signal_terms": [
-        "api"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:36.726790+00:00"
-    },
-    "616c102e304937e5": {
-      "id": "616c102e304937e5",
-      "company": "Cerebras",
-      "title": "ML Research Scientist - Inference Core",
-      "location": "United States and Canada",
-      "apply_url": "https://jobs.ashbyhq.com/cerebras/cb57dac6-84cc-4860-9732-39c60514a2ab",
-      "official_url": "https://www.cerebras.ai/join-us",
-      "posted": "2026-10-02T23:45:55.090+00:00",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "Machine Learning"
-      ],
-      "top_jd_skills": [
-        "Machine Learning"
-      ],
-      "verified_skills": [
-        "Machine Learning"
-      ],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:36.237575+00:00"
     },
     "dc17083acf5ecc27": {
       "id": "dc17083acf5ecc27",
@@ -1970,544 +3648,6 @@
       "jd_skill_version": 2,
       "captured_at": "2026-10-10T01:49:35.679327+00:00"
     },
-    "08c8c2d1aededa00": {
-      "id": "08c8c2d1aededa00",
-      "company": "Apple",
-      "title": "Software Engineer, Wireless Technologies & Ecosystems",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687773-3956/software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 07, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:35.332468+00:00"
-    },
-    "f8c1883705deb858": {
-      "id": "f8c1883705deb858",
-      "company": "Apple",
-      "title": "Site Reliability Engineer, Enterprise Technology Services",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200648586-0157/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 07, 2026",
-      "profile": "cloud-devops",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:32.257336+00:00"
-    },
-    "72f4e019339cfbe6": {
-      "id": "72f4e019339cfbe6",
-      "company": "Apple",
-      "title": "Machine Learning Engineer – LLMs, Agent Systems, and Simulation Tooling, Siri Core Modeling",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687821-0836/machine-learning-engineer-llms-agent-systems-and-simulation-tooling-siri-core-modeling?team=MLAI",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 07, 2026",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "Machine Learning",
-        "Large Language Models"
-      ],
-      "top_jd_skills": [
-        "Machine Learning",
-        "Large Language Models"
-      ],
-      "verified_skills": [
-        "Machine Learning"
-      ],
-      "unverified_skills": [
-        "Large Language Models"
-      ],
-      "signal_terms": [
-        "cloud",
-        "machine learning",
-        "llm"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:28.371218+00:00"
-    },
-    "db5b3c66b506000b": {
-      "id": "db5b3c66b506000b",
-      "company": "Reddit",
-      "title": "Android Software Engineer, Consumer Engineering",
-      "location": "San Francisco, CA",
-      "apply_url": "https://job-boards.greenhouse.io/reddit/jobs/8263406",
-      "official_url": "https://redditinc.com/careers",
-      "posted": "2026-10-07T18:13:20-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Experimentation",
-        "Machine Learning",
-        "REST APIs",
-        "Stakeholder Management",
-        "Distributed Systems",
-        "SEO",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Experimentation",
-        "Machine Learning",
-        "REST APIs",
-        "Stakeholder Management",
-        "Distributed Systems",
-        "SEO",
-        "Collaboration"
-      ],
-      "verified_skills": [
-        "Machine Learning",
-        "REST APIs",
-        "SEO"
-      ],
-      "unverified_skills": [
-        "Experimentation",
-        "Stakeholder Management",
-        "Distributed Systems",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "distributed systems",
-        "api",
-        "iac",
-        "analytics"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:25.224382+00:00"
-    },
-    "0c582e3cf77f79a7": {
-      "id": "0c582e3cf77f79a7",
-      "company": "Epic Games",
-      "title": "SDET Intern",
-      "location": "Cary,North Carolina,United States",
-      "apply_url": "https://epicgames.com/careers/jobs/6219626004?gh_jid=6219626004",
-      "official_url": "https://boards.greenhouse.io/epicgames",
-      "posted": "2026-10-07T20:26:05-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:24.973371+00:00"
-    },
-    "99bcdcc55119a769": {
-      "id": "99bcdcc55119a769",
-      "company": "Apple",
-      "title": "Applied AI Engineer",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200670689-0836/applied-ai-engineer?team=MLAI",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 07, 2026",
-      "profile": "machine-learning",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:24.475028+00:00"
-    },
-    "623a59a2602aefd6": {
-      "id": "623a59a2602aefd6",
-      "company": "General Motors",
-      "title": "Software Engineer",
-      "location": "Warren, Michigan, United States of America",
-      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Engineer_JR-202621867",
-      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Git",
-        "Agile",
-        "C#",
-        "SQL"
-      ],
-      "top_jd_skills": [
-        "Git",
-        "Agile",
-        "C#",
-        "SQL"
-      ],
-      "verified_skills": [
-        "Git",
-        "SQL"
-      ],
-      "unverified_skills": [
-        "Agile",
-        "C#"
-      ],
-      "signal_terms": [
-        "sql"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:20.692033+00:00"
-    },
-    "9328d06a94d4e34c": {
-      "id": "9328d06a94d4e34c",
-      "company": "Apple",
-      "title": "Sr Software Engineer - G&A Solutions Engineering (GSE)",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687107-3401/sr-software-engineer-g-a-solutions-engineering-gse?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 06, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:19.875130+00:00"
-    },
-    "a4856b4e4ae50341": {
-      "id": "a4856b4e4ae50341",
-      "company": "Apple",
-      "title": "Gate-level IR/EM CAD/NLP Engineer",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687474-3956/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 06, 2026",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "NLP"
-      ],
-      "top_jd_skills": [
-        "NLP"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "NLP"
-      ],
-      "signal_terms": [
-        "cloud",
-        "nlp"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:16.204661+00:00"
-    },
-    "cc1ad27d6f7f192c": {
-      "id": "cc1ad27d6f7f192c",
-      "company": "Apple",
-      "title": "Gate-level IR/EM CAD/NLP Engineer",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687474-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 06, 2026",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "NLP"
-      ],
-      "top_jd_skills": [
-        "NLP"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "NLP"
-      ],
-      "signal_terms": [
-        "cloud",
-        "nlp"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:13.839180+00:00"
-    },
-    "e06db99affc7bada": {
-      "id": "e06db99affc7bada",
-      "company": "Affirm",
-      "title": "Software Engineer II, Backend (Decisions Orchestration)",
-      "location": "Remote US",
-      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8003016003",
-      "official_url": "https://boards.greenhouse.io/affirm",
-      "posted": "2026-10-06T09:57:14-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "GitHub",
-        "Testing",
-        "Communication",
-        "Go",
-        "Python",
-        "Redis",
-        "MySQL",
-        "AWS"
-      ],
-      "top_jd_skills": [
-        "GitHub",
-        "Testing",
-        "Communication",
-        "Go",
-        "Python",
-        "Redis",
-        "MySQL",
-        "AWS"
-      ],
-      "verified_skills": [
-        "GitHub",
-        "Python",
-        "AWS"
-      ],
-      "unverified_skills": [
-        "Testing",
-        "Communication",
-        "Go",
-        "Redis",
-        "MySQL"
-      ],
-      "signal_terms": [
-        "api",
-        "sql",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:11.577414+00:00"
-    },
-    "1d80af6bc6e505dd": {
-      "id": "1d80af6bc6e505dd",
-      "company": "OpenAI",
-      "title": "Software Engineer, Shop/Feed Ads",
-      "location": "San Francisco",
-      "apply_url": "https://jobs.ashbyhq.com/openai/4d7145cf-ef4e-4a39-b1ef-b58e4e5c06d2",
-      "official_url": "https://openai.com/careers/search/",
-      "posted": "2026-10-06T19:50:26.215+00:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:10.293730+00:00"
-    },
-    "f70e09aea6cfc273": {
-      "id": "f70e09aea6cfc273",
-      "company": "Morgan Stanley",
-      "title": "Digital Client Experience and Platforms Business Analyst – Associate",
-      "location": "Purchase, New York, United States of America",
-      "apply_url": "https://ms.wd5.myworkdayjobs.com/en-US/External/job/Purchase-New-York-United-States-of-America/Digital-Client-Experience-and-Platforms-Business-Analyst---Associate_PT-JR043844",
-      "official_url": "https://ms.wd5.myworkdayjobs.com/en-US/External",
-      "posted": "Posted Today",
-      "profile": "data-analytics",
-      "detected_skills": [
-        "Communication",
-        "Agile",
-        "Testing",
-        "Stakeholder Management",
-        "Generative AI",
-        "Excel",
-        "Scrum"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Agile",
-        "Testing",
-        "Stakeholder Management",
-        "Generative AI",
-        "Excel",
-        "Scrum"
-      ],
-      "verified_skills": [
-        "Excel"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "Agile",
-        "Testing",
-        "Stakeholder Management",
-        "Generative AI",
-        "Scrum"
-      ],
-      "signal_terms": [
-        "api",
-        "analytics"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:09.932928+00:00"
-    },
-    "d3af4212f9a18080": {
-      "id": "d3af4212f9a18080",
-      "company": "Lyft",
-      "title": "PhD Machine Learning Software Engineer Intern (Summer 2027)",
-      "location": "San Francisco, CA",
-      "apply_url": "https://app.careerpuck.com/job-board/lyft/job/8817974002?gh_jid=8817974002",
-      "official_url": "https://boards.greenhouse.io/lyft",
-      "posted": "2026-10-06T16:01:21-04:00",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "Machine Learning"
-      ],
-      "top_jd_skills": [
-        "Machine Learning"
-      ],
-      "verified_skills": [
-        "Machine Learning"
-      ],
-      "unverified_skills": [],
-      "signal_terms": [
-        "machine learning"
-      ],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:09.442906+00:00"
-    },
-    "54db2242736588fc": {
-      "id": "54db2242736588fc",
-      "company": "Guidehouse",
-      "title": "DHS Business Analyst",
-      "location": "US - DC, Washington",
-      "apply_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/DHS-Business-Analyst_44948",
-      "official_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External",
-      "posted": "Posted Today",
-      "profile": "data-analytics",
-      "detected_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Problem Solving",
-        "Agile",
-        "Dashboarding",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Problem Solving",
-        "Agile",
-        "Dashboarding",
-        "Collaboration"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Problem Solving",
-        "Agile",
-        "Dashboarding",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "analytics",
-        "dashboard"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:09.146429+00:00"
-    },
-    "e789e71d0489233b": {
-      "id": "e789e71d0489233b",
-      "company": "General Motors",
-      "title": "Controls Software Engineer - Energy Source Control",
-      "location": "Milford, Michigan, United States of America",
-      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Controls-Software-Engineer---Energy-Source-Control_JR-202619801",
-      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "C++",
-        "Agile",
-        "Scrum",
-        "Problem Solving",
-        "Root Cause Analysis",
-        "Testing",
-        "Python"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "C++",
-        "Agile",
-        "Scrum",
-        "Problem Solving",
-        "Root Cause Analysis",
-        "Testing",
-        "Python"
-      ],
-      "verified_skills": [
-        "Root Cause Analysis",
-        "Python"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "C++",
-        "Agile",
-        "Scrum",
-        "Problem Solving",
-        "Testing"
-      ],
-      "signal_terms": [
-        "elt",
-        "root cause analysis",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:08.792448+00:00"
-    },
-    "502e04d1526f611f": {
-      "id": "502e04d1526f611f",
-      "company": "Fastly",
-      "title": "Software Engineer - Platform Observability and Intelligence",
-      "location": "New York City, NY; San Francisco, CA",
-      "apply_url": "https://www.fastly.com/about/jobs/apply?gh_jid=8256238",
-      "official_url": "https://boards.greenhouse.io/fastly",
-      "posted": "2026-10-06T16:36:13-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "REST APIs",
-        "Monitoring",
-        "Observability"
-      ],
-      "top_jd_skills": [
-        "REST APIs",
-        "Monitoring",
-        "Observability"
-      ],
-      "verified_skills": [
-        "REST APIs"
-      ],
-      "unverified_skills": [
-        "Monitoring",
-        "Observability"
-      ],
-      "signal_terms": [
-        "streaming",
-        "api",
-        "cloud",
-        "observability",
-        "monitoring",
-        "dashboard"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:08.349784+00:00"
-    },
     "58c78ed3f09116d7": {
       "id": "58c78ed3f09116d7",
       "company": "Boeing",
@@ -2546,726 +3686,6 @@
       "jd_skill_version": 2,
       "captured_at": "2026-10-10T01:49:07.373348+00:00"
     },
-    "f4627d6e0d05f277": {
-      "id": "f4627d6e0d05f277",
-      "company": "Apple",
-      "title": "Software Development Engineering Test (SDET) - Quality Engineer",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200686414-0836/software-development-engineering-test-sdet-quality-engineer?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 06, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:07.003316+00:00"
-    },
-    "e16f68047e9a1335": {
-      "id": "e16f68047e9a1335",
-      "company": "Affirm",
-      "title": "Software Engineer I (New Grad 2027) (SF)",
-      "location": "San Francisco, California, United States",
-      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8010617003",
-      "official_url": "https://boards.greenhouse.io/affirm",
-      "posted": "2026-10-06T15:57:18-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Collaboration",
-        "Go",
-        "GitHub"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Collaboration",
-        "Go",
-        "GitHub"
-      ],
-      "verified_skills": [
-        "GitHub"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Collaboration",
-        "Go"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:02.488872+00:00"
-    },
-    "575cd3acf4457eac": {
-      "id": "575cd3acf4457eac",
-      "company": "Affirm",
-      "title": "Software Engineer I (New Grad 2027) (NYC)",
-      "location": "New York, New York, United States",
-      "apply_url": "https://job-boards.greenhouse.io/affirm/jobs/8008649003",
-      "official_url": "https://boards.greenhouse.io/affirm",
-      "posted": "2026-10-06T15:02:34-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Collaboration",
-        "Go",
-        "GitHub"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Collaboration",
-        "Go",
-        "GitHub"
-      ],
-      "verified_skills": [
-        "GitHub"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Collaboration",
-        "Go"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:02.219953+00:00"
-    },
-    "b8a1fa87780a33dd": {
-      "id": "b8a1fa87780a33dd",
-      "company": "OpenAI",
-      "title": "Software Engineer, Life Sciences",
-      "location": "San Francisco",
-      "apply_url": "https://jobs.ashbyhq.com/openai/4f0d64b8-bfa7-4c30-9972-a10d74b49075",
-      "official_url": "https://openai.com/careers/search/",
-      "posted": "2026-10-06T23:58:11.643+00:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:01.918427+00:00"
-    },
-    "c8f9b372228ecd34": {
-      "id": "c8f9b372228ecd34",
-      "company": "Nuro",
-      "title": "Software Engineer, Software Updates",
-      "location": "Mountain View, California (HQ)",
-      "apply_url": "https://nuro.ai/careersitem?gh_jid=8230855",
-      "official_url": "https://boards.greenhouse.io/nuro",
-      "posted": "2026-10-06T18:35:12-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:49:01.571767+00:00"
-    },
-    "6b35ff5c0dcedd98": {
-      "id": "6b35ff5c0dcedd98",
-      "company": "Baseten",
-      "title": "Product Data Scientist",
-      "location": "San Francisco",
-      "apply_url": "https://jobs.ashbyhq.com/baseten/84c24e55-1db0-49b6-99d8-9bce9e16892f",
-      "official_url": "https://jobs.ashbyhq.com/baseten",
-      "posted": "2026-10-07T00:46:25.274+00:00",
-      "profile": "machine-learning",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:58.649059+00:00"
-    },
-    "786e220b4141f4f7": {
-      "id": "786e220b4141f4f7",
-      "company": "Apple",
-      "title": "Software Engineer, Observability",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200686823-0836/software-engineer-observability?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 06, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Observability"
-      ],
-      "top_jd_skills": [
-        "Observability"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Observability"
-      ],
-      "signal_terms": [
-        "cloud",
-        "observability"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:58.530474+00:00"
-    },
-    "00fcd899047d69d4": {
-      "id": "00fcd899047d69d4",
-      "company": "Apple",
-      "title": "Gate-level IR/EM CAD/NLP Engineer",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687477-3956/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 07, 2026",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "NLP"
-      ],
-      "top_jd_skills": [
-        "NLP"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "NLP"
-      ],
-      "signal_terms": [
-        "cloud",
-        "nlp"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:56.048681+00:00"
-    },
-    "28e500aa9f68b4fc": {
-      "id": "28e500aa9f68b4fc",
-      "company": "Apple",
-      "title": "Gate-level IR/EM CAD/NLP Engineer",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687477-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 07, 2026",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "NLP"
-      ],
-      "top_jd_skills": [
-        "NLP"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "NLP"
-      ],
-      "signal_terms": [
-        "cloud",
-        "nlp"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:51.723245+00:00"
-    },
-    "11764fb796d3999c": {
-      "id": "11764fb796d3999c",
-      "company": "Apple",
-      "title": "Gate-level IR/EM CAD/NLP Engineer",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687478-3956/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 07, 2026",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "NLP"
-      ],
-      "top_jd_skills": [
-        "NLP"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "NLP"
-      ],
-      "signal_terms": [
-        "cloud",
-        "nlp"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:47.541610+00:00"
-    },
-    "041b09505545a3f3": {
-      "id": "041b09505545a3f3",
-      "company": "Apple",
-      "title": "Gate-level IR/EM CAD/NLP Engineer",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687478-0157/gate-level-ir-em-cad-nlp-engineer?team=HRDWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 07, 2026",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "NLP"
-      ],
-      "top_jd_skills": [
-        "NLP"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "NLP"
-      ],
-      "signal_terms": [
-        "cloud",
-        "nlp"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:43.327626+00:00"
-    },
-    "df949c194f7c9511": {
-      "id": "df949c194f7c9511",
-      "company": "Apple",
-      "title": "AI Software Engineer, App Intelligence",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687573-0836/ai-software-engineer-app-intelligence?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 06, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:37.338617+00:00"
-    },
-    "2f766e65f09814da": {
-      "id": "2f766e65f09814da",
-      "company": "Anthropic",
-      "title": "Applied AI Engineer, Public Sector",
-      "location": "Washington, DC",
-      "apply_url": "https://job-boards.greenhouse.io/anthropic/jobs/5445410008",
-      "official_url": "https://www.anthropic.com/careers/jobs",
-      "posted": "2026-10-06T20:00:19-04:00",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "Communication",
-        "Large Language Models",
-        "Collaboration",
-        "TypeScript",
-        "Python",
-        "Stakeholder Management",
-        "Machine Learning"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Large Language Models",
-        "Collaboration",
-        "TypeScript",
-        "Python",
-        "Stakeholder Management",
-        "Machine Learning"
-      ],
-      "verified_skills": [
-        "Python",
-        "Machine Learning"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "Large Language Models",
-        "Collaboration",
-        "TypeScript",
-        "Stakeholder Management"
-      ],
-      "signal_terms": [
-        "api",
-        "cloud",
-        "machine learning",
-        "llm",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:32.584557+00:00"
-    },
-    "74ae569fca17f315": {
-      "id": "74ae569fca17f315",
-      "company": "Nvidia",
-      "title": "NVIDIA 2027 Ignite Internships: Software Engineering",
-      "location": "US, CA, Santa Clara",
-      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/NVIDIA-2027-Ignite-Internships--Software-Engineering_JR2026958",
-      "official_url": "https://jobs.nvidia.com/",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Machine Learning",
-        "Linux",
-        "C++",
-        "Python",
-        "Computer Vision",
-        "PyTorch",
-        "Problem Solving"
-      ],
-      "top_jd_skills": [
-        "Machine Learning",
-        "Linux",
-        "C++",
-        "Python",
-        "Computer Vision",
-        "PyTorch",
-        "Problem Solving"
-      ],
-      "verified_skills": [
-        "Machine Learning",
-        "Python",
-        "PyTorch"
-      ],
-      "unverified_skills": [
-        "Linux",
-        "C++",
-        "Computer Vision",
-        "Problem Solving"
-      ],
-      "signal_terms": [
-        "machine learning",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:32.222313+00:00"
-    },
-    "9fa7017b3d891c08": {
-      "id": "9fa7017b3d891c08",
-      "company": "Apple",
-      "title": "Traffic and Secure Services Network SRE Engineer",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200686351-3337/traffic-and-secure-services-network-sre-engineer?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 05, 2026",
-      "profile": "cloud-devops",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:31.777717+00:00"
-    },
-    "85f3dcdb166322ae": {
-      "id": "85f3dcdb166322ae",
-      "company": "Watershed",
-      "title": "Software engineer, energy management",
-      "location": "New York City",
-      "apply_url": "https://jobs.ashbyhq.com/watershed/275cb3f7-f6f0-4b1e-a9ea-7b377934606c",
-      "official_url": "https://jobs.ashbyhq.com/watershed",
-      "posted": "2026-08-06T20:08:10.385+00:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:26.969918+00:00"
-    },
-    "4bcbf68af91d36a4": {
-      "id": "4bcbf68af91d36a4",
-      "company": "Qualtrics",
-      "title": "Data Analyst, GTM Analytics",
-      "location": "Provo, Utah, United States",
-      "apply_url": "https://www.qualtrics.com/careers/us/en/job/8247259?gh_jid=8247259",
-      "official_url": "https://boards.greenhouse.io/qualtrics",
-      "posted": "2026-10-05T04:22:20-04:00",
-      "profile": "data-analytics",
-      "detected_skills": [
-        "Go"
-      ],
-      "top_jd_skills": [
-        "Go"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Go"
-      ],
-      "signal_terms": [
-        "analytics"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:26.750465+00:00"
-    },
-    "2f863d30e0a77121": {
-      "id": "2f863d30e0a77121",
-      "company": "Khan Academy",
-      "title": "Software Engineer Intern (Summer 2027)",
-      "location": "Remote (US + Canada Only)",
-      "apply_url": "https://job-boards.greenhouse.io/khanacademy/jobs/8250259",
-      "official_url": "https://boards.greenhouse.io/khanacademy",
-      "posted": "2026-10-05T10:46:40-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "React",
-        "Go",
-        "JavaScript",
-        "Google Cloud Platform",
-        "Testing",
-        "GitHub",
-        "Communication"
-      ],
-      "top_jd_skills": [
-        "React",
-        "Go",
-        "JavaScript",
-        "Google Cloud Platform",
-        "Testing",
-        "GitHub",
-        "Communication"
-      ],
-      "verified_skills": [
-        "JavaScript",
-        "GitHub"
-      ],
-      "unverified_skills": [
-        "React",
-        "Go",
-        "Google Cloud Platform",
-        "Testing",
-        "Communication"
-      ],
-      "signal_terms": [
-        "cloud",
-        "iac",
-        "llm"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:26.130622+00:00"
-    },
-    "2c96b339bf557eb9": {
-      "id": "2c96b339bf557eb9",
-      "company": "General Motors",
-      "title": "Software Engineer",
-      "location": "Milford, Michigan, United States of America",
-      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202621759",
-      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "C++",
-        "Java",
-        "Python",
-        "Communication",
-        "Agile",
-        "Scrum"
-      ],
-      "top_jd_skills": [
-        "C++",
-        "Java",
-        "Python",
-        "Communication",
-        "Agile",
-        "Scrum"
-      ],
-      "verified_skills": [
-        "Python"
-      ],
-      "unverified_skills": [
-        "C++",
-        "Java",
-        "Communication",
-        "Agile",
-        "Scrum"
-      ],
-      "signal_terms": [
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:25.759816+00:00"
-    },
-    "aceae364b8b2021b": {
-      "id": "aceae364b8b2021b",
-      "company": "Pinterest",
-      "title": "Sr Software Engineer, Monetization Engineering",
-      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US",
-      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8231071",
-      "official_url": "https://www.pinterestcareers.com/jobs/",
-      "posted": "2026-10-05T17:10:51-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Go",
-        "Machine Learning",
-        "Communication",
-        "Collaboration",
-        "Testing",
-        "JavaScript",
-        "React",
-        "A/B Testing"
-      ],
-      "top_jd_skills": [
-        "Go",
-        "Machine Learning",
-        "Communication",
-        "Collaboration",
-        "Testing",
-        "JavaScript",
-        "React",
-        "A/B Testing"
-      ],
-      "verified_skills": [
-        "Machine Learning",
-        "JavaScript"
-      ],
-      "unverified_skills": [
-        "Go",
-        "Communication",
-        "Collaboration",
-        "Testing",
-        "React",
-        "A/B Testing"
-      ],
-      "signal_terms": [
-        "api",
-        "machine learning"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:25.367759+00:00"
-    },
-    "5d2c21e84e47713c": {
-      "id": "5d2c21e84e47713c",
-      "company": "Pinterest",
-      "title": "Software Engineer II, Monetization Engineering",
-      "location": "San Francisco, CA; Palo Alto, CA; Seattle, WA; New York, NY; Remote, US",
-      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8227344",
-      "official_url": "https://www.pinterestcareers.com/jobs/",
-      "posted": "2026-10-05T16:42:04-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Go",
-        "Communication",
-        "Machine Learning",
-        "Collaboration",
-        "Testing",
-        "JavaScript",
-        "React",
-        "A/B Testing"
-      ],
-      "top_jd_skills": [
-        "Go",
-        "Communication",
-        "Machine Learning",
-        "Collaboration",
-        "Testing",
-        "JavaScript",
-        "React",
-        "A/B Testing"
-      ],
-      "verified_skills": [
-        "Machine Learning",
-        "JavaScript"
-      ],
-      "unverified_skills": [
-        "Go",
-        "Communication",
-        "Collaboration",
-        "Testing",
-        "React",
-        "A/B Testing"
-      ],
-      "signal_terms": [
-        "api",
-        "machine learning"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:25.078128+00:00"
-    },
-    "ca5c445ab00d8b3e": {
-      "id": "ca5c445ab00d8b3e",
-      "company": "Pinterest",
-      "title": "Security Software Engineer II, Detection and Response",
-      "location": "San Francisco, CA, US; Remote, US",
-      "apply_url": "https://www.pinterestcareers.com/jobs/?gh_jid=8015547",
-      "official_url": "https://www.pinterestcareers.com/jobs/",
-      "posted": "2026-10-05T16:37:04-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Go",
-        "Incident Response",
-        "Networking",
-        "Linux",
-        "Python",
-        "Testing",
-        "Data Quality",
-        "Data Validation",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Go",
-        "Incident Response",
-        "Networking",
-        "Linux",
-        "Python",
-        "Testing",
-        "Data Quality",
-        "Data Validation",
-        "Collaboration"
-      ],
-      "verified_skills": [
-        "Incident Response",
-        "Python",
-        "Data Quality",
-        "Data Validation"
-      ],
-      "unverified_skills": [
-        "Go",
-        "Networking",
-        "Linux",
-        "Testing",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "cloud",
-        "incident response",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:24.710403+00:00"
-    },
-    "b8c83e4af503e550": {
-      "id": "b8c83e4af503e550",
-      "company": "Nuro",
-      "title": "New Grad Software Engineer, Routing",
-      "location": "Mountain View, California (HQ)",
-      "apply_url": "https://nuro.ai/careersitem?gh_jid=8248317",
-      "official_url": "https://boards.greenhouse.io/nuro",
-      "posted": "2026-10-05T15:14:38-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:24.235569+00:00"
-    },
     "0cc832dc5b672493": {
       "id": "0cc832dc5b672493",
       "company": "Northrop Grumman",
@@ -3298,274 +3718,6 @@
       "signal_source": "job-page",
       "jd_skill_version": 2,
       "captured_at": "2026-10-10T01:48:23.583720+00:00"
-    },
-    "1b86730512cc1897": {
-      "id": "1b86730512cc1897",
-      "company": "Apple",
-      "title": "Sr Software Engineer, GenAI Platform & Practice",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200671236-0836/sr-software-engineer-genai-platform-practice?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 05, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Generative AI"
-      ],
-      "top_jd_skills": [
-        "Generative AI"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Generative AI"
-      ],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:22.465500+00:00"
-    },
-    "eec36f1070433449": {
-      "id": "eec36f1070433449",
-      "company": "Apple",
-      "title": "Software Engineer, Wireless Technologies & Ecosystems",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200686852-0836/software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 05, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:18.562102+00:00"
-    },
-    "a2dc707376145de9": {
-      "id": "a2dc707376145de9",
-      "company": "Apple",
-      "title": "Software Engineer - System Scheduling Performance",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687310-3543/software-engineer-system-scheduling-performance?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 05, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:15.849347+00:00"
-    },
-    "a4223d4e75d4e286": {
-      "id": "a4223d4e75d4e286",
-      "company": "Apple",
-      "title": "Site Reliability Engineer, Enterprise Technology Services",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200663858-0157/site-reliability-engineer-enterprise-technology-services?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 03, 2026",
-      "profile": "cloud-devops",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:11.798605+00:00"
-    },
-    "77ec0229d64b2ca5": {
-      "id": "77ec0229d64b2ca5",
-      "company": "Apple",
-      "title": "iOS Telephony Software Engineer, Wireless Technologies & Ecosystems",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687104-0836/ios-telephony-software-engineer-wireless-technologies-ecosystems?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 05, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:09.363986+00:00"
-    },
-    "fcf2445e3d4debf2": {
-      "id": "fcf2445e3d4debf2",
-      "company": "Apple",
-      "title": "Core OS Software Engineer - USB4/Thunderbolt",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687151-0836/core-os-software-engineer-usb4-thunderbolt?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 05, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:05.870236+00:00"
-    },
-    "631c9165d9da3a64": {
-      "id": "631c9165d9da3a64",
-      "company": "Apple",
-      "title": "AIML - Applied ML Research Scientist - Accessibility, Human Centered Machine Intelligence",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687240-3337/aiml-applied-ml-research-scientist-accessibility-human-centered-machine-intelligence?team=MLAI",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 05, 2026",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "Machine Learning"
-      ],
-      "top_jd_skills": [
-        "Machine Learning"
-      ],
-      "verified_skills": [
-        "Machine Learning"
-      ],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:48:00.224180+00:00"
-    },
-    "27e6e8d60a3c1684": {
-      "id": "27e6e8d60a3c1684",
-      "company": "Apple",
-      "title": "Software Engineer, Apple Intelligence Model Platform",
-      "location": "N/A",
-      "apply_url": "https://jobs.apple.com/en-us/details/200687353-0836/software-engineer-apple-intelligence-model-platform?team=SFTWR",
-      "official_url": "https://jobs.apple.com/en-us/search",
-      "posted": "Oct 05, 2026",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:47:56.142468+00:00"
-    },
-    "b4c09da6a9e10cae": {
-      "id": "b4c09da6a9e10cae",
-      "company": "Sierra",
-      "title": "Software Engineer, Inference",
-      "location": "San Francisco, CA",
-      "apply_url": "https://jobs.ashbyhq.com/Sierra/b8666a78-fcb1-47bb-ad07-5edb6cd3ad71",
-      "official_url": "https://jobs.ashbyhq.com/Sierra",
-      "posted": "2026-10-05T23:30:38.889+00:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:47:52.395533+00:00"
-    },
-    "2c8916589d3d8dc8": {
-      "id": "2c8916589d3d8dc8",
-      "company": "Rocket Money",
-      "title": "Software Engineer, Design Systems",
-      "location": "San Francisco, CA, Washington, D.C., New York City, N.Y., Remote (USA)",
-      "apply_url": "https://job-boards.greenhouse.io/truebill/jobs/8013696003",
-      "official_url": "https://boards.greenhouse.io/truebill",
-      "posted": "2026-10-05T19:37:07-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "React",
-        "Testing",
-        "REST APIs",
-        "TypeScript",
-        "Collaboration",
-        "Stakeholder Management"
-      ],
-      "top_jd_skills": [
-        "React",
-        "Testing",
-        "REST APIs",
-        "TypeScript",
-        "Collaboration",
-        "Stakeholder Management"
-      ],
-      "verified_skills": [
-        "REST APIs"
-      ],
-      "unverified_skills": [
-        "React",
-        "Testing",
-        "TypeScript",
-        "Collaboration",
-        "Stakeholder Management"
-      ],
-      "signal_terms": [
-        "api"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:47:52.068355+00:00"
-    },
-    "21042d95ed1fe3b3": {
-      "id": "21042d95ed1fe3b3",
-      "company": "Baseten",
-      "title": "Software Engineer- Inference Platform",
-      "location": "San Francisco",
-      "apply_url": "https://jobs.ashbyhq.com/baseten/14c4a663-0b1f-4c11-93ff-1359741ee456",
-      "official_url": "https://jobs.ashbyhq.com/baseten",
-      "posted": "2026-10-05T23:30:18.959+00:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:47:51.771215+00:00"
-    },
-    "3c0bcd043d247be3": {
-      "id": "3c0bcd043d247be3",
-      "company": "Baseten",
-      "title": "Software Engineer- Inference Performance",
-      "location": "San Francisco",
-      "apply_url": "https://jobs.ashbyhq.com/baseten/7cb19a05-8e5b-44cf-b3e7-19949e2eff04",
-      "official_url": "https://jobs.ashbyhq.com/baseten",
-      "posted": "2026-10-05T23:25:08.828+00:00",
-      "profile": "software-engineering",
-      "detected_skills": [],
-      "top_jd_skills": [],
-      "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-10T01:47:51.547878+00:00"
     },
     "b05de59348ad3371": {
       "id": "b05de59348ad3371",
@@ -3870,36 +4022,6 @@
       "signal_source": "job-page",
       "jd_skill_version": 2,
       "captured_at": "2026-10-10T01:17:58.367957+00:00"
-    },
-    "c726c67f8dece14d": {
-      "id": "c726c67f8dece14d",
-      "company": "Roblox",
-      "title": "Software Engineer, Engine Systems",
-      "location": "San Mateo, CA, United States",
-      "apply_url": "https://careers.roblox.com/jobs/8159854?gh_jid=8159854",
-      "official_url": "https://careers.roblox.com/",
-      "posted": "2026-10-08T16:11:24-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "C++",
-        "C#",
-        "Generative AI"
-      ],
-      "top_jd_skills": [
-        "C++",
-        "C#",
-        "Generative AI"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "C++",
-        "C#",
-        "Generative AI"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-09T21:46:16.357543+00:00"
     },
     "a0eccb0f3c8d5e4a": {
       "id": "a0eccb0f3c8d5e4a",
@@ -5319,52 +5441,6 @@
       "signal_source": "job-page",
       "jd_skill_version": 2,
       "captured_at": "2026-10-09T16:20:14.990281+00:00"
-    },
-    "d3622fd23ff7e954": {
-      "id": "d3622fd23ff7e954",
-      "company": "Roblox",
-      "title": "Software Engineer, Data Model",
-      "location": "San Mateo, CA, United States",
-      "apply_url": "https://careers.roblox.com/jobs/8159857?gh_jid=8159857",
-      "official_url": "https://careers.roblox.com/",
-      "posted": "2026-10-08T20:03:41-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "C++",
-        "C#",
-        "Go",
-        "Python",
-        "Networking",
-        "Machine Learning",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "C++",
-        "C#",
-        "Go",
-        "Python",
-        "Networking",
-        "Machine Learning",
-        "Collaboration"
-      ],
-      "verified_skills": [
-        "Python",
-        "Machine Learning"
-      ],
-      "unverified_skills": [
-        "C++",
-        "C#",
-        "Go",
-        "Networking",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "machine learning",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-09T09:42:10.984780+00:00"
     },
     "2ed9829dbccdac59": {
       "id": "2ed9829dbccdac59",
@@ -53210,5 +53286,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-10-10T01:47:26.055291+00:00"
+  "generated_at": "2026-10-10T07:45:58.567391+00:00"
 }
