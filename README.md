@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-09 18:47:26 MST
+
+📊 **1 new jobs this batch:**
+- Amgen: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Amgen** | United States - Remote | Data Scientist | [Apply](https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/United-States---Remote/Data-Scientist_R-257589) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=58b41865505bade5) | [Careers](https://amgen.wd1.myworkdayjobs.com/en-US/careers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-09 18:18:04 MST
 
 📊 **8 new jobs this batch:**
