@@ -1,13 +1,13 @@
-# 📢 Job Listings for Harsha — October 10, 2026
+# 📢 Job Listings for Harsha — October 11, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
-### 🕐 Batch at 2026-10-10 00:45:58 MST
+### 🕐 Batch at 2026-10-11 08:58:52 MST
 
 📊 **1 new jobs this batch:**
-- Gartner: 1 job
+- Apple: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
 |---|---|---|---|---|---|---|
-| **Gartner** | Stamford, CT | Associate Data Scientist - Spring 2027 Master's level graduates | [Apply](https://gartner.wd5.myworkdayjobs.com/en-US/EXT/job/Stamford-CT/Associate-Data-Scientist---Spring-2027-Master-s-level-graduates_113311) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=267f3432a54eee03) | [Careers](https://gartner.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Apple** | N/A | Graphics Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200688305-0157/graphics-software-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0e2701c80273da85) | [Careers](https://jobs.apple.com/en-us/search) | Oct 11, 2026 |
 
 ---
