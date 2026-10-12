@@ -1,6 +1,39 @@
 # 📢 Job Listings for Harsha — October 12, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-12 16:15:36 MST
+
+📊 **15 new jobs this batch:**
+- Apple: 5 jobs
+- Benchling: 1 job
+- Booz Allen Hamilton: 1 job
+- Cursor: 1 job
+- Glean: 1 job
+- Northrop Grumman: 3 jobs
+- Palantir: 1 job
+- Salesforce: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | OS Software Engineer, Evaluation | [Apply](https://jobs.apple.com/en-us/details/200688625-0836/os-software-engineer-evaluation?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=02866d66693bfaf9) | [Careers](https://jobs.apple.com/en-us/search) | Oct 12, 2026 |
+| **Apple** | N/A | Platform & Data Engineer | [Apply](https://jobs.apple.com/en-us/details/200688542-0836/platform-data-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=879f19bcb693f5e7) | [Careers](https://jobs.apple.com/en-us/search) | Oct 12, 2026 |
+| **Apple** | N/A | Software Engineer (Framework Solutions), AI & Data Platforms (AiDP) | [Apply](https://jobs.apple.com/en-us/details/200687935-3401/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bc710b9a88807d56) | [Careers](https://jobs.apple.com/en-us/search) | Oct 12, 2026 |
+| **Apple** | N/A | Software Engineer, Computer Use & Automation | [Apply](https://jobs.apple.com/en-us/details/200687637-0836/software-engineer-computer-use-automation?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e55b93c4878cda5b) | [Careers](https://jobs.apple.com/en-us/search) | Oct 12, 2026 |
+| **Apple** | N/A | System Software Engineer - Debug Technologies | [Apply](https://jobs.apple.com/en-us/details/200688603-0505/system-software-engineer-debug-technologies?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c11b381d088e4cf9) | [Careers](https://jobs.apple.com/en-us/search) | Oct 12, 2026 |
+| **Benchling** | San Francisco, CA | Software Engineer, Extensibility Platform | [Apply](https://jobs.ashbyhq.com/benchling/a0b8e8ed-99ff-4f80-a933-34f9a12e06fa) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2ee9397d556f4a2e) | [Careers](https://jobs.ashbyhq.com/benchling) | 2026-10-12T21:48:59.616+00:00 |
+| **Booz Allen Hamilton** | Quantico, VA | Human Performance Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Human-Performance-Data-Scientist_R0251511) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=10197b934cd3c312) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Cursor** | San Francisco | Software Engineer, RL Data | [Apply](https://jobs.ashbyhq.com/cursor/aef8f0e7-37cd-4d6e-96c9-3af72f588bae) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=573dcc934a2b98cc) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-10-12T20:53:44.567+00:00 |
+| **Glean** | Mountain View, CA | Software Engineer, Agentic Runtime | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4742959005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=89c0002610d3cf2d) | [Careers](https://boards.greenhouse.io/gleanwork) | 2026-10-12T18:27:29-04:00 |
+| **Northrop Grumman** | United States-California-Redondo Beach | AI/DevOps Engineer - Level 4 (AHT) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/AI-DevOps-Engineer---Level-4--AHT-_R10255138) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3be2d18c6872a9a8) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | Algorithm Development Software Engineer - Level 2 or 3 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithm-Development-Software-Engineer---Level-2-or-3_R10255637) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=57e00f94f07f34c3) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | Flight Software Engineer - Level 3 or 4 (Active Secret) - AHT | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Principal-Sr-Principal-Embedded-Software-Engineer--Active-Secret-_R10242053) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=da1733325d3313ff) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Palantir** | Norfolk, VA | Forward Deployed Software Engineer - US Government | [Apply](https://jobs.lever.co/palantir/5b0f37e6-8569-4a62-9e38-c5a4edc67dcf) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=eb70c250b53f31d0) | [Careers](https://www.palantir.com/careers/open-positions/) | 2026-10-12 21:27 |
+| **Salesforce** | California - San Francisco | Software Engineering LMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS_JR363489) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=915f80c3697d77e7) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Zoox** | Foster City, CA | Machine Learning Engineer - 3D Sensor Simulation | [Apply](https://jobs.lever.co/zoox/2347453a-f11f-4dc2-ad14-572bc1f6247f) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2593209aec4bb589) | [Careers](https://jobs.lever.co/zoox) | 2026-10-12 21:59 |
+
+---
+
 ### 🕐 Batch at 2026-10-12 12:51:36 MST
 
 📊 **15 new jobs this batch:**
