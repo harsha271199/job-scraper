@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 11, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-11 23:35:18 MST
+
+📊 **1 new jobs this batch:**
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Target** | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | Sr Engineer - AI Platforms - Forward Deployed Engineer (FDE) | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Engineer---AI-Platforms---Forward-Deployed-Engineer--FDE-_R0000475426) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1e48eff2104e61cc) | [Careers](https://target.wd5.myworkdayjobs.com/en-US/targetcareers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-11 17:01:01 MST
 
 📊 **1 new jobs this batch:**
