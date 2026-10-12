@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 11, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-11 17:01:01 MST
+
+📊 **1 new jobs this batch:**
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Nvidia** | US, CA, Santa Clara | Software Engineer, DL Kernel Libraries - New College Grad 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c44a6ffe7fbb5db3) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-11 08:58:52 MST
 
 📊 **1 new jobs this batch:**
