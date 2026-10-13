@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — October 13, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-13 12:34:09 MST
+
+📊 **8 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Citi: 1 job
+- DoorDash: 2 jobs
+- Mastercard: 2 jobs
+- Motorola Solutions: 1 job
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Chantilly, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/DevOps-Engineer_R0251546) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=14b2ba92e338ee49) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Citi** | Jersey City New Jersey United States | Java Software Engineer, Data Platform | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/Java-Software-Engineer--Data-Platform_261001276) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f919d2cade53f33b) | [Careers](https://citi.wd5.myworkdayjobs.com/en-US/2) | Posted Today |
+| **DoorDash** | Sunnyvale, CA; San Francisco, CA; Seattle, WA; New York, NY | Software Engineer, iOS | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8141072) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fe9fc59c5989fd30) | [Careers](https://careersatdoordash.com/job-search/) | 2026-10-13T14:31:02-04:00 |
+| **DoorDash** | San Francisco, CA; New York City, NY; Sunnyvale, CA; Seattle, WA | Software Engineering, Android (All Teams) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8161616) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a2aa8d31175f784a) | [Careers](https://careersatdoordash.com/job-search/) | 2026-10-13T13:59:20-04:00 |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-292491) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f14bcab3df3e5f6e) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II - Full Stack & AI | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II---Full-Stack---AI_R-292355) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fb22f33be5c715b5) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **Motorola Solutions** | Illinois Remote Work, More... | Software Engineer Co-op Intern - 2026/2027 | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/Software-Engineer-Co-op-Intern---2026-2027_R69641) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=415fc26a0754f55e) | [Careers](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | Posted Today |
+| **Twilio** | Remote - US | Software Engineer (L2) Messaging Channels Team | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8247182) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=acd0e4d8782e76de) | [Careers](https://jobs.twilio.com/) | 2026-10-13T15:12:15-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-13 10:38:35 MST
 
 📊 **16 new jobs this batch:**
