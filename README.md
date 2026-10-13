@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — October 12, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-12 19:04:32 MST
+
+📊 **3 new jobs this batch:**
+- CoreWeave: 1 job
+- Glean: 1 job
+- Snowflake: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **CoreWeave** | Sunnyvale, CA / Bellevue, WA / Dallas, TX | Software and AI Engineer | [Apply](https://coreweave.com/careers/job?4720302006&board=coreweave&gh_jid=4720302006) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c3218f2d518a1b18) | [Careers](https://boards.greenhouse.io/coreweave) | 2026-10-12T20:19:33-04:00 |
+| **Glean** | Mountain View, CA | Software Engineer, Agentic Runtime | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4742953005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c1a8a9646a861876) | [Careers](https://boards.greenhouse.io/gleanwork) | 2026-10-12T19:36:06-04:00 |
+| **Snowflake** | CA-Ontario-Toronto | AI Software Engineer | [Apply](https://jobs.ashbyhq.com/snowflake/628f36e0-8554-4d5f-8d5e-a017a761ca54) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=578efb5eb100dfe7) | [Careers](https://careers.snowflake.com/us/en) | 2026-10-13T00:00:58.144+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-12 16:15:36 MST
 
 📊 **15 new jobs this batch:**
