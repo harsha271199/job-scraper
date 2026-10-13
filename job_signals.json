@@ -17,7 +17,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:36:00.340558+00:00"
+      "captured_at": "2026-10-13T22:53:38.553292+00:00"
     },
     "454cb54b32344031": {
       "id": "454cb54b32344031",
@@ -35,7 +35,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:58.720180+00:00"
+      "captured_at": "2026-10-13T22:53:36.979320+00:00"
     },
     "6ad790900acd5c5e": {
       "id": "6ad790900acd5c5e",
@@ -53,7 +53,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:58.568470+00:00"
+      "captured_at": "2026-10-13T22:53:36.847666+00:00"
     },
     "9b77d000b55f375f": {
       "id": "9b77d000b55f375f",
@@ -99,7 +99,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:58.244305+00:00"
+      "captured_at": "2026-10-13T22:53:36.557658+00:00"
     },
     "a9e73e50d1583e74": {
       "id": "a9e73e50d1583e74",
@@ -119,7 +119,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:57.597190+00:00"
+      "captured_at": "2026-10-13T22:53:36.091676+00:00"
     },
     "e4a05f4a53da5abf": {
       "id": "e4a05f4a53da5abf",
@@ -146,7 +146,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:55.656713+00:00"
+      "captured_at": "2026-10-13T22:53:33.837252+00:00"
     },
     "26b93f8cc0d2e630": {
       "id": "26b93f8cc0d2e630",
@@ -166,7 +166,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:53.821787+00:00"
+      "captured_at": "2026-10-13T22:53:32.174551+00:00"
     },
     "84929db7320041b5": {
       "id": "84929db7320041b5",
@@ -221,7 +221,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:51.668072+00:00"
+      "captured_at": "2026-10-13T22:53:29.672893+00:00"
     },
     "015d16d9f05056df": {
       "id": "015d16d9f05056df",
@@ -239,7 +239,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:51.356743+00:00"
+      "captured_at": "2026-10-13T22:53:29.388858+00:00"
     },
     "81c8b00d6c397fee": {
       "id": "81c8b00d6c397fee",
@@ -266,7 +266,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:50.756428+00:00"
+      "captured_at": "2026-10-13T22:53:28.888519+00:00"
     },
     "8f0514be77a77090": {
       "id": "8f0514be77a77090",
@@ -286,7 +286,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:48.594072+00:00"
+      "captured_at": "2026-10-13T22:53:27.192668+00:00"
     },
     "cada82f7d3af36af": {
       "id": "cada82f7d3af36af",
@@ -341,61 +341,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:46.399798+00:00"
-    },
-    "0533a8e2ef502586": {
-      "id": "0533a8e2ef502586",
-      "company": "Guidehouse",
-      "title": "Software Engineer",
-      "location": "US - VA, Springfield",
-      "apply_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Software-Engineer_45006",
-      "official_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Agile",
-        "TypeScript",
-        "Communication",
-        "Python",
-        "HTML5",
-        "CI/CD",
-        "Testing",
-        "Networking",
-        "Business Intelligence"
-      ],
-      "top_jd_skills": [
-        "Agile",
-        "TypeScript",
-        "Communication",
-        "Python",
-        "HTML5",
-        "CI/CD",
-        "Testing",
-        "Networking",
-        "Business Intelligence"
-      ],
-      "verified_skills": [
-        "Python",
-        "HTML5",
-        "CI/CD"
-      ],
-      "unverified_skills": [
-        "Agile",
-        "TypeScript",
-        "Communication",
-        "Testing",
-        "Networking",
-        "Business Intelligence"
-      ],
-      "signal_terms": [
-        "cloud",
-        "ci/cd",
-        "business intelligence",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:45.009330+00:00"
+      "captured_at": "2026-10-13T22:53:24.777900+00:00"
     },
     "fd5284bf0e5981a1": {
       "id": "fd5284bf0e5981a1",
@@ -441,7 +387,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:44.568691+00:00"
+      "captured_at": "2026-10-13T22:53:23.116796+00:00"
     },
     "b8bd4501652f0c15": {
       "id": "b8bd4501652f0c15",
@@ -497,7 +443,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:44.033784+00:00"
+      "captured_at": "2026-10-13T22:53:22.754900+00:00"
     },
     "39d5992d12cf09a8": {
       "id": "39d5992d12cf09a8",
@@ -532,7 +478,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:43.661933+00:00"
+      "captured_at": "2026-10-13T22:53:22.407779+00:00"
     },
     "8177212a9fb87780": {
       "id": "8177212a9fb87780",
@@ -552,7 +498,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:43.236795+00:00"
+      "captured_at": "2026-10-13T22:53:21.720883+00:00"
     },
     "24c8920fee509d19": {
       "id": "24c8920fee509d19",
@@ -588,7 +534,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:41.132673+00:00"
+      "captured_at": "2026-10-13T22:53:19.748385+00:00"
     },
     "d4d8a43269e2e57f": {
       "id": "d4d8a43269e2e57f",
@@ -614,7 +560,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:40.758589+00:00"
+      "captured_at": "2026-10-13T22:53:19.427164+00:00"
     },
     "51ffd1a8e61f4498": {
       "id": "51ffd1a8e61f4498",
@@ -632,7 +578,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:37.533101+00:00"
+      "captured_at": "2026-10-13T22:53:16.974051+00:00"
     },
     "a9a35f0260763c5d": {
       "id": "a9a35f0260763c5d",
@@ -650,7 +596,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:37.075055+00:00"
+      "captured_at": "2026-10-13T22:53:16.668771+00:00"
     },
     "3fc515771e773843": {
       "id": "3fc515771e773843",
@@ -676,7 +622,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:36.705946+00:00"
+      "captured_at": "2026-10-13T22:53:16.355959+00:00"
     },
     "34b76bbc2b8572f9": {
       "id": "34b76bbc2b8572f9",
@@ -694,7 +640,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:36.382625+00:00"
+      "captured_at": "2026-10-13T22:53:16.109022+00:00"
     },
     "66feb1c1a115c20b": {
       "id": "66feb1c1a115c20b",
@@ -733,7 +679,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:36.128108+00:00"
+      "captured_at": "2026-10-13T22:53:15.973693+00:00"
     },
     "c8aeaf83baec1ff0": {
       "id": "c8aeaf83baec1ff0",
@@ -753,7 +699,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:35.492320+00:00"
+      "captured_at": "2026-10-13T22:53:15.427569+00:00"
     },
     "d5ff07f4cfd44ce7": {
       "id": "d5ff07f4cfd44ce7",
@@ -773,7 +719,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:33.968711+00:00"
+      "captured_at": "2026-10-13T22:53:13.615383+00:00"
     },
     "2b2ba1f244b1870e": {
       "id": "2b2ba1f244b1870e",
@@ -800,7 +746,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:32.326606+00:00"
+      "captured_at": "2026-10-13T22:53:11.607496+00:00"
     },
     "3df6099d8342ea90": {
       "id": "3df6099d8342ea90",
@@ -820,7 +766,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:28.888460+00:00"
+      "captured_at": "2026-10-13T22:53:09.267607+00:00"
     },
     "429de5c6bfa29c19": {
       "id": "429de5c6bfa29c19",
@@ -840,7 +786,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:27.159545+00:00"
+      "captured_at": "2026-10-13T22:53:06.887949+00:00"
     },
     "eb2f56266e3dd427": {
       "id": "eb2f56266e3dd427",
@@ -894,7 +840,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:25.137454+00:00"
+      "captured_at": "2026-10-13T22:53:04.682480+00:00"
     },
     "611871a8e0107ea2": {
       "id": "611871a8e0107ea2",
@@ -948,7 +894,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:24.674128+00:00"
+      "captured_at": "2026-10-13T22:53:04.219078+00:00"
     },
     "cf93358325a400f1": {
       "id": "cf93358325a400f1",
@@ -966,56 +912,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:24.212180+00:00"
-    },
-    "d3622fd23ff7e954": {
-      "id": "d3622fd23ff7e954",
-      "company": "Roblox",
-      "title": "Software Engineer, Data Model",
-      "location": "San Mateo, CA, United States",
-      "apply_url": "https://careers.roblox.com/jobs/8159857?gh_jid=8159857",
-      "official_url": "https://careers.roblox.com/",
-      "posted": "2026-10-08T20:03:41-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "C++",
-        "C#",
-        "Go",
-        "Python",
-        "Networking",
-        "Generative AI",
-        "Machine Learning",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "C++",
-        "C#",
-        "Go",
-        "Python",
-        "Networking",
-        "Generative AI",
-        "Machine Learning",
-        "Collaboration"
-      ],
-      "verified_skills": [
-        "Python",
-        "Machine Learning"
-      ],
-      "unverified_skills": [
-        "C++",
-        "C#",
-        "Go",
-        "Networking",
-        "Generative AI",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "machine learning",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:24.044380+00:00"
+      "captured_at": "2026-10-13T22:53:03.725113+00:00"
     },
     "e6a7fd70e3f17bcb": {
       "id": "e6a7fd70e3f17bcb",
@@ -1033,7 +930,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:23.559251+00:00"
+      "captured_at": "2026-10-13T22:53:03.138416+00:00"
     },
     "95129dba10773c22": {
       "id": "95129dba10773c22",
@@ -1051,7 +948,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:23.070657+00:00"
+      "captured_at": "2026-10-13T22:53:02.791178+00:00"
     },
     "227f37b93c8bb6c4": {
       "id": "227f37b93c8bb6c4",
@@ -1087,7 +984,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:22.193007+00:00"
+      "captured_at": "2026-10-13T22:53:02.432694+00:00"
     },
     "9e0776b58a482a65": {
       "id": "9e0776b58a482a65",
@@ -1107,7 +1004,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:21.821363+00:00"
+      "captured_at": "2026-10-13T22:53:01.893488+00:00"
     },
     "703a9a875ea3fb37": {
       "id": "703a9a875ea3fb37",
@@ -1127,7 +1024,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:20.251180+00:00"
+      "captured_at": "2026-10-13T22:53:00.286879+00:00"
     },
     "178cb3ef86e71ee4": {
       "id": "178cb3ef86e71ee4",
@@ -1145,7 +1042,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:18.954253+00:00"
+      "captured_at": "2026-10-13T22:52:59.149429+00:00"
     },
     "89bda6af4fc40c64": {
       "id": "89bda6af4fc40c64",
@@ -1190,7 +1087,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:15.880977+00:00"
+      "captured_at": "2026-10-13T22:52:55.307103+00:00"
     },
     "45db95707ee5d142": {
       "id": "45db95707ee5d142",
@@ -1246,7 +1143,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:14.571488+00:00"
+      "captured_at": "2026-10-13T22:52:54.776772+00:00"
     },
     "827f1cee7ae7764c": {
       "id": "827f1cee7ae7764c",
@@ -1266,7 +1163,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:14.274524+00:00"
+      "captured_at": "2026-10-13T22:52:54.492303+00:00"
     },
     "cc89cc0d5bd20ba4": {
       "id": "cc89cc0d5bd20ba4",
@@ -1286,7 +1183,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:12.173122+00:00"
+      "captured_at": "2026-10-13T22:52:52.470997+00:00"
     },
     "1b5cec2ea3aa3959": {
       "id": "1b5cec2ea3aa3959",
@@ -1336,7 +1233,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:09.866184+00:00"
+      "captured_at": "2026-10-13T22:52:50.186848+00:00"
     },
     "478c72acfbbd8bbc": {
       "id": "478c72acfbbd8bbc",
@@ -1384,7 +1281,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:09.387334+00:00"
+      "captured_at": "2026-10-13T22:52:49.609485+00:00"
     },
     "be82d44ad21ed608": {
       "id": "be82d44ad21ed608",
@@ -1402,7 +1299,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:07.464071+00:00"
+      "captured_at": "2026-10-13T22:52:47.406627+00:00"
     },
     "8ebf68d6d3173d47": {
       "id": "8ebf68d6d3173d47",
@@ -1420,7 +1317,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:07.087201+00:00"
+      "captured_at": "2026-10-13T22:52:47.155378+00:00"
     },
     "f96dc9fc9f5d6f20": {
       "id": "f96dc9fc9f5d6f20",
@@ -1438,7 +1335,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:06.744928+00:00"
+      "captured_at": "2026-10-13T22:52:46.931569+00:00"
     },
     "5743e9e8cbc15f5b": {
       "id": "5743e9e8cbc15f5b",
@@ -1464,7 +1361,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:06.512807+00:00"
+      "captured_at": "2026-10-13T22:52:46.716478+00:00"
     },
     "616c102e304937e5": {
       "id": "616c102e304937e5",
@@ -1488,7 +1385,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:06.093058+00:00"
+      "captured_at": "2026-10-13T22:52:46.362466+00:00"
     },
     "dc17083acf5ecc27": {
       "id": "dc17083acf5ecc27",
@@ -1536,7 +1433,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:05.874409+00:00"
+      "captured_at": "2026-10-13T22:52:46.136457+00:00"
     },
     "e3d4b3df3aa98203": {
       "id": "e3d4b3df3aa98203",
@@ -1584,7 +1481,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:05.442261+00:00"
+      "captured_at": "2026-10-13T22:52:45.646037+00:00"
     },
     "08c8c2d1aededa00": {
       "id": "08c8c2d1aededa00",
@@ -1604,7 +1501,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:04.971798+00:00"
+      "captured_at": "2026-10-13T22:52:45.222601+00:00"
     },
     "f8c1883705deb858": {
       "id": "f8c1883705deb858",
@@ -1624,7 +1521,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:02.949085+00:00"
+      "captured_at": "2026-10-13T22:52:43.324376+00:00"
     },
     "72f4e019339cfbe6": {
       "id": "72f4e019339cfbe6",
@@ -1656,7 +1553,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:35:01.598837+00:00"
+      "captured_at": "2026-10-13T22:52:42.059633+00:00"
     },
     "db5b3c66b506000b": {
       "id": "db5b3c66b506000b",
@@ -1704,7 +1601,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:59.693638+00:00"
+      "captured_at": "2026-10-13T22:52:40.270715+00:00"
     },
     "0c582e3cf77f79a7": {
       "id": "0c582e3cf77f79a7",
@@ -1722,7 +1619,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:59.350256+00:00"
+      "captured_at": "2026-10-13T22:52:39.953564+00:00"
     },
     "99bcdcc55119a769": {
       "id": "99bcdcc55119a769",
@@ -1742,7 +1639,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:58.858775+00:00"
+      "captured_at": "2026-10-13T22:52:39.352990+00:00"
     },
     "ece5a6e0898e9ff0": {
       "id": "ece5a6e0898e9ff0",
@@ -1794,7 +1691,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:56.938067+00:00"
+      "captured_at": "2026-10-13T22:52:37.664249+00:00"
     },
     "bfcc667448b92268": {
       "id": "bfcc667448b92268",
@@ -1837,7 +1734,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:56.525205+00:00"
+      "captured_at": "2026-10-13T22:52:37.272354+00:00"
     },
     "d2021ac2e19f93a1": {
       "id": "d2021ac2e19f93a1",
@@ -1857,7 +1754,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:55.476463+00:00"
+      "captured_at": "2026-10-13T22:52:36.574410+00:00"
     },
     "9afb3446bf4a5bab": {
       "id": "9afb3446bf4a5bab",
@@ -1883,7 +1780,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:54.804116+00:00"
+      "captured_at": "2026-10-13T22:52:36.517796+00:00"
     },
     "088167de3e18f758": {
       "id": "088167de3e18f758",
@@ -1909,7 +1806,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:54.755137+00:00"
+      "captured_at": "2026-10-13T22:52:36.218486+00:00"
     },
     "b5b485164932ff10": {
       "id": "b5b485164932ff10",
@@ -1967,7 +1864,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:54.701661+00:00"
+      "captured_at": "2026-10-13T22:52:36.158825+00:00"
     },
     "e563a4871eec046d": {
       "id": "e563a4871eec046d",
@@ -2013,7 +1910,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:54.226565+00:00"
+      "captured_at": "2026-10-13T22:52:35.730135+00:00"
     },
     "7de230b0588e5108": {
       "id": "7de230b0588e5108",
@@ -2041,7 +1938,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:53.878362+00:00"
+      "captured_at": "2026-10-13T22:52:35.362879+00:00"
     },
     "989d450744f05ec3": {
       "id": "989d450744f05ec3",
@@ -2095,7 +1992,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:53.705375+00:00"
+      "captured_at": "2026-10-13T22:52:35.193461+00:00"
     },
     "969cfd9d15236b3f": {
       "id": "969cfd9d15236b3f",
@@ -2131,7 +2028,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:53.372043+00:00"
+      "captured_at": "2026-10-13T22:52:34.869858+00:00"
     },
     "415fc26a0754f55e": {
       "id": "415fc26a0754f55e",
@@ -2180,7 +2077,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:52.824785+00:00"
+      "captured_at": "2026-10-13T22:52:34.299551+00:00"
     },
     "a2aa8d31175f784a": {
       "id": "a2aa8d31175f784a",
@@ -2216,7 +2113,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:52.522490+00:00"
+      "captured_at": "2026-10-13T22:52:33.957093+00:00"
     },
     "fe9fc59c5989fd30": {
       "id": "fe9fc59c5989fd30",
@@ -2252,7 +2149,418 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:52.012505+00:00"
+      "captured_at": "2026-10-13T22:52:33.654615+00:00"
+    },
+    "5d499e87e5a0ef10": {
+      "id": "5d499e87e5a0ef10",
+      "company": "Salesforce",
+      "title": "Software Engineering PMTS",
+      "location": "California - San Francisco",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR363144",
+      "official_url": "https://careers.salesforce.com/en/jobs/",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Stakeholder Management",
+        "Distributed Systems",
+        "ETL/ELT",
+        "Go",
+        "Testing",
+        "Data Modeling",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Stakeholder Management",
+        "Distributed Systems",
+        "ETL/ELT",
+        "Go",
+        "Testing",
+        "Data Modeling",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "ETL/ELT",
+        "Data Modeling"
+      ],
+      "unverified_skills": [
+        "Stakeholder Management",
+        "Distributed Systems",
+        "Go",
+        "Testing",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "data pipelines",
+        "distributed systems",
+        "api",
+        "data modeling"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:52:33.305543+00:00"
+    },
+    "11c6aedbf837329d": {
+      "id": "11c6aedbf837329d",
+      "company": "Salesforce",
+      "title": "Software Engineering Architect - DevXP AI team",
+      "location": "California - San Francisco",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-Architect---DevXP-AI-team_JR362162",
+      "official_url": "https://careers.salesforce.com/en/jobs/",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "System Design",
+        "AWS",
+        "Stakeholder Management",
+        "Monitoring",
+        "Excel",
+        "Experimentation"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "System Design",
+        "AWS",
+        "Stakeholder Management",
+        "Monitoring",
+        "Excel",
+        "Experimentation"
+      ],
+      "verified_skills": [
+        "AWS",
+        "Excel"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "System Design",
+        "Stakeholder Management",
+        "Monitoring",
+        "Experimentation"
+      ],
+      "signal_terms": [
+        "cloud",
+        "monitoring"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:52:32.981517+00:00"
+    },
+    "11f7a2cbe7fb0c1b": {
+      "id": "11f7a2cbe7fb0c1b",
+      "company": "Nvidia",
+      "title": "SoC Software Engineer – New College Graduate 2026",
+      "location": "US, CA, Santa Clara",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+      "official_url": "https://jobs.nvidia.com/",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving",
+        "HPC"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving",
+        "HPC"
+      ],
+      "verified_skills": [
+        "HPC"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving"
+      ],
+      "signal_terms": [
+        "api"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:52:32.670046+00:00"
+    },
+    "140dea7e8bc4c309": {
+      "id": "140dea7e8bc4c309",
+      "company": "Nvidia",
+      "title": "SoC Software Engineer - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+      "official_url": "https://jobs.nvidia.com/",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving",
+        "HPC"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving",
+        "HPC"
+      ],
+      "verified_skills": [
+        "HPC"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving"
+      ],
+      "signal_terms": [
+        "api"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:52:32.318552+00:00"
+    },
+    "f55f21ed1b0c88e2": {
+      "id": "f55f21ed1b0c88e2",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer - Integration and Test",
+      "location": "United States-California-San Diego",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer---Integration-and-Test_R10253090-1",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "Testing",
+        "Agile",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Testing",
+        "Agile",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Communication",
+        "Testing",
+        "Agile",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:52:31.988911+00:00"
+    },
+    "dfd0f9b0cf1a5f6d": {
+      "id": "dfd0f9b0cf1a5f6d",
+      "company": "Fiserv",
+      "title": "Android AOSP Device Software Engineer",
+      "location": "Sunnyvale, California",
+      "apply_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880",
+      "official_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "Collaboration",
+        "Java",
+        "C++",
+        "Git",
+        "Agile"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Collaboration",
+        "Java",
+        "C++",
+        "Git",
+        "Agile"
+      ],
+      "verified_skills": [
+        "Git"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Collaboration",
+        "Java",
+        "C++",
+        "Agile"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:52:31.544935+00:00"
+    },
+    "9265f8572b51ce3f": {
+      "id": "9265f8572b51ce3f",
+      "company": "Booz Allen Hamilton",
+      "title": "Augmented Reality Software Engineer",
+      "location": "Lorton, VA",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0251326",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:52:31.166413+00:00"
+    },
+    "3e0cca8c1ca68a88": {
+      "id": "3e0cca8c1ca68a88",
+      "company": "Booz Allen Hamilton",
+      "title": "Augmented Reality Software Engineer",
+      "location": "Lorton, VA",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0251325",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:52:30.513872+00:00"
+    },
+    "a6424714b4bb1fb7": {
+      "id": "a6424714b4bb1fb7",
+      "company": "Boeing",
+      "title": "Experienced Real-Time Software Engineer - Simulation",
+      "location": "USA - Richardson, TX",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-2",
+      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Java",
+        "C++",
+        "Agile",
+        "Linux",
+        "Stakeholder Management",
+        "Scrum",
+        "Data Visualization"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Java",
+        "C++",
+        "Agile",
+        "Linux",
+        "Stakeholder Management",
+        "Scrum",
+        "Data Visualization"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Testing",
+        "Java",
+        "C++",
+        "Agile",
+        "Linux",
+        "Stakeholder Management",
+        "Scrum",
+        "Data Visualization"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:52:29.994132+00:00"
+    },
+    "30f4a511e43a4662": {
+      "id": "30f4a511e43a4662",
+      "company": "Blue Origin",
+      "title": "Software Engineer",
+      "location": "Greater Seattle Area",
+      "apply_url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Software-Engineer_R73434",
+      "official_url": "https://www.blueorigin.com/careers/search",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C++",
+        "Networking",
+        "Linux",
+        "Testing",
+        "CI/CD",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C++",
+        "Networking",
+        "Linux",
+        "Testing",
+        "CI/CD",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "CI/CD"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "C++",
+        "Networking",
+        "Linux",
+        "Testing",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "ci/cd"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:52:29.445955+00:00"
     },
     "b9d894487eaff800": {
       "id": "b9d894487eaff800",
@@ -2287,7 +2595,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:51.405581+00:00"
+      "captured_at": "2026-10-13T22:52:29.074400+00:00"
     },
     "eca7ba79b66ccd2f": {
       "id": "eca7ba79b66ccd2f",
@@ -2314,7 +2622,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:50.788475+00:00"
+      "captured_at": "2026-10-13T22:52:28.640131+00:00"
     },
     "18d8be24211abb9b": {
       "id": "18d8be24211abb9b",
@@ -2346,7 +2654,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:48.916643+00:00"
+      "captured_at": "2026-10-13T22:52:26.845282+00:00"
     },
     "c84133c093c14c05": {
       "id": "c84133c093c14c05",
@@ -2374,7 +2682,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:48.275678+00:00"
+      "captured_at": "2026-10-13T22:52:26.353250+00:00"
     },
     "9fcb9e0dc51b7ea4": {
       "id": "9fcb9e0dc51b7ea4",
@@ -2412,7 +2720,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:47.659629+00:00"
+      "captured_at": "2026-10-13T22:52:25.815233+00:00"
     },
     "c15107b44d91782e": {
       "id": "c15107b44d91782e",
@@ -2453,7 +2761,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:47.259838+00:00"
+      "captured_at": "2026-10-13T22:52:25.285672+00:00"
     },
     "3289d7210cb82445": {
       "id": "3289d7210cb82445",
@@ -2473,7 +2781,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:46.867666+00:00"
+      "captured_at": "2026-10-13T22:52:24.863715+00:00"
     },
     "d599e44538206c8a": {
       "id": "d599e44538206c8a",
@@ -2493,7 +2801,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:45.034274+00:00"
+      "captured_at": "2026-10-13T22:52:22.737773+00:00"
     },
     "dd1f33f32df222fa": {
       "id": "dd1f33f32df222fa",
@@ -2520,7 +2828,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:43.431277+00:00"
+      "captured_at": "2026-10-13T22:52:21.085611+00:00"
     },
     "3e4b37828b747169": {
       "id": "3e4b37828b747169",
@@ -2540,7 +2848,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:41.226754+00:00"
+      "captured_at": "2026-10-13T22:52:19.102513+00:00"
     },
     "43e32c02a7c2a66d": {
       "id": "43e32c02a7c2a66d",
@@ -2560,7 +2868,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:39.406731+00:00"
+      "captured_at": "2026-10-13T22:52:17.184039+00:00"
     },
     "8a7a0b1fc51b122e": {
       "id": "8a7a0b1fc51b122e",
@@ -2580,7 +2888,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:37.130119+00:00"
+      "captured_at": "2026-10-13T22:52:15.348259+00:00"
     },
     "8247d35c1de5be76": {
       "id": "8247d35c1de5be76",
@@ -2600,7 +2908,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:35.183167+00:00"
+      "captured_at": "2026-10-13T22:52:13.724424+00:00"
     },
     "2593209aec4bb589": {
       "id": "2593209aec4bb589",
@@ -2646,7 +2954,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:33.513522+00:00"
+      "captured_at": "2026-10-13T22:52:11.549709+00:00"
     },
     "eb70c250b53f31d0": {
       "id": "eb70c250b53f31d0",
@@ -2697,7 +3005,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:33.120544+00:00"
+      "captured_at": "2026-10-13T22:52:10.914693+00:00"
     },
     "57e00f94f07f34c3": {
       "id": "57e00f94f07f34c3",
@@ -2746,7 +3054,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:32.854693+00:00"
+      "captured_at": "2026-10-13T22:52:10.590923+00:00"
     },
     "89c0002610d3cf2d": {
       "id": "89c0002610d3cf2d",
@@ -2782,7 +3090,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:32.102629+00:00"
+      "captured_at": "2026-10-13T22:52:10.124228+00:00"
     },
     "573dcc934a2b98cc": {
       "id": "573dcc934a2b98cc",
@@ -2800,7 +3108,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:31.862544+00:00"
+      "captured_at": "2026-10-13T22:52:09.892613+00:00"
     },
     "2ee9397d556f4a2e": {
       "id": "2ee9397d556f4a2e",
@@ -2818,7 +3126,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:31.720215+00:00"
+      "captured_at": "2026-10-13T22:52:09.759156+00:00"
     },
     "c11b381d088e4cf9": {
       "id": "c11b381d088e4cf9",
@@ -2838,7 +3146,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:31.402024+00:00"
+      "captured_at": "2026-10-13T22:52:09.624363+00:00"
     },
     "e55b93c4878cda5b": {
       "id": "e55b93c4878cda5b",
@@ -2858,7 +3166,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:29.845953+00:00"
+      "captured_at": "2026-10-13T22:52:08.249151+00:00"
     },
     "bc710b9a88807d56": {
       "id": "bc710b9a88807d56",
@@ -2878,7 +3186,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:28.065929+00:00"
+      "captured_at": "2026-10-13T22:52:06.776741+00:00"
     },
     "879f19bcb693f5e7": {
       "id": "879f19bcb693f5e7",
@@ -2898,7 +3206,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:26.193881+00:00"
+      "captured_at": "2026-10-13T22:52:04.850184+00:00"
     },
     "02866d66693bfaf9": {
       "id": "02866d66693bfaf9",
@@ -2918,7 +3226,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:24.299983+00:00"
+      "captured_at": "2026-10-13T22:52:02.720581+00:00"
     },
     "578efb5eb100dfe7": {
       "id": "578efb5eb100dfe7",
@@ -2936,7 +3244,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:22.629519+00:00"
+      "captured_at": "2026-10-13T22:52:00.289591+00:00"
     },
     "c3218f2d518a1b18": {
       "id": "c3218f2d518a1b18",
@@ -2985,7 +3293,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:22.285478+00:00"
+      "captured_at": "2026-10-13T22:52:00.156198+00:00"
     },
     "0e2701c80273da85": {
       "id": "0e2701c80273da85",
@@ -3005,7 +3313,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:21.933421+00:00"
+      "captured_at": "2026-10-13T22:51:59.804091+00:00"
     },
     "c44a6ffe7fbb5db3": {
       "id": "c44a6ffe7fbb5db3",
@@ -3053,7 +3361,749 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-13T19:34:19.199701+00:00"
+      "captured_at": "2026-10-13T22:51:58.408030+00:00"
+    },
+    "990b6c3e22290964": {
+      "id": "990b6c3e22290964",
+      "company": "DoorDash",
+      "title": "Software Engineer, Spark Platform",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192190",
+      "official_url": "https://careersatdoordash.com/job-search/",
+      "posted": "2026-10-13T16:21:25-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Apache Spark",
+        "Observability",
+        "Kubernetes",
+        "Go",
+        "Distributed Systems",
+        "Prometheus",
+        "AWS",
+        "Networking",
+        "Python",
+        "Scala",
+        "Databricks",
+        "Excel",
+        "Java",
+        "Machine Learning",
+        "SQL"
+      ],
+      "top_jd_skills": [
+        "Apache Spark",
+        "Observability",
+        "Kubernetes",
+        "Go",
+        "Distributed Systems",
+        "Prometheus",
+        "AWS",
+        "Networking",
+        "Python",
+        "Scala"
+      ],
+      "verified_skills": [
+        "Apache Spark",
+        "Kubernetes",
+        "AWS",
+        "Python",
+        "Scala",
+        "Excel",
+        "Machine Learning",
+        "SQL"
+      ],
+      "unverified_skills": [
+        "Observability",
+        "Go",
+        "Distributed Systems",
+        "Prometheus",
+        "Networking",
+        "Databricks",
+        "Java"
+      ],
+      "signal_terms": [
+        "distributed systems",
+        "api",
+        "cloud",
+        "observability",
+        "analytics",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:51:44.324708+00:00"
+    },
+    "0eb95c6eada5d303": {
+      "id": "0eb95c6eada5d303",
+      "company": "DoorDash",
+      "title": "Software Engineer, Data Platform",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY",
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8191886",
+      "official_url": "https://careersatdoordash.com/job-search/",
+      "posted": "2026-10-13T16:21:23-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Kafka",
+        "Apache Spark",
+        "Apache Flink",
+        "Apache Airflow",
+        "Testing",
+        "Monitoring",
+        "Data Lakes",
+        "Cassandra",
+        "Go",
+        "Stakeholder Management",
+        "Data Quality",
+        "Excel",
+        "Machine Learning"
+      ],
+      "top_jd_skills": [
+        "Kafka",
+        "Apache Spark",
+        "Apache Flink",
+        "Apache Airflow",
+        "Testing",
+        "Monitoring",
+        "Data Lakes",
+        "Cassandra",
+        "Go",
+        "Stakeholder Management"
+      ],
+      "verified_skills": [
+        "Kafka",
+        "Apache Spark",
+        "Apache Airflow",
+        "Data Quality",
+        "Excel",
+        "Machine Learning"
+      ],
+      "unverified_skills": [
+        "Apache Flink",
+        "Testing",
+        "Monitoring",
+        "Data Lakes",
+        "Cassandra",
+        "Go",
+        "Stakeholder Management"
+      ],
+      "signal_terms": [
+        "data lake",
+        "streaming",
+        "kafka",
+        "api",
+        "monitoring",
+        "data quality",
+        "analytics"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:51:43.988206+00:00"
+    },
+    "a7cdcbc7654ca900": {
+      "id": "a7cdcbc7654ca900",
+      "company": "DoorDash",
+      "title": "Software Engineer, Data Engineering",
+      "location": "San Francisco, CA; Sunnyvale, CA; Seattle, WA",
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192116",
+      "official_url": "https://careersatdoordash.com/job-search/",
+      "posted": "2026-10-13T16:25:08-04:00",
+      "profile": "data-engineering",
+      "detected_skills": [
+        "ETL/ELT",
+        "Monitoring",
+        "Apache Flink",
+        "Communication",
+        "Data Warehousing",
+        "Data Lakes",
+        "Data Quality",
+        "Business Intelligence",
+        "Testing",
+        "Python",
+        "Amazon Redshift",
+        "Apache Airflow",
+        "Apache Spark",
+        "AWS",
+        "Excel",
+        "Go",
+        "Google Cloud Platform",
+        "Java",
+        "Kafka",
+        "PostgreSQL",
+        "Snowflake",
+        "SQL",
+        "Tableau"
+      ],
+      "top_jd_skills": [
+        "ETL/ELT",
+        "Monitoring",
+        "Apache Flink",
+        "Communication",
+        "Data Warehousing",
+        "Data Lakes",
+        "Data Quality",
+        "Business Intelligence",
+        "Testing",
+        "Python"
+      ],
+      "verified_skills": [
+        "ETL/ELT",
+        "Data Quality",
+        "Python",
+        "Amazon Redshift",
+        "Apache Airflow",
+        "Apache Spark",
+        "AWS",
+        "Excel",
+        "Kafka",
+        "PostgreSQL",
+        "SQL",
+        "Tableau"
+      ],
+      "unverified_skills": [
+        "Monitoring",
+        "Apache Flink",
+        "Communication",
+        "Data Warehousing",
+        "Data Lakes",
+        "Business Intelligence",
+        "Testing",
+        "Go",
+        "Google Cloud Platform",
+        "Java",
+        "Snowflake"
+      ],
+      "signal_terms": [
+        "etl",
+        "data warehouse",
+        "data lake",
+        "streaming",
+        "kafka",
+        "api",
+        "monitoring",
+        "data quality",
+        "analytics",
+        "business intelligence",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:51:43.663796+00:00"
+    },
+    "9c4609f59deeef22": {
+      "id": "9c4609f59deeef22",
+      "company": "DoorDash",
+      "title": "Software Engineer, Data and AI Platform",
+      "location": "San Francisco, CA; Sunnyvale, CA",
+      "apply_url": "https://job-boards.greenhouse.io/doordashusa/jobs/8192187",
+      "official_url": "https://careersatdoordash.com/job-search/",
+      "posted": "2026-10-13T16:21:21-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Go",
+        "Dashboarding",
+        "Python",
+        "Large Language Models",
+        "AWS",
+        "Kubernetes",
+        "Data Governance",
+        "Snowflake",
+        "Apache Spark",
+        "Business Intelligence",
+        "Excel"
+      ],
+      "top_jd_skills": [
+        "Go",
+        "Dashboarding",
+        "Python",
+        "Large Language Models",
+        "AWS",
+        "Kubernetes",
+        "Data Governance",
+        "Snowflake",
+        "Apache Spark",
+        "Business Intelligence"
+      ],
+      "verified_skills": [
+        "Python",
+        "AWS",
+        "Kubernetes",
+        "Apache Spark",
+        "Excel"
+      ],
+      "unverified_skills": [
+        "Go",
+        "Dashboarding",
+        "Large Language Models",
+        "Data Governance",
+        "Snowflake",
+        "Business Intelligence"
+      ],
+      "signal_terms": [
+        "streaming",
+        "api",
+        "cloud",
+        "llm",
+        "analytics",
+        "dashboard",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:51:43.015685+00:00"
+    },
+    "e1a24c417749bf32": {
+      "id": "e1a24c417749bf32",
+      "company": "Northrop Grumman",
+      "title": "Associate Cloud Software Engineer (Level 1)",
+      "location": "United States-California-Redondo Beach",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "REST APIs",
+        "Git",
+        "Testing",
+        "AWS",
+        "Communication",
+        "CI/CD",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Java",
+        "C++",
+        "Amazon S3",
+        "Terraform"
+      ],
+      "top_jd_skills": [
+        "REST APIs",
+        "Git",
+        "Testing",
+        "AWS",
+        "Communication",
+        "CI/CD",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Java"
+      ],
+      "verified_skills": [
+        "REST APIs",
+        "Git",
+        "AWS",
+        "CI/CD",
+        "Python",
+        "JavaScript",
+        "Amazon S3",
+        "Terraform"
+      ],
+      "unverified_skills": [
+        "Testing",
+        "Communication",
+        "TypeScript",
+        "Java",
+        "C++"
+      ],
+      "signal_terms": [
+        "api",
+        "rest api",
+        "cloud",
+        "ci/cd",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:51:42.165641+00:00"
+    },
+    "4341becff7b53c04": {
+      "id": "4341becff7b53c04",
+      "company": "Fiserv",
+      "title": "Sr SDET",
+      "location": "Berkeley Heights, New Jersey",
+      "apply_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/Senior-Software-Engineer_R-10399525",
+      "official_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "GitHub",
+        "React",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Jenkins",
+        "GitHub Actions",
+        "AWS",
+        "Monitoring"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "GitHub",
+        "React",
+        "Python",
+        "JavaScript",
+        "TypeScript",
+        "Jenkins",
+        "GitHub Actions",
+        "AWS",
+        "Monitoring"
+      ],
+      "verified_skills": [
+        "GitHub",
+        "Python",
+        "JavaScript",
+        "GitHub Actions",
+        "AWS"
+      ],
+      "unverified_skills": [
+        "Testing",
+        "React",
+        "TypeScript",
+        "Jenkins",
+        "Monitoring"
+      ],
+      "signal_terms": [
+        "monitoring",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:51:41.584081+00:00"
+    },
+    "008b879532f55544": {
+      "id": "008b879532f55544",
+      "company": "Fiserv",
+      "title": "SDET",
+      "location": "Sunnyvale, California",
+      "apply_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/SDET_R-10403882",
+      "official_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Java",
+        "Git",
+        "Machine Learning",
+        "Bash",
+        "JSON",
+        "SQL",
+        "Monitoring",
+        "CI/CD",
+        "Stakeholder Management"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Java",
+        "Git",
+        "Machine Learning",
+        "Bash",
+        "JSON",
+        "SQL",
+        "Monitoring",
+        "CI/CD",
+        "Stakeholder Management"
+      ],
+      "verified_skills": [
+        "Git",
+        "Machine Learning",
+        "Bash",
+        "JSON",
+        "SQL",
+        "CI/CD"
+      ],
+      "unverified_skills": [
+        "Testing",
+        "Java",
+        "Monitoring",
+        "Stakeholder Management"
+      ],
+      "signal_terms": [
+        "api",
+        "monitoring",
+        "sql"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:51:40.864417+00:00"
+    },
+    "ed3aec9d160e0537": {
+      "id": "ed3aec9d160e0537",
+      "company": "Fiserv",
+      "title": "Sr SDET",
+      "location": "Sunnyvale, California",
+      "apply_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Sr-SDET_R-10403883",
+      "official_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Java",
+        "Git",
+        "Machine Learning",
+        "Bash",
+        "JSON",
+        "SQL",
+        "Monitoring",
+        "CI/CD",
+        "Stakeholder Management"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Java",
+        "Git",
+        "Machine Learning",
+        "Bash",
+        "JSON",
+        "SQL",
+        "Monitoring",
+        "CI/CD",
+        "Stakeholder Management"
+      ],
+      "verified_skills": [
+        "Git",
+        "Machine Learning",
+        "Bash",
+        "JSON",
+        "SQL",
+        "CI/CD"
+      ],
+      "unverified_skills": [
+        "Testing",
+        "Java",
+        "Monitoring",
+        "Stakeholder Management"
+      ],
+      "signal_terms": [
+        "api",
+        "monitoring",
+        "sql"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:51:40.466281+00:00"
+    },
+    "0db3b3b1da0057c5": {
+      "id": "0db3b3b1da0057c5",
+      "company": "Citi",
+      "title": "AI Engineer – Startups & Partnerships",
+      "location": "Jersey City New Jersey United States",
+      "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/AI-Engineer---Startups---Partnerships_261001616",
+      "official_url": "https://citi.wd5.myworkdayjobs.com/en-US/2",
+      "posted": "Posted Today",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Large Language Models",
+        "Stakeholder Management",
+        "Retrieval-Augmented Generation",
+        "Docker",
+        "Machine Learning",
+        "Experimentation",
+        "Vector Databases",
+        "Kubernetes",
+        "Communication",
+        "Go",
+        "ETL/ELT",
+        "REST APIs"
+      ],
+      "top_jd_skills": [
+        "Large Language Models",
+        "Stakeholder Management",
+        "Retrieval-Augmented Generation",
+        "Docker",
+        "Machine Learning",
+        "Experimentation",
+        "Vector Databases",
+        "Kubernetes",
+        "Communication",
+        "Go"
+      ],
+      "verified_skills": [
+        "Docker",
+        "Machine Learning",
+        "Kubernetes",
+        "ETL/ELT",
+        "REST APIs"
+      ],
+      "unverified_skills": [
+        "Large Language Models",
+        "Stakeholder Management",
+        "Retrieval-Augmented Generation",
+        "Experimentation",
+        "Vector Databases",
+        "Communication",
+        "Go"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "data pipelines",
+        "api",
+        "cloud",
+        "llm"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:51:40.121303+00:00"
+    },
+    "54a398ce9236decd": {
+      "id": "54a398ce9236decd",
+      "company": "Booz Allen Hamilton",
+      "title": "Business Intelligence Analyst",
+      "location": "McLean, VA",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Business-Intelligence-Analyst_R0250980",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Databricks",
+        "Dashboarding",
+        "Data Modeling",
+        "Data Visualization",
+        "Business Intelligence",
+        "Communication",
+        "Problem Solving",
+        "Stakeholder Management",
+        "Tableau",
+        "Power BI"
+      ],
+      "top_jd_skills": [
+        "Databricks",
+        "Dashboarding",
+        "Data Modeling",
+        "Data Visualization",
+        "Business Intelligence",
+        "Communication",
+        "Problem Solving",
+        "Stakeholder Management",
+        "Tableau",
+        "Power BI"
+      ],
+      "verified_skills": [
+        "Data Modeling",
+        "Tableau"
+      ],
+      "unverified_skills": [
+        "Databricks",
+        "Dashboarding",
+        "Data Visualization",
+        "Business Intelligence",
+        "Communication",
+        "Problem Solving",
+        "Stakeholder Management",
+        "Power BI"
+      ],
+      "signal_terms": [
+        "data modeling",
+        "analytics",
+        "dashboard",
+        "business intelligence"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T22:51:37.146183+00:00"
+    },
+    "0533a8e2ef502586": {
+      "id": "0533a8e2ef502586",
+      "company": "Guidehouse",
+      "title": "Software Engineer",
+      "location": "US - VA, Springfield",
+      "apply_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Springfield/Software-Engineer_45006",
+      "official_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Agile",
+        "TypeScript",
+        "Communication",
+        "Python",
+        "HTML5",
+        "CI/CD",
+        "Testing",
+        "Networking",
+        "Business Intelligence"
+      ],
+      "top_jd_skills": [
+        "Agile",
+        "TypeScript",
+        "Communication",
+        "Python",
+        "HTML5",
+        "CI/CD",
+        "Testing",
+        "Networking",
+        "Business Intelligence"
+      ],
+      "verified_skills": [
+        "Python",
+        "HTML5",
+        "CI/CD"
+      ],
+      "unverified_skills": [
+        "Agile",
+        "TypeScript",
+        "Communication",
+        "Testing",
+        "Networking",
+        "Business Intelligence"
+      ],
+      "signal_terms": [
+        "cloud",
+        "ci/cd",
+        "business intelligence",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T19:35:45.009330+00:00"
+    },
+    "d3622fd23ff7e954": {
+      "id": "d3622fd23ff7e954",
+      "company": "Roblox",
+      "title": "Software Engineer, Data Model",
+      "location": "San Mateo, CA, United States",
+      "apply_url": "https://careers.roblox.com/jobs/8159857?gh_jid=8159857",
+      "official_url": "https://careers.roblox.com/",
+      "posted": "2026-10-08T20:03:41-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "C++",
+        "C#",
+        "Go",
+        "Python",
+        "Networking",
+        "Generative AI",
+        "Machine Learning",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "C++",
+        "C#",
+        "Go",
+        "Python",
+        "Networking",
+        "Generative AI",
+        "Machine Learning",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "Python",
+        "Machine Learning"
+      ],
+      "unverified_skills": [
+        "C++",
+        "C#",
+        "Go",
+        "Networking",
+        "Generative AI",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "machine learning",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-13T19:35:24.044380+00:00"
     },
     "acd0e4d8782e76de": {
       "id": "acd0e4d8782e76de",
@@ -56435,5 +57485,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-10-13T19:34:09.727057+00:00"
+  "generated_at": "2026-10-13T22:51:47.586411+00:00"
 }

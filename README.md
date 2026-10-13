@@ -1,6 +1,44 @@
 # 📢 Job Listings for Harsha — October 13, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-13 15:51:47 MST
+
+📊 **20 new jobs this batch:**
+- Blue Origin: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 3 jobs
+- Citi: 1 job
+- DoorDash: 4 jobs
+- Fiserv: 4 jobs
+- Northrop Grumman: 2 jobs
+- Nvidia: 2 jobs
+- Salesforce: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Blue Origin** | Greater Seattle Area | Software Engineer | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Software-Engineer_R73434) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=30f4a511e43a4662) | [Careers](https://www.blueorigin.com/careers/search) | Posted Today |
+| **Boeing** | USA - Richardson, TX | Experienced Real-Time Software Engineer - Simulation | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-2) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a6424714b4bb1fb7) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | Lorton, VA | Augmented Reality Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0251325) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3e0cca8c1ca68a88) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Lorton, VA | Augmented Reality Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0251326) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9265f8572b51ce3f) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Business Intelligence Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Business-Intelligence-Analyst_R0250980) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=54a398ce9236decd) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Citi** | Jersey City New Jersey United States | AI Engineer – Startups & Partnerships | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Jersey-City-New-Jersey-United-States/AI-Engineer---Startups---Partnerships_261001616) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0db3b3b1da0057c5) | [Careers](https://citi.wd5.myworkdayjobs.com/en-US/2) | Posted Today |
+| **DoorDash** | San Francisco, CA; Sunnyvale, CA | Software Engineer, Data and AI Platform | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8192187) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9c4609f59deeef22) | [Careers](https://careersatdoordash.com/job-search/) | 2026-10-13T16:21:21-04:00 |
+| **DoorDash** | San Francisco, CA; Sunnyvale, CA; Seattle, WA | Software Engineer, Data Engineering | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8192116) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a7cdcbc7654ca900) | [Careers](https://careersatdoordash.com/job-search/) | 2026-10-13T16:25:08-04:00 |
+| **DoorDash** | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | Software Engineer, Data Platform | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8191886) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0eb95c6eada5d303) | [Careers](https://careersatdoordash.com/job-search/) | 2026-10-13T16:21:23-04:00 |
+| **DoorDash** | San Francisco, CA; Sunnyvale, CA; Seattle, WA; New York City, NY | Software Engineer, Spark Platform | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8192190) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=990b6c3e22290964) | [Careers](https://careersatdoordash.com/job-search/) | 2026-10-13T16:21:25-04:00 |
+| **Fiserv** | Sunnyvale, California | Android AOSP Device Software Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403880) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=dfd0f9b0cf1a5f6d) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Fiserv** | Sunnyvale, California | SDET | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/SDET_R-10403882) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=008b879532f55544) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Fiserv** | Sunnyvale, California | Sr SDET | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Sr-SDET_R-10403883) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ed3aec9d160e0537) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Fiserv** | Berkeley Heights, New Jersey | Sr SDET | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/Senior-Software-Engineer_R-10399525) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4341becff7b53c04) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | Associate Cloud Software Engineer (Level 1) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Associate-Cloud-Software-Engineer--Level-1-_R10255928) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e1a24c417749bf32) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-California-San Diego | Software Engineer - Integration and Test | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer---Integration-and-Test_R10253090-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f55f21ed1b0c88e2) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | SoC Software Engineer - New College Grad 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=140dea7e8bc4c309) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | SoC Software Engineer – New College Graduate 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=11f7a2cbe7fb0c1b) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering Architect - DevXP AI team | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-Architect---DevXP-AI-team_JR362162) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=11c6aedbf837329d) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering PMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR363144) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5d499e87e5a0ef10) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-13 12:34:09 MST
 
 📊 **8 new jobs this batch:**
