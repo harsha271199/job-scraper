@@ -1,6 +1,41 @@
 # 📢 Job Listings for Harsha — October 14, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-14 15:20:57 MST
+
+📊 **15 new jobs this batch:**
+- 1Password: 1 job
+- Apple: 4 jobs
+- Asana: 1 job
+- Fiserv: 1 job
+- HP: 1 job
+- Motorola Solutions: 2 jobs
+- Northrop Grumman: 1 job
+- Reddit: 1 job
+- Salesforce: 1 job
+- Snap: 1 job
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **1Password** | Remote (United States | Canada) | Data Analyst, Finance Analytics | [Apply](https://harsha271199.github.io/job-scraper/?job=f559f2041658371e) | [Careers](https://jobs.ashbyhq.com/1password) | 2026-10-14T19:48:02.021+00:00 |
+| **Apple** | N/A | iOS Telephony Software Engineer, Wireless Technologies & Ecosystems | [Apply](https://jobs.apple.com/en-us/details/200687778-0836/ios-telephony-software-engineer-wireless-technologies-ecosystems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=150dfe4b371439b3) | [Careers](https://jobs.apple.com/en-us/search) | Oct 14, 2026 |
+| **Apple** | N/A | Software Engineer - Journal Team | [Apply](https://jobs.apple.com/en-us/details/200672753-0836/software-engineer-journal-team?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a27c6ad3757a398e) | [Careers](https://jobs.apple.com/en-us/search) | Oct 14, 2026 |
+| **Apple** | N/A | Software Engineer - Journal Team | [Apply](https://jobs.apple.com/en-us/details/200672753-3543/software-engineer-journal-team?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0ba1580a95dd779d) | [Careers](https://jobs.apple.com/en-us/search) | Oct 14, 2026 |
+| **Apple** | N/A | Software Engineer - Systems Performance, CoreOS | [Apply](https://jobs.apple.com/en-us/details/200687817-3543/software-engineer-systems-performance-coreos?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=77e023a7eb996377) | [Careers](https://jobs.apple.com/en-us/search) | Oct 14, 2026 |
+| **Asana** | San Francisco | Software Engineer | [Apply](https://www.asana.com/jobs/apply/8194522?gh_jid=8194522) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ad6ad4e2bad85c35) | [Careers](https://boards.greenhouse.io/asana) | 2026-10-14T17:11:30-04:00 |
+| **Fiserv** | Sunnyvale, California | Sr Backend Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Sr-Backend-Engineer_R-10403887) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=da22f3ffb073fb3e) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **HP** | Vancouver, Washington, United States of America | DevOps Engineer | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Vancouver-Washington-United-States-of-America/DevOps-Engineer_3169187-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cf24428b5f9090e1) | [Careers](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) | Posted Today |
+| **Motorola Solutions** | Plantation, FL, More... | Business Analyst | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Business-Analyst_R69582) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=662e6b0e65efae4f) | [Careers](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | Posted Today |
+| **Motorola Solutions** | Plantation, FL, More... | Business Analyst II | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Business-Analyst-II_R69515) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ade6b7f7a351c4dd) | [Careers](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | Posted Today |
+| **Northrop Grumman** | United States-Ohio-Cincinnati | 2027 Cyber Software Engineer Intern - Cincinnati OH | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Ohio-Cincinnati/XMLNAME-2027-Cyber-Software-Engineer-Intern---Cincinnati-OH_R10249186) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3a2ea2b2eaff10ec) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Reddit** | Remote - United States | Analytics Engineer | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8282760) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ab9f3dae5d19315c) | [Careers](https://redditinc.com/careers) | 2026-10-14T18:03:16-04:00 |
+| **Salesforce** | California - San Francisco | Software Engineering LMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS_JR363394) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c43a0fa2d5e1c103) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Snap** | Bellevue; Santa Monica | Research Scientist, Language for Personalization | [Apply](https://careers.snap.com/job?id=R0044935) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a0fbd529df61e614) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **Workday** | USA, CA, Pleasanton | AI Engineer | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/AI-Engineer_JR-0110881) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=13f0479f26f40d34) | [Careers](https://workday.wd5.myworkdayjobs.com/en-US/Workday) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-14 11:57:17 MST
 
 📊 **2 new jobs this batch:**
