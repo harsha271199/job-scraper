@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 13, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-13 18:57:38 MST
+
+📊 **1 new jobs this batch:**
+- Snowflake: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Snowflake** | US-WA-Bellevue | Software Engineer - Ingestion Execution Platform | [Apply](https://jobs.ashbyhq.com/snowflake/b6fed204-3317-43ba-b87b-f045e4cf8d68) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=dee5a3d00eaa44ff) | [Careers](https://careers.snowflake.com/us/en) | 2026-10-14T00:29:18.849+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-13 15:51:47 MST
 
 📊 **20 new jobs this batch:**
