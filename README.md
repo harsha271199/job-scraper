@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 14, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-14 11:57:17 MST
+
+📊 **2 new jobs this batch:**
+- Broadcom: 1 job
+- Guidehouse: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Broadcom** | USA-CA - Promontory D | Platform Engineer – VCF Networking | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-D/Platform-Engineer---VCF-Networking_R027365) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=53be0f9007a969a3) | [Careers](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career) | Posted Today |
+| **Guidehouse** | US - TX, Houston | Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---TX-Houston/Data-Scientist_44972) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=40ade3c5b988fcc3) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-14 11:41:39 MST
 
 📊 **19 new jobs this batch:**
