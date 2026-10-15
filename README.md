@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — October 15, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-15 15:25:02 MST
+
+📊 **9 new jobs this batch:**
+- Affirm: 1 job
+- Apple: 2 jobs
+- Booz Allen Hamilton: 1 job
+- General Motors: 1 job
+- HP: 2 jobs
+- Salesforce: 1 job
+- Watershed: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Affirm** | Remote US | Software Engineer I, Fullstack (Search) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8017340003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fd40d9b366a12242) | [Careers](https://boards.greenhouse.io/affirm) | 2026-10-15T17:31:09-04:00 |
+| **Apple** | N/A | Fitness Technologies & Experiences Studio Pipeline Engineer | [Apply](https://jobs.apple.com/en-us/details/200689534-3326/fitness-technologies-experiences-studio-pipeline-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=522615c7734aab22) | [Careers](https://jobs.apple.com/en-us/search) | Oct 15, 2026 |
+| **Apple** | N/A | Software Engineer, Watch Software, Sensing & Connectivity | [Apply](https://jobs.apple.com/en-us/details/200689576-0836/software-engineer-watch-software-sensing-connectivity?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1999fa9b52ade4a6) | [Careers](https://jobs.apple.com/en-us/search) | Oct 15, 2026 |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0251681) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=60c89763adb38a96) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **General Motors** | Warren, Michigan, United States of America | 2027 Summer Intern, AI/ML Engineer, Mapping (Masters) | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/XMLNAME-2027-Summer-Intern--AI-ML-Engineer--Mapping--Masters-_JR-202622539) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=80ff06231a43ef78) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **HP** | Austin, Texas, United States of America | Software Engineer | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Software-Engineer_3169200-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fc8eecff2b355c4d) | [Careers](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) | Posted Today |
+| **HP** | Austin, Texas, United States of America | Software Engineer | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/Austin-Texas-United-States-of-America/Software-Engineer_3169201) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b2511672a345bfe7) | [Careers](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering - MTS, Trust Intelligence Platform | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering---MTS--Trust-Intelligence-Platform_JR363027) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c714b6181c3b3d39) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Watershed** | San Francisco | Software engineer, cloud infrastructure | [Apply](https://jobs.ashbyhq.com/watershed/9dd3ca17-baff-4e36-be75-f13a2a919cbc) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=85717a7aacb92a1a) | [Careers](https://jobs.ashbyhq.com/watershed) | 2026-10-15T21:44:54.149+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-15 13:33:56 MST
 
 📊 **12 new jobs this batch:**
