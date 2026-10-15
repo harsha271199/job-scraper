@@ -1,6 +1,35 @@
 # 📢 Job Listings for Harsha — October 15, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-15 10:23:17 MST
+
+📊 **12 new jobs this batch:**
+- Booz Allen Hamilton: 4 jobs
+- Fiserv: 1 job
+- Garner Health: 1 job
+- Mastercard: 1 job
+- Salesforce: 2 jobs
+- Snowflake: 1 job
+- Verkada: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Arlington, VA | AI Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-Software-Engineer_R0251671) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=eff4df8a0e9880fa) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Herndon, VA | Astrodynamics Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Herndon-VA/Astrodynamics-Software-Engineer_R0251706-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=caac29fcbac3e436) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Analyst_R0251682) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2b4387114c4e6973) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Quantico, VA | Human Performance Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Quantico-VA/Human-Performance-Data-Scientist_R0251695) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=faa8c25eec260b26) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Fiserv** | Sunnyvale, California | Software Development Engineering - SDET | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Software-Development-Engineering---SDET_R-10403889) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=190dba033297feea) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Garner Health** | New York City, New York | Data Engineer II | [Apply](https://job-boards.greenhouse.io/garnerhealth/jobs/6225499004) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3992ccef6d9e00f2) | [Careers](https://boards.greenhouse.io/garnerhealth) | 2026-10-15T12:11:05-04:00 |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-293662) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=83e3d3df5bdad0a7) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering SMTS - Brain Team (REMOTE) | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS---Brain-Team--REMOTE-_JR363395) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=427eb26b0e81942b) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering SMTS / LMTS - AI Core (REMOTE) | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-LMTS---AI-Core--REMOTE-_JR363384) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8de248f2daee841f) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Snowflake** | US-WA-Bellevue | Software Engineer — Engineering Systems, Continuous Integration | [Apply](https://jobs.ashbyhq.com/snowflake/37ad5524-1716-4b54-8c3a-a81429592a91) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=078c68c7e4646421) | [Careers](https://careers.snowflake.com/us/en) | 2026-10-15T17:21:42.820+00:00 |
+| **Verkada** | San Mateo, CA United States | Software Engineer, Platform Infrastructure | [Apply](https://job-boards.greenhouse.io/verkada/jobs/4759062007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=21a817754b760bcf) | [Careers](https://boards.greenhouse.io/verkada) | 2025-06-09T17:07:21-04:00 |
+| **xAI** | Southaven, MS; Memphis, TN | Site Reliability Engineer | [Apply](https://job-boards.greenhouse.io/xai/jobs/5266379007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2df95d820bf65ae6) | [Careers](https://boards.greenhouse.io/xai) | 2026-10-15T10:05:31-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-15 06:30:00 MST
 
 📊 **1 new jobs this batch:**
