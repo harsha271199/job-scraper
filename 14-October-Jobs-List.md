@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 14, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-14 18:32:13 MST
+
+📊 **1 new jobs this batch:**
+- Cursor: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Cursor** | New York | Software Engineer, Model Lifecycle and Signals | [Apply](https://jobs.ashbyhq.com/cursor/a577902e-28e9-4e68-9ee9-91e34d1b59c4) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7c72b88749174ea7) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-10-15T01:25:48.788+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-14 17:55:47 MST
 
 📊 **8 new jobs this batch:**
