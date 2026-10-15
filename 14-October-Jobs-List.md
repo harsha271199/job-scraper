@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — October 14, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-14 17:55:47 MST
+
+📊 **8 new jobs this batch:**
+- Apple: 4 jobs
+- Booz Allen Hamilton: 1 job
+- DoorDash: 1 job
+- GitLab: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | iOS Software Engineer, Shortcuts Actions - Proactive | [Apply](https://jobs.apple.com/en-us/details/200689259-3337/ios-software-engineer-shortcuts-actions-proactive?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=89cecb37a214db90) | [Careers](https://jobs.apple.com/en-us/search) | Oct 14, 2026 |
+| **Apple** | N/A | Software Engineer, Apple Services Engineering | [Apply](https://jobs.apple.com/en-us/details/200689298-3337/software-engineer-apple-services-engineering?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d5f539a4b583ccb3) | [Careers](https://jobs.apple.com/en-us/search) | Oct 14, 2026 |
+| **Apple** | N/A | Software Engineer, Apple Services Engineering, iCloud Platform | [Apply](https://jobs.apple.com/en-us/details/200689325-3337/software-engineer-apple-services-engineering-icloud-platform?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c411ee6c1bccce57) | [Careers](https://jobs.apple.com/en-us/search) | Oct 14, 2026 |
+| **Apple** | N/A | Software Engineer, WebKit Accessibility | [Apply](https://jobs.apple.com/en-us/details/200689295-0836/software-engineer-webkit-accessibility?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bc7b277abddc4754) | [Careers](https://jobs.apple.com/en-us/search) | Oct 15, 2026 |
+| **Booz Allen Hamilton** | San Diego, CA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Data-Scientist--Mid_R0251653) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=973adb88286f16f9) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **DoorDash** | San Francisco, CA; Sunnyvale, CA; Seattle, WA | Software Engineer, ML Infrastructure (MDX) | [Apply](https://job-boards.greenhouse.io/doordashusa/jobs/8283735) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8f3b97ad77ca0550) | [Careers](https://careersatdoordash.com/job-search/) | 2026-10-14T20:31:07-04:00 |
+| **GitLab** | Remote, Canada; Remote, United States | Cloud Platform Engineer | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8889193002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=45f2abfb53d0efe5) | [Careers](https://about.gitlab.com/jobs/) | 2026-10-14T18:58:44-04:00 |
+| **OpenAI** | San Francisco | Client Platform Engineer | [Apply](https://jobs.ashbyhq.com/openai/329fe50f-7701-4f07-982d-a4e10cbec236) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=888c7f371bcd2c4d) | [Careers](https://openai.com/careers/search/) | 2026-10-15T00:16:24.105+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-14 15:20:57 MST
 
 📊 **15 new jobs this batch:**
