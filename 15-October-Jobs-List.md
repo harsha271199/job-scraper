@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — October 15, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-15 13:33:56 MST
+
+📊 **12 new jobs this batch:**
+- Apple: 4 jobs
+- Booz Allen Hamilton: 3 jobs
+- Duolingo: 2 jobs
+- Reddit: 1 job
+- Snap: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Backend Engineer, QoS Apple Services Engineering | [Apply](https://jobs.apple.com/en-us/details/200689191-3543/backend-engineer-qos-apple-services-engineering?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2a183d70df51232d) | [Careers](https://jobs.apple.com/en-us/search) | Oct 15, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, Creative Intelligence Systems | [Apply](https://jobs.apple.com/en-us/details/200687729-0836/machine-learning-engineer-creative-intelligence-systems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=aa68033207f5db21) | [Careers](https://jobs.apple.com/en-us/search) | Oct 15, 2026 |
+| **Apple** | N/A | Software Engineer, Applied ML Connected Experiences, Sensing & Connectivity | [Apply](https://jobs.apple.com/en-us/details/200595175-3543/software-engineer-applied-ml-connected-experiences-sensing-connectivity?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4d113dba5909b133) | [Careers](https://jobs.apple.com/en-us/search) | Oct 15, 2026 |
+| **Apple** | N/A | UX and UI Software Engineer — Observability | [Apply](https://jobs.apple.com/en-us/details/200689252-3577/ux-and-ui-software-engineer-observability?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9511f96376c9756c) | [Careers](https://jobs.apple.com/en-us/search) | Oct 15, 2026 |
+| **Booz Allen Hamilton** | Fort Meade, MD | AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/AI-Engineer_R0251722-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f733384822ec4af2) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0251795) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=385608ed54483953) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Wharton, NJ | Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Software-Engineer--Mid_R0251705) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3c29b17f39e5fc5b) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Duolingo** | New York, NY; Pittsburgh, PA | Data Scientist, Intern | [Apply](https://careers.duolingo.com/jobs/8888721002?gh_jid=8888721002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a58a39f03eda02aa) | [Careers](https://boards.greenhouse.io/duolingo) | 2026-10-15T16:00:01-04:00 |
+| **Duolingo** | New York, NY; Pittsburgh, PA | Data Scientist, Intern (PhD) | [Apply](https://careers.duolingo.com/jobs/8888848002?gh_jid=8888848002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=733c85858eb27b5a) | [Careers](https://boards.greenhouse.io/duolingo) | 2026-10-15T16:00:01-04:00 |
+| **Reddit** | Remote - United States | Machine Learning Engineer | [Apply](https://job-boards.greenhouse.io/reddit/jobs/7131932) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fdae1e9354c8ec13) | [Careers](https://redditinc.com/careers) | 2025-08-14T14:51:26-04:00 |
+| **Snap** | Bellevue; Los Angeles; Palo Alto | Software Engineer, ML infrastructure, Core Inference, Level 4 | [Apply](https://careers.snap.com/job?id=R0047198) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=83ff1fae9c29f168) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **SpaceX** | Starbase, TX | Full Stack Software Engineer, Launch Software | [Apply](https://boards.greenhouse.io/spacex/jobs/8893016002?gh_jid=8893016002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6ad4700397c3eeb0) | [Careers](https://new.spacex.com/careers) | 2026-10-15T14:43:14-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-15 10:23:17 MST
 
 📊 **12 new jobs this batch:**
