@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — October 15, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-15 16:19:23 MST
+
+📊 **4 new jobs this batch:**
+- Anthropic: 2 jobs
+- Apple: 1 job
+- Broadcom: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY | Applied AI Engineer, Startups (Life Sciences) | [Apply](https://harsha271199.github.io/job-scraper/?job=dae2035316fda8f7) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-15T18:47:12-04:00 |
+| **Anthropic** | San Francisco, CA | Applied AI Engineer, Startups (Physical AI) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5454673008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6c2aeffc0124ab88) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-15T18:50:02-04:00 |
+| **Apple** | N/A | SoC Machine Learning Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200689488-3956/soc-machine-learning-software-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=679c661b29fe34c0) | [Careers](https://jobs.apple.com/en-us/search) | Oct 15, 2026 |
+| **Broadcom** | USA-CA - Promontory B | R&D Software Engineer VMKernel | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/R-D-Software-Engineer-VMKernel_R027422) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=551ba5654bedba7d) | [Careers](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-15 15:25:02 MST
 
 📊 **9 new jobs this batch:**
