@@ -1,6 +1,32 @@
 # 📢 Job Listings for Harsha — October 16, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-16 14:17:23 MST
+
+📊 **12 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Fiserv: 1 job
+- Guidehouse: 1 job
+- Justworks: 1 job
+- Northrop Grumman: 6 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Chantilly, VA | Cyber Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cyber-Data-Analyst_R0251828) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2763399516704486) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Dahlgren, VA | DevOps Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Dahlgren-VA/DevOps-Engineer_R0251823) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bcd71bb8d4efbb40) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | Sustainment Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Sustainment-Data-Scientist_R0251809) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e88921b7fdb94192) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Fiserv** | Sunnyvale, California | Android AOSP Device Software Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403888) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=596aa75e089bf110) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+| **Guidehouse** | US - Remote (Any location) | Fraud AI/ML Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Fraud-AI-ML-Data-Scientist_45164) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3802036bcfb5d584) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Justworks** | New York, New York | Software Engineer, Solutions Engineering | [Apply](https://boards.greenhouse.io/justworks/jobs/8286381?gh_jid=8286381) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=eaad6b16b31791ce) | [Careers](https://boards.greenhouse.io/justworks) | 2026-10-16T16:53:19-04:00 |
+| **Northrop Grumman** | United States-Virginia-Dulles | 2027 Associate/Software Engineer Pathways Dulles VA | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Virginia-Dulles/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2846a003c30b5eeb) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Aurora | 2027 Software Engineering Intern - Aurora CO | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=49170d209094db72) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Aurora | 2027 Software Engineering Intern - Aurora CO | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=062f894fdf3348ef) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | 2027 Software Engineering Intern - Boulder CO | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ad50dea5ecded570) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Colorado Springs | 2027 Software Engineering Intern - Colorado Springs | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8816f9e7954abaef) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Colorado Springs | 2027 Software Engineering Intern - Colorado Springs | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1d6d268f00f9f2a9) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-16 13:06:36 MST
 
 📊 **3 new jobs this batch:**
