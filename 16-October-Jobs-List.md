@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 16, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-16 16:03:11 MST
+
+📊 **1 new jobs this batch:**
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Zoox** | Foster City, CA | Software Engineer, ML Training Performance | [Apply](https://jobs.lever.co/zoox/91ff6263-49fb-421e-860f-36e7b9bae784) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=58e57b421b3d45cd) | [Careers](https://jobs.lever.co/zoox) | 2026-10-16 19:49 |
+
+---
+
 ### 🕐 Batch at 2026-10-16 14:17:23 MST
 
 📊 **12 new jobs this batch:**
