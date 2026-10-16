@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 16, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-16 10:29:55 MST
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Honolulu, HI | Software Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Software-Data-Engineer_R0251772) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d2db3f0072e7531d) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Engineer_R0251775) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4b9740e10b060812) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | MacDill AFB, FL | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/MacDill-AFB-FL/Software-Engineer_R0251785) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=63b71554a81165f1) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-16 09:59:41 MST
 
 📊 **10 new jobs this batch:**
