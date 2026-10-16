@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 16, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-16 13:06:36 MST
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | McLean, VA | Business Intelligence Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Business-Intelligence-Engineer_R0251799) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=06b6a5238648cc9f) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Fayetteville, NC | Special Missions Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Special-Missions-Software-Engineer_R0249677) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ff49042a406a670c) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Fayetteville, NC | University, Software Engineer Intern | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1d728896d16995c8) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-16 10:29:55 MST
 
 📊 **3 new jobs this batch:**
