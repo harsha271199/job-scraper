@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 16, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-16 16:42:58 MST
+
+📊 **2 new jobs this batch:**
+- Apple: 1 job
+- Glean: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Multimodal AI Applied Scientist, SIML - ISE | [Apply](https://jobs.apple.com/en-us/details/200689528-0836/multimodal-ai-applied-scientist-siml-ise?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1878c64e0e317039) | [Careers](https://jobs.apple.com/en-us/search) | Oct 16, 2026 |
+| **Glean** | Mountain View, CA | Machine Learning Engineer, Enterprise Brain | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4744818005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=997de3c7507f1fa2) | [Careers](https://boards.greenhouse.io/gleanwork) | 2026-10-16T19:10:25-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-16 16:03:11 MST
 
 📊 **1 new jobs this batch:**
