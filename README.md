@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — October 15, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-15 23:26:19 MST
+
+📊 **8 new jobs this batch:**
+- Apple: 6 jobs
+- OpenAI: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Applied Research Scientist, Proactive Intelligence, — Agentic Systems and Generative Modeling | [Apply](https://jobs.apple.com/en-us/details/200651116-0836/applied-research-scientist-proactive-intelligence-agentic-systems-and-generative-modeling?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ba1a77827f76d44d) | [Careers](https://jobs.apple.com/en-us/search) | Oct 16, 2026 |
+| **Apple** | N/A | Battery Algorithm ML Engineer | [Apply](https://jobs.apple.com/en-us/details/200689563-0836/battery-algorithm-ml-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=11ff6f6830c7f2fa) | [Careers](https://jobs.apple.com/en-us/search) | Oct 16, 2026 |
+| **Apple** | N/A | Battery Algorithm ML Engineer | [Apply](https://jobs.apple.com/en-us/details/200689563-3543/battery-algorithm-ml-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f229dc1f0338b8df) | [Careers](https://jobs.apple.com/en-us/search) | Oct 16, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, System Experience - Proactive | [Apply](https://jobs.apple.com/en-us/details/200689638-0836/machine-learning-engineer-system-experience-proactive?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=15815c61ded40f5e) | [Careers](https://jobs.apple.com/en-us/search) | Oct 16, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, System Experience - Proactive | [Apply](https://jobs.apple.com/en-us/details/200689638-3337/machine-learning-engineer-system-experience-proactive?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4b52fc52a2849309) | [Careers](https://jobs.apple.com/en-us/search) | Oct 16, 2026 |
+| **Apple** | N/A | Software Data Engineer, Sensing & Connectivity | [Apply](https://jobs.apple.com/en-us/details/200689577-0836/software-data-engineer-sensing-connectivity?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=992529cb802289b3) | [Careers](https://jobs.apple.com/en-us/search) | Oct 16, 2026 |
+| **OpenAI** | San Francisco | Full-Stack Software Engineer, Intelligence & Investigations | [Apply](https://jobs.ashbyhq.com/openai/52c72cb9-7c44-4cba-b440-e05262a38491) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e704a7f89ffefcb7) | [Careers](https://openai.com/careers/search/) | 2025-11-12T20:52:20.549+00:00 |
+| **Salesforce** | California - San Francisco | Software Engineering Architect | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-Architect_JR363089) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=12f06053431d7d06) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-15 18:26:55 MST
 
 📊 **4 new jobs this batch:**
