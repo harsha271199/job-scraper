@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — October 15, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-15 18:26:55 MST
+
+📊 **4 new jobs this batch:**
+- Affirm: 1 job
+- Apple: 2 jobs
+- Honeycomb: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Affirm** | Remote US | Software Engineer II, Mobile (Card Acquisition) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8032173003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c7e79a6c0b5435bf) | [Careers](https://boards.greenhouse.io/affirm) | 2026-10-15T21:10:11-04:00 |
+| **Apple** | N/A | Platform Engineer, Privacy Preserving ML | [Apply](https://jobs.apple.com/en-us/details/200658504-0836/platform-engineer-privacy-preserving-ml?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6799c364fddeec3e) | [Careers](https://jobs.apple.com/en-us/search) | Oct 16, 2026 |
+| **Apple** | N/A | Platform Engineer, Privacy Preserving ML | [Apply](https://jobs.apple.com/en-us/details/200658504-3337/platform-engineer-privacy-preserving-ml?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ec68b7adeef312c2) | [Careers](https://jobs.apple.com/en-us/search) | Oct 16, 2026 |
+| **Honeycomb** | Remote - United States | Software Engineer I - LLM Observability | [Apply](https://job-boards.greenhouse.io/honeycomb/jobs/5452584008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a6cc636accb3c19a) | [Careers](https://boards.greenhouse.io/honeycomb) | 2026-10-15T19:21:48-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-15 16:19:23 MST
 
 📊 **4 new jobs this batch:**
