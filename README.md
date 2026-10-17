@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — October 16, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-16 21:36:02 MST
+
+📊 **5 new jobs this batch:**
+- Abnormal Security: 1 job
+- Lyft: 4 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Abnormal Security** | Remote - USA | Software Engineer 1 - Cloud Infrastructure | [Apply](https://abnormal.ai/careers/jobs/8015179003?gh_jid=8015179003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1e0db7c53aeb952c) | [Careers](https://boards.greenhouse.io/abnormalsecurity) | 2026-10-17T00:06:39-04:00 |
+| **Lyft** | New York, NY | Data Analyst | [Apply](https://app.careerpuck.com/job-board/lyft/job/8896685002?gh_jid=8896685002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=14d04dea18f30144) | [Careers](https://boards.greenhouse.io/lyft) | 2026-10-16T22:54:56-04:00 |
+| **Lyft** | San Francisco, CA | Data Scientist | [Apply](https://app.careerpuck.com/job-board/lyft/job/8896671002?gh_jid=8896671002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cea3a9b0c89c5b8d) | [Careers](https://boards.greenhouse.io/lyft) | 2026-10-16T22:32:04-04:00 |
+| **Lyft** | New York, NY | Data Scientist | [Apply](https://app.careerpuck.com/job-board/lyft/job/8896675002?gh_jid=8896675002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7290bfdd9d392961) | [Careers](https://boards.greenhouse.io/lyft) | 2026-10-16T22:39:11-04:00 |
+| **Lyft** | San Francisco, CA | Software Engineer | [Apply](https://app.careerpuck.com/job-board/lyft/job/8896679002?gh_jid=8896679002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=628466b98cbf8247) | [Careers](https://boards.greenhouse.io/lyft) | 2026-10-16T22:47:42-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-16 18:35:01 MST
 
 📊 **4 new jobs this batch:**
