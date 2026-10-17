@@ -57,7 +57,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:17:09.175939+00:00"
+      "captured_at": "2026-10-17T09:29:54.538187+00:00"
     },
     "da4a76f3329e0712": {
       "id": "da4a76f3329e0712",
@@ -115,7 +115,40 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:17:08.838575+00:00"
+      "captured_at": "2026-10-17T09:29:54.228735+00:00"
+    },
+    "e15eee8f62c1c661": {
+      "id": "e15eee8f62c1c661",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineer Morrisville NC",
+      "location": "United States-North Carolina-Morrisville",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Morrisville-NC_R10256380",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Python",
+        "C++",
+        "Linux"
+      ],
+      "top_jd_skills": [
+        "Python",
+        "C++",
+        "Linux"
+      ],
+      "verified_skills": [
+        "Python"
+      ],
+      "unverified_skills": [
+        "C++",
+        "Linux"
+      ],
+      "signal_terms": [
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:53.900886+00:00"
     },
     "f803dc45c51a087c": {
       "id": "f803dc45c51a087c",
@@ -133,7 +166,53 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:17:08.284973+00:00"
+      "captured_at": "2026-10-17T09:29:53.424132+00:00"
+    },
+    "a045e407cbd75a8e": {
+      "id": "a045e407cbd75a8e",
+      "company": "Booz Allen Hamilton",
+      "title": "Business Analyst",
+      "location": "Honolulu, HI",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Business-Analyst_R0251852",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Communication",
+        "Business Intelligence",
+        "TypeScript",
+        "Power BI",
+        "Tableau",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Business Intelligence",
+        "TypeScript",
+        "Power BI",
+        "Tableau",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "Tableau"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Business Intelligence",
+        "TypeScript",
+        "Power BI",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "analytics",
+        "business intelligence"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:53.000561+00:00"
     },
     "3601c96e36204cbd": {
       "id": "3601c96e36204cbd",
@@ -154,7 +233,324 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:17:02.267107+00:00"
+      "captured_at": "2026-10-17T09:29:52.556953+00:00"
+    },
+    "1d728896d16995c8": {
+      "id": "1d728896d16995c8",
+      "company": "Booz Allen Hamilton",
+      "title": "University, Software Engineer Intern",
+      "location": "Fayetteville, NC",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "Java",
+        "Agile",
+        "Collaboration",
+        "Git",
+        "GitLab",
+        "GitHub",
+        "C++"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Java",
+        "Agile",
+        "Collaboration",
+        "Git",
+        "GitLab",
+        "GitHub",
+        "C++"
+      ],
+      "verified_skills": [
+        "Git",
+        "GitHub"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Java",
+        "Agile",
+        "Collaboration",
+        "GitLab",
+        "C++"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:51.124998+00:00"
+    },
+    "1d6d268f00f9f2a9": {
+      "id": "1d6d268f00f9f2a9",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineering Intern - Colorado Springs",
+      "location": "United States-Colorado-Colorado Springs",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "top_jd_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:50.596413+00:00"
+    },
+    "8816f9e7954abaef": {
+      "id": "8816f9e7954abaef",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineering Intern - Colorado Springs",
+      "location": "United States-Colorado-Colorado Springs",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "top_jd_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:50.149732+00:00"
+    },
+    "ad50dea5ecded570": {
+      "id": "ad50dea5ecded570",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineering Intern - Boulder CO",
+      "location": "United States-Colorado-Boulder",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "top_jd_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:49.784945+00:00"
+    },
+    "062f894fdf3348ef": {
+      "id": "062f894fdf3348ef",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineering Intern - Aurora CO",
+      "location": "United States-Colorado-Aurora",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "top_jd_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:49.451941+00:00"
+    },
+    "49170d209094db72": {
+      "id": "49170d209094db72",
+      "company": "Northrop Grumman",
+      "title": "2027 Software Engineering Intern - Aurora CO",
+      "location": "United States-Colorado-Aurora",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "top_jd_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Agile",
+        "Networking"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:49.004079+00:00"
+    },
+    "596aa75e089bf110": {
+      "id": "596aa75e089bf110",
+      "company": "Fiserv",
+      "title": "Android AOSP Device Software Engineer",
+      "location": "Sunnyvale, California",
+      "apply_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403888",
+      "official_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "C++",
+        "Java",
+        "Git",
+        "Linux",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "C++",
+        "Java",
+        "Git",
+        "Linux",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "Git"
+      ],
+      "unverified_skills": [
+        "C++",
+        "Java",
+        "Linux",
+        "Collaboration"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:48.076349+00:00"
+    },
+    "e88921b7fdb94192": {
+      "id": "e88921b7fdb94192",
+      "company": "Booz Allen Hamilton",
+      "title": "Sustainment Data Scientist",
+      "location": "San Diego, CA",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Sustainment-Data-Scientist_R0251809",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Data Visualization",
+        "Machine Learning",
+        "Python",
+        "NLP",
+        "SQL",
+        "NoSQL",
+        "Communication",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Data Visualization",
+        "Machine Learning",
+        "Python",
+        "NLP",
+        "SQL",
+        "NoSQL",
+        "Communication",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "Machine Learning",
+        "Python",
+        "SQL"
+      ],
+      "unverified_skills": [
+        "Data Visualization",
+        "NLP",
+        "NoSQL",
+        "Communication",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "machine learning",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:47.678332+00:00"
+    },
+    "2763399516704486": {
+      "id": "2763399516704486",
+      "company": "Booz Allen Hamilton",
+      "title": "Cyber Data Analyst",
+      "location": "Chantilly, VA",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cyber-Data-Analyst_R0251828",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "TypeScript",
+        "ETL/ELT",
+        "Python",
+        "PowerShell",
+        "Bash",
+        "Communication",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "TypeScript",
+        "ETL/ELT",
+        "Python",
+        "PowerShell",
+        "Bash",
+        "Communication",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "ETL/ELT",
+        "Python",
+        "PowerShell",
+        "Bash"
+      ],
+      "unverified_skills": [
+        "TypeScript",
+        "Communication",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "etl",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:47.252440+00:00"
     },
     "58e57b421b3d45cd": {
       "id": "58e57b421b3d45cd",
@@ -197,7 +593,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:57.654629+00:00"
+      "captured_at": "2026-10-17T09:29:46.833125+00:00"
     },
     "997de3c7507f1fa2": {
       "id": "997de3c7507f1fa2",
@@ -248,7 +644,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:57.453000+00:00"
+      "captured_at": "2026-10-17T09:29:46.629689+00:00"
     },
     "1878c64e0e317039": {
       "id": "1878c64e0e317039",
@@ -268,7 +664,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:57.194962+00:00"
+      "captured_at": "2026-10-17T09:29:46.330953+00:00"
     },
     "6ae1a937d0bebc2f": {
       "id": "6ae1a937d0bebc2f",
@@ -286,7 +682,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:55.505549+00:00"
+      "captured_at": "2026-10-17T09:29:44.822188+00:00"
     },
     "93542d4ac3c12785": {
       "id": "93542d4ac3c12785",
@@ -304,7 +700,52 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:55.393280+00:00"
+      "captured_at": "2026-10-17T09:29:44.551628+00:00"
+    },
+    "cd72a602df92e5c7": {
+      "id": "cd72a602df92e5c7",
+      "company": "Nvidia",
+      "title": "Machine Learning Engineer, GeForce G-Assist",
+      "location": "US, CA, Santa Clara",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--GeForce-G-Assist_JR2027676-1",
+      "official_url": "https://jobs.nvidia.com/",
+      "posted": "Posted Today",
+      "profile": "machine-learning",
+      "detected_skills": [
+        "Retrieval-Augmented Generation",
+        "C++",
+        "Machine Learning",
+        "Go",
+        "Python",
+        "Testing"
+      ],
+      "top_jd_skills": [
+        "Retrieval-Augmented Generation",
+        "C++",
+        "Machine Learning",
+        "Go",
+        "Python",
+        "Testing"
+      ],
+      "verified_skills": [
+        "Machine Learning",
+        "Python"
+      ],
+      "unverified_skills": [
+        "Retrieval-Augmented Generation",
+        "C++",
+        "Go",
+        "Testing"
+      ],
+      "signal_terms": [
+        "api",
+        "cloud",
+        "machine learning",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:44.063129+00:00"
     },
     "4ba4a231c473b2d5": {
       "id": "4ba4a231c473b2d5",
@@ -324,7 +765,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:55.032313+00:00"
+      "captured_at": "2026-10-17T09:29:43.684546+00:00"
     },
     "628466b98cbf8247": {
       "id": "628466b98cbf8247",
@@ -342,7 +783,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:52.912919+00:00"
+      "captured_at": "2026-10-17T09:29:42.039938+00:00"
     },
     "7290bfdd9d392961": {
       "id": "7290bfdd9d392961",
@@ -360,7 +801,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:52.821226+00:00"
+      "captured_at": "2026-10-17T09:29:41.931545+00:00"
     },
     "cea3a9b0c89c5b8d": {
       "id": "cea3a9b0c89c5b8d",
@@ -378,7 +819,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:52.728133+00:00"
+      "captured_at": "2026-10-17T09:29:41.801230+00:00"
     },
     "14d04dea18f30144": {
       "id": "14d04dea18f30144",
@@ -396,7 +837,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:52.633722+00:00"
+      "captured_at": "2026-10-17T09:29:41.697167+00:00"
     },
     "e675fadfe391162d": {
       "id": "e675fadfe391162d",
@@ -416,7 +857,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:52.326436+00:00"
+      "captured_at": "2026-10-17T09:29:41.349208+00:00"
     },
     "078c68c7e4646421": {
       "id": "078c68c7e4646421",
@@ -440,7 +881,55 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:50.344665+00:00"
+      "captured_at": "2026-10-17T09:29:39.639976+00:00"
+    },
+    "83e3d3df5bdad0a7": {
+      "id": "83e3d3df5bdad0a7",
+      "company": "Mastercard",
+      "title": "Software Engineer II",
+      "location": "O'Fallon, Missouri",
+      "apply_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-293662",
+      "official_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Agile",
+        "Communication",
+        "Java",
+        "Python",
+        "C++",
+        "Problem Solving",
+        "Testing",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Agile",
+        "Communication",
+        "Java",
+        "Python",
+        "C++",
+        "Problem Solving",
+        "Testing",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "Python"
+      ],
+      "unverified_skills": [
+        "Agile",
+        "Communication",
+        "Java",
+        "C++",
+        "Problem Solving",
+        "Testing",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:39.117330+00:00"
     },
     "733c85858eb27b5a": {
       "id": "733c85858eb27b5a",
@@ -458,7 +947,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:49.741047+00:00"
+      "captured_at": "2026-10-17T09:29:38.443351+00:00"
     },
     "a58a39f03eda02aa": {
       "id": "a58a39f03eda02aa",
@@ -476,7 +965,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:49.545359+00:00"
+      "captured_at": "2026-10-17T09:29:38.082831+00:00"
     },
     "9511f96376c9756c": {
       "id": "9511f96376c9756c",
@@ -503,7 +992,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:49.250684+00:00"
+      "captured_at": "2026-10-17T09:29:37.646098+00:00"
     },
     "4d113dba5909b133": {
       "id": "4d113dba5909b133",
@@ -529,7 +1018,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:48.159298+00:00"
+      "captured_at": "2026-10-17T09:29:36.456079+00:00"
     },
     "aa68033207f5db21": {
       "id": "aa68033207f5db21",
@@ -556,7 +1045,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:46.348704+00:00"
+      "captured_at": "2026-10-17T09:29:34.877435+00:00"
     },
     "2a183d70df51232d": {
       "id": "2a183d70df51232d",
@@ -576,7 +1065,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:44.411240+00:00"
+      "captured_at": "2026-10-17T09:29:33.475721+00:00"
     },
     "85717a7aacb92a1a": {
       "id": "85717a7aacb92a1a",
@@ -596,7 +1085,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:42.732331+00:00"
+      "captured_at": "2026-10-17T09:29:31.994956+00:00"
     },
     "1999fa9b52ade4a6": {
       "id": "1999fa9b52ade4a6",
@@ -616,7 +1105,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:42.069459+00:00"
+      "captured_at": "2026-10-17T09:29:31.345354+00:00"
     },
     "522615c7734aab22": {
       "id": "522615c7734aab22",
@@ -636,7 +1125,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:40.515688+00:00"
+      "captured_at": "2026-10-17T09:29:29.741107+00:00"
     },
     "fd40d9b366a12242": {
       "id": "fd40d9b366a12242",
@@ -681,7 +1170,44 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:38.789375+00:00"
+      "captured_at": "2026-10-17T09:29:28.328773+00:00"
+    },
+    "551ba5654bedba7d": {
+      "id": "551ba5654bedba7d",
+      "company": "Broadcom",
+      "title": "R&D Software Engineer VMKernel",
+      "location": "USA-CA - Promontory B",
+      "apply_url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/R-D-Software-Engineer-VMKernel_R027422",
+      "official_url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "Linux",
+        "Docker",
+        "REST APIs"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Linux",
+        "Docker",
+        "REST APIs"
+      ],
+      "verified_skills": [
+        "Docker",
+        "REST APIs"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Linux"
+      ],
+      "signal_terms": [
+        "api",
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:28.067772+00:00"
     },
     "679c661b29fe34c0": {
       "id": "679c661b29fe34c0",
@@ -708,7 +1234,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:38.212458+00:00"
+      "captured_at": "2026-10-17T09:29:27.576508+00:00"
     },
     "6c2aeffc0124ab88": {
       "id": "6c2aeffc0124ab88",
@@ -744,7 +1270,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:35.805526+00:00"
+      "captured_at": "2026-10-17T09:29:26.065642+00:00"
     },
     "a6cc636accb3c19a": {
       "id": "a6cc636accb3c19a",
@@ -798,7 +1324,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:35.465008+00:00"
+      "captured_at": "2026-10-17T09:29:25.710328+00:00"
     },
     "ec68b7adeef312c2": {
       "id": "ec68b7adeef312c2",
@@ -824,7 +1350,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:35.164221+00:00"
+      "captured_at": "2026-10-17T09:29:25.339807+00:00"
     },
     "6799c364fddeec3e": {
       "id": "6799c364fddeec3e",
@@ -850,7 +1376,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:33.210779+00:00"
+      "captured_at": "2026-10-17T09:29:23.602412+00:00"
     },
     "c7e79a6c0b5435bf": {
       "id": "c7e79a6c0b5435bf",
@@ -901,7 +1427,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:31.440778+00:00"
+      "captured_at": "2026-10-17T09:29:21.778421+00:00"
     },
     "e704a7f89ffefcb7": {
       "id": "e704a7f89ffefcb7",
@@ -919,7 +1445,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:31.170543+00:00"
+      "captured_at": "2026-10-17T09:29:21.424967+00:00"
     },
     "992529cb802289b3": {
       "id": "992529cb802289b3",
@@ -939,7 +1465,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:30.861410+00:00"
+      "captured_at": "2026-10-17T09:29:21.101326+00:00"
     },
     "4b52fc52a2849309": {
       "id": "4b52fc52a2849309",
@@ -966,7 +1492,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:28.707444+00:00"
+      "captured_at": "2026-10-17T09:29:19.585932+00:00"
     },
     "15815c61ded40f5e": {
       "id": "15815c61ded40f5e",
@@ -993,7 +1519,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:26.916790+00:00"
+      "captured_at": "2026-10-17T09:29:17.904622+00:00"
     },
     "f229dc1f0338b8df": {
       "id": "f229dc1f0338b8df",
@@ -1019,7 +1545,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:25.008350+00:00"
+      "captured_at": "2026-10-17T09:29:16.217752+00:00"
     },
     "11ff6f6830c7f2fa": {
       "id": "11ff6f6830c7f2fa",
@@ -1045,7 +1571,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:22.815934+00:00"
+      "captured_at": "2026-10-17T09:29:14.486796+00:00"
     },
     "ba1a77827f76d44d": {
       "id": "ba1a77827f76d44d",
@@ -1065,7 +1591,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:21.064765+00:00"
+      "captured_at": "2026-10-17T09:29:12.983529+00:00"
     },
     "db1b4e532292aaaa": {
       "id": "db1b4e532292aaaa",
@@ -1092,7 +1618,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:19.429776+00:00"
+      "captured_at": "2026-10-17T09:29:11.491612+00:00"
     },
     "28432fcb19885a58": {
       "id": "28432fcb19885a58",
@@ -1119,7 +1645,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:17.406217+00:00"
+      "captured_at": "2026-10-17T09:29:09.698963+00:00"
     },
     "231251059255275d": {
       "id": "231251059255275d",
@@ -1137,7 +1663,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:15.243681+00:00"
+      "captured_at": "2026-10-17T09:29:08.133754+00:00"
     },
     "f8ba9ab070c170ab": {
       "id": "f8ba9ab070c170ab",
@@ -1157,7 +1683,234 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:15.082075+00:00"
+      "captured_at": "2026-10-17T09:29:07.978641+00:00"
+    },
+    "b77b97662aa34350": {
+      "id": "b77b97662aa34350",
+      "company": "Citi",
+      "title": "IT Business Analyst 2 - C10 - Ciudad De Mexico",
+      "location": "Ciudad De Mexico Distrito Federal Mexico",
+      "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/IT-Business-Analyst-2---C10---Ciudad-De-Mexico_261000741-1",
+      "official_url": "https://citi.wd5.myworkdayjobs.com/en-US/2",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Communication",
+        "Testing",
+        "SQL",
+        "Excel",
+        "ETL/ELT",
+        "Scrum"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Testing",
+        "SQL",
+        "Excel",
+        "ETL/ELT",
+        "Scrum"
+      ],
+      "verified_skills": [
+        "SQL",
+        "Excel",
+        "ETL/ELT"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Testing",
+        "Scrum"
+      ],
+      "signal_terms": [
+        "etl",
+        "iac",
+        "sql"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:04.546985+00:00"
+    },
+    "9b2dcda9e2741ba4": {
+      "id": "9b2dcda9e2741ba4",
+      "company": "Boeing",
+      "title": "Experienced Software Engineer–Systems (Systems)",
+      "location": "USA - Tinker AFB, OK",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Experienced-Software-Engineer-Systems--Systems-_JR2026522740",
+      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Agile",
+        "Testing",
+        "Stakeholder Management",
+        "Communication"
+      ],
+      "top_jd_skills": [
+        "Agile",
+        "Testing",
+        "Stakeholder Management",
+        "Communication"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Agile",
+        "Testing",
+        "Stakeholder Management",
+        "Communication"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:02.910451+00:00"
+    },
+    "e2505283b254fd3c": {
+      "id": "e2505283b254fd3c",
+      "company": "Boeing",
+      "title": "Entry-Level Flight Simulation Software Engineer",
+      "location": "USA - Berkeley, MO",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1",
+      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Agile",
+        "Communication",
+        "C++",
+        "C#",
+        "Java",
+        "Python",
+        "Networking",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Agile",
+        "Communication",
+        "C++",
+        "C#",
+        "Java",
+        "Python",
+        "Networking",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "Python"
+      ],
+      "unverified_skills": [
+        "Testing",
+        "Agile",
+        "Communication",
+        "C++",
+        "C#",
+        "Java",
+        "Networking",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:02.450607+00:00"
+    },
+    "183b7bae34e01e23": {
+      "id": "183b7bae34e01e23",
+      "company": "Boeing",
+      "title": "Entry Level Software Engineer–Developer (Development)",
+      "location": "USA - Tinker AFB, OK",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1",
+      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Agile",
+        "C++",
+        "C#",
+        "Jenkins",
+        "Git",
+        "Testing",
+        "Problem Solving",
+        "Stakeholder Management"
+      ],
+      "top_jd_skills": [
+        "Agile",
+        "C++",
+        "C#",
+        "Jenkins",
+        "Git",
+        "Testing",
+        "Problem Solving",
+        "Stakeholder Management"
+      ],
+      "verified_skills": [
+        "Git"
+      ],
+      "unverified_skills": [
+        "Agile",
+        "C++",
+        "C#",
+        "Jenkins",
+        "Testing",
+        "Problem Solving",
+        "Stakeholder Management"
+      ],
+      "signal_terms": [
+        "api"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:02.089839+00:00"
+    },
+    "83226bc056382802": {
+      "id": "83226bc056382802",
+      "company": "Boeing",
+      "title": "Entry Level Software Engineer–Developer (Development)",
+      "location": "USA - Tinker AFB, OK",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1",
+      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Agile",
+        "C++",
+        "Git",
+        "C#",
+        "Jenkins",
+        "Testing",
+        "Problem Solving",
+        "Stakeholder Management",
+        "GitLab"
+      ],
+      "top_jd_skills": [
+        "Agile",
+        "C++",
+        "Git",
+        "C#",
+        "Jenkins",
+        "Testing",
+        "Problem Solving",
+        "Stakeholder Management",
+        "GitLab"
+      ],
+      "verified_skills": [
+        "Git"
+      ],
+      "unverified_skills": [
+        "Agile",
+        "C++",
+        "C#",
+        "Jenkins",
+        "Testing",
+        "Problem Solving",
+        "Stakeholder Management",
+        "GitLab"
+      ],
+      "signal_terms": [
+        "api"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:29:01.625696+00:00"
     },
     "c8d5a460792e70a9": {
       "id": "c8d5a460792e70a9",
@@ -1177,7 +1930,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:09.598297+00:00"
+      "captured_at": "2026-10-17T09:29:01.173469+00:00"
     },
     "696a15f3a0b274be": {
       "id": "696a15f3a0b274be",
@@ -1204,7 +1957,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:07.904045+00:00"
+      "captured_at": "2026-10-17T09:28:59.683800+00:00"
     },
     "a31b68e9251623af": {
       "id": "a31b68e9251623af",
@@ -1224,7 +1977,162 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:05.809638+00:00"
+      "captured_at": "2026-10-17T09:28:58.270054+00:00"
+    },
+    "ade6b7f7a351c4dd": {
+      "id": "ade6b7f7a351c4dd",
+      "company": "Motorola Solutions",
+      "title": "Business Analyst II",
+      "location": "Plantation, FL, More...",
+      "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Business-Analyst-II_R69515",
+      "official_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Oracle",
+        "SQL",
+        "Stakeholder Management",
+        "Agile",
+        "Collaboration",
+        "Problem Solving",
+        "Communication",
+        "Go",
+        "Generative AI"
+      ],
+      "top_jd_skills": [
+        "Oracle",
+        "SQL",
+        "Stakeholder Management",
+        "Agile",
+        "Collaboration",
+        "Problem Solving",
+        "Communication",
+        "Go",
+        "Generative AI"
+      ],
+      "verified_skills": [
+        "SQL"
+      ],
+      "unverified_skills": [
+        "Oracle",
+        "Stakeholder Management",
+        "Agile",
+        "Collaboration",
+        "Problem Solving",
+        "Communication",
+        "Go",
+        "Generative AI"
+      ],
+      "signal_terms": [
+        "sql"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:56.180027+00:00"
+    },
+    "662e6b0e65efae4f": {
+      "id": "662e6b0e65efae4f",
+      "company": "Motorola Solutions",
+      "title": "Business Analyst",
+      "location": "Plantation, FL, More...",
+      "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Business-Analyst_R69582",
+      "official_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers",
+      "posted": "Posted Today",
+      "profile": "data-analytics",
+      "detected_skills": [
+        "Oracle",
+        "SQL",
+        "Stakeholder Management",
+        "Agile",
+        "Collaboration",
+        "Problem Solving",
+        "Communication",
+        "Go",
+        "Generative AI"
+      ],
+      "top_jd_skills": [
+        "Oracle",
+        "SQL",
+        "Stakeholder Management",
+        "Agile",
+        "Collaboration",
+        "Problem Solving",
+        "Communication",
+        "Go",
+        "Generative AI"
+      ],
+      "verified_skills": [
+        "SQL"
+      ],
+      "unverified_skills": [
+        "Oracle",
+        "Stakeholder Management",
+        "Agile",
+        "Collaboration",
+        "Problem Solving",
+        "Communication",
+        "Go",
+        "Generative AI"
+      ],
+      "signal_terms": [
+        "sql"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:55.707317+00:00"
+    },
+    "da22f3ffb073fb3e": {
+      "id": "da22f3ffb073fb3e",
+      "company": "Fiserv",
+      "title": "Sr Backend Engineer",
+      "location": "Sunnyvale, California",
+      "apply_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Sr-Backend-Engineer_R-10403887",
+      "official_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Java",
+        "Spring Boot",
+        "AWS",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "SQL",
+        "CI/CD",
+        "Agile"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Java",
+        "Spring Boot",
+        "AWS",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "SQL",
+        "CI/CD",
+        "Agile"
+      ],
+      "verified_skills": [
+        "AWS",
+        "Microsoft Azure",
+        "SQL",
+        "CI/CD"
+      ],
+      "unverified_skills": [
+        "Testing",
+        "Java",
+        "Spring Boot",
+        "Google Cloud Platform",
+        "Agile"
+      ],
+      "signal_terms": [
+        "api",
+        "ci/cd",
+        "sql"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:55.359128+00:00"
     },
     "ad6ad4e2bad85c35": {
       "id": "ad6ad4e2bad85c35",
@@ -1263,7 +2171,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:02.267191+00:00"
+      "captured_at": "2026-10-17T09:28:54.716173+00:00"
     },
     "77e023a7eb996377": {
       "id": "77e023a7eb996377",
@@ -1283,7 +2191,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:01.958632+00:00"
+      "captured_at": "2026-10-17T09:28:54.180198+00:00"
     },
     "0ba1580a95dd779d": {
       "id": "0ba1580a95dd779d",
@@ -1303,7 +2211,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:16:00.023773+00:00"
+      "captured_at": "2026-10-17T09:28:52.888002+00:00"
     },
     "a27c6ad3757a398e": {
       "id": "a27c6ad3757a398e",
@@ -1323,7 +2231,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:57.656257+00:00"
+      "captured_at": "2026-10-17T09:28:51.349352+00:00"
     },
     "150dfe4b371439b3": {
       "id": "150dfe4b371439b3",
@@ -1343,7 +2251,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:55.672927+00:00"
+      "captured_at": "2026-10-17T09:28:49.796194+00:00"
     },
     "888c7f371bcd2c4d": {
       "id": "888c7f371bcd2c4d",
@@ -1361,7 +2269,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:54.048186+00:00"
+      "captured_at": "2026-10-17T09:28:48.122612+00:00"
     },
     "bc7b277abddc4754": {
       "id": "bc7b277abddc4754",
@@ -1381,7 +2289,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:53.921509+00:00"
+      "captured_at": "2026-10-17T09:28:47.778846+00:00"
     },
     "c411ee6c1bccce57": {
       "id": "c411ee6c1bccce57",
@@ -1401,7 +2309,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:51.723868+00:00"
+      "captured_at": "2026-10-17T09:28:46.042143+00:00"
     },
     "d5f539a4b583ccb3": {
       "id": "d5f539a4b583ccb3",
@@ -1421,7 +2329,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:50.058763+00:00"
+      "captured_at": "2026-10-17T09:28:44.571431+00:00"
     },
     "89cecb37a214db90": {
       "id": "89cecb37a214db90",
@@ -1441,7 +2349,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:48.419495+00:00"
+      "captured_at": "2026-10-17T09:28:43.138547+00:00"
     },
     "7c72b88749174ea7": {
       "id": "7c72b88749174ea7",
@@ -1459,7 +2367,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:46.418181+00:00"
+      "captured_at": "2026-10-17T09:28:41.679831+00:00"
     },
     "ece5a6e0898e9ff0": {
       "id": "ece5a6e0898e9ff0",
@@ -1511,7 +2419,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:46.280026+00:00"
+      "captured_at": "2026-10-17T09:28:41.547314+00:00"
     },
     "bfcc667448b92268": {
       "id": "bfcc667448b92268",
@@ -1554,7 +2462,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:45.889971+00:00"
+      "captured_at": "2026-10-17T09:28:41.129360+00:00"
     },
     "d2021ac2e19f93a1": {
       "id": "d2021ac2e19f93a1",
@@ -1574,7 +2482,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:44.933942+00:00"
+      "captured_at": "2026-10-17T09:28:39.892230+00:00"
     },
     "9afb3446bf4a5bab": {
       "id": "9afb3446bf4a5bab",
@@ -1600,7 +2508,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:44.659200+00:00"
+      "captured_at": "2026-10-17T09:28:39.522615+00:00"
     },
     "088167de3e18f758": {
       "id": "088167de3e18f758",
@@ -1626,7 +2534,65 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:44.363637+00:00"
+      "captured_at": "2026-10-17T09:28:39.235693+00:00"
+    },
+    "b5b485164932ff10": {
+      "id": "b5b485164932ff10",
+      "company": "Guidehouse",
+      "title": "Data Engineer",
+      "location": "US - DC, Washington",
+      "apply_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Data-Engineer_44841",
+      "official_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External",
+      "posted": "Posted Today",
+      "profile": "data-engineering",
+      "detected_skills": [
+        "Communication",
+        "ETL/ELT",
+        "Data Quality",
+        "Data Governance",
+        "Data Reconciliation",
+        "TypeScript",
+        "Data Modeling",
+        "Machine Learning",
+        "REST APIs"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "ETL/ELT",
+        "Data Quality",
+        "Data Governance",
+        "Data Reconciliation",
+        "TypeScript",
+        "Data Modeling",
+        "Machine Learning",
+        "REST APIs"
+      ],
+      "verified_skills": [
+        "ETL/ELT",
+        "Data Quality",
+        "Data Reconciliation",
+        "Data Modeling",
+        "Machine Learning",
+        "REST APIs"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Data Governance",
+        "TypeScript"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "data pipelines",
+        "etl",
+        "elt",
+        "api",
+        "data quality",
+        "data modeling",
+        "analytics"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:38.878967+00:00"
     },
     "e563a4871eec046d": {
       "id": "e563a4871eec046d",
@@ -1672,7 +2638,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:43.828485+00:00"
+      "captured_at": "2026-10-17T09:28:38.265656+00:00"
     },
     "7de230b0588e5108": {
       "id": "7de230b0588e5108",
@@ -1700,7 +2666,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:43.456595+00:00"
+      "captured_at": "2026-10-17T09:28:37.847357+00:00"
     },
     "989d450744f05ec3": {
       "id": "989d450744f05ec3",
@@ -1754,7 +2720,43 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:42.942340+00:00"
+      "captured_at": "2026-10-17T09:28:37.347024+00:00"
+    },
+    "969cfd9d15236b3f": {
+      "id": "969cfd9d15236b3f",
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer–Developer",
+      "location": "USA - Richardson, TX",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1",
+      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Java",
+        "C++",
+        "Linux",
+        "Testing",
+        "Agile"
+      ],
+      "top_jd_skills": [
+        "Java",
+        "C++",
+        "Linux",
+        "Testing",
+        "Agile"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Java",
+        "C++",
+        "Linux",
+        "Testing",
+        "Agile"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:37.020836+00:00"
     },
     "a2aa8d31175f784a": {
       "id": "a2aa8d31175f784a",
@@ -1790,7 +2792,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:42.121433+00:00"
+      "captured_at": "2026-10-17T09:28:34.730250+00:00"
     },
     "fe9fc59c5989fd30": {
       "id": "fe9fc59c5989fd30",
@@ -1826,7 +2828,283 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:41.820361+00:00"
+      "captured_at": "2026-10-17T09:28:34.392278+00:00"
+    },
+    "11f7a2cbe7fb0c1b": {
+      "id": "11f7a2cbe7fb0c1b",
+      "company": "Nvidia",
+      "title": "SoC Software Engineer – New College Graduate 2026",
+      "location": "US, CA, Santa Clara",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
+      "official_url": "https://jobs.nvidia.com/",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving",
+        "HPC"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving",
+        "HPC"
+      ],
+      "verified_skills": [
+        "HPC"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving"
+      ],
+      "signal_terms": [
+        "api"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:33.629076+00:00"
+    },
+    "140dea7e8bc4c309": {
+      "id": "140dea7e8bc4c309",
+      "company": "Nvidia",
+      "title": "SoC Software Engineer - New College Grad 2027",
+      "location": "US, CA, Santa Clara",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
+      "official_url": "https://jobs.nvidia.com/",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving",
+        "HPC"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving",
+        "HPC"
+      ],
+      "verified_skills": [
+        "HPC"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "C++",
+        "Linux",
+        "Problem Solving"
+      ],
+      "signal_terms": [
+        "api"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:33.221586+00:00"
+    },
+    "f55f21ed1b0c88e2": {
+      "id": "f55f21ed1b0c88e2",
+      "company": "Northrop Grumman",
+      "title": "Software Engineer - Integration and Test",
+      "location": "United States-California-San Diego",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer---Integration-and-Test_R10253090-1",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "Testing",
+        "Agile",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Testing",
+        "Agile",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Communication",
+        "Testing",
+        "Agile",
+        "Stakeholder Management",
+        "Collaboration"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:32.811990+00:00"
+    },
+    "9265f8572b51ce3f": {
+      "id": "9265f8572b51ce3f",
+      "company": "Booz Allen Hamilton",
+      "title": "Augmented Reality Software Engineer",
+      "location": "Lorton, VA",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0251326",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:32.363354+00:00"
+    },
+    "3e0cca8c1ca68a88": {
+      "id": "3e0cca8c1ca68a88",
+      "company": "Booz Allen Hamilton",
+      "title": "Augmented Reality Software Engineer",
+      "location": "Lorton, VA",
+      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0251325",
+      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Communication",
+        "C#",
+        "C++",
+        "Networking",
+        "Collaboration"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:31.739271+00:00"
+    },
+    "a6424714b4bb1fb7": {
+      "id": "a6424714b4bb1fb7",
+      "company": "Boeing",
+      "title": "Experienced Real-Time Software Engineer - Simulation",
+      "location": "USA - Richardson, TX",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-2",
+      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Java",
+        "C++",
+        "Agile",
+        "Linux",
+        "Stakeholder Management",
+        "Scrum",
+        "Data Visualization"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Java",
+        "C++",
+        "Agile",
+        "Linux",
+        "Stakeholder Management",
+        "Scrum",
+        "Data Visualization"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Testing",
+        "Java",
+        "C++",
+        "Agile",
+        "Linux",
+        "Stakeholder Management",
+        "Scrum",
+        "Data Visualization"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:31.240160+00:00"
+    },
+    "30f4a511e43a4662": {
+      "id": "30f4a511e43a4662",
+      "company": "Blue Origin",
+      "title": "Software Engineer",
+      "location": "Greater Seattle Area",
+      "apply_url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Software-Engineer_R73434",
+      "official_url": "https://www.blueorigin.com/careers/search",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "C++",
+        "Networking",
+        "Linux",
+        "Testing",
+        "CI/CD",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "C++",
+        "Networking",
+        "Linux",
+        "Testing",
+        "CI/CD",
+        "Collaboration"
+      ],
+      "verified_skills": [
+        "CI/CD"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "C++",
+        "Networking",
+        "Linux",
+        "Testing",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "ci/cd"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:30.869143+00:00"
     },
     "dee5a3d00eaa44ff": {
       "id": "dee5a3d00eaa44ff",
@@ -1844,7 +3122,42 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:39.380887+00:00"
+      "captured_at": "2026-10-17T09:28:30.198493+00:00"
+    },
+    "b9d894487eaff800": {
+      "id": "b9d894487eaff800",
+      "company": "Amgen",
+      "title": "Specialist Software Engineer",
+      "location": "US - California - Thousand Oaks",
+      "apply_url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Specialist-Software-Engineer_R-255466",
+      "official_url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Agile",
+        "Collaboration",
+        "Generative AI"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Agile",
+        "Collaboration",
+        "Generative AI"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Testing",
+        "Agile",
+        "Collaboration",
+        "Generative AI"
+      ],
+      "signal_terms": [
+        "analytics"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:29.335713+00:00"
     },
     "eca7ba79b66ccd2f": {
       "id": "eca7ba79b66ccd2f",
@@ -1871,7 +3184,146 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:38.798228+00:00"
+      "captured_at": "2026-10-17T09:28:28.926225+00:00"
+    },
+    "18d8be24211abb9b": {
+      "id": "18d8be24211abb9b",
+      "company": "Northrop Grumman",
+      "title": "Systems or Software Engineer - Change Management 2 - Space AHT",
+      "location": "United States-Alabama-Huntsville",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Systems-or-Software-Engineer---Change-Management-2---Space-AHT_R10255600",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Agile"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Agile"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Communication",
+        "Stakeholder Management",
+        "Agile"
+      ],
+      "signal_terms": [
+        "api"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:27.762090+00:00"
+    },
+    "c84133c093c14c05": {
+      "id": "c84133c093c14c05",
+      "company": "General Motors",
+      "title": "Software Engineer",
+      "location": "Milford, Michigan, United States of America",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202622222",
+      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Git"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Git"
+      ],
+      "verified_skills": [
+        "Git"
+      ],
+      "unverified_skills": [
+        "Testing"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:27.227641+00:00"
+    },
+    "9fcb9e0dc51b7ea4": {
+      "id": "9fcb9e0dc51b7ea4",
+      "company": "Boeing",
+      "title": "Entry-Level Software Engineer–Test & Verification",
+      "location": "USA - Tinker AFB, OK",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081",
+      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Stakeholder Management",
+        "Monitoring",
+        "Experimentation",
+        "Collaboration"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Stakeholder Management",
+        "Monitoring",
+        "Experimentation",
+        "Collaboration"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Testing",
+        "Stakeholder Management",
+        "Monitoring",
+        "Experimentation",
+        "Collaboration"
+      ],
+      "signal_terms": [
+        "monitoring"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:26.836598+00:00"
+    },
+    "c15107b44d91782e": {
+      "id": "c15107b44d91782e",
+      "company": "Boeing",
+      "title": "Associate Software Engineer - Test and Verification",
+      "location": "USA - Tinker AFB, OK",
+      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Associate-Software-Engineer---Test-and-Verification_JR2026523089-1",
+      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Testing",
+        "Stakeholder Management",
+        "Monitoring",
+        "Experimentation",
+        "Collaboration",
+        "Agile"
+      ],
+      "top_jd_skills": [
+        "Testing",
+        "Stakeholder Management",
+        "Monitoring",
+        "Experimentation",
+        "Collaboration",
+        "Agile"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Testing",
+        "Stakeholder Management",
+        "Monitoring",
+        "Experimentation",
+        "Collaboration",
+        "Agile"
+      ],
+      "signal_terms": [
+        "monitoring"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:26.425011+00:00"
     },
     "3289d7210cb82445": {
       "id": "3289d7210cb82445",
@@ -1891,7 +3343,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:35.368519+00:00"
+      "captured_at": "2026-10-17T09:28:26.042564+00:00"
     },
     "d599e44538206c8a": {
       "id": "d599e44538206c8a",
@@ -1911,7 +3363,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:33.599026+00:00"
+      "captured_at": "2026-10-17T09:28:24.676693+00:00"
     },
     "dd1f33f32df222fa": {
       "id": "dd1f33f32df222fa",
@@ -1938,7 +3390,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:32.120064+00:00"
+      "captured_at": "2026-10-17T09:28:23.475301+00:00"
     },
     "3e4b37828b747169": {
       "id": "3e4b37828b747169",
@@ -1958,7 +3410,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:30.237115+00:00"
+      "captured_at": "2026-10-17T09:28:21.944488+00:00"
     },
     "43e32c02a7c2a66d": {
       "id": "43e32c02a7c2a66d",
@@ -1978,7 +3430,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:28.144083+00:00"
+      "captured_at": "2026-10-17T09:28:20.328651+00:00"
     },
     "8a7a0b1fc51b122e": {
       "id": "8a7a0b1fc51b122e",
@@ -1998,7 +3450,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:25.536969+00:00"
+      "captured_at": "2026-10-17T09:28:18.838352+00:00"
     },
     "8247d35c1de5be76": {
       "id": "8247d35c1de5be76",
@@ -2018,7 +3470,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:23.642224+00:00"
+      "captured_at": "2026-10-17T09:28:17.396024+00:00"
     },
     "2593209aec4bb589": {
       "id": "2593209aec4bb589",
@@ -2064,7 +3516,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:22.035455+00:00"
+      "captured_at": "2026-10-17T09:28:16.057051+00:00"
     },
     "eb70c250b53f31d0": {
       "id": "eb70c250b53f31d0",
@@ -2115,7 +3567,56 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:21.831475+00:00"
+      "captured_at": "2026-10-17T09:28:15.881057+00:00"
+    },
+    "57e00f94f07f34c3": {
+      "id": "57e00f94f07f34c3",
+      "company": "Northrop Grumman",
+      "title": "Algorithm Development Software Engineer - Level 2 or 3",
+      "location": "United States-Colorado-Boulder",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithm-Development-Software-Engineer---Level-2-or-3_R10255637",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "C++",
+        "Python",
+        "Testing",
+        "Collaboration",
+        "Linux",
+        "Distributed Systems",
+        "Kubernetes",
+        "Docker"
+      ],
+      "top_jd_skills": [
+        "C++",
+        "Python",
+        "Testing",
+        "Collaboration",
+        "Linux",
+        "Distributed Systems",
+        "Kubernetes",
+        "Docker"
+      ],
+      "verified_skills": [
+        "Python",
+        "Kubernetes",
+        "Docker"
+      ],
+      "unverified_skills": [
+        "C++",
+        "Testing",
+        "Collaboration",
+        "Linux",
+        "Distributed Systems"
+      ],
+      "signal_terms": [
+        "distributed systems",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 2,
+      "captured_at": "2026-10-17T09:28:15.616749+00:00"
     },
     "89c0002610d3cf2d": {
       "id": "89c0002610d3cf2d",
@@ -2151,7 +3652,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:21.262120+00:00"
+      "captured_at": "2026-10-17T09:28:15.187185+00:00"
     },
     "573dcc934a2b98cc": {
       "id": "573dcc934a2b98cc",
@@ -2169,7 +3670,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:21.046216+00:00"
+      "captured_at": "2026-10-17T09:28:14.918624+00:00"
     },
     "2ee9397d556f4a2e": {
       "id": "2ee9397d556f4a2e",
@@ -2187,7 +3688,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:20.892657+00:00"
+      "captured_at": "2026-10-17T09:28:14.784654+00:00"
     },
     "c11b381d088e4cf9": {
       "id": "c11b381d088e4cf9",
@@ -2207,7 +3708,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:20.592846+00:00"
+      "captured_at": "2026-10-17T09:28:14.442493+00:00"
     },
     "e55b93c4878cda5b": {
       "id": "e55b93c4878cda5b",
@@ -2227,7 +3728,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:18.764721+00:00"
+      "captured_at": "2026-10-17T09:28:13.221054+00:00"
     },
     "bc710b9a88807d56": {
       "id": "bc710b9a88807d56",
@@ -2247,7 +3748,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:17.065616+00:00"
+      "captured_at": "2026-10-17T09:28:11.724292+00:00"
     },
     "879f19bcb693f5e7": {
       "id": "879f19bcb693f5e7",
@@ -2267,7 +3768,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:15.356739+00:00"
+      "captured_at": "2026-10-17T09:28:10.343174+00:00"
     },
     "02866d66693bfaf9": {
       "id": "02866d66693bfaf9",
@@ -2287,7 +3788,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:13.736547+00:00"
+      "captured_at": "2026-10-17T09:28:08.977744+00:00"
     },
     "578efb5eb100dfe7": {
       "id": "578efb5eb100dfe7",
@@ -2305,7 +3806,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:12.090861+00:00"
+      "captured_at": "2026-10-17T09:28:07.548564+00:00"
     },
     "c3218f2d518a1b18": {
       "id": "c3218f2d518a1b18",
@@ -2354,7 +3855,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:11.685370+00:00"
+      "captured_at": "2026-10-17T09:28:07.169358+00:00"
     },
     "0e2701c80273da85": {
       "id": "0e2701c80273da85",
@@ -2374,496 +3875,55 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T06:15:11.334003+00:00"
+      "captured_at": "2026-10-17T09:28:06.801705+00:00"
     },
-    "e15eee8f62c1c661": {
-      "id": "e15eee8f62c1c661",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineer Morrisville NC",
-      "location": "United States-North Carolina-Morrisville",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-North-Carolina-Morrisville/XMLNAME-2027-Software-Engineer-Morrisville-NC_R10256380",
-      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Python",
-        "C++",
-        "Linux"
-      ],
-      "top_jd_skills": [
-        "Python",
-        "C++",
-        "Linux"
-      ],
-      "verified_skills": [
-        "Python"
-      ],
-      "unverified_skills": [
-        "C++",
-        "Linux"
-      ],
-      "signal_terms": [
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:23.137424+00:00"
-    },
-    "a045e407cbd75a8e": {
-      "id": "a045e407cbd75a8e",
-      "company": "Booz Allen Hamilton",
-      "title": "Business Analyst",
-      "location": "Honolulu, HI",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Business-Analyst_R0251852",
-      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
-      "posted": "Posted Today",
-      "profile": "data-analytics",
-      "detected_skills": [
-        "Communication",
-        "Business Intelligence",
-        "TypeScript",
-        "Power BI",
-        "Tableau",
-        "Stakeholder Management",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Business Intelligence",
-        "TypeScript",
-        "Power BI",
-        "Tableau",
-        "Stakeholder Management",
-        "Collaboration"
-      ],
-      "verified_skills": [
-        "Tableau"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "Business Intelligence",
-        "TypeScript",
-        "Power BI",
-        "Stakeholder Management",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "analytics",
-        "business intelligence"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:21.356250+00:00"
-    },
-    "1d728896d16995c8": {
-      "id": "1d728896d16995c8",
-      "company": "Booz Allen Hamilton",
-      "title": "University, Software Engineer Intern",
-      "location": "Fayetteville, NC",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/University--Software-Engineer-Intern_R0251802",
-      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "Java",
-        "Agile",
-        "Collaboration",
-        "Git",
-        "GitLab",
-        "GitHub",
-        "C++"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Java",
-        "Agile",
-        "Collaboration",
-        "Git",
-        "GitLab",
-        "GitHub",
-        "C++"
-      ],
-      "verified_skills": [
-        "Git",
-        "GitHub"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "Java",
-        "Agile",
-        "Collaboration",
-        "GitLab",
-        "C++"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:19.282530+00:00"
-    },
-    "1d6d268f00f9f2a9": {
-      "id": "1d6d268f00f9f2a9",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineering Intern - Colorado Springs",
-      "location": "United States-Colorado-Colorado Springs",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256259",
-      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "top_jd_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:18.697915+00:00"
-    },
-    "8816f9e7954abaef": {
-      "id": "8816f9e7954abaef",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineering Intern - Colorado Springs",
-      "location": "United States-Colorado-Colorado Springs",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Software-Engineering-Intern---Colorado-Springs_R10256080",
-      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "top_jd_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:18.056694+00:00"
-    },
-    "ad50dea5ecded570": {
-      "id": "ad50dea5ecded570",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineering Intern - Boulder CO",
-      "location": "United States-Colorado-Boulder",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Software-Engineering-Intern---Boulder-CO_R10256077",
-      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "top_jd_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:17.608179+00:00"
-    },
-    "062f894fdf3348ef": {
-      "id": "062f894fdf3348ef",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineering Intern - Aurora CO",
-      "location": "United States-Colorado-Aurora",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256243",
-      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "top_jd_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:17.180306+00:00"
-    },
-    "49170d209094db72": {
-      "id": "49170d209094db72",
-      "company": "Northrop Grumman",
-      "title": "2027 Software Engineering Intern - Aurora CO",
-      "location": "United States-Colorado-Aurora",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/XMLNAME-2027-Software-Engineering-Intern---Aurora-CO_R10256393",
-      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "top_jd_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Agile",
-        "Networking"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:16.737288+00:00"
-    },
-    "596aa75e089bf110": {
-      "id": "596aa75e089bf110",
-      "company": "Fiserv",
-      "title": "Android AOSP Device Software Engineer",
-      "location": "Sunnyvale, California",
-      "apply_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Android-AOSP-Device-Software-Engineer_R-10403888",
-      "official_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "C++",
-        "Java",
-        "Git",
-        "Linux",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "C++",
-        "Java",
-        "Git",
-        "Linux",
-        "Collaboration"
-      ],
-      "verified_skills": [
-        "Git"
-      ],
-      "unverified_skills": [
-        "C++",
-        "Java",
-        "Linux",
-        "Collaboration"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:15.489842+00:00"
-    },
-    "e88921b7fdb94192": {
-      "id": "e88921b7fdb94192",
-      "company": "Booz Allen Hamilton",
-      "title": "Sustainment Data Scientist",
-      "location": "San Diego, CA",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/Sustainment-Data-Scientist_R0251809",
-      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
-      "posted": "Posted Today",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "Data Visualization",
-        "Machine Learning",
-        "Python",
-        "NLP",
-        "SQL",
-        "NoSQL",
-        "Communication",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Data Visualization",
-        "Machine Learning",
-        "Python",
-        "NLP",
-        "SQL",
-        "NoSQL",
-        "Communication",
-        "Collaboration"
-      ],
-      "verified_skills": [
-        "Machine Learning",
-        "Python",
-        "SQL"
-      ],
-      "unverified_skills": [
-        "Data Visualization",
-        "NLP",
-        "NoSQL",
-        "Communication",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "machine learning",
-        "sql",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:15.100511+00:00"
-    },
-    "2763399516704486": {
-      "id": "2763399516704486",
-      "company": "Booz Allen Hamilton",
-      "title": "Cyber Data Analyst",
-      "location": "Chantilly, VA",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Cyber-Data-Analyst_R0251828",
-      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
-      "posted": "Posted Today",
-      "profile": "data-analytics",
-      "detected_skills": [
-        "TypeScript",
-        "ETL/ELT",
-        "Python",
-        "PowerShell",
-        "Bash",
-        "Communication",
-        "Stakeholder Management",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "TypeScript",
-        "ETL/ELT",
-        "Python",
-        "PowerShell",
-        "Bash",
-        "Communication",
-        "Stakeholder Management",
-        "Collaboration"
-      ],
-      "verified_skills": [
-        "ETL/ELT",
-        "Python",
-        "PowerShell",
-        "Bash"
-      ],
-      "unverified_skills": [
-        "TypeScript",
-        "Communication",
-        "Stakeholder Management",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "etl",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:14.612948+00:00"
-    },
-    "cd72a602df92e5c7": {
-      "id": "cd72a602df92e5c7",
+    "c44a6ffe7fbb5db3": {
+      "id": "c44a6ffe7fbb5db3",
       "company": "Nvidia",
-      "title": "Machine Learning Engineer, GeForce G-Assist",
+      "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
       "location": "US, CA, Santa Clara",
-      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--GeForce-G-Assist_JR2027676-1",
+      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
       "official_url": "https://jobs.nvidia.com/",
       "posted": "Posted Today",
-      "profile": "machine-learning",
-      "detected_skills": [
-        "Retrieval-Augmented Generation",
-        "C++",
-        "Machine Learning",
-        "Go",
-        "Python",
-        "Testing"
-      ],
-      "top_jd_skills": [
-        "Retrieval-Augmented Generation",
-        "C++",
-        "Machine Learning",
-        "Go",
-        "Python",
-        "Testing"
-      ],
-      "verified_skills": [
-        "Machine Learning",
-        "Python"
-      ],
-      "unverified_skills": [
-        "Retrieval-Augmented Generation",
-        "C++",
-        "Go",
-        "Testing"
-      ],
-      "signal_terms": [
-        "api",
-        "cloud",
-        "machine learning",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:11.500238+00:00"
-    },
-    "83e3d3df5bdad0a7": {
-      "id": "83e3d3df5bdad0a7",
-      "company": "Mastercard",
-      "title": "Software Engineer II",
-      "location": "O'Fallon, Missouri",
-      "apply_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-293662",
-      "official_url": "https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers",
-      "posted": "Posted Today",
       "profile": "software-engineering",
       "detected_skills": [
-        "Agile",
-        "Communication",
-        "Java",
-        "Python",
+        "Deep Learning",
+        "PyTorch",
         "C++",
-        "Problem Solving",
-        "Testing",
-        "Collaboration"
+        "Large Language Models",
+        "TensorFlow",
+        "Python",
+        "Machine Learning"
       ],
       "top_jd_skills": [
-        "Agile",
-        "Communication",
-        "Java",
-        "Python",
+        "Deep Learning",
+        "PyTorch",
         "C++",
-        "Problem Solving",
-        "Testing",
-        "Collaboration"
+        "Large Language Models",
+        "TensorFlow",
+        "Python",
+        "Machine Learning"
       ],
       "verified_skills": [
-        "Python"
+        "PyTorch",
+        "Python",
+        "Machine Learning"
       ],
       "unverified_skills": [
-        "Agile",
-        "Communication",
-        "Java",
+        "Deep Learning",
         "C++",
-        "Problem Solving",
-        "Testing",
-        "Collaboration"
+        "Large Language Models",
+        "TensorFlow"
       ],
       "signal_terms": [
+        "machine learning",
+        "deep learning",
+        "llm",
         "python"
       ],
       "signal_source": "job-page",
       "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:38:07.857335+00:00"
+      "captured_at": "2026-10-17T09:28:05.491040+00:00"
     },
     "b2511672a345bfe7": {
       "id": "b2511672a345bfe7",
@@ -2963,43 +4023,6 @@
       "jd_skill_version": 2,
       "captured_at": "2026-10-17T04:37:59.527495+00:00"
     },
-    "551ba5654bedba7d": {
-      "id": "551ba5654bedba7d",
-      "company": "Broadcom",
-      "title": "R&D Software Engineer VMKernel",
-      "location": "USA-CA - Promontory B",
-      "apply_url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA---Promontory-B/R-D-Software-Engineer-VMKernel_R027422",
-      "official_url": "https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "Linux",
-        "Docker",
-        "REST APIs"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Linux",
-        "Docker",
-        "REST APIs"
-      ],
-      "verified_skills": [
-        "Docker",
-        "REST APIs"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "Linux"
-      ],
-      "signal_terms": [
-        "api",
-        "cloud"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:55.812919+00:00"
-    },
     "072b0e206d62ce13": {
       "id": "072b0e206d62ce13",
       "company": "Northrop Grumman",
@@ -3047,1029 +4070,6 @@
       "signal_source": "job-page",
       "jd_skill_version": 2,
       "captured_at": "2026-10-17T04:37:31.917799+00:00"
-    },
-    "b77b97662aa34350": {
-      "id": "b77b97662aa34350",
-      "company": "Citi",
-      "title": "IT Business Analyst 2 - C10 - Ciudad De Mexico",
-      "location": "Ciudad De Mexico Distrito Federal Mexico",
-      "apply_url": "https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/IT-Business-Analyst-2---C10---Ciudad-De-Mexico_261000741-1",
-      "official_url": "https://citi.wd5.myworkdayjobs.com/en-US/2",
-      "posted": "Posted Today",
-      "profile": "data-analytics",
-      "detected_skills": [
-        "Communication",
-        "Testing",
-        "SQL",
-        "Excel",
-        "ETL/ELT",
-        "Scrum"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Testing",
-        "SQL",
-        "Excel",
-        "ETL/ELT",
-        "Scrum"
-      ],
-      "verified_skills": [
-        "SQL",
-        "Excel",
-        "ETL/ELT"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "Testing",
-        "Scrum"
-      ],
-      "signal_terms": [
-        "etl",
-        "iac",
-        "sql"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:31.150344+00:00"
-    },
-    "9b2dcda9e2741ba4": {
-      "id": "9b2dcda9e2741ba4",
-      "company": "Boeing",
-      "title": "Experienced Software Engineer–Systems (Systems)",
-      "location": "USA - Tinker AFB, OK",
-      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Experienced-Software-Engineer-Systems--Systems-_JR2026522740",
-      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Agile",
-        "Testing",
-        "Stakeholder Management",
-        "Communication"
-      ],
-      "top_jd_skills": [
-        "Agile",
-        "Testing",
-        "Stakeholder Management",
-        "Communication"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Agile",
-        "Testing",
-        "Stakeholder Management",
-        "Communication"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:29.337324+00:00"
-    },
-    "e2505283b254fd3c": {
-      "id": "e2505283b254fd3c",
-      "company": "Boeing",
-      "title": "Entry-Level Flight Simulation Software Engineer",
-      "location": "USA - Berkeley, MO",
-      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Entry-Level-Flight-Simulation-Software-Engineer_JR2026523155-1",
-      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Testing",
-        "Agile",
-        "Communication",
-        "C++",
-        "C#",
-        "Java",
-        "Python",
-        "Networking",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Testing",
-        "Agile",
-        "Communication",
-        "C++",
-        "C#",
-        "Java",
-        "Python",
-        "Networking",
-        "Collaboration"
-      ],
-      "verified_skills": [
-        "Python"
-      ],
-      "unverified_skills": [
-        "Testing",
-        "Agile",
-        "Communication",
-        "C++",
-        "C#",
-        "Java",
-        "Networking",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:28.895642+00:00"
-    },
-    "183b7bae34e01e23": {
-      "id": "183b7bae34e01e23",
-      "company": "Boeing",
-      "title": "Entry Level Software Engineer–Developer (Development)",
-      "location": "USA - Tinker AFB, OK",
-      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522764-1",
-      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Agile",
-        "C++",
-        "C#",
-        "Jenkins",
-        "Git",
-        "Testing",
-        "Problem Solving",
-        "Stakeholder Management"
-      ],
-      "top_jd_skills": [
-        "Agile",
-        "C++",
-        "C#",
-        "Jenkins",
-        "Git",
-        "Testing",
-        "Problem Solving",
-        "Stakeholder Management"
-      ],
-      "verified_skills": [
-        "Git"
-      ],
-      "unverified_skills": [
-        "Agile",
-        "C++",
-        "C#",
-        "Jenkins",
-        "Testing",
-        "Problem Solving",
-        "Stakeholder Management"
-      ],
-      "signal_terms": [
-        "api"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:28.437739+00:00"
-    },
-    "83226bc056382802": {
-      "id": "83226bc056382802",
-      "company": "Boeing",
-      "title": "Entry Level Software Engineer–Developer (Development)",
-      "location": "USA - Tinker AFB, OK",
-      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Developer--Development-_JR2026522577-1",
-      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Agile",
-        "C++",
-        "Git",
-        "C#",
-        "Jenkins",
-        "Testing",
-        "Problem Solving",
-        "Stakeholder Management",
-        "GitLab"
-      ],
-      "top_jd_skills": [
-        "Agile",
-        "C++",
-        "Git",
-        "C#",
-        "Jenkins",
-        "Testing",
-        "Problem Solving",
-        "Stakeholder Management",
-        "GitLab"
-      ],
-      "verified_skills": [
-        "Git"
-      ],
-      "unverified_skills": [
-        "Agile",
-        "C++",
-        "C#",
-        "Jenkins",
-        "Testing",
-        "Problem Solving",
-        "Stakeholder Management",
-        "GitLab"
-      ],
-      "signal_terms": [
-        "api"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:27.977806+00:00"
-    },
-    "ade6b7f7a351c4dd": {
-      "id": "ade6b7f7a351c4dd",
-      "company": "Motorola Solutions",
-      "title": "Business Analyst II",
-      "location": "Plantation, FL, More...",
-      "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Business-Analyst-II_R69515",
-      "official_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers",
-      "posted": "Posted Today",
-      "profile": "data-analytics",
-      "detected_skills": [
-        "Oracle",
-        "SQL",
-        "Stakeholder Management",
-        "Agile",
-        "Collaboration",
-        "Problem Solving",
-        "Communication",
-        "Go",
-        "Generative AI"
-      ],
-      "top_jd_skills": [
-        "Oracle",
-        "SQL",
-        "Stakeholder Management",
-        "Agile",
-        "Collaboration",
-        "Problem Solving",
-        "Communication",
-        "Go",
-        "Generative AI"
-      ],
-      "verified_skills": [
-        "SQL"
-      ],
-      "unverified_skills": [
-        "Oracle",
-        "Stakeholder Management",
-        "Agile",
-        "Collaboration",
-        "Problem Solving",
-        "Communication",
-        "Go",
-        "Generative AI"
-      ],
-      "signal_terms": [
-        "sql"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:23.310405+00:00"
-    },
-    "662e6b0e65efae4f": {
-      "id": "662e6b0e65efae4f",
-      "company": "Motorola Solutions",
-      "title": "Business Analyst",
-      "location": "Plantation, FL, More...",
-      "apply_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Plantation-FL/Business-Analyst_R69582",
-      "official_url": "https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers",
-      "posted": "Posted Today",
-      "profile": "data-analytics",
-      "detected_skills": [
-        "Oracle",
-        "SQL",
-        "Stakeholder Management",
-        "Agile",
-        "Collaboration",
-        "Problem Solving",
-        "Communication",
-        "Go",
-        "Generative AI"
-      ],
-      "top_jd_skills": [
-        "Oracle",
-        "SQL",
-        "Stakeholder Management",
-        "Agile",
-        "Collaboration",
-        "Problem Solving",
-        "Communication",
-        "Go",
-        "Generative AI"
-      ],
-      "verified_skills": [
-        "SQL"
-      ],
-      "unverified_skills": [
-        "Oracle",
-        "Stakeholder Management",
-        "Agile",
-        "Collaboration",
-        "Problem Solving",
-        "Communication",
-        "Go",
-        "Generative AI"
-      ],
-      "signal_terms": [
-        "sql"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:22.769271+00:00"
-    },
-    "da22f3ffb073fb3e": {
-      "id": "da22f3ffb073fb3e",
-      "company": "Fiserv",
-      "title": "Sr Backend Engineer",
-      "location": "Sunnyvale, California",
-      "apply_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Sunnyvale-California/Sr-Backend-Engineer_R-10403887",
-      "official_url": "https://fiserv.wd5.myworkdayjobs.com/en-US/EXT",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Testing",
-        "Java",
-        "Spring Boot",
-        "AWS",
-        "Microsoft Azure",
-        "Google Cloud Platform",
-        "SQL",
-        "CI/CD",
-        "Agile"
-      ],
-      "top_jd_skills": [
-        "Testing",
-        "Java",
-        "Spring Boot",
-        "AWS",
-        "Microsoft Azure",
-        "Google Cloud Platform",
-        "SQL",
-        "CI/CD",
-        "Agile"
-      ],
-      "verified_skills": [
-        "AWS",
-        "Microsoft Azure",
-        "SQL",
-        "CI/CD"
-      ],
-      "unverified_skills": [
-        "Testing",
-        "Java",
-        "Spring Boot",
-        "Google Cloud Platform",
-        "Agile"
-      ],
-      "signal_terms": [
-        "api",
-        "ci/cd",
-        "sql"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:22.173725+00:00"
-    },
-    "b5b485164932ff10": {
-      "id": "b5b485164932ff10",
-      "company": "Guidehouse",
-      "title": "Data Engineer",
-      "location": "US - DC, Washington",
-      "apply_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Data-Engineer_44841",
-      "official_url": "https://guidehouse.wd1.myworkdayjobs.com/en-US/External",
-      "posted": "Posted Today",
-      "profile": "data-engineering",
-      "detected_skills": [
-        "Communication",
-        "ETL/ELT",
-        "Data Quality",
-        "Data Governance",
-        "Data Reconciliation",
-        "TypeScript",
-        "Data Modeling",
-        "Machine Learning",
-        "REST APIs"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "ETL/ELT",
-        "Data Quality",
-        "Data Governance",
-        "Data Reconciliation",
-        "TypeScript",
-        "Data Modeling",
-        "Machine Learning",
-        "REST APIs"
-      ],
-      "verified_skills": [
-        "ETL/ELT",
-        "Data Quality",
-        "Data Reconciliation",
-        "Data Modeling",
-        "Machine Learning",
-        "REST APIs"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "Data Governance",
-        "TypeScript"
-      ],
-      "signal_terms": [
-        "data pipeline",
-        "data pipelines",
-        "etl",
-        "elt",
-        "api",
-        "data quality",
-        "data modeling",
-        "analytics"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:05.304742+00:00"
-    },
-    "969cfd9d15236b3f": {
-      "id": "969cfd9d15236b3f",
-      "company": "Boeing",
-      "title": "Entry-Level Software Engineer–Developer",
-      "location": "USA - Richardson, TX",
-      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Entry-Level-Software-Engineer-Developer_JR2026523382-1",
-      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Java",
-        "C++",
-        "Linux",
-        "Testing",
-        "Agile"
-      ],
-      "top_jd_skills": [
-        "Java",
-        "C++",
-        "Linux",
-        "Testing",
-        "Agile"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Java",
-        "C++",
-        "Linux",
-        "Testing",
-        "Agile"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:03.364329+00:00"
-    },
-    "11f7a2cbe7fb0c1b": {
-      "id": "11f7a2cbe7fb0c1b",
-      "company": "Nvidia",
-      "title": "SoC Software Engineer – New College Graduate 2026",
-      "location": "US, CA, Santa Clara",
-      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Graduate-2026_JR2027552-1",
-      "official_url": "https://jobs.nvidia.com/",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "C++",
-        "Linux",
-        "Problem Solving",
-        "HPC"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "C++",
-        "Linux",
-        "Problem Solving",
-        "HPC"
-      ],
-      "verified_skills": [
-        "HPC"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "C++",
-        "Linux",
-        "Problem Solving"
-      ],
-      "signal_terms": [
-        "api"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:37:00.598063+00:00"
-    },
-    "140dea7e8bc4c309": {
-      "id": "140dea7e8bc4c309",
-      "company": "Nvidia",
-      "title": "SoC Software Engineer - New College Grad 2027",
-      "location": "US, CA, Santa Clara",
-      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/SoC-Software-Engineer---New-College-Grad-2027_JR2026744",
-      "official_url": "https://jobs.nvidia.com/",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "C++",
-        "Linux",
-        "Problem Solving",
-        "HPC"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "C++",
-        "Linux",
-        "Problem Solving",
-        "HPC"
-      ],
-      "verified_skills": [
-        "HPC"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "C++",
-        "Linux",
-        "Problem Solving"
-      ],
-      "signal_terms": [
-        "api"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:59.876892+00:00"
-    },
-    "f55f21ed1b0c88e2": {
-      "id": "f55f21ed1b0c88e2",
-      "company": "Northrop Grumman",
-      "title": "Software Engineer - Integration and Test",
-      "location": "United States-California-San Diego",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-San-Diego/Software-Engineer---Integration-and-Test_R10253090-1",
-      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "Testing",
-        "Agile",
-        "Stakeholder Management",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Testing",
-        "Agile",
-        "Stakeholder Management",
-        "Collaboration"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Communication",
-        "Testing",
-        "Agile",
-        "Stakeholder Management",
-        "Collaboration"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:59.352624+00:00"
-    },
-    "9265f8572b51ce3f": {
-      "id": "9265f8572b51ce3f",
-      "company": "Booz Allen Hamilton",
-      "title": "Augmented Reality Software Engineer",
-      "location": "Lorton, VA",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0251326",
-      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "C#",
-        "C++",
-        "Networking",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "C#",
-        "C++",
-        "Networking",
-        "Collaboration"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Communication",
-        "C#",
-        "C++",
-        "Networking",
-        "Collaboration"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:58.883238+00:00"
-    },
-    "3e0cca8c1ca68a88": {
-      "id": "3e0cca8c1ca68a88",
-      "company": "Booz Allen Hamilton",
-      "title": "Augmented Reality Software Engineer",
-      "location": "Lorton, VA",
-      "apply_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0251325",
-      "official_url": "https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "C#",
-        "C++",
-        "Networking",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "C#",
-        "C++",
-        "Networking",
-        "Collaboration"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Communication",
-        "C#",
-        "C++",
-        "Networking",
-        "Collaboration"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:58.387466+00:00"
-    },
-    "a6424714b4bb1fb7": {
-      "id": "a6424714b4bb1fb7",
-      "company": "Boeing",
-      "title": "Experienced Real-Time Software Engineer - Simulation",
-      "location": "USA - Richardson, TX",
-      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Richardson-TX/Experienced-Real-Time-Software-Engineer---Simulation_JR2026523364-2",
-      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Testing",
-        "Java",
-        "C++",
-        "Agile",
-        "Linux",
-        "Stakeholder Management",
-        "Scrum",
-        "Data Visualization"
-      ],
-      "top_jd_skills": [
-        "Testing",
-        "Java",
-        "C++",
-        "Agile",
-        "Linux",
-        "Stakeholder Management",
-        "Scrum",
-        "Data Visualization"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Testing",
-        "Java",
-        "C++",
-        "Agile",
-        "Linux",
-        "Stakeholder Management",
-        "Scrum",
-        "Data Visualization"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:57.932668+00:00"
-    },
-    "30f4a511e43a4662": {
-      "id": "30f4a511e43a4662",
-      "company": "Blue Origin",
-      "title": "Software Engineer",
-      "location": "Greater Seattle Area",
-      "apply_url": "https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Greater-Seattle-Area/Software-Engineer_R73434",
-      "official_url": "https://www.blueorigin.com/careers/search",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "C++",
-        "Networking",
-        "Linux",
-        "Testing",
-        "CI/CD",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "C++",
-        "Networking",
-        "Linux",
-        "Testing",
-        "CI/CD",
-        "Collaboration"
-      ],
-      "verified_skills": [
-        "CI/CD"
-      ],
-      "unverified_skills": [
-        "Communication",
-        "C++",
-        "Networking",
-        "Linux",
-        "Testing",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "ci/cd"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:57.537083+00:00"
-    },
-    "b9d894487eaff800": {
-      "id": "b9d894487eaff800",
-      "company": "Amgen",
-      "title": "Specialist Software Engineer",
-      "location": "US - California - Thousand Oaks",
-      "apply_url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers/job/US---California---Thousand-Oaks/Specialist-Software-Engineer_R-255466",
-      "official_url": "https://amgen.wd1.myworkdayjobs.com/en-US/careers",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Testing",
-        "Agile",
-        "Collaboration",
-        "Generative AI"
-      ],
-      "top_jd_skills": [
-        "Testing",
-        "Agile",
-        "Collaboration",
-        "Generative AI"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Testing",
-        "Agile",
-        "Collaboration",
-        "Generative AI"
-      ],
-      "signal_terms": [
-        "analytics"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:56.729099+00:00"
-    },
-    "18d8be24211abb9b": {
-      "id": "18d8be24211abb9b",
-      "company": "Northrop Grumman",
-      "title": "Systems or Software Engineer - Change Management 2 - Space AHT",
-      "location": "United States-Alabama-Huntsville",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Systems-or-Software-Engineer---Change-Management-2---Space-AHT_R10255600",
-      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Agile"
-      ],
-      "top_jd_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Agile"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Communication",
-        "Stakeholder Management",
-        "Agile"
-      ],
-      "signal_terms": [
-        "api"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:54.659490+00:00"
-    },
-    "c84133c093c14c05": {
-      "id": "c84133c093c14c05",
-      "company": "General Motors",
-      "title": "Software Engineer",
-      "location": "Milford, Michigan, United States of America",
-      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer_JR-202622222",
-      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Testing",
-        "Git"
-      ],
-      "top_jd_skills": [
-        "Testing",
-        "Git"
-      ],
-      "verified_skills": [
-        "Git"
-      ],
-      "unverified_skills": [
-        "Testing"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:54.164795+00:00"
-    },
-    "9fcb9e0dc51b7ea4": {
-      "id": "9fcb9e0dc51b7ea4",
-      "company": "Boeing",
-      "title": "Entry-Level Software Engineer–Test & Verification",
-      "location": "USA - Tinker AFB, OK",
-      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Entry-Level-Software-Engineer-Test---Verification_JR2026523081",
-      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Testing",
-        "Stakeholder Management",
-        "Monitoring",
-        "Experimentation",
-        "Collaboration"
-      ],
-      "top_jd_skills": [
-        "Testing",
-        "Stakeholder Management",
-        "Monitoring",
-        "Experimentation",
-        "Collaboration"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Testing",
-        "Stakeholder Management",
-        "Monitoring",
-        "Experimentation",
-        "Collaboration"
-      ],
-      "signal_terms": [
-        "monitoring"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:53.796343+00:00"
-    },
-    "c15107b44d91782e": {
-      "id": "c15107b44d91782e",
-      "company": "Boeing",
-      "title": "Associate Software Engineer - Test and Verification",
-      "location": "USA - Tinker AFB, OK",
-      "apply_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tinker-AFB-OK/Associate-Software-Engineer---Test-and-Verification_JR2026523089-1",
-      "official_url": "https://boeing.wd1.myworkdayjobs.com/en-US/external_careers",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Testing",
-        "Stakeholder Management",
-        "Monitoring",
-        "Experimentation",
-        "Collaboration",
-        "Agile"
-      ],
-      "top_jd_skills": [
-        "Testing",
-        "Stakeholder Management",
-        "Monitoring",
-        "Experimentation",
-        "Collaboration",
-        "Agile"
-      ],
-      "verified_skills": [],
-      "unverified_skills": [
-        "Testing",
-        "Stakeholder Management",
-        "Monitoring",
-        "Experimentation",
-        "Collaboration",
-        "Agile"
-      ],
-      "signal_terms": [
-        "monitoring"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:53.339511+00:00"
-    },
-    "57e00f94f07f34c3": {
-      "id": "57e00f94f07f34c3",
-      "company": "Northrop Grumman",
-      "title": "Algorithm Development Software Engineer - Level 2 or 3",
-      "location": "United States-Colorado-Boulder",
-      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/Algorithm-Development-Software-Engineer---Level-2-or-3_R10255637",
-      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "C++",
-        "Python",
-        "Testing",
-        "Collaboration",
-        "Linux",
-        "Distributed Systems",
-        "Kubernetes",
-        "Docker"
-      ],
-      "top_jd_skills": [
-        "C++",
-        "Python",
-        "Testing",
-        "Collaboration",
-        "Linux",
-        "Distributed Systems",
-        "Kubernetes",
-        "Docker"
-      ],
-      "verified_skills": [
-        "Python",
-        "Kubernetes",
-        "Docker"
-      ],
-      "unverified_skills": [
-        "C++",
-        "Testing",
-        "Collaboration",
-        "Linux",
-        "Distributed Systems"
-      ],
-      "signal_terms": [
-        "distributed systems",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:32.038334+00:00"
-    },
-    "c44a6ffe7fbb5db3": {
-      "id": "c44a6ffe7fbb5db3",
-      "company": "Nvidia",
-      "title": "Software Engineer, DL Kernel Libraries - New College Grad 2027",
-      "location": "US, CA, Santa Clara",
-      "apply_url": "https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--DL-Kernel-Libraries---New-College-Grad-2027_JR2027337",
-      "official_url": "https://jobs.nvidia.com/",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Deep Learning",
-        "PyTorch",
-        "C++",
-        "Large Language Models",
-        "TensorFlow",
-        "Python",
-        "Machine Learning"
-      ],
-      "top_jd_skills": [
-        "Deep Learning",
-        "PyTorch",
-        "C++",
-        "Large Language Models",
-        "TensorFlow",
-        "Python",
-        "Machine Learning"
-      ],
-      "verified_skills": [
-        "PyTorch",
-        "Python",
-        "Machine Learning"
-      ],
-      "unverified_skills": [
-        "Deep Learning",
-        "C++",
-        "Large Language Models",
-        "TensorFlow"
-      ],
-      "signal_terms": [
-        "machine learning",
-        "deep learning",
-        "llm",
-        "python"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 2,
-      "captured_at": "2026-10-17T04:36:20.333784+00:00"
     },
     "1e0db7c53aeb952c": {
       "id": "1e0db7c53aeb952c",
