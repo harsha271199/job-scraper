@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — October 16, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-16 18:35:01 MST
+
+📊 **4 new jobs this batch:**
+- Apple: 1 job
+- Nvidia: 1 job
+- OpenAI: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer, Internal Tools - Media, Graphics & Compute Tech | [Apply](https://jobs.apple.com/en-us/details/200689896/software-engineer-internal-tools-media-graphics-compute-tech?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4ba4a231c473b2d5) | [Careers](https://jobs.apple.com/en-us/search) | Oct 16, 2026 |
+| **Nvidia** | US, CA, Santa Clara | Machine Learning Engineer, GeForce G-Assist | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Machine-Learning-Engineer--GeForce-G-Assist_JR2027676-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cd72a602df92e5c7) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **OpenAI** | New York City | Software Engineer, Full Stack — Dots | [Apply](https://jobs.ashbyhq.com/openai/dbe79b89-e593-44b3-8aec-c667f7134445) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=93542d4ac3c12785) | [Careers](https://openai.com/careers/search/) | 2026-10-16T23:48:11.093+00:00 |
+| **OpenAI** | New York City | Software Engineer, Mobile Web — Dots | [Apply](https://jobs.ashbyhq.com/openai/3b34eb10-25b0-4a97-bd6d-05fc90ad4981) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6ae1a937d0bebc2f) | [Careers](https://openai.com/careers/search/) | 2026-10-16T23:47:53.457+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-16 16:42:58 MST
 
 📊 **2 new jobs this batch:**
