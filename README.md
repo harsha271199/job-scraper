@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 16, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-16 23:14:54 MST
+
+📊 **1 new jobs this batch:**
+- Apple: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Data Scientist - Intelligent Experiences, MLO | [Apply](https://jobs.apple.com/en-us/details/200687787-0836/data-scientist-intelligent-experiences-mlo?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e675fadfe391162d) | [Careers](https://jobs.apple.com/en-us/search) | Oct 17, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-10-16 21:36:02 MST
 
 📊 **5 new jobs this batch:**
