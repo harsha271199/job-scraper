@@ -1,38 +1,19 @@
-# 📢 Job Listings for Harsha — October 18, 2026
+# 📢 Job Listings for Harsha — October 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
-### 🕐 Batch at 2026-10-18 23:56:47 MST
+### 🕐 Batch at 2026-10-19 08:00:07 MST
 
-📊 **2 new jobs this batch:**
-- Anthropic: 1 job
-- CrowdStrike: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
-|---|---|---|---|---|---|---|
-| **Anthropic** | New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA | Software Engineer, Memory & Search | [Apply](https://harsha271199.github.io/job-scraper/?job=9eefadd9166c2c11) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-19T01:09:10-04:00 |
-| **CrowdStrike** | USA - Austin, TX | Software Engineer II - Engine Team, LogScale (Hybrid) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Software-Engineer-II---Engine-Team--LogScale--Hybrid-_R30387) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0e010e7e14b5f7bd) | [Careers](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | Posted Today |
-
----
-
-### 🕐 Batch at 2026-10-18 18:46:47 MST
-
-📊 **2 new jobs this batch:**
-- Reddit: 2 jobs
+📊 **5 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- General Motors: 1 job
+- Northrop Grumman: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
 |---|---|---|---|---|---|---|
-| **Reddit** | Remote - United States | Machine Learning Engineer, Answers Relevance | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8299781) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ddc8d6224aea61fb) | [Careers](https://redditinc.com/careers) | 2026-10-18T19:58:34-04:00 |
-| **Reddit** | Remote - United States | Software Engineer, Agent Optimization & Evaluation | [Apply](https://job-boards.greenhouse.io/reddit/jobs/8275745) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b7d1a11b1c0fdf78) | [Careers](https://redditinc.com/careers) | 2026-10-18T21:44:46-04:00 |
-
----
-
-### 🕐 Batch at 2026-10-18 04:16:23 MST
-
-📊 **1 new jobs this batch:**
-- SpaceX: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
-|---|---|---|---|---|---|---|
-| **SpaceX** | Hawthorne, CA | Application Software Engineer, Flight Software | [Apply](https://boards.greenhouse.io/spacex/jobs/8899128002?gh_jid=8899128002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4f7e687d19696fc6) | [Careers](https://new.spacex.com/careers) | 2026-10-18T03:26:24-04:00 |
+| **Booz Allen Hamilton** | Stafford, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stafford-VA/Data-Scientist_R0251874) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6664e3a75241cfa5) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Human Capital Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Human-Capital-Data-Analyst_R0244767) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bcd42a8177ddb726) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Atlanta, GA | IT Business Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/IT-Business-Analyst--Mid_R0251849) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5ba0782f5d094eea) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **General Motors** | Warren, Michigan, United States of America | Software Developer | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Software-Developer_JR-202622686-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ef71ec0e999da443) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **Northrop Grumman** | United States-Maryland-Linthicum | 2027 Associate/Software Engineer Pathways Linthicum MA | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Maryland-Linthicum/XMLNAME-2027-Associate-Software-Engineer-Pathways-Dulles-VA_R10256499) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e614640940e09096) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
 
 ---
