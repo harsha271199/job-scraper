@@ -1,6 +1,33 @@
 # 📢 Job Listings for Harsha — October 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-19 15:26:12 MST
+
+📊 **10 new jobs this batch:**
+- Alteryx: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Brex: 2 jobs
+- CrowdStrike: 1 job
+- Intel: 1 job
+- Mastercard: 2 jobs
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Alteryx** | Irvine, California | Software Engineer | [Apply](https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers/job/Irvine-California/Software-Engineer_R12554-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b503bd1e250073bd) | [Careers](https://alteryx.wd108.myworkdayjobs.com/en-US/AlteryxCareers) | Posted Today |
+| **Boeing** | USA - Berkeley, MO | Associate Flight Test Data Processing Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Berkeley-MO/Associate-Flight-Test-Data-Processing-Software-Engineer_JR2026524420-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=940874f4d2b5841d) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | Fort Meade, MD | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fort-Meade-MD/Cloud-Engineer_R0251559) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c62d1de116b01bdf) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Brex** | San Francisco, California, United States | Software Engineer II, Data Enablement Platform | [Apply](https://www.brex.com/careers/8605070002?gh_jid=8605070002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c4daa0a94b23014e) | [Careers](https://boards.greenhouse.io/brex) | 2026-06-23T18:18:31-04:00 |
+| **Brex** | Seattle, Washington, United States | Software Engineer II, Data Enablement Platform | [Apply](https://www.brex.com/careers/8605074002?gh_jid=8605074002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=baec78e6ab8a0c25) | [Careers](https://boards.greenhouse.io/brex) | 2026-06-23T18:18:33-04:00 |
+| **CrowdStrike** | USA - Sunnyvale, CA | Sr Software Engineer, Cloud - Vulnerability Management (Hybrid) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer---Risk-Platform--Hybrid--Sunnyvale-_R29171) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=31f102cbfcb0233c) | [Careers](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | Posted Today |
+| **Intel** | US, California, Folsom | GPU Software Engineer | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Folsom/GPU-Software-Engineer_JR0288223) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=60191248f8d78a77) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-293589) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5ff5a259e740ca7e) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **Mastercard** | Arlington, Virginia | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/Arlington-Virginia/Software-Engineer-II_R-293167) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9c21d444fcd3dd52) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **Workday** | USA.VA.Reston | Site Reliability Engineer (US Federal) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Senior-Site-Reliability-Engineer--US-Federal-_JR-0105509-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=026d1651674c77a9) | [Careers](https://workday.wd5.myworkdayjobs.com/en-US/Workday) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-19 13:44:32 MST
 
 📊 **7 new jobs this batch:**
