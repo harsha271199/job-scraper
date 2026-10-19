@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — October 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-19 10:32:23 MST
+
+📊 **10 new jobs this batch:**
+- Apple: 2 jobs
+- Booz Allen Hamilton: 3 jobs
+- Guidehouse: 1 job
+- Notion: 1 job
+- OpenAI: 2 jobs
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Site Reliability Engineer, Apple Data Platform | [Apply](https://jobs.apple.com/en-us/details/200689953-0157/site-reliability-engineer-apple-data-platform?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=748ad16ea0284d40) | [Careers](https://jobs.apple.com/en-us/search) | Oct 19, 2026 |
+| **Apple** | N/A | Systems Software Engineer, Compute | [Apply](https://jobs.apple.com/en-us/details/200689551-0836/systems-software-engineer-compute?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e020b73f4357078f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 19, 2026 |
+| **Booz Allen Hamilton** | Stafford, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stafford-VA/Data-Engineer_R0251866) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b55151c61c14d43b) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Lexington, MA | Data Engineer and Data Pipeline Specialist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-MA/Data-Engineer-and-Data-Pipeline-Specialist_R0251853) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bbc58d1015affaca) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Coronado, CA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Coronado-CA/Data-Scientist--Mid_R0251865-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=dc98d9b5f1ec7a80) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Guidehouse** | US - DC, Washington | Graph Analytics Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Graph-Analytics-Engineer_44854) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=16e5e21f8c37ef3d) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Notion** | San Francisco, California | Software Engineer, Developer Platform | [Apply](https://jobs.ashbyhq.com/notion/8c0bf773-e536-45c9-9a6c-8ee478148cc8) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c484b0a5fbb226a4) | [Careers](https://jobs.ashbyhq.com/notion) | 2026-10-19T17:28:06.956+00:00 |
+| **OpenAI** | San Francisco | Research Scientist / Research Engineer - Foundations, Search | [Apply](https://jobs.ashbyhq.com/openai/020b2aae-8be0-408c-ab49-20eefa8541af) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2018ce361121ef2b) | [Careers](https://openai.com/careers/search/) | 2025-06-16T22:35:00.347+00:00 |
+| **OpenAI** | New York City | Software Engineer, Backend — Dots | [Apply](https://jobs.ashbyhq.com/openai/341a5ad4-9134-4bad-88e1-2ce0f70bf519) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bd225edb9ac94946) | [Careers](https://openai.com/careers/search/) | 2026-10-19T16:46:48.788+00:00 |
+| **Waymo** | Mountain View, CA, USA | 2027 Summer Intern, PhD, Research Scientist, Visual Reasoning | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8292367) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fcc8b87b1bd7ac3f) | [Careers](https://boards.greenhouse.io/waymo) | 2026-10-19T11:58:23-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-19 08:00:07 MST
 
 📊 **5 new jobs this batch:**
