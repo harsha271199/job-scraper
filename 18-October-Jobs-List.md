@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 18, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-18 23:56:47 MST
+
+📊 **2 new jobs this batch:**
+- Anthropic: 1 job
+- CrowdStrike: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | New York City, NY; New York City, NY | Seattle, WA; Remote-Friendly, United States; San Francisco, CA | New York City, NY | Seattle, WA | Software Engineer, Memory & Search | [Apply](https://harsha271199.github.io/job-scraper/?job=9eefadd9166c2c11) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-19T01:09:10-04:00 |
+| **CrowdStrike** | USA - Austin, TX | Software Engineer II - Engine Team, LogScale (Hybrid) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Austin-TX/Software-Engineer-II---Engine-Team--LogScale--Hybrid-_R30387) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0e010e7e14b5f7bd) | [Careers](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-18 18:46:47 MST
 
 📊 **2 new jobs this batch:**
