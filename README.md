@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — October 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-19 13:44:32 MST
+
+📊 **7 new jobs this batch:**
+- Anthropic: 1 job
+- Apple: 2 jobs
+- KLA: 1 job
+- LaunchDarkly: 1 job
+- Scopely: 1 job
+- Snap: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | Boston, MA; Remote-Friendly (Travel-Required) | San Francisco, CA | Seattle, WA | New York City, NY; Washington, DC | IT Systems Engineer, Client Platform Engineer, ChromeOS | [Apply](https://harsha271199.github.io/job-scraper/?job=ebb0a04b30cbaa7f) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-19T16:20:56-04:00 |
+| **Apple** | N/A | Software Engineer, IS&T Early Career Opportunities | [Apply](https://jobs.apple.com/en-us/details/200688599-0157/software-engineer-is-t-early-career-opportunities?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1f8cc65090df1475) | [Careers](https://jobs.apple.com/en-us/search) | Oct 19, 2026 |
+| **Apple** | N/A | UX and UI Software Engineer — Observability | [Apply](https://jobs.apple.com/en-us/details/200689875-3577/ux-and-ui-software-engineer-observability?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=318a7694cf8b9c07) | [Careers](https://jobs.apple.com/en-us/search) | Oct 19, 2026 |
+| **KLA** | USA-MI-Ann Arbor-KLA | Research Scientist | [Apply](https://kla.wd1.myworkdayjobs.com/en-US/Search/job/USA-MI-Ann-Arbor-KLA/Research-Scientist_2640190-2) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d343340fef5fad60) | [Careers](https://kla.wd1.myworkdayjobs.com/en-US/Search) | Posted Today |
+| **LaunchDarkly** | Remote - US | Backend Software Engineer, SDK | [Apply](https://job-boards.greenhouse.io/launchdarkly/jobs/8015117003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=68b5a1544c75cc85) | [Careers](https://boards.greenhouse.io/launchdarkly) | 2026-10-19T16:38:58-04:00 |
+| **Scopely** | US - San Francisco, California, United States | Software Engineer, Machine Learning | [Apply](https://job-boards.greenhouse.io/scopely/jobs/5456049008?gh_jid=5456049008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0fda8b0652ccec87) | [Careers](https://boards.greenhouse.io/scopely) | 2026-10-19T14:51:07-04:00 |
+| **Snap** | Bellevue; Palo Alto | Software Engineer, ML Infrastructure, Core Inference, Level 4 | [Apply](https://careers.snap.com/job?id=R0047199) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=57c2f2eafd1e4880) | [Careers](https://careers.snap.com/jobs) | N/A |
+
+---
+
 ### 🕐 Batch at 2026-10-19 10:32:23 MST
 
 📊 **10 new jobs this batch:**
