@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — October 20, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-20 12:38:11 MST
+
+📊 **3 new jobs this batch:**
+- Apple: 1 job
+- Coinbase: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Machine Learning Engineer | [Apply](https://jobs.apple.com/en-us/details/200690288-0836/machine-learning-engineer?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7cc7d75554eba0fa) | [Careers](https://jobs.apple.com/en-us/search) | Oct 20, 2026 |
+| **Coinbase** | Remote - USA | Software Engineer - Crypto Data Foundations | [Apply](https://www.coinbase.com/careers/positions/8304038?gh_jid=8304038) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=dbc01907445a4a7e) | [Careers](https://www.coinbase.com/careers/positions) | 2026-10-20T14:42:39-04:00 |
+| **OpenAI** | San Francisco | Software Engineer, TPU Compilers | [Apply](https://jobs.ashbyhq.com/openai/0a6f6736-8743-4528-b17c-4e1f4f8ea45c) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3e2131da26826a3e) | [Careers](https://openai.com/careers/search/) | 2026-10-20T19:23:16.552+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-20 11:30:44 MST
 
 📊 **9 new jobs this batch:**
