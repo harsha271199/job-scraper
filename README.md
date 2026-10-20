@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-19 18:53:06 MST
+
+📊 **1 new jobs this batch:**
+- Intel: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Intel** | US, Oregon, Hillsboro | CAD/EDA Tools Software Engineer | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/CAD-EDA-Tools-Software-Engineer_JR0288234-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e40b2b9ab21828c6) | [Careers](https://jobs.intel.com/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-19 16:57:39 MST
 
 📊 **7 new jobs this batch:**
