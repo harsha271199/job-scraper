@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — October 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-19 22:21:40 MST
+
+📊 **4 new jobs this batch:**
+- Cursor: 1 job
+- Northrop Grumman: 1 job
+- Salesforce: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Cursor** | Palo Alto, CA | Software Engineer, Research Tooling | [Apply](https://jobs.ashbyhq.com/cursor/fa7a821b-ca2b-43fe-8942-07f215a060c7) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=67ed9d20ac186c5d) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-10-20T01:56:55.619+00:00 |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Software Engineer/ Software Architect - Level 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Software-Engineer--Software-Architect---Level-4_R10256761) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=404393c27d559fbb) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Salesforce** | California - San Francisco | Production Support Engineering - Cloud DevOps Engineer SMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Production-Support-Engineering---Cloud-DevOps-Engineer-SMTS_JR363299) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a6a2ff0a59f1f839) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Salesforce** | California - San Francisco | Software Engineering SMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR363304-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2ce8810ee8075ba8) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-19 18:53:06 MST
 
 📊 **1 new jobs this batch:**
