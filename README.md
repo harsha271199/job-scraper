@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — October 20, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-20 15:41:38 MST
+
+📊 **4 new jobs this batch:**
+- Apple: 3 jobs
+- Justworks: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Learning Analytics Data Scientist, Employee Experience & Productivity, IS&T | [Apply](https://jobs.apple.com/en-us/details/200672814-3956/learning-analytics-data-scientist-employee-experience-productivity-is-t?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c23db9a3edb8a5c7) | [Careers](https://jobs.apple.com/en-us/search) | Oct 20, 2026 |
+| **Apple** | N/A | Product Data Analyst, Employee Experience & Productivity, IS&T | [Apply](https://jobs.apple.com/en-us/details/200677976-3956/product-data-analyst-employee-experience-productivity-is-t?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c54b0c13b039f2c5) | [Careers](https://jobs.apple.com/en-us/search) | Oct 20, 2026 |
+| **Apple** | N/A | Support Operations Data Analyst, Employee Experience & Productivity, IS&T | [Apply](https://jobs.apple.com/en-us/details/200669063-3956/support-operations-data-analyst-employee-experience-productivity-is-t?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f07ac3650f1bb5ba) | [Careers](https://jobs.apple.com/en-us/search) | Oct 20, 2026 |
+| **Justworks** | New York, New York | Software Engineer, Backend | [Apply](https://boards.greenhouse.io/justworks/jobs/8179714?gh_jid=8179714) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b65fc3129a521144) | [Careers](https://boards.greenhouse.io/justworks) | 2026-10-20T18:39:04-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-20 15:21:49 MST
 
 📊 **8 new jobs this batch:**
