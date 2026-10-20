@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — October 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-19 16:57:39 MST
+
+📊 **7 new jobs this batch:**
+- Apple: 2 jobs
+- Booz Allen Hamilton: 1 job
+- Brex: 1 job
+- Palantir: 2 jobs
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer, IS&T Early Career Opportunities | [Apply](https://jobs.apple.com/en-us/details/200689349-0836/software-engineer-is-t-early-career-opportunities?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f80838f943e8ec03) | [Careers](https://jobs.apple.com/en-us/search) | Oct 19, 2026 |
+| **Apple** | N/A | Software Engineer, IS&T Early Career Opportunities | [Apply](https://jobs.apple.com/en-us/details/200689349-3956/software-engineer-is-t-early-career-opportunities?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=698fcb74760cd3ae) | [Careers](https://jobs.apple.com/en-us/search) | Oct 19, 2026 |
+| **Booz Allen Hamilton** | McLean, VA | Scientific Data Engineering Specialist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Scientific-Data-Engineering-Specialist_R0251925) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cfc3d04cee7221c9) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Brex** | New York, New York, United States | Software Engineer II, Data Enablement Platform | [Apply](https://www.brex.com/careers/8605062002?gh_jid=8605062002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=56babc33eba3d387) | [Careers](https://boards.greenhouse.io/brex) | 2026-06-23T18:18:32-04:00 |
+| **Palantir** | New York, NY | Software Engineer, Internship - Query Engines | [Apply](https://jobs.lever.co/palantir/da774f81-c98c-4dcf-9b9c-949fd7d90a13) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9c3f67dfe2f067c3) | [Careers](https://www.palantir.com/careers/open-positions/) | 2026-10-19 23:47 |
+| **Palantir** | New York, NY | Software Engineer, New Grad - Query Engines | [Apply](https://jobs.lever.co/palantir/90329118-d9b7-4b96-acdf-13377e3196ac) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=eceb42fecf7b1738) | [Careers](https://www.palantir.com/careers/open-positions/) | 2026-10-19 23:45 |
+| **Target** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Associate Designer, A New Day Knits and Sweaters | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Associate-Designer--A-New-Day-Knits-and-Sweaters_R0000478173) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b70d65dd91a892dc) | [Careers](https://target.wd5.myworkdayjobs.com/en-US/targetcareers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-19 15:26:12 MST
 
 📊 **10 new jobs this batch:**
