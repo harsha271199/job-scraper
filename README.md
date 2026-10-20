@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — October 20, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-20 15:21:49 MST
+
+📊 **8 new jobs this batch:**
+- Airbnb: 1 job
+- Booz Allen Hamilton: 1 job
+- Esri: 1 job
+- Intel: 4 jobs
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airbnb** | Remote-USA | Machine Learning Engineer, Assistance Engineering | [Apply](https://careers.airbnb.com/positions/7826337?gh_jid=7826337) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a8c4cc4e1051995b) | [Careers](https://careers.airbnb.com/positions/) | 2026-04-20T19:45:42-04:00 |
+| **Booz Allen Hamilton** | McLean, VA | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Engineer_R0252020) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=473a7566aa0fb03a) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Esri** | Redlands, CA | Software Development Engineer in Test I (SDET) – ArcGIS Enterprise | [Apply](https://www.esri.com/careers/5269847007?gh_jid=5269847007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d8e57ebbf1a3307d) | [Careers](https://boards.greenhouse.io/esri) | 2026-10-20T16:55:44-04:00 |
+| **Intel** | US, California, Santa Clara | AI Data Science / Software Engineering PhD Intern New 2027 | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288138) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cfb041e26dbbf2ff) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **Intel** | US, Oregon, Hillsboro | AI Data Science / Software Engineering PhD Intern New 2027 | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288136) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=15ce8a3a109660df) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **Intel** | US, Oregon, Hillsboro | AI Data Science / Software Engineering PhD Intern New 2027 | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288140) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c5a32e357b4768f6) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **Intel** | US, Oregon, Hillsboro | AI Data Science / Software Engineering PhD Intern New 2027 | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/AI-Data-Science---Software-Engineering-PhD-Intern-New-2027_JR0288139) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=960477bb112067e3) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **OpenAI** | San Francisco | Product Data Scientist - Youth, Families and Learning | [Apply](https://jobs.ashbyhq.com/openai/1f148786-2e00-472a-96b9-0b29015980e1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b5b202afeab0cd4c) | [Careers](https://openai.com/careers/search/) | 2026-10-20T21:21:22.316+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-20 12:38:11 MST
 
 📊 **3 new jobs this batch:**
