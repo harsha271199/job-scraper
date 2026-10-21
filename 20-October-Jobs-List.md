@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 20, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-20 18:39:49 MST
+
+📊 **1 new jobs this batch:**
+- Apple: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | ML - Data Scientist | [Apply](https://jobs.apple.com/en-us/details/200690294-3956/ml-data-scientist?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f9c64f8b302839cb) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-10-20 18:00:10 MST
 
 📊 **3 new jobs this batch:**
