@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — October 20, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-20 18:00:10 MST
+
+📊 **3 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Elastic: 1 job
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Norfolk, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Data-Scientist_R0251874) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3aa6c1a11b3960ca) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Elastic** | United States | Software Engineer II (Networking) - Platform Infra | [Apply](https://jobs.elastic.co/jobs?gh_jid=8303806&gh_jid=8303806) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2e06463ad18f34bd) | [Careers](https://boards.greenhouse.io/elastic) | 2026-10-20T19:39:30-04:00 |
+| **Nvidia** | US, CA, Santa Clara | Software Engineer, Agent Performance Modeling - New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-Engineer--Agent-Performance-Modeling---New-College-Grad-2026_JR2028350) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=34292b14071dd859) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-20 15:41:38 MST
 
 📊 **4 new jobs this batch:**
