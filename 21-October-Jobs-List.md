@@ -1,6 +1,30 @@
 # 📢 Job Listings for Harsha — October 21, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-21 15:25:41 MST
+
+📊 **11 new jobs this batch:**
+- Apple: 7 jobs
+- OpenAI: 2 jobs
+- Twitch: 1 job
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Platform Engineer, Find My | [Apply](https://jobs.apple.com/en-us/details/200683831-0836/platform-engineer-find-my?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d6d8b838b552da48) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Apple** | N/A | Software Engineer - Generative AI & ML, Customer Systems | [Apply](https://jobs.apple.com/en-us/details/200643421-0157/software-engineer-generative-ai-ml-customer-systems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f22896446fbb4dc5) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Apple** | N/A | Software Engineer - SoC Level Validation Engineer | [Apply](https://jobs.apple.com/en-us/details/200690790-0157/software-engineer-soc-level-validation-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=333c5443cddb2db4) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Apple** | N/A | Software Engineer - SoC Level Validation Engineer | [Apply](https://jobs.apple.com/en-us/details/200690790-0505/software-engineer-soc-level-validation-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2b171c04204528bb) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Apple** | N/A | Software Engineer - SoC Level Validation Engineer | [Apply](https://jobs.apple.com/en-us/details/200690790-0836/software-engineer-soc-level-validation-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=84b747bd0a77136a) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Apple** | N/A | Software Engineer - SoC Level Validation Engineer | [Apply](https://jobs.apple.com/en-us/details/200690790-3543/software-engineer-soc-level-validation-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b2b18e7357da5fd4) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Apple** | N/A | Software Engineer - SoC Level Validation Engineer | [Apply](https://jobs.apple.com/en-us/details/200690790-6205/software-engineer-soc-level-validation-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4d738ca53d7f7660) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **OpenAI** | San Francisco | Research Scientist / Research Engineer, Search - Knowledge Graphs | [Apply](https://jobs.ashbyhq.com/openai/1441816f-6429-426e-8f6d-8e5930a818f9) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=68d096016b1929bb) | [Careers](https://openai.com/careers/search/) | 2026-10-21T21:04:47.291+00:00 |
+| **OpenAI** | San Francisco | Research Scientist / Research Engineer, Search Integrity | [Apply](https://jobs.ashbyhq.com/openai/5ef10e09-2b3f-41de-b77c-829787302101) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=73cc755cd68fa476) | [Careers](https://openai.com/careers/search/) | 2026-10-21T21:05:30.865+00:00 |
+| **Twitch** | Seattle, WA | Software Engineer I | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8906750002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=48b879491c1f497c) | [Careers](https://boards.greenhouse.io/twitch) | 2026-10-21T16:56:21-04:00 |
+| **Workday** | USA.VA.Reston | Site Reliability Engineer (US Federal) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USAVAReston/Site-Reliability-Engineer--US-Federal-_JR-0110896) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a32b966ea387e25a) | [Careers](https://workday.wd5.myworkdayjobs.com/en-US/Workday) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-21 13:55:32 MST
 
 📊 **13 new jobs this batch:**
