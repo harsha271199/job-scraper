@@ -1,6 +1,36 @@
 # 📢 Job Listings for Harsha — October 21, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-21 13:55:32 MST
+
+📊 **13 new jobs this batch:**
+- Airbnb: 1 job
+- Apple: 4 jobs
+- Booz Allen Hamilton: 3 jobs
+- Cerebras: 1 job
+- Guidehouse: 1 job
+- Motorola Solutions: 1 job
+- OpenAI: 1 job
+- Pinecone: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airbnb** | Remote, USA | Software Engineer, Payments | [Apply](https://careers.airbnb.com/positions/8274152?gh_jid=8274152) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d4afd405b63975a5) | [Careers](https://careers.airbnb.com/positions/) | 2026-10-21T16:01:47-04:00 |
+| **Apple** | N/A | Principle Research Scientist, Siri Innovation Studio | [Apply](https://jobs.apple.com/en-us/details/200678175-0836/principle-research-scientist-siri-innovation-studio?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=69aeefd542b47ba9) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Apple** | N/A | Principle Research Scientist, Siri Innovation Studio | [Apply](https://jobs.apple.com/en-us/details/200678175-3337/principle-research-scientist-siri-innovation-studio?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e3db4cca8ceb0d80) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Apple** | N/A | Software Engineering (AI/ML), Retail and Marcom Engineering | [Apply](https://jobs.apple.com/en-us/details/200690683-0157/software-engineering-ai-ml-retail-and-marcom-engineering?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9ad21712e5c5fc0f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Apple** | N/A | Software Engineering (AI/ML), Retail and Marcom Engineering | [Apply](https://jobs.apple.com/en-us/details/200690683-3956/software-engineering-ai-ml-retail-and-marcom-engineering?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c9b565eccdab24fb) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Booz Allen Hamilton** | Albuquerque, NM | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Data-Engineer_R0252089) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=593609c8fe41ceb1) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Lexington Park, MD | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lexington-Park-MD/Data-Scientist_R0252028) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1837905c0b6e83dc) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0252081) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b9c077dc8fa559ce) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Cerebras** | Sunnyvale, CA | AI Engineer, Developer Relations | [Apply](https://jobs.ashbyhq.com/cerebras/c6f607ce-306c-4deb-8825-4175201a7cd4) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9db48a84ccd1e4b0) | [Careers](https://www.cerebras.ai/join-us) | 2026-10-21T20:18:48.281+00:00 |
+| **Guidehouse** | US - Remote (Any location) | Data Analyst | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---Remote-Any-location/Data-Analyst_45631) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=63b2a93cd229af9f) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Motorola Solutions** | Massachusetts Remote Work, More... | Command Center Solutions Services (CCSS) Engineering Organization - Software Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Massachusetts-Remote-Work/Command-Center-Solutions-Services--CCSS--Engineering-Organization---Software-Engineer_R69567) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ac2f0a8e95a682ec) | [Careers](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | Posted Today |
+| **OpenAI** | San Francisco | Applied Scientist, Product Policy | [Apply](https://jobs.ashbyhq.com/openai/6ef9babb-e210-496f-a004-fed919a9ed2d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=68de4d9e2f7904c9) | [Careers](https://openai.com/careers/search/) | 2026-10-21T19:11:47.392+00:00 |
+| **Pinecone** | New York City | Full-Stack Software Engineer, Experience | [Apply](https://jobs.ashbyhq.com/pinecone/08760530-e6c3-4167-9272-923d85a2388d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=71c2c40a45c0938d) | [Careers](https://jobs.ashbyhq.com/pinecone) | 2026-10-21T20:01:29.020+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-21 11:42:51 MST
 
 📊 **2 new jobs this batch:**
