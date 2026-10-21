@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — October 20, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-20 23:36:26 MST
+
+📊 **4 new jobs this batch:**
+- Northrop Grumman: 1 job
+- OpenAI: 1 job
+- Perplexity: 1 job
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Northrop Grumman** | United States-Nebraska-Bellevue | Associate Software Engineer | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Nebraska-Bellevue/Associate-Software-Engineer_R10257006) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=35565571e510fcde) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **OpenAI** | San Francisco | Software Engineer, Product Infrastructure - Agent Runtime | [Apply](https://jobs.ashbyhq.com/openai/5ed99d32-eed1-4679-b7b4-037de073e57c) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6533d10b94e6fa4d) | [Careers](https://openai.com/careers/search/) | 2026-08-17T05:31:43.308+00:00 |
+| **Perplexity** | San Francisco | Software Engineer, Enterprise Knowledge Platform | [Apply](https://jobs.ashbyhq.com/perplexity/0113c03a-69d0-489d-bd11-451d11a9f64b) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2eed05fa908a0449) | [Careers](https://jobs.ashbyhq.com/perplexity) | 2026-10-21T04:36:18.606+00:00 |
+| **Target** | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | Sr Applied Data Scientist - 1:1 Personalization, Audience and Experimentation (applied ML, PyToch, A/B testing) | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Applied-Data-Scientist---1-1-Personalization--Audience-and-Experimentation--applied-ML--PyToch--A-B-testing-_R0000454434) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5f9748ff88f4c84f) | [Careers](https://target.wd5.myworkdayjobs.com/en-US/targetcareers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-20 18:39:49 MST
 
 📊 **1 new jobs this batch:**
