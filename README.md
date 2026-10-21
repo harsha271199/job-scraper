@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 21, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-21 11:42:51 MST
+
+📊 **2 new jobs this batch:**
+- Apple: 1 job
+- Fiserv: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Sr Software Engineer (Developer Advocacy, GenAi), Ai & Data Platforms | [Apply](https://jobs.apple.com/en-us/details/200689096-0157/sr-software-engineer-developer-advocacy-genai-ai-data-platforms?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=093785b7449c00e0) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Fiserv** | Berkeley Heights, New Jersey | DevOps Engineer | [Apply](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT/job/Berkeley-Heights-New-Jersey/DevOps-Engineer_R-10404826) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6ab74dc116455a0b) | [Careers](https://fiserv.wd5.myworkdayjobs.com/en-US/EXT) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-21 10:41:49 MST
 
 📊 **17 new jobs this batch:**
