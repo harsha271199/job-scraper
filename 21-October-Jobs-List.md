@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — October 21, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-21 17:15:44 MST
+
+📊 **7 new jobs this batch:**
+- Airbnb: 1 job
+- Apple: 2 jobs
+- Booz Allen Hamilton: 1 job
+- Crusoe: 1 job
+- Elastic: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airbnb** | United States | Software Engineer, DevAI | [Apply](https://careers.airbnb.com/positions/8280222?gh_jid=8280222) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c4cc3a69e803c418) | [Careers](https://careers.airbnb.com/positions/) | 2026-10-21T19:20:53-04:00 |
+| **Apple** | N/A | Data Scientist, Apple Pay | [Apply](https://jobs.apple.com/en-us/details/200690854-0836/data-scientist-apple-pay?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=72bd216c7b879d13) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Apple** | N/A | Site Reliability Engineer - Apple Data Platform (ADP) | [Apply](https://jobs.apple.com/en-us/details/200690733-0157/site-reliability-engineer-apple-data-platform-adp?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d4a3043e4bd03e0f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 21, 2026 |
+| **Booz Allen Hamilton** | Fayetteville, NC | Kubernetes Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Kubernetes-Platform-Engineer_R0252110) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4110630db4df6728) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Crusoe** | San Francisco, CA - US | Software Engineering Intern, Summer 2027 | [Apply](https://jobs.ashbyhq.com/crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=17d0ed1c75be91eb) | [Careers](https://jobs.ashbyhq.com/crusoe) | 2026-10-21T23:07:40.382+00:00 |
+| **Elastic** | United States | Software Engineer II - Control Plane (Hosted Foundations / Applications) | [Apply](https://jobs.elastic.co/jobs?gh_jid=8274383&gh_jid=8274383) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1503c2e9bd0dc222) | [Careers](https://boards.greenhouse.io/elastic) | 2026-10-21T20:05:16-04:00 |
+| **OpenAI** | San Francisco | Software Engineer, Privacy Engineering (Lawful Access) | [Apply](https://jobs.ashbyhq.com/openai/e99105f1-0a15-4f25-9538-60312568f835) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=34b8d76fdf62e561) | [Careers](https://openai.com/careers/search/) | 2026-10-21T22:55:41.495+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-21 15:25:41 MST
 
 📊 **11 new jobs this batch:**
