@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-22 15:47:34 MST
+
+📊 **2 new jobs this batch:**
+- Apple: 1 job
+- Boeing: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | AI/ML Engineer: System RF Data Ecosystem | [Apply](https://jobs.apple.com/en-us/details/200691105-0836/ai-ml-engineer-system-rf-data-ecosystem?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9aa71d0a3b28dd9f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 22, 2026 |
+| **Boeing** | USA - Chantilly, VA | Software Engineer (Associate or Experienced) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Chantilly-VA/Software-Engineer--Associate-or-Experienced-_JR2026525287-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c7853491a82de94e) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-22 15:24:22 MST
 
 📊 **19 new jobs this batch:**
