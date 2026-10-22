@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — October 21, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-21 18:35:01 MST
+
+📊 **8 new jobs this batch:**
+- Apple: 1 job
+- Medtronic: 1 job
+- Sierra: 6 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer - AML - Ai & Data Platforms | [Apply](https://jobs.apple.com/en-us/details/200690530-3956/software-engineer-aml-ai-data-platforms?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f9c4c06ea0401781) | [Careers](https://jobs.apple.com/en-us/search) | Oct 22, 2026 |
+| **Medtronic** | Tijuana, Baja California, Mexico | Prin IT Business Analyst | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Tijuana-Baja-California-Mexico/Prin-IT-Business-Analyst_R77604-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d25d3e4c23757a64) | [Careers](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers) | Posted Today |
+| **Sierra** | San Francisco, CA | Software Engineer, Agent Builder | [Apply](https://jobs.ashbyhq.com/Sierra/200df475-2175-45ce-9510-7d04afabd08d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b2a4937b7a39a5af) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-10-22T00:50:24.057+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Agent Runtime | [Apply](https://jobs.ashbyhq.com/Sierra/0cb4da3e-3c67-4f14-a84d-956042669275) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b3421b5860b78f8c) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-10-22T00:49:37.326+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Channels and Experiences | [Apply](https://jobs.ashbyhq.com/Sierra/2f372b6b-d163-48bd-b5df-84f9bf2b4dbc) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8d5da0ce8de4c519) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-10-22T00:51:53.640+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Horizon | [Apply](https://jobs.ashbyhq.com/Sierra/0dfe7805-aa81-4b8c-88e0-f93a7f80ecee) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6f2670847d51c72c) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-10-22T00:52:35.726+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Insights | [Apply](https://jobs.ashbyhq.com/Sierra/43fe3ab5-60ce-4d2c-b3bb-90c201968de2) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=13c1fe4e2c22e9c5) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-10-22T00:50:52.085+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Payments Infrastructure | [Apply](https://jobs.ashbyhq.com/Sierra/50ec6f9a-25f9-44b4-b8cc-50c897e698b3) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1ce52b8ed57be78e) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-10-22T00:52:16.032+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-21 17:15:44 MST
 
 📊 **7 new jobs this batch:**
