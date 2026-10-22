@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — October 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-22 12:33:08 MST
+
+📊 **9 new jobs this batch:**
+- Apple: 2 jobs
+- Booz Allen Hamilton: 3 jobs
+- Ramp: 2 jobs
+- Twitch: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer, Find My | [Apply](https://jobs.apple.com/en-us/details/200691025-0836/software-engineer-find-my?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=be0bb3b1b63d53d9) | [Careers](https://jobs.apple.com/en-us/search) | Oct 22, 2026 |
+| **Apple** | N/A | Software Engineer, Safari Extensions | [Apply](https://jobs.apple.com/en-us/details/200676418-3543/software-engineer-safari-extensions?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c05d6adae2138df4) | [Careers](https://jobs.apple.com/en-us/search) | Oct 22, 2026 |
+| **Booz Allen Hamilton** | Wharton, NJ | Data Analyst, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Wharton-NJ/Data-Analyst--Mid_R0252131) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e80034919d2d062d) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | M365 Platform Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/M365-Platform-Engineer_R0252157) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0c58eeecb5c16aed) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Aurora, CO | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Aurora-CO/Software-Engineer_R0252174) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a132d32b296f8a8e) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Enterprise Product | [Apply](https://jobs.ashbyhq.com/ramp/09360e92-fc95-4ba6-9611-dfefd60b13ce) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=dd38bba0be0a5293) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-10-22T19:20:13.000+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Forward Deployed | [Apply](https://jobs.ashbyhq.com/ramp/29a5da77-37f0-402a-92bc-072778e77ed8) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cc05a6ed449e5835) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-10-22T19:20:16.077+00:00 |
+| **Twitch** | San Francisco, CA | Undergrad Software Engineering Intern (Grad Year: Spring 2028) | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8886748002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d3ada9340738283a) | [Careers](https://boards.greenhouse.io/twitch) | 2026-10-22T15:17:18-04:00 |
+| **Twitch** | San Francisco, CA | Undergrad Software Engineering Intern (Grad Year: Winter 2027) | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8886605002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d62480283790915f) | [Careers](https://boards.greenhouse.io/twitch) | 2026-10-22T15:18:02-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-22 11:36:37 MST
 
 📊 **28 new jobs this batch:**
