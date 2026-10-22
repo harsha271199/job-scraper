@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — October 21, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-21 22:25:05 MST
+
+📊 **4 new jobs this batch:**
+- OpenAI: 1 job
+- Pinecone: 1 job
+- Sierra: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **OpenAI** | San Francisco | Machine Learning Data Scientist - Consumer Forecasting | [Apply](https://jobs.ashbyhq.com/openai/0ca02747-5c97-432b-95c5-4b9099bce992) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b8ed257cd8fb1d8b) | [Careers](https://openai.com/careers/search/) | 2026-10-22T01:05:58.052+00:00 |
+| **Pinecone** | New York City | Applied AI Engineer (Full-Stack) | [Apply](https://jobs.ashbyhq.com/pinecone/edf2a2a5-64e2-45b8-9f2e-4f354af350b8) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=216b7efee3038399) | [Careers](https://jobs.ashbyhq.com/pinecone) | 2026-10-22T02:02:42.448+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Admin Experience | [Apply](https://jobs.ashbyhq.com/Sierra/688d4d59-23d8-4100-9e2b-2fb11544753e) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1f09710d22f2209a) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-10-22T03:21:28.013+00:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Context Engine | [Apply](https://jobs.ashbyhq.com/Sierra/ae8a501d-7f79-4398-b858-3d793756dd25) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=40d9d4e56062512a) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-10-22T03:22:11.567+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-21 18:35:01 MST
 
 📊 **8 new jobs this batch:**
