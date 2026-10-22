@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-22 06:51:36 MST
+
+📊 **1 new jobs this batch:**
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **xAI** | Memphis, TN | Software Engineer, Observability | [Apply](https://job-boards.greenhouse.io/xai/jobs/5271372007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fbe500cd794474de) | [Careers](https://boards.greenhouse.io/xai) | 2026-10-22T09:04:44-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-22 03:40:27 MST
 
 📊 **2 new jobs this batch:**
