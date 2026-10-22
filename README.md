@@ -1,6 +1,47 @@
 # 📢 Job Listings for Harsha — October 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-22 15:24:22 MST
+
+📊 **19 new jobs this batch:**
+- Apple: 3 jobs
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- CLEAR: 1 job
+- CVS Health: 4 jobs
+- Citi: 1 job
+- Cursor: 1 job
+- Guidehouse: 1 job
+- Motorola Solutions: 1 job
+- Palantir: 2 jobs
+- Qualtrics: 1 job
+- Rocket Money: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Battery Algorithm ML Engineer | [Apply](https://jobs.apple.com/en-us/details/200691000-0836/battery-algorithm-ml-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=816cbac7be8d693b) | [Careers](https://jobs.apple.com/en-us/search) | Oct 22, 2026 |
+| **Apple** | N/A | Battery Algorithm ML Engineer | [Apply](https://jobs.apple.com/en-us/details/200691000-3543/battery-algorithm-ml-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4247e415159a78ec) | [Careers](https://jobs.apple.com/en-us/search) | Oct 22, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, Answers Knowledge and Information - Proactive | [Apply](https://jobs.apple.com/en-us/details/200688556-0836/machine-learning-engineer-answers-knowledge-and-information-proactive?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2e33b5c661b79b40) | [Careers](https://jobs.apple.com/en-us/search) | Oct 22, 2026 |
+| **Boeing** | USA - Maryland Heights, MO | Entry-Level Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526321-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8d2a89c9682b4d2c) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | Indian Head, MD | Java Software Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Indian-Head-MD/Java-Software-Engineer--Mid_R0252181) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2990510bc311b556) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Citi** | NC-CHARLOTTE (BALLANTYNE) | Pricing Execution and Reporting Analyst | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/NC-CHARLOTTE-BALLANTYNE/Pricing-Execution-and-Reporting-Analyst_26971029) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=db0cd7c9fe190ff4) | [Careers](https://citi.wd5.myworkdayjobs.com/en-US/2) | Posted Today |
+| **CLEAR** | New York, NY, United States | Software Engineer, Data (Platform) | [Apply](https://job-boards.greenhouse.io/clear/jobs/7900173) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ff9701e85902ac7f) | [Careers](https://boards.greenhouse.io/clear) | 2026-05-15T16:30:02-04:00 |
+| **Cursor** | San Francisco | Software Engineer, Compute Infra | [Apply](https://jobs.ashbyhq.com/cursor/6868de4a-f753-4f10-8dc5-f7aabef03b56) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b49464824fd7981e) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-10-22T19:53:00.965+00:00 |
+| **CVS Health** | NY - New York | Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Graduate | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Graduate_R1081128) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=01e4f41b59815222) | [Careers](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers) | Posted Today |
+| **CVS Health** | NY - New York | Innovation & Technology Internship - Software Engineering: Data & Intelligence Summer 2027 Undergrad | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship--Software-Engineering--Data---Intelligence-Summer-2027-Undergrad_R1081114) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4a5f5c3ea5acab2a) | [Careers](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers) | Posted Today |
+| **CVS Health** | NY - New York | Innovation & Technology Internship – Data Engineering – Summer 2027 (Graduate) | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Graduate-_R1081101) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=be8961c38665119d) | [Careers](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers) | Posted Today |
+| **CVS Health** | NY - New York | Innovation & Technology Internship – Data Engineering – Summer 2027 (Undergraduate) | [Apply](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers/job/NY---New-York/Innovation---Technology-Internship---Data-Engineering---Summer-2027--Undergraduate-_R1081090) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=178fd5118137ce95) | [Careers](https://cvshealth.wd1.myworkdayjobs.com/en-US/CVS_Health_Careers) | Posted Today |
+| **Guidehouse** | Home Office: Huntsville, AL | AI Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/Home-Office-Huntsville-AL/AI-Engineer_45605) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8b030219be7f7639) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Motorola Solutions** | Schaumburg, IL | Software Engineer | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer_R69235) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=81ef56fb09145ee5) | [Careers](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | Posted Today |
+| **Palantir** | New York, NY | Forward Deployed Software Engineer, Internship - Warp Speed | [Apply](https://jobs.lever.co/palantir/b3d81928-6c26-432f-8a0a-36602c2eefcb) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=79493dc314b3e34b) | [Careers](https://www.palantir.com/careers/open-positions/) | 2026-10-22 21:37 |
+| **Palantir** | New York, NY | Forward Deployed Software Engineer, New Grad - Warp Speed | [Apply](https://jobs.lever.co/palantir/66b495eb-aaf9-4bf9-a759-41854534add7) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6791b37cdd869e9d) | [Careers](https://www.palantir.com/careers/open-positions/) | 2026-10-22 21:34 |
+| **Qualtrics** | Seattle, Washington, United States | Software Engineer II - Data Platform - Seattle | [Apply](https://www.qualtrics.com/careers/us/en/job/8279068?gh_jid=8279068) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=abf4b650a1d33b95) | [Careers](https://boards.greenhouse.io/qualtrics) | 2026-10-22T16:22:17-04:00 |
+| **Rocket Money** | San Francisco, CA, Washington, D.C., New York City, N.Y., Detroit, MI, Phoenix, AZ, Miami, FL, Denver, CO., Remote (USA) | Data Analyst, Operations | [Apply](https://job-boards.greenhouse.io/truebill/jobs/8037723003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=de372190c48e088f) | [Careers](https://boards.greenhouse.io/truebill) | 2026-10-22T17:23:18-04:00 |
+| **Waymo** | Mountain View, California, United States, San Francisco, California, United States | Machine Learning Engineer, Scenes | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8212626) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bde09122515e4d11) | [Careers](https://boards.greenhouse.io/waymo) | 2026-10-22T18:06:35-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-22 12:33:08 MST
 
 📊 **9 new jobs this batch:**
