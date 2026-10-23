@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — October 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-23 13:40:29 MST
+
+📊 **7 new jobs this batch:**
+- OpenAI: 1 job
+- PayPal: 1 job
+- Roblox: 1 job
+- Sierra: 1 job
+- Snap: 1 job
+- SpaceX: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **OpenAI** | San Francisco | Software Engineer | [Apply](https://jobs.ashbyhq.com/openai/d95a5b8b-35fb-4ae2-9f6c-594ed24e49f7) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9c051e330c5a7975) | [Careers](https://openai.com/careers/search/) | 2026-10-23T18:55:14.565+00:00 |
+| **PayPal** | San Jose, California, United States of America | Sr Machine Learning Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Machine-Learning-Engineer_R0138536-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6c57807173718bd8) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Notifications | [Apply](https://careers.roblox.com/jobs/8261393?gh_jid=8261393) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=86c644ea9e924725) | [Careers](https://careers.roblox.com/) | 2026-10-23T15:02:33-04:00 |
+| **Sierra** | San Francisco, CA | Software Engineer, Cloud Infrastructure | [Apply](https://jobs.ashbyhq.com/Sierra/4b28305d-e601-4328-a8f5-9f236bd718bd) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2def15dec839cd23) | [Careers](https://jobs.ashbyhq.com/Sierra) | 2026-10-23T20:25:08.206+00:00 |
+| **Snap** | Bellevue; Los Angeles; New York; Palo Alto; San Francisco | Software Engineer, Backend, Level 3 | [Apply](https://careers.snap.com/job?id=Q426SWE0) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fd3f5b4706335e6a) | [Careers](https://careers.snap.com/jobs) | N/A |
+| **SpaceX** | Hawthorne, CA | AI Software Engineer (Vehicle Engineering) | [Apply](https://boards.greenhouse.io/spacex/jobs/8910071002?gh_jid=8910071002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5a20aa97bdad5404) | [Careers](https://new.spacex.com/careers) | 2026-10-23T15:46:55-04:00 |
+| **Waymo** | Mountain View, CA, USA | 2027 Summer Intern, MS/PhD, Software Engineer, ML Frameworks and Efficiency | [Apply](https://careers.withwaymo.com/jobs?gh_jid=8287385) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=64dc154e9889b351) | [Careers](https://boards.greenhouse.io/waymo) | 2026-10-23T15:55:17-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-23 11:26:28 MST
 
 📊 **5 new jobs this batch:**
