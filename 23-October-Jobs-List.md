@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — October 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-23 11:26:28 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 4 jobs
+- Roblox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | CVML Engineer - 3D Reconstruction | [Apply](https://jobs.apple.com/en-us/details/200691198-3956/cvml-engineer-3d-reconstruction?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d29e7c10c824916f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 23, 2026 |
+| **Apple** | N/A | CVML Engineer - 3D Reconstruction | [Apply](https://jobs.apple.com/en-us/details/200691197-3956/cvml-engineer-3d-reconstruction?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9b31ef5bca9c4a5f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 23, 2026 |
+| **Apple** | N/A | CVML Engineer - 3D Reconstruction | [Apply](https://jobs.apple.com/en-us/details/200691194-3956/cvml-engineer-3d-reconstruction?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c72b1bfde31b434e) | [Careers](https://jobs.apple.com/en-us/search) | Oct 23, 2026 |
+| **Apple** | N/A | Software Engineer - Camera | [Apply](https://jobs.apple.com/en-us/details/200691084-0836/software-engineer-camera?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d4378aaeb475f3a5) | [Careers](https://jobs.apple.com/en-us/search) | Oct 23, 2026 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Reliability | [Apply](https://careers.roblox.com/jobs/8283707?gh_jid=8283707) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a743f03c5ca0c892) | [Careers](https://careers.roblox.com/) | 2026-10-23T13:53:14-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-23 10:29:21 MST
 
 📊 **10 new jobs this batch:**
