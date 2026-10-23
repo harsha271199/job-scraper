@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — October 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-23 16:33:34 MST
+
+📊 **6 new jobs this batch:**
+- Apple: 2 jobs
+- Boeing: 2 jobs
+- GitLab: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer - Generative UI, Input Experience | [Apply](https://jobs.apple.com/en-us/details/200689588-0836/software-engineer-generative-ui-input-experience?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=66cb166fc9d3ed63) | [Careers](https://jobs.apple.com/en-us/search) | Oct 23, 2026 |
+| **Apple** | N/A | Software Engineer, Evaluation | [Apply](https://jobs.apple.com/en-us/details/200691391-0836/software-engineer-evaluation?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c2efe071483fad05) | [Careers](https://jobs.apple.com/en-us/search) | Oct 23, 2026 |
+| **Boeing** | USA - Maryland Heights, MO | Entry-Level Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026526418-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=526bf973b8bce20d) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Boeing** | USA - Maryland Heights, MO | Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Software-Engineer_JR2026526422-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=16d8bce23c55dcfe) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **GitLab** | Remote, Canada; Remote, United States | Backend Engineer, Knowledge Graph (Rust) | [Apply](https://job-boards.greenhouse.io/gitlab/jobs/8771512002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=44e90b78b5558ffd) | [Careers](https://about.gitlab.com/jobs/) | 2026-10-23T18:47:07-04:00 |
+| **Salesforce** | California - San Francisco | Software Engineering SMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-SMTS_JR363487) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ba63a9def72b80a2) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-23 15:17:06 MST
 
 📊 **1 new jobs this batch:**
