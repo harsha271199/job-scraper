@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-23 15:17:06 MST
+
+📊 **1 new jobs this batch:**
+- Benchling: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Benchling** | San Francisco, CA | Software Engineer, Cloud Infrastructure | [Apply](https://jobs.ashbyhq.com/benchling/7c32ac1e-3de3-462b-aa17-7618317f0da0) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f7725d16721978c3) | [Careers](https://jobs.ashbyhq.com/benchling) | 2026-10-23T21:42:31.702+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-23 13:40:29 MST
 
 📊 **7 new jobs this batch:**
