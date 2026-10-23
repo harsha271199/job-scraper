@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — October 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-22 23:31:50 MST
+
+📊 **3 new jobs this batch:**
+- Apple: 2 jobs
+- CrowdStrike: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | AI/ML Engineer: System RF Data Ecosystem | [Apply](https://jobs.apple.com/en-us/details/200690744-0836/ai-ml-engineer-system-rf-data-ecosystem?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f784422578a8e5e4) | [Careers](https://jobs.apple.com/en-us/search) | Oct 23, 2026 |
+| **Apple** | N/A | AI/ML Engineer: System RF Data Ecosystem | [Apply](https://jobs.apple.com/en-us/details/200689614-0836/ai-ml-engineer-system-rf-data-ecosystem?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a08a05ee27664b3f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 23, 2026 |
+| **CrowdStrike** | USA - Remote | Engineer II - Site Reliability, Kubernetes (Remote, EST) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Remote/Engineer-II---Site-Reliability--Kubernetes--Remote--EST-_R30302) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=03eaef92ba9c276d) | [Careers](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-22 18:02:02 MST
 
 📊 **8 new jobs this batch:**
