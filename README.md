@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — October 22, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-22 18:02:02 MST
+
+📊 **8 new jobs this batch:**
+- Apple: 1 job
+- Cloudflare: 1 job
+- Glean: 6 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Sr Machine Learning Engineer, ML Systems Engineering - Proactive | [Apply](https://jobs.apple.com/en-us/details/200691141-2926/sr-machine-learning-engineer-ml-systems-engineering-proactive?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e78a14a3d137bd2f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 23, 2026 |
+| **Cloudflare** | In-Office | Software Engineer, Agentic Commerce | [Apply](https://boards.greenhouse.io/cloudflare/jobs/8312256?gh_jid=8312256) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=48d07143146c8c64) | [Careers](https://www.cloudflare.com/careers/jobs/) | 2026-10-22T19:15:11-04:00 |
+| **Glean** | San Francisco Bay Area | AI Engineer - Data and Evals | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4746908005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=911cf197a7ab8ac1) | [Careers](https://boards.greenhouse.io/gleanwork) | 2026-10-22T20:12:02-04:00 |
+| **Glean** | San Francisco Bay Area | AI Engineer - Quality and Post-Training | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4746915005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=be8c3dff3a24424a) | [Careers](https://boards.greenhouse.io/gleanwork) | 2026-10-22T20:13:28-04:00 |
+| **Glean** | Mountain View, CA | Software Engineer | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4746910005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fc7b57cdc57e36c5) | [Careers](https://boards.greenhouse.io/gleanwork) | 2026-10-22T20:12:44-04:00 |
+| **Glean** | Mountain View, CA | Software Engineer | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4746919005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e5c47d5da1821a4a) | [Careers](https://boards.greenhouse.io/gleanwork) | 2026-10-22T20:12:40-04:00 |
+| **Glean** | Mountain View, CA | Software Engineer | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4746918005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=58a94f3527b38a68) | [Careers](https://boards.greenhouse.io/gleanwork) | 2026-10-22T20:12:42-04:00 |
+| **Glean** | San Francisco Bay Area | Software Engineer, Native Mobile | [Apply](https://job-boards.greenhouse.io/gleanwork/jobs/4746685005) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=84beef34dcdeef91) | [Careers](https://boards.greenhouse.io/gleanwork) | 2026-10-22T20:27:11-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-22 15:47:34 MST
 
 📊 **2 new jobs this batch:**
