@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-23 22:58:39 MST
+
+📊 **1 new jobs this batch:**
+- Apple: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Security Site Reliability Engineer - Apple Service Engineering | [Apply](https://jobs.apple.com/en-us/details/200690706-3337/security-site-reliability-engineer-apple-service-engineering?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=14524f266a5f5572) | [Careers](https://jobs.apple.com/en-us/search) | Oct 24, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-10-23 17:49:32 MST
 
 📊 **2 new jobs this batch:**
