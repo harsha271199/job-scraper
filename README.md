@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-23 17:49:32 MST
+
+📊 **2 new jobs this batch:**
+- Boeing: 1 job
+- Woven by Toyota: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Boeing** | USA - Maryland Heights, MO | Associate Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Associate-Software-Engineer_JR2026526419) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b505b417b48c6f5f) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Woven by Toyota** | Palo Alto, CA | Machine Learning Engineer, Vehicle Perception | [Apply](https://jobs.lever.co/woven-by-toyota/263e0dfb-6bbb-409a-a5c5-8ff661030649) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7f16c0422549aaae) | [Careers](https://jobs.lever.co/woven-by-toyota) | 2026-08-13 20:49 |
+
+---
+
 ### 🕐 Batch at 2026-10-23 16:33:34 MST
 
 📊 **6 new jobs this batch:**
