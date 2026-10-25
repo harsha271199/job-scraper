@@ -104,11 +104,18 @@
 
   function classifyProfile(title, jdText) {
     const text = `${title || ""} ${jdText || ""}`.toLowerCase();
-    if (/data engineer|data platform|etl|elt|airflow|spark|data warehouse|data lake|data pipeline/.test(text)) return "data-engineering";
-    if (/machine learning engineer|ml engineer|data scientist|machine learning|deep learning|pytorch|tensorflow|nlp|large language model|\bllm\b/.test(text)) return "machine-learning";
-    if (/site reliability|\bsre\b|devops|cloud engineer|platform engineer|infrastructure engineer|terraform|kubernetes/.test(text)) return "cloud-devops";
-    if (/data analyst|business intelligence|analytics engineer|reporting analyst|tableau|power bi|looker/.test(text)) return "data-analytics";
-    if (/software engineer|software developer|backend|front[- ]?end|full[- ]?stack|web developer|microservices|system design/.test(text)) return "software-engineering";
+    const titleText = String(title || "").toLowerCase();
+    if (/data scientist|machine learning|\bml engineer|mlops engineer|ai engineer|applied scientist|nlp engineer|llm engineer/.test(titleText)) return "machine-learning";
+    if (/data engineer|data platform engineer|data infrastructure engineer|analytics engineer|etl engineer|pipeline engineer|big data engineer|database engineer/.test(titleText)) return "data-engineering";
+    if (/data analyst|business analyst|business intelligence|bi analyst|product analyst|growth analyst|reporting analyst|operations analyst/.test(titleText)) return "data-analytics";
+    if (/cloud engineer|devops|devsecops|site reliability|\bsre\b|platform engineer|infrastructure engineer|systems engineer|azure engineer/.test(titleText)) return "cloud-devops";
+    if (/software engineer|software developer|backend engineer|backend developer|full[- ]?stack|front[- ]?end engineer|application engineer|\bswe\b|\bsde\b/.test(titleText)) return "software-engineering";
+
+    if (/machine learning|deep learning|pytorch|tensorflow|nlp|large language model|\bllm\b/.test(text)) return "machine-learning";
+    if (/etl|elt|airflow|spark|data warehouse|data lake|data pipeline|kafka|dbt/.test(text)) return "data-engineering";
+    if (/tableau|power bi|looker|reporting|business intelligence|data visualization/.test(text)) return "data-analytics";
+    if (/terraform|kubernetes|docker|azure monitor|log analytics|jenkins|ansible|prometheus/.test(text)) return "cloud-devops";
+    if (/javascript|typescript|node\.js|microservices|system design|rest api/.test(text)) return "software-engineering";
     return "general-technical";
   }
 
