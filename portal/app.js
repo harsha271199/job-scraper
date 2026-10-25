@@ -92,6 +92,49 @@ const EXPERIENCE_LIMITS = {
   "general-technical": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 1}
 };
 
+const PROFILE_BULLET_TERMS = {
+  "data-engineering": [
+    "etl", "elt", "data pipeline", "data pipelines", "sql", "postgresql", "bigquery",
+    "redshift", "spark", "kafka", "airflow", "dbt", "data model", "schema",
+    "data quality", "validation", "reconciliation", "warehouse", "streaming"
+  ],
+  "software-engineering": [
+    "javascript", "python", "api", "rest", "backend", "full-stack", "postgresql",
+    "supabase", "application", "testing", "debugging", "scalability", "concurrent",
+    "automation", "git", "docker", "kubernetes", "system design"
+  ],
+  "cloud-devops": [
+    "azure", "terraform", "arm", "infrastructure as code", "powershell", "azure cli",
+    "docker", "kubernetes", "vm", "vmss", "networking", "vnet", "vpn", "load balanc",
+    "storage", "security", "encryption", "monitor", "log analytics", "telemetry",
+    "incident", "root cause", "outage", "backup", "recovery", "image builder",
+    "compute gallery", "provision", "automation", "runbook"
+  ],
+  "machine-learning": [
+    "python", "pytorch", "machine learning", "deep learning", "nlp", "llm",
+    "fine-tun", "training", "model", "gpu", "hpc", "feature", "evaluation",
+    "data pipeline", "streaming", "inference"
+  ],
+  "data-analytics": [
+    "sql", "excel", "bigquery", "postgresql", "report", "dashboard", "analytics",
+    "reconciliation", "validation", "data quality", "trend", "metric", "insight",
+    "workforce", "payroll", "telemetry", "log analytics"
+  ],
+  "general-technical": [
+    "python", "sql", "javascript", "azure", "aws", "automation", "api",
+    "postgresql", "docker", "terraform", "data", "cloud"
+  ]
+};
+
+const PROFILE_ENTRY_BOOSTS = {
+  "data-engineering": {"aramark-data-ops": 8, "ltimindtree-cloud": 5},
+  "software-engineering": {"aramark-data-ops": 8, "infra-developers-web": 8, "ltimindtree-cloud": 4},
+  "cloud-devops": {"ltimindtree-cloud": 18, "aramark-data-ops": 2},
+  "machine-learning": {"aramark-data-ops": 3, "ltimindtree-cloud": 3},
+  "data-analytics": {"aramark-data-ops": 12, "ltimindtree-cloud": 4},
+  "general-technical": {}
+};
+
 let currentJob = null;
 let currentMaster = null;
 let currentCandidate = null;
@@ -226,7 +269,7 @@ function scoringSkills(job) {
   return job.effective_skills || job.detected_skills || job.verified_skills || [];
 }
 
-function scoreBullet(bullet, job, profile, projectId = "") {
+function scoreBullet(bullet, job, profile, projectId = "", sourceId = "") {
   if (!bullet || bullet.verified !== true) return -9999;
   const effective = skillSet(scoringSkills(job));
   const directJd = skillSet(job.top_jd_skills || job.detected_skills || job.verified_skills || []);
@@ -238,9 +281,13 @@ function scoreBullet(bullet, job, profile, projectId = "") {
     else if (effective.has(k)) score += 7;
   }
 
-  const body = key(`${bullet.text || ""} ${(bullet.keywords || []).join(" ")}`);
+  const body = key(`${bullet.text || ""} ${(bullet.keywords || []).join(" ")} ${(bullet.skills || []).join(" ")}`);
   for (const term of job.signal_terms || []) {
     if (body.includes(key(term))) score += 4;
+  }
+
+  for (const term of PROFILE_BULLET_TERMS[profile] || PROFILE_BULLET_TERMS["general-technical"]) {
+    if (body.includes(key(term))) score += 3;
   }
 
   const titleWords = key(job.title).split(/\s+/).filter((x) => x.length >= 4);
@@ -248,6 +295,7 @@ function scoreBullet(bullet, job, profile, projectId = "") {
     if (body.includes(word)) score += 1;
   }
 
+  score += PROFILE_ENTRY_BOOSTS[profile]?.[sourceId] || 0;
   if (projectId) score += profileBoost(profile, projectId);
   return score;
 }
@@ -255,7 +303,7 @@ function scoreBullet(bullet, job, profile, projectId = "") {
 function selectBullets(entry, job, profile, maxBullets, projectId = "") {
   const verified = (entry.bullets || [])
     .filter((b) => b.verified === true)
-    .map((b, index) => ({ ...b, _score: scoreBullet(b, job, profile, projectId), _index: index }))
+    .map((b, index) => ({ ...b, _score: scoreBullet(b, job, profile, projectId, entry.id), _index: index }))
     .sort((a, b) => b._score - a._score || a._index - b._index);
 
   if (!verified.length) return [];
