@@ -174,11 +174,11 @@ def classify_profile(title: str, skills: list[str] | None = None) -> str:
     """Classify from the title first; use detected skills only as fallback."""
     title_text = str(title or "").casefold()
     checks = (
-        ("machine-learning", ("data scientist", "machine learning", "ml engineer", "ai engineer", "applied scientist", "nlp engineer", "llm engineer")),
-        ("data-engineering", ("data engineer", "analytics engineer", "etl engineer", "pipeline engineer", "big data engineer")),
-        ("data-analytics", ("data analyst", "business analyst", "business intelligence", "bi analyst", "product analyst", "growth analyst", "reporting analyst")),
-        ("cloud-devops", ("cloud engineer", "devops", "site reliability", "sre", "platform engineer")),
-        ("software-engineering", ("software engineer", "software developer", "backend engineer", "swe", "sde")),
+        ("machine-learning", ("data scientist", "machine learning", "ml engineer", "mlops engineer", "ai engineer", "applied scientist", "nlp engineer", "llm engineer")),
+        ("data-engineering", ("data engineer", "data platform engineer", "data infrastructure engineer", "analytics engineer", "etl engineer", "pipeline engineer", "big data engineer", "database engineer")),
+        ("data-analytics", ("data analyst", "business analyst", "business intelligence", "bi analyst", "product analyst", "growth analyst", "reporting analyst", "operations analyst")),
+        ("cloud-devops", ("cloud engineer", "devops", "devsecops", "site reliability", "sre", "platform engineer", "infrastructure engineer", "systems engineer", "azure engineer")),
+        ("software-engineering", ("software engineer", "software developer", "backend engineer", "backend developer", "full stack", "full-stack", "frontend engineer", "front-end engineer", "application engineer", "swe", "sde")),
     )
     for profile, terms in checks:
         if any(term in title_text for term in terms):
