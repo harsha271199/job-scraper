@@ -18,6 +18,9 @@ class ResumePortalFeedTests(unittest.TestCase):
     def test_profile_classification(self):
         self.assertEqual("data-engineering", rp.classify_profile("Data Engineer II"))
         self.assertEqual("software-engineering", rp.classify_profile("Software Engineer"))
+        self.assertEqual("data-engineering", rp.classify_profile("Data Platform Engineer"))
+        self.assertEqual("cloud-devops", rp.classify_profile("Infrastructure Engineer"))
+        self.assertEqual("software-engineering", rp.classify_profile("Backend Developer"))
         self.assertEqual("cloud-devops", rp.classify_profile("Site Reliability Engineer"))
         self.assertEqual("machine-learning", rp.classify_profile("Machine Learning Engineer"))
         self.assertEqual("data-analytics", rp.classify_profile("Data Analyst"))
@@ -191,7 +194,6 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn("DEFAULT_FOCUS", js)
         self.assertIn("resolveFocus", js)
         self.assertIn("const MAX_PROJECTS = 2", js)
-        self.assertIn("Data & Operations Analyst", js) if False else None
         self.assertIn("Download PDF + Open Application", html)
         self.assertIn('id="downloadPdf"', html)
         self.assertIn('id="downloadDocx"', html)
