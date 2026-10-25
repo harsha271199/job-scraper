@@ -202,6 +202,11 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn('"jspdf": "4.2.1"', pkg)
         self.assertNotIn("Functional focus:", js)
         self.assertNotIn("Key strengths aligned to this role include", js)
+        self.assertIn("PROFILE_BULLET_TERMS", js)
+        self.assertIn("PROFILE_ENTRY_BOOSTS", js)
+        self.assertIn('"cloud-devops": {"ltimindtree-cloud": 18', js)
+        self.assertIn('"data-analytics": {"aramark-data-ops": 12', js)
+        self.assertIn('"software-engineering": {"aramark-data-ops": 8', js)
 
     def test_public_feed_contains_no_resume_private_data(self):
         record = rp.build_record({
