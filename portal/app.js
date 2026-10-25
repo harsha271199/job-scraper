@@ -6,53 +6,54 @@ import {
   Paragraph,
   TextRun,
 } from "docx";
+import { jsPDF } from "jspdf";
 
 const MASTER_KEY = "jobScraper.privateMaster.v1";
 const TOP_JD_SKILLS = 10;
 const MAX_RELATED_SKILLS = 9;
 const MAX_SKILLS = TOP_JD_SKILLS + MAX_RELATED_SKILLS;
-const MAX_PROJECTS = 3;
+const MAX_PROJECTS = 2;
 
 const ROLE_CORE_SKILLS = {
   "data-engineering": [
-    "Python", "SQL", "PostgreSQL", "Apache Spark", "Kafka", "Apache Airflow",
-    "dbt", "AWS", "Redshift", "BigQuery", "Terraform", "Docker",
-    "REST APIs", "JSON", "Pandas"
+    "Python", "SQL", "PostgreSQL", "BigQuery", "Apache Spark", "Kafka",
+    "Apache Airflow", "dbt", "AWS", "Microsoft Azure", "Redshift",
+    "Data Validation", "Data Reconciliation", "Terraform", "Docker"
   ],
   "software-engineering": [
-    "Python", "JavaScript", "SQL", "PostgreSQL", "REST APIs", "GitHub Actions",
-    "Docker", "AWS", "Microsoft Azure", "Supabase", "JSON", "Kubernetes",
-    "Terraform", "HTML5", "CSS"
+    "JavaScript", "Python", "SQL", "PostgreSQL", "Supabase", "REST APIs",
+    "GitHub Actions", "Docker", "Microsoft Azure", "AWS", "HTML5", "CSS",
+    "WordPress", "Terraform", "Kubernetes"
   ],
   "cloud-devops": [
-    "Microsoft Azure", "AWS", "Terraform", "Docker", "Kubernetes", "PowerShell",
-    "Bash", "GitHub Actions", "PostgreSQL", "REST APIs", "JSON", "Kafka",
-    "Helm", "Python", "SQL"
+    "Microsoft Azure", "Terraform", "Docker", "Kubernetes", "PowerShell",
+    "Azure CLI", "Azure Monitor", "Log Analytics", "GitHub Actions", "Linux",
+    "Bash", "AWS", "Python", "Networking", "Security"
   ],
   "machine-learning": [
-    "Python", "Machine Learning", "Pandas", "NumPy", "Apache Spark", "SQL",
-    "AWS", "Microsoft Azure", "Docker", "Kafka", "Streamlit", "BigQuery",
-    "PostgreSQL", "REST APIs", "JSON"
+    "Python", "PyTorch", "Machine Learning", "Pandas", "NumPy", "NLP",
+    "LLM Fine-Tuning", "Apache Spark", "Kafka", "AWS", "Microsoft Azure",
+    "Docker", "HPC", "SQL", "Data Validation"
   ],
   "data-analytics": [
-    "SQL", "Excel", "BigQuery", "PostgreSQL", "Python", "Pandas", "NumPy",
-    "Supabase", "Apache Spark", "dbt", "Streamlit", "Machine Learning",
-    "REST APIs", "JSON", "JavaScript"
+    "SQL", "Excel", "BigQuery", "PostgreSQL", "Data Validation",
+    "Data Reconciliation", "Python", "Pandas", "NumPy", "Supabase",
+    "Azure Monitor", "Log Analytics", "Microsoft Azure", "Streamlit", "dbt"
   ],
   "general-technical": [
-    "Python", "SQL", "PostgreSQL", "AWS", "Microsoft Azure", "Docker",
-    "GitHub Actions", "REST APIs", "JSON", "Excel", "Pandas", "NumPy",
-    "Terraform", "JavaScript", "Apache Spark"
+    "Python", "SQL", "JavaScript", "PostgreSQL", "Microsoft Azure", "AWS",
+    "Docker", "GitHub Actions", "REST APIs", "Excel", "Terraform",
+    "Data Validation", "PowerShell", "Linux", "Pandas"
   ]
 };
 
-const TARGET_HEADLINES = {
-  "data-engineering": "Cloud & Data Engineer | Data Platforms, ETL/ELT & Distributed Systems",
-  "software-engineering": "Software & Cloud Engineer | Backend, Platforms & Automation",
-  "cloud-devops": "Azure Cloud & DevOps Engineer | Infrastructure, Automation & Reliability",
-  "machine-learning": "Data & ML Engineer | Cloud, Pipelines & Applied Machine Learning",
-  "data-analytics": "Data & Cloud Analytics Engineer | SQL, Reporting & Data Quality",
-  "general-technical": "Cloud, Data & Software Engineer"
+const PROFILE_DESCRIPTORS = {
+  "data-engineering": "Data Platforms, ETL/ELT & Cloud",
+  "software-engineering": "Backend, Full-Stack & Cloud",
+  "cloud-devops": "Azure Infrastructure, Automation & Reliability",
+  "machine-learning": "Applied ML, Data Pipelines & Cloud",
+  "data-analytics": "SQL, Reporting & Data Quality",
+  "general-technical": "Technical Engineering"
 };
 
 const DEFAULT_FOCUS = {
@@ -83,36 +84,12 @@ const DEFAULT_FOCUS = {
 };
 
 const EXPERIENCE_LIMITS = {
-  "data-engineering": {
-    "aramark-data-ops": 5,
-    "ltimindtree-cloud": 5,
-    "infra-developers-web": 2,
-  },
-  "software-engineering": {
-    "aramark-data-ops": 5,
-    "ltimindtree-cloud": 5,
-    "infra-developers-web": 3,
-  },
-  "cloud-devops": {
-    "aramark-data-ops": 3,
-    "ltimindtree-cloud": 6,
-    "infra-developers-web": 2,
-  },
-  "machine-learning": {
-    "aramark-data-ops": 4,
-    "ltimindtree-cloud": 4,
-    "infra-developers-web": 1,
-  },
-  "data-analytics": {
-    "aramark-data-ops": 5,
-    "ltimindtree-cloud": 4,
-    "infra-developers-web": 2,
-  },
-  "general-technical": {
-    "aramark-data-ops": 4,
-    "ltimindtree-cloud": 4,
-    "infra-developers-web": 2,
-  }
+  "data-engineering": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 1},
+  "software-engineering": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 2},
+  "cloud-devops": {"aramark-data-ops": 2, "ltimindtree-cloud": 4, "infra-developers-web": 1},
+  "machine-learning": {"aramark-data-ops": 2, "ltimindtree-cloud": 2, "infra-developers-web": 1},
+  "data-analytics": {"aramark-data-ops": 4, "ltimindtree-cloud": 2, "infra-developers-web": 1},
+  "general-technical": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 1}
 };
 
 let currentJob = null;
@@ -153,18 +130,22 @@ function profileLabel(profile) {
   })[profile] || "Technical";
 }
 
-function targetHeadline(profile) {
-  return TARGET_HEADLINES[profile] || TARGET_HEADLINES["general-technical"];
+function targetHeadline(job, profile) {
+  return clean(job?.title) || profileLabel(profile);
+}
+
+function profileDescriptor(profile) {
+  return PROFILE_DESCRIPTORS[profile] || PROFILE_DESCRIPTORS["general-technical"];
 }
 
 function profileSummary(profile) {
   const summaries = {
-    "data-engineering": "Data engineer with 3+ years of hands-on experience across data pipelines, reporting systems, and cloud infrastructure since 2022. Built ELT pipelines that reconcile 5,000+ workforce records per event, developed PostgreSQL/Supabase operational platforms, and worked with large-scale Azure telemetry and streaming data projects. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University.",
-    "software-engineering": "Software and cloud engineer with hands-on full-stack development, production Azure engineering, and operational platform experience. Built a PostgreSQL/Supabase and JavaScript platform for a 45,000+ seat venue, previously developed responsive websites for two real-estate companies, and spent more than two years troubleshooting and automating Azure infrastructure. Currently completing an M.S. in Data Science at Arizona State University.",
-    "cloud-devops": "Cloud engineer and former SME with more than two years on a Microsoft Azure VM vendor team, handling break-fix investigations, root-cause analysis, monitoring, and automation across VMs, VMSS, networking, storage, and security. Guided 40–50 investigations a week across engineering and escalation channels and automated recurring work with PowerShell, Terraform, Docker, and Kubernetes.",
-    "machine-learning": "Data and ML engineer with an M.S. in Data Science in progress and hands-on experience across PyTorch, streaming data pipelines, cloud infrastructure, and GPU/HPC workflows. Built production-style data projects and ran Qwen2.5-Coder-7B fine-tuning on a 624K+ row dataset while bringing more than two years of Azure engineering experience.",
-    "data-analytics": "Data analyst with 3+ years of hands-on experience turning operational and cloud data into reliable reporting. Currently builds BigQuery ELT and Excel validation workflows, reconciles 5,000+ workforce records per event, and previously analyzed Azure Monitor and Log Analytics data across large production environments. Currently completing an M.S. in Data Science at Arizona State University.",
-    "general-technical": "Cloud, data, and software engineer with 3+ years of hands-on experience since 2022 across Azure infrastructure, operational data platforms, full-stack web development, and technical projects. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University."
+    "data-engineering": "Data engineer with 3+ years across Azure cloud engineering and operational data platforms. Built BigQuery ELT and PostgreSQL/Supabase systems handling 5,000+ records per event, plus Kafka, Redshift, dbt, and Airflow projects.",
+    "software-engineering": "Software engineer with full-stack JavaScript/PostgreSQL/Supabase experience and 2+ years in Azure production engineering. Built a role-based platform for a 45,000+ seat venue, real-estate websites for two clients, and cloud automation used in production support.",
+    "cloud-devops": "Cloud/DevOps engineer with 2+ years on a Microsoft Azure VM vendor team, progressing from Junior Engineer to SME. Guided 40–50 investigations a week and automated Azure work with PowerShell, Terraform, Docker, and Kubernetes.",
+    "machine-learning": "Data/ML engineer and M.S. Data Science candidate with PyTorch, NLP, streaming pipelines, and GPU/HPC experience. Fine-tuned Qwen2.5-Coder-7B on a 624K+ row dataset and brings 2+ years of Azure engineering experience.",
+    "data-analytics": "Data analyst with hands-on SQL, Excel, BigQuery, and PostgreSQL experience across workforce and cloud operations. Reconciles 5,000+ records per event and built validation/reporting workflows that improved discrepancy detection by 30%.",
+    "general-technical": "Engineer with 3+ years across Azure cloud infrastructure, operational data platforms, full-stack web development, and technical projects. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University."
   };
   return summaries[profile] || summaries["general-technical"];
 }
@@ -364,7 +345,8 @@ function buildCandidate(master, job) {
   const projects = selectProjects(master, scoringJob, profile);
   return {
     contact: master.contact,
-    headline: targetHeadline(profile),
+    headline: targetHeadline(job, profile),
+    descriptor: profileDescriptor(profile),
     summary: profileSummary(profile),
     skills: skillBundle.all,
     topJdSkills: skillBundle.topJd,
@@ -398,10 +380,10 @@ function renderCandidate(candidate) {
   $("jdSkillCount").textContent = `${candidate.jdSkills.length}/${jdDenominator}`;
   $("skillCount").textContent = String(candidate.skills.length);
   $("bulletCount").textContent = String(expBulletCount);
-  $("fitTitle").textContent = `${profileLabel(candidate.profile)} resume ready`;
+  $("fitTitle").textContent = `${candidate.headline} resume ready`;
 
   const parts = [];
-  parts.push(`<h3>TARGET POSITIONING</h3><p><strong>${escapeHtml(candidate.headline)}</strong></p>`);
+  parts.push(`<h3>TARGET POSITION</h3><p><strong>${escapeHtml(candidate.headline)}</strong> <span class="tiny muted">• ${escapeHtml(candidate.descriptor)}</span></p>`);
   parts.push(`<h3>SUMMARY</h3><p>${escapeHtml(candidate.summary)}</p>`);
   parts.push(`<h3>RELEVANT VERIFIED SKILLS</h3><p>${escapeHtml(candidate.skills.join(" • ") || "No verified skills available")}</p>`);
   if (candidate.topJdSkills.length) {
@@ -421,9 +403,6 @@ function renderCandidate(candidate) {
   for (const exp of candidate.experience) {
     parts.push(`<h4>${escapeHtml(exp.title)} — ${escapeHtml(exp.company)}</h4>`);
     parts.push(`<p class="muted">${escapeHtml([exp.location, exp.start && exp.end ? `${exp.start} – ${exp.end}` : ""].filter(Boolean).join(" • "))}</p>`);
-    if (exp.functionalFocus) {
-      parts.push(`<p><em>${escapeHtml(exp.functionalFocus)}</em></p>`);
-    }
     if (exp.matchedSignals.length) {
       parts.push(`<p class="tiny muted"><strong>JD alignment:</strong> ${escapeHtml(exp.matchedSignals.join(" • "))}</p>`);
     }
@@ -491,10 +470,33 @@ function safeFilename(job) {
   return raw.replace(/[^a-z0-9]+/g, "-").replace(/^-+|-+$/g, "").slice(0, 90) || "tailored-resume";
 }
 
+function skillCategory(skill) {
+  const k = key(skill);
+  const languages = ["python", "javascript", "java", "bash", "powershell", "sql"];
+  const data = ["postgresql", "supabase", "bigquery", "redshift", "dbt", "apache airflow", "kafka", "apache spark", "pandas", "numpy", "neo4j", "streamlit", "excel", "data validation", "data reconciliation", "etl/elt"];
+  const cloud = ["microsoft azure", "azure cli", "azure monitor", "log analytics", "aws", "terraform", "docker", "kubernetes", "github actions", "linux", "networking", "security"];
+  const ml = ["machine learning", "pytorch", "nlp", "llm fine-tuning", "hpc"];
+  const web = ["html5", "css", "wordpress", "responsive web design", "dns & hosting", "seo", "google analytics", "google search console", "rest apis"];
+  if (languages.includes(k)) return "Languages";
+  if (data.includes(k)) return "Data & Analytics";
+  if (cloud.includes(k)) return "Cloud & DevOps";
+  if (ml.includes(k)) return "ML";
+  if (web.includes(k)) return "Web & APIs";
+  return "Other";
+}
+
+function groupedSkills(skills) {
+  const order = ["Languages", "Data & Analytics", "Cloud & DevOps", "ML", "Web & APIs", "Other"];
+  const groups = new Map(order.map((name) => [name, []]));
+  for (const skill of unique(skills || [])) groups.get(skillCategory(skill)).push(skill);
+  return order.map((name) => [name, groups.get(name)]).filter(([, values]) => values.length);
+}
+
 async function candidateBlob(candidate) {
   const children = [];
   children.push(textParagraph(candidate.contact.name, { bold: true, size: 30, center: true, after: 20 }));
-  children.push(textParagraph(candidate.headline, { bold: true, size: 20, center: true, after: 35 }));
+  children.push(textParagraph(candidate.headline, { bold: true, size: 19, center: true, after: 18 }));
+  children.push(textParagraph(candidate.descriptor, { size: 16, center: true, after: 30 }));
 
   const contactLine = [
     candidate.contact.location,
@@ -509,15 +511,20 @@ async function candidateBlob(candidate) {
 
   if (candidate.skills.length) {
     children.push(sectionHeading("TECHNICAL SKILLS"));
-    children.push(textParagraph(candidate.skills.join(" • "), { after: 55 }));
+    for (const [label, values] of groupedSkills(candidate.skills)) {
+      children.push(new Paragraph({
+        spacing: { after: 24, line: 205 },
+        children: [
+          new TextRun({ text: `${label}: `, bold: true, size: 17, font: "Arial" }),
+          new TextRun({ text: values.join(", "), size: 17, font: "Arial" }),
+        ],
+      }));
+    }
   }
 
   children.push(sectionHeading("EXPERIENCE"));
   for (const exp of candidate.experience) {
     children.push(roleParagraph(exp));
-    if (exp.functionalFocus) {
-      children.push(textParagraph(exp.functionalFocus, { italics: true, size: 18, after: 28 }));
-    }
     for (const bullet of exp.selectedBullets) children.push(bulletParagraph(bullet.text));
   }
 
@@ -564,7 +571,7 @@ async function candidateBlob(candidate) {
     sections: [{
       properties: {
         page: {
-          margin: { top: 560, right: 590, bottom: 560, left: 590 },
+          margin: { top: 430, right: 500, bottom: 430, left: 500 },
         },
       },
       children,
@@ -573,6 +580,76 @@ async function candidateBlob(candidate) {
   return Packer.toBlob(doc);
 }
 
+function pdfText(doc, text, x, y, width, size = 8, style = "normal", lineHeight = 9.4) {
+  doc.setFont("helvetica", style);
+  doc.setFontSize(size);
+  const lines = doc.splitTextToSize(clean(text), width);
+  doc.text(lines, x, y);
+  return y + Math.max(1, lines.length) * lineHeight;
+}
+
+function candidatePdfBlob(candidate) {
+  const doc = new jsPDF({ orientation: "portrait", unit: "pt", format: "letter", compress: true });
+  doc.setProperties({ title: "", subject: "", author: "", keywords: "", creator: "" });
+  const pageW = 612, pageH = 792, left = 32, right = 32, contentW = 548, bottom = 32;
+  let y = 35;
+  const ensure = (needed = 28) => { if (y + needed > pageH - bottom) { doc.addPage(); y = 34; } };
+  const section = (title) => {
+    ensure(24); y += 5; doc.setFont("helvetica", "bold"); doc.setFontSize(8.6); doc.text(title.toUpperCase(), left, y);
+    doc.setDrawColor(80); doc.setLineWidth(0.55); doc.line(left, y + 3, pageW - right, y + 3); y += 12;
+  };
+  const bullet = (text) => {
+    ensure(22); doc.setFont("helvetica", "normal"); doc.setFontSize(7.9);
+    const lines = doc.splitTextToSize(clean(text), contentW - 13); doc.text("-", left + 2, y); doc.text(lines, left + 11, y);
+    y += Math.max(1, lines.length) * 9.3 + 2.4;
+  };
+  doc.setFont("helvetica", "bold"); doc.setFontSize(16); doc.text(clean(candidate.contact.name).toUpperCase(), pageW / 2, y, { align: "center" });
+  y += 16; doc.setFontSize(9); doc.text(clean(candidate.headline), pageW / 2, y, { align: "center" });
+  y += 11; doc.setFont("helvetica", "normal"); doc.setFontSize(7.5); doc.text(clean(candidate.descriptor), pageW / 2, y, { align: "center" });
+  y += 10;
+  const contact = [candidate.contact.location, candidate.contact.phone, candidate.contact.email, ...(candidate.contact.links || [])].filter(Boolean).join(" | ");
+  const contactLines = doc.splitTextToSize(contact, contentW); doc.text(contactLines, pageW / 2, y, { align: "center" }); y += contactLines.length * 8.2 + 3;
+  section("Summary"); y = pdfText(doc, candidate.summary, left, y, contentW, 8.1, "normal", 9.8) + 2;
+  if (candidate.skills.length) {
+    section("Technical Skills");
+    for (const [label, values] of groupedSkills(candidate.skills)) {
+      ensure(16); doc.setFont("helvetica", "bold"); doc.setFontSize(7.75); doc.text(label + ":", left, y);
+      const labelW = doc.getTextWidth(label + ": "); doc.setFont("helvetica", "normal");
+      const lines = doc.splitTextToSize(values.join(", "), contentW - labelW); doc.text(lines, left + labelW, y); y += Math.max(1, lines.length) * 9.1 + 1.8;
+    }
+  }
+  section("Experience");
+  for (const exp of candidate.experience) {
+    ensure(36); doc.setFont("helvetica", "bold"); doc.setFontSize(8.35);
+    const leftText = [clean(exp.title), clean(exp.company)].filter(Boolean).join(" | "); doc.text(leftText, left, y);
+    const dateText = exp.start && exp.end ? `${exp.start} - ${exp.end}` : ""; if (dateText) doc.text(dateText, pageW - right, y, { align: "right" });
+    y += 10; for (const item of exp.selectedBullets) bullet(item.text); y += 1;
+  }
+  if (candidate.projects.length) {
+    section("Projects");
+    for (const project of candidate.projects) {
+      ensure(29); doc.setFont("helvetica", "bold"); doc.setFontSize(8.25);
+      const projectLine = [clean(project.name), clean(project.subtitle)].filter(Boolean).join(" | "); doc.text(doc.splitTextToSize(projectLine, contentW), left, y);
+      y += 10; for (const item of project.selectedBullets) bullet(item.text); y += 1;
+    }
+  }
+  if (candidate.education.length) {
+    section("Education");
+    for (const edu of candidate.education) {
+      ensure(20); doc.setFont("helvetica", "bold"); doc.setFontSize(8.0);
+      const schoolLine = [clean(edu.school), clean(edu.degree)].filter(Boolean).join(" | "); doc.text(schoolLine, left, y);
+      const dates = edu.start && edu.end ? `${edu.start} - ${edu.end}` : clean(edu.end); if (dates) doc.text(dates, pageW - right, y, { align: "right" });
+      y += 9.5; for (const detail of edu.details || []) y = pdfText(doc, detail, left + 5, y, contentW - 5, 7.6, "normal", 8.8);
+    }
+  }
+  if (candidate.certifications.length) { section("Certifications"); y = pdfText(doc, candidate.certifications.join(" | "), left, y, contentW, 7.6, "normal", 8.8); }
+  return doc.output("blob");
+}
+
+async function downloadPdfResume() {
+  if (!currentCandidate || !currentJob) throw new Error("Resume is not ready.");
+  triggerDownload(candidatePdfBlob(currentCandidate), `${safeFilename(currentJob)}-resume.pdf`);
+}
 function triggerDownload(blob, filename) {
   const url = URL.createObjectURL(blob);
   const a = document.createElement("a");
@@ -644,26 +721,42 @@ $("clearMaster").addEventListener("click", () => {
   $("resultCard").classList.add("hidden");
 });
 
-$("downloadOnly").addEventListener("click", async () => {
+$("downloadDocx").addEventListener("click", async () => {
   try { await downloadResume(); } catch (err) { showError(err.message); }
+});
+
+$("downloadPdf").addEventListener("click", async () => {
+  try { await downloadPdfResume(); } catch (err) { showError(err.message); }
+});
+
+$("downloadPdfApply").addEventListener("click", async () => {
+  try {
+    const applyWindow = currentJob?.apply_url ? window.open("about:blank", "_blank") : null;
+    await downloadPdfResume();
+    if (applyWindow && currentJob?.apply_url) {
+      applyWindow.opener = null;
+      applyWindow.location = currentJob.apply_url;
+    }
+  } catch (err) { showError(err.message); }
 });
 
 $("openApply").addEventListener("click", () => {
   if (currentJob?.apply_url) window.open(currentJob.apply_url, "_blank", "noopener,noreferrer");
 });
 
-$("downloadApply").addEventListener("click", async () => {
-  try {
-    const applyWindow = currentJob?.apply_url ? window.open("about:blank", "_blank") : null;
-    await downloadResume();
-    if (applyWindow && currentJob?.apply_url) {
-      applyWindow.opener = null;
-      applyWindow.location = currentJob.apply_url;
-    }
-  } catch (err) {
-    showError(err.message);
-  }
-});
+const legacyDownloadApply = $("downloadApply");
+if (legacyDownloadApply) {
+  legacyDownloadApply.addEventListener("click", async () => {
+    try {
+      const applyWindow = currentJob?.apply_url ? window.open("about:blank", "_blank") : null;
+      await downloadResume();
+      if (applyWindow && currentJob?.apply_url) {
+        applyWindow.opener = null;
+        applyWindow.location = currentJob.apply_url;
+      }
+    } catch (err) { showError(err.message); }
+  });
+}
 
 try {
   const saved = localStorage.getItem(MASTER_KEY);
