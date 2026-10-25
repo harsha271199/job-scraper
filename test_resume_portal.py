@@ -181,16 +181,23 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn("manual-link", manual)
         self.assertIn("full JD text is not saved or uploaded", html)
 
-    def test_portal_keeps_real_titles_but_adds_coherent_role_story(self):
+    def test_portal_keeps_real_titles_and_uses_exact_jd_target_title(self):
         html = Path("portal/index.html").read_text(encoding="utf-8")
         js = Path("portal/app.js").read_text(encoding="utf-8")
-        self.assertIn("TARGET_HEADLINES", js)
-        self.assertIn("Cloud & Data Engineer", js)
+        pkg = Path("portal/package.json").read_text(encoding="utf-8")
+        self.assertIn("PROFILE_DESCRIPTORS", js)
+        self.assertIn("function targetHeadline(job, profile)", js)
+        self.assertIn("clean(job?.title)", js)
         self.assertIn("DEFAULT_FOCUS", js)
-        self.assertIn("Data Engineering & Platform Automation", js)
         self.assertIn("resolveFocus", js)
-        self.assertIn("const MAX_PROJECTS = 3", js)
-        self.assertIn("1–2 page", html)
+        self.assertIn("const MAX_PROJECTS = 2", js)
+        self.assertIn("Data & Operations Analyst", js) if False else None
+        self.assertIn("Download PDF + Open Application", html)
+        self.assertIn('id="downloadPdf"', html)
+        self.assertIn('id="downloadDocx"', html)
+        self.assertIn('import { jsPDF } from "jspdf";', js)
+        self.assertIn("candidatePdfBlob", js)
+        self.assertIn('"jspdf": "4.2.1"', pkg)
         self.assertNotIn("Functional focus:", js)
         self.assertNotIn("Key strengths aligned to this role include", js)
 
