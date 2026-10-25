@@ -591,7 +591,7 @@ function pdfText(doc, text, x, y, width, size = 8, style = "normal", lineHeight 
 function candidatePdfBlob(candidate) {
   const doc = new jsPDF({ orientation: "portrait", unit: "pt", format: "letter", compress: true });
   doc.setProperties({ title: "", subject: "", author: "", keywords: "", creator: "" });
-  const pageW = 612, pageH = 792, left = 34, right = 34, contentW = 544, bottom = 34;
+  const pageW = 612, pageH = 792, left = 32, right = 32, contentW = 548, bottom = 32;
   let y = 35;
   const ensure = (needed = 28) => { if (y + needed > pageH - bottom) { doc.addPage(); y = 34; } };
   const section = (title) => {
@@ -599,9 +599,9 @@ function candidatePdfBlob(candidate) {
     doc.setDrawColor(80); doc.setLineWidth(0.55); doc.line(left, y + 3, pageW - right, y + 3); y += 12;
   };
   const bullet = (text) => {
-    ensure(22); doc.setFont("helvetica", "normal"); doc.setFontSize(7.35);
+    ensure(22); doc.setFont("helvetica", "normal"); doc.setFontSize(7.9);
     const lines = doc.splitTextToSize(clean(text), contentW - 13); doc.text("-", left + 2, y); doc.text(lines, left + 11, y);
-    y += Math.max(1, lines.length) * 8.6 + 2.2;
+    y += Math.max(1, lines.length) * 9.3 + 2.4;
   };
   doc.setFont("helvetica", "bold"); doc.setFontSize(16); doc.text(clean(candidate.contact.name).toUpperCase(), pageW / 2, y, { align: "center" });
   y += 16; doc.setFontSize(9); doc.text(clean(candidate.headline), pageW / 2, y, { align: "center" });
@@ -609,18 +609,18 @@ function candidatePdfBlob(candidate) {
   y += 10;
   const contact = [candidate.contact.location, candidate.contact.phone, candidate.contact.email, ...(candidate.contact.links || [])].filter(Boolean).join(" | ");
   const contactLines = doc.splitTextToSize(contact, contentW); doc.text(contactLines, pageW / 2, y, { align: "center" }); y += contactLines.length * 8.2 + 3;
-  section("Summary"); y = pdfText(doc, candidate.summary, left, y, contentW, 7.7, "normal", 9.2) + 1;
+  section("Summary"); y = pdfText(doc, candidate.summary, left, y, contentW, 8.1, "normal", 9.8) + 2;
   if (candidate.skills.length) {
     section("Technical Skills");
     for (const [label, values] of groupedSkills(candidate.skills)) {
-      ensure(16); doc.setFont("helvetica", "bold"); doc.setFontSize(7.35); doc.text(label + ":", left, y);
+      ensure(16); doc.setFont("helvetica", "bold"); doc.setFontSize(7.75); doc.text(label + ":", left, y);
       const labelW = doc.getTextWidth(label + ": "); doc.setFont("helvetica", "normal");
-      const lines = doc.splitTextToSize(values.join(", "), contentW - labelW); doc.text(lines, left + labelW, y); y += Math.max(1, lines.length) * 8.4 + 1.5;
+      const lines = doc.splitTextToSize(values.join(", "), contentW - labelW); doc.text(lines, left + labelW, y); y += Math.max(1, lines.length) * 9.1 + 1.8;
     }
   }
   section("Experience");
   for (const exp of candidate.experience) {
-    ensure(34); doc.setFont("helvetica", "bold"); doc.setFontSize(7.8);
+    ensure(36); doc.setFont("helvetica", "bold"); doc.setFontSize(8.35);
     const leftText = [clean(exp.title), clean(exp.company)].filter(Boolean).join(" | "); doc.text(leftText, left, y);
     const dateText = exp.start && exp.end ? `${exp.start} - ${exp.end}` : ""; if (dateText) doc.text(dateText, pageW - right, y, { align: "right" });
     y += 10; for (const item of exp.selectedBullets) bullet(item.text); y += 1;
@@ -628,7 +628,7 @@ function candidatePdfBlob(candidate) {
   if (candidate.projects.length) {
     section("Projects");
     for (const project of candidate.projects) {
-      ensure(27); doc.setFont("helvetica", "bold"); doc.setFontSize(7.8);
+      ensure(29); doc.setFont("helvetica", "bold"); doc.setFontSize(8.25);
       const projectLine = [clean(project.name), clean(project.subtitle)].filter(Boolean).join(" | "); doc.text(doc.splitTextToSize(projectLine, contentW), left, y);
       y += 10; for (const item of project.selectedBullets) bullet(item.text); y += 1;
     }
@@ -636,13 +636,13 @@ function candidatePdfBlob(candidate) {
   if (candidate.education.length) {
     section("Education");
     for (const edu of candidate.education) {
-      ensure(18); doc.setFont("helvetica", "bold"); doc.setFontSize(7.6);
+      ensure(20); doc.setFont("helvetica", "bold"); doc.setFontSize(8.0);
       const schoolLine = [clean(edu.school), clean(edu.degree)].filter(Boolean).join(" | "); doc.text(schoolLine, left, y);
       const dates = edu.start && edu.end ? `${edu.start} - ${edu.end}` : clean(edu.end); if (dates) doc.text(dates, pageW - right, y, { align: "right" });
-      y += 9; for (const detail of edu.details || []) y = pdfText(doc, detail, left + 5, y, contentW - 5, 7.1, "normal", 8.2);
+      y += 9.5; for (const detail of edu.details || []) y = pdfText(doc, detail, left + 5, y, contentW - 5, 7.6, "normal", 8.8);
     }
   }
-  if (candidate.certifications.length) { section("Certifications"); y = pdfText(doc, candidate.certifications.join(" | "), left, y, contentW, 7.15, "normal", 8.3); }
+  if (candidate.certifications.length) { section("Certifications"); y = pdfText(doc, candidate.certifications.join(" | "), left, y, contentW, 7.6, "normal", 8.8); }
   return doc.output("blob");
 }
 
