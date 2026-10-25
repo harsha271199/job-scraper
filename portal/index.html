@@ -13,7 +13,7 @@
       <div>
         <p class="eyebrow">PRIVATE BROWSER WORKFLOW</p>
         <h1>Resume + Apply</h1>
-        <p class="sub">Build a coherent 1–2 page resume from your confirmed experience and skills, then open the official application.</p>
+        <p class="sub">Build a compact recruiter-first resume from the exact JD title, your confirmed facts, and the strongest role-matched bullets.</p>
       </div>
       <button id="clearMaster" class="ghost danger" type="button">Clear private resume</button>
     </header>
@@ -108,8 +108,9 @@
       </div>
 
       <div class="actions">
-        <button id="downloadApply" class="primary" type="button">Download DOCX + Open Application</button>
-        <button id="downloadOnly" class="secondary" type="button">Download DOCX</button>
+        <button id="downloadPdfApply" class="primary" type="button">Download PDF + Open Application</button>
+        <button id="downloadPdf" class="secondary" type="button">Download PDF</button>
+        <button id="downloadDocx" class="secondary" type="button">Download DOCX</button>
         <button id="openApply" class="secondary" type="button">Open Official Application</button>
       </div>
 
@@ -117,7 +118,7 @@
         <summary>Preview selected content and JD alignment</summary>
         <div id="preview" class="preview"></div>
       </details>
-      <p class="tiny muted">The portal extracts up to 10 skills and competencies that are actually written in the captured, pasted, uploaded, or linked job description. Skills already supported by your private master are shown as matched; the remaining JD skills are shown as checkboxes so you can confirm the ones you genuinely know. Confirmed skills are added to Technical Skills. Experience and project bullets are re-ranked around the same JD skill set, but the generator does not invent work experience for a newly confirmed skill.</p>
+      <p class="tiny muted">The target position uses the exact JD title. Five core profiles — Data Engineering, Software Engineering, Cloud/DevOps, ML/Data Science, and Data Analytics — control which verified bullets and projects are prioritized. Other roles keep their exact JD title and use the general technical fallback. Real employer titles and dates stay unchanged.</p>
     </section>
 
     <section id="errorCard" class="card error hidden">
@@ -127,7 +128,7 @@
   </main>
   <script src="./manual_jd.js?v=20260914-3"></script>
   <script src="./jd_top10.js?v=20260914-3"></script>
-  <script src="./app.js?v=20260922-careerfair1"></script>
+  <script src="./app.js?v=20261025-recruiter1"></script>
   <script src="./skill_confirm.js?v=20260914-3"></script>
 </body>
 </html>
