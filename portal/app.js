@@ -403,9 +403,6 @@ function renderCandidate(candidate) {
   for (const exp of candidate.experience) {
     parts.push(`<h4>${escapeHtml(exp.title)} — ${escapeHtml(exp.company)}</h4>`);
     parts.push(`<p class="muted">${escapeHtml([exp.location, exp.start && exp.end ? `${exp.start} – ${exp.end}` : ""].filter(Boolean).join(" • "))}</p>`);
-    if (exp.functionalFocus) {
-      parts.push(`<p><em>${escapeHtml(exp.functionalFocus)}</em></p>`);
-    }
     if (exp.matchedSignals.length) {
       parts.push(`<p class="tiny muted"><strong>JD alignment:</strong> ${escapeHtml(exp.matchedSignals.join(" • "))}</p>`);
     }
