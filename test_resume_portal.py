@@ -24,6 +24,8 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertEqual("cloud-devops", rp.classify_profile("Site Reliability Engineer"))
         self.assertEqual("machine-learning", rp.classify_profile("Machine Learning Engineer"))
         self.assertEqual("data-analytics", rp.classify_profile("Data Analyst"))
+        self.assertEqual("data-analytics", rp.classify_profile("Strategy & Innovation Analyst"))
+        self.assertEqual("data-analytics", rp.classify_profile("Sales Analyst"))
         self.assertEqual(
             "data-engineering",
             rp.classify_profile("Data Engineer", ["Machine Learning", "Python"]),
@@ -205,7 +207,11 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn("PROFILE_BULLET_TERMS", js)
         self.assertIn("PROFILE_ENTRY_BOOSTS", js)
         self.assertIn('"cloud-devops": {"ltimindtree-cloud": 18', js)
-        self.assertIn('"data-analytics": {"aramark-data-ops": 12', js)
+        self.assertIn('"data-analytics": {"aramark-data-ops": 18', js)
+        self.assertIn('"Sales Analysis"', js)
+        self.assertIn('"KPI Reporting"', js)
+        self.assertIn('"Operational Analytics"', js)
+        self.assertIn('"Variance Analysis"', js)
         self.assertIn('"software-engineering": {"aramark-data-ops": 8', js)
 
     def test_public_feed_contains_no_resume_private_data(self):
