@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — October 26, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-26 13:34:34 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 3 jobs
+- Booz Allen Hamilton: 1 job
+- Target: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Data Engineer, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200681997-0157/data-engineer-apple-ads?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ed5697088c6cb2ef) | [Careers](https://jobs.apple.com/en-us/search) | Oct 26, 2026 |
+| **Apple** | N/A | Data Engineer, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200681997-0836/data-engineer-apple-ads?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=89af599e271bfdcf) | [Careers](https://jobs.apple.com/en-us/search) | Oct 26, 2026 |
+| **Apple** | N/A | Data Engineer, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200681997-2459/data-engineer-apple-ads?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=eee9de9c1c0f9048) | [Careers](https://jobs.apple.com/en-us/search) | Oct 26, 2026 |
+| **Booz Allen Hamilton** | Detroit, MI | University - 2027 Summer Games Software Developer Intern - Royal Oaks, MI | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Detroit-MI/University---2027-Summer-Games-Software-Developer-Intern---Royal-Oaks--MI_R0252340) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b33b7094457551e7) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Target** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Merch Planner-Newborn Sportswear (Minneapolis) | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Merch-Planner-Newborn-Sportswear--Minneapolis-_R0000478717) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=305b54f502c5da2f) | [Careers](https://target.wd5.myworkdayjobs.com/en-US/targetcareers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-26 13:11:34 MST
 
 📊 **32 new jobs this batch:**
