@@ -1,24 +1,14 @@
-# 📢 Job Listings for Harsha — October 25, 2026
+# 📢 Job Listings for Harsha — October 26, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
-### 🕐 Batch at 2026-10-25 23:20:57 MST
+### 🕐 Batch at 2026-10-26 07:21:26 MST
 
-📊 **1 new jobs this batch:**
-- SpaceX: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
-|---|---|---|---|---|---|---|
-| **SpaceX** | Hawthorne, CA | Application Software Engineer, Launch Software | [Apply](https://boards.greenhouse.io/spacex/jobs/8915956002?gh_jid=8915956002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f87be4166044e305) | [Careers](https://new.spacex.com/careers) | 2026-10-25T22:32:51-04:00 |
-
----
-
-### 🕐 Batch at 2026-10-25 18:46:16 MST
-
-📊 **1 new jobs this batch:**
-- Anthropic: 1 job
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
 |---|---|---|---|---|---|---|
-| **Anthropic** | San Francisco, CA | Research Scientist, Life Sciences (Computational Chemistry) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5461863008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fcd41cd1aa01505f) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-25T20:37:52-04:00 |
+| **Booz Allen Hamilton** | Washington, DC | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Analyst_R0252276) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9e2ebd782645061a) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist, Junior | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Junior_R0252270) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0a9810dbee2663a9) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
 
 ---
