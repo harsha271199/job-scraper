@@ -48,6 +48,12 @@
     "analytics": "Analytics",
     "dashboard": "Data Visualization",
     "business intelligence": "Business Intelligence",
+    "sales analysis": "Sales Analysis",
+    "sales analytics": "Sales Analysis",
+    "kpi reporting": "KPI Reporting",
+    "operational analytics": "Operational Analytics",
+    "operations analytics": "Operational Analytics",
+    "variance analysis": "Variance Analysis",
     "sql": "SQL",
     "python": "Python"
   };
