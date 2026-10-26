@@ -482,6 +482,38 @@
         "GPU cluster"
       ],
       "verified": true
+    },
+    {
+      "name": "Sales Analysis",
+      "aliases": [
+        "sales analytics",
+        "revenue analysis",
+        "revenue analytics"
+      ],
+      "verified": true
+    },
+    {
+      "name": "KPI Reporting",
+      "aliases": [
+        "key performance indicators",
+        "KPIs"
+      ],
+      "verified": true
+    },
+    {
+      "name": "Operational Analytics",
+      "aliases": [
+        "operations analytics",
+        "operational analysis"
+      ],
+      "verified": true
+    },
+    {
+      "name": "Variance Analysis",
+      "aliases": [
+        "variance reporting"
+      ],
+      "verified": true
     }
   ]
 }
