@@ -37,7 +37,8 @@ const ROLE_CORE_SKILLS = {
   ],
   "data-analytics": [
     "SQL", "Excel", "BigQuery", "PostgreSQL", "Data Validation",
-    "Data Reconciliation", "Python", "Pandas", "NumPy", "Supabase",
+    "Data Reconciliation", "Sales Analysis", "KPI Reporting", "Operational Analytics",
+    "Variance Analysis", "Python", "Pandas", "NumPy", "Supabase",
     "Azure Monitor", "Log Analytics", "Microsoft Azure", "Streamlit", "dbt"
   ],
   "general-technical": [
@@ -52,7 +53,7 @@ const PROFILE_DESCRIPTORS = {
   "software-engineering": "Backend, Full-Stack & Cloud",
   "cloud-devops": "Azure Infrastructure, Automation & Reliability",
   "machine-learning": "Applied ML, Data Pipelines & Cloud",
-  "data-analytics": "SQL, Reporting & Data Quality",
+  "data-analytics": "Sales, KPI Reporting & Operational Analytics",
   "general-technical": "Technical Engineering"
 };
 
@@ -62,7 +63,7 @@ const DEFAULT_FOCUS = {
     "software-engineering": "Software & Data Platform Development",
     "cloud-devops": "Platform Operations & Automation",
     "machine-learning": "Data & ML Analytics",
-    "data-analytics": "Data Analytics & Reporting",
+    "data-analytics": "Sales, Operations & Data Analytics",
     "general-technical": "Data Platforms & Operations"
   },
   "ltimindtree-cloud": {
@@ -88,7 +89,7 @@ const EXPERIENCE_LIMITS = {
   "software-engineering": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 2},
   "cloud-devops": {"aramark-data-ops": 2, "ltimindtree-cloud": 4, "infra-developers-web": 1},
   "machine-learning": {"aramark-data-ops": 2, "ltimindtree-cloud": 2, "infra-developers-web": 1},
-  "data-analytics": {"aramark-data-ops": 4, "ltimindtree-cloud": 2, "infra-developers-web": 1},
+  "data-analytics": {"aramark-data-ops": 5, "ltimindtree-cloud": 2, "infra-developers-web": 1},
   "general-technical": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 1}
 };
 
@@ -118,6 +119,7 @@ const PROFILE_BULLET_TERMS = {
   "data-analytics": [
     "sql", "excel", "bigquery", "postgresql", "report", "dashboard", "analytics",
     "reconciliation", "validation", "data quality", "trend", "metric", "insight",
+    "sales", "revenue", "tip", "kpi", "variance", "financial", "business", "operation",
     "workforce", "payroll", "telemetry", "log analytics"
   ],
   "general-technical": [
@@ -131,7 +133,7 @@ const PROFILE_ENTRY_BOOSTS = {
   "software-engineering": {"aramark-data-ops": 8, "infra-developers-web": 8, "ltimindtree-cloud": 4},
   "cloud-devops": {"ltimindtree-cloud": 18, "aramark-data-ops": 2},
   "machine-learning": {"aramark-data-ops": 3, "ltimindtree-cloud": 3},
-  "data-analytics": {"aramark-data-ops": 12, "ltimindtree-cloud": 4},
+  "data-analytics": {"aramark-data-ops": 18, "ltimindtree-cloud": 4},
   "general-technical": {}
 };
 
@@ -187,7 +189,7 @@ function profileSummary(profile) {
     "software-engineering": "Software engineer with full-stack JavaScript/PostgreSQL/Supabase experience and 2+ years in Azure production engineering. Built a role-based platform for a 45,000+ seat venue, real-estate websites for two clients, and cloud automation used in production support.",
     "cloud-devops": "Cloud/DevOps engineer with 2+ years on a Microsoft Azure VM vendor team, progressing from Junior Engineer to SME. Guided 40–50 investigations a week and automated Azure work with PowerShell, Terraform, Docker, and Kubernetes.",
     "machine-learning": "Data/ML engineer and M.S. Data Science candidate with PyTorch, NLP, streaming pipelines, and GPU/HPC experience. Fine-tuned Qwen2.5-Coder-7B on a 624K+ row dataset and brings 2+ years of Azure engineering experience.",
-    "data-analytics": "Data analyst with hands-on SQL, Excel, BigQuery, and PostgreSQL experience across workforce and cloud operations. Reconciles 5,000+ records per event and built validation/reporting workflows that improved discrepancy detection by 30%.",
+    "data-analytics": "Data analyst with 3+ years across operational analytics and cloud engineering. Uses SQL, Excel, BigQuery, and PostgreSQL to analyze high-volume event operations, including $200K+ football sales per game, 5,000+ records per event, and validation workflows that improved discrepancy detection by 30%.",
     "general-technical": "Engineer with 3+ years across Azure cloud infrastructure, operational data platforms, full-stack web development, and technical projects. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University."
   };
   return summaries[profile] || summaries["general-technical"];
@@ -521,7 +523,7 @@ function safeFilename(job) {
 function skillCategory(skill) {
   const k = key(skill);
   const languages = ["python", "javascript", "java", "bash", "powershell", "sql"];
-  const data = ["postgresql", "supabase", "bigquery", "redshift", "dbt", "apache airflow", "kafka", "apache spark", "pandas", "numpy", "neo4j", "streamlit", "excel", "data validation", "data reconciliation", "etl/elt"];
+  const data = ["postgresql", "supabase", "bigquery", "redshift", "dbt", "apache airflow", "kafka", "apache spark", "pandas", "numpy", "neo4j", "streamlit", "excel", "data validation", "data reconciliation", "etl/elt", "sales analysis", "kpi reporting", "operational analytics", "variance analysis"];
   const cloud = ["microsoft azure", "azure cli", "azure monitor", "log analytics", "aws", "terraform", "docker", "kubernetes", "github actions", "linux", "networking", "security"];
   const ml = ["machine learning", "pytorch", "nlp", "llm fine-tuning", "hpc"];
   const web = ["html5", "css", "wordpress", "responsive web design", "dns & hosting", "seo", "google analytics", "google search console", "rest apis"];

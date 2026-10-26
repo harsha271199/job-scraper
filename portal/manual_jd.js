@@ -51,6 +51,10 @@
     ["Pandas", ["pandas"]], ["NumPy", ["numpy"]], ["Tableau", ["tableau"]],
     ["Power BI", ["power bi"]], ["Looker", ["looker"]], ["Excel", ["excel"]],
     ["Data Visualization", ["data visualization", "visualization", "dashboards"]],
+    ["Sales Analysis", ["sales analysis", "sales analytics", "revenue analysis", "revenue analytics"]],
+    ["KPI Reporting", ["kpi reporting", "key performance indicators", "kpis"]],
+    ["Operational Analytics", ["operational analytics", "operations analytics", "operational analysis"]],
+    ["Variance Analysis", ["variance analysis", "variance reporting"]],
     ["Agile", ["agile"]], ["Scrum", ["scrum"]],
     ["Stakeholder Management", ["stakeholder management", "stakeholders"]],
     ["Communication", ["communication skills", "written communication", "verbal communication"]],
@@ -107,13 +111,13 @@
     const titleText = String(title || "").toLowerCase();
     if (/data scientist|machine learning|\bml engineer|mlops engineer|ai engineer|applied scientist|nlp engineer|llm engineer/.test(titleText)) return "machine-learning";
     if (/data engineer|data platform engineer|data infrastructure engineer|analytics engineer|etl engineer|pipeline engineer|big data engineer|database engineer/.test(titleText)) return "data-engineering";
-    if (/data analyst|business analyst|business intelligence|bi analyst|product analyst|growth analyst|reporting analyst|operations analyst/.test(titleText)) return "data-analytics";
+    if (/data analyst|business analyst|business intelligence|bi analyst|product analyst|growth analyst|reporting analyst|operations analyst|strategy analyst|strategic analyst|innovation analyst|sales analyst|revenue analyst|financial analyst/.test(titleText)) return "data-analytics";
     if (/cloud engineer|devops|devsecops|site reliability|\bsre\b|platform engineer|infrastructure engineer|systems engineer|azure engineer/.test(titleText)) return "cloud-devops";
     if (/software engineer|software developer|backend engineer|backend developer|full[- ]?stack|front[- ]?end engineer|application engineer|\bswe\b|\bsde\b/.test(titleText)) return "software-engineering";
 
     if (/machine learning|deep learning|pytorch|tensorflow|nlp|large language model|\bllm\b/.test(text)) return "machine-learning";
     if (/etl|elt|airflow|spark|data warehouse|data lake|data pipeline|kafka|dbt/.test(text)) return "data-engineering";
-    if (/tableau|power bi|looker|reporting|business intelligence|data visualization/.test(text)) return "data-analytics";
+    if (/tableau|power bi|looker|reporting|business intelligence|data visualization|sales analysis|sales analytics|kpi|variance analysis|operational analytics|strategic planning/.test(text)) return "data-analytics";
     if (/terraform|kubernetes|docker|azure monitor|log analytics|jenkins|ansible|prometheus/.test(text)) return "cloud-devops";
     if (/javascript|typescript|node\.js|microservices|system design|rest api/.test(text)) return "software-engineering";
     return "general-technical";

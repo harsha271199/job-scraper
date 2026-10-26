@@ -25,7 +25,7 @@ FEED_PATH = Path("job_signals.json")
 INVENTORY_PATH = Path("resume_skill_inventory.json")
 REQUEST_TIMEOUT = 12
 PORTAL_CHECK_TIMEOUT = 5
-JD_SKILL_VERSION = 2
+JD_SKILL_VERSION = 3
 TOP_JD_SKILLS = 10
 
 _SIGNAL_TERMS = (
@@ -35,7 +35,9 @@ _SIGNAL_TERMS = (
     "ci/cd", "observability", "monitoring", "incident response",
     "root cause analysis", "data quality", "data modeling", "schema design",
     "machine learning", "deep learning", "nlp", "llm", "analytics",
-    "dashboard", "business intelligence", "sql", "python",
+    "dashboard", "business intelligence", "sales analysis", "sales analytics",
+    "kpi reporting", "operational analytics", "operations analytics",
+    "variance analysis", "revenue analysis", "strategic planning", "sql", "python",
 )
 
 # These are JD terms, not claims about the candidate. They let the public feed
@@ -80,6 +82,10 @@ _JD_EXTRA_SKILLS: dict[str, tuple[str, ...]] = {
     "Data Visualization": ("data visualization", "visualization", "visualisations", "visualizations"),
     "Business Intelligence": ("business intelligence", "BI reporting"),
     "Dashboarding": ("dashboarding", "dashboards", "dashboard development"),
+    "Sales Analysis": ("sales analysis", "sales analytics", "revenue analysis", "revenue analytics"),
+    "KPI Reporting": ("KPI reporting", "key performance indicators", "KPIs"),
+    "Operational Analytics": ("operational analytics", "operations analytics", "operational analysis"),
+    "Variance Analysis": ("variance analysis", "variance reporting"),
     "Power BI": ("Power BI",),
     "Looker": ("Looker",),
     "Linux": ("Linux",),
@@ -176,7 +182,7 @@ def classify_profile(title: str, skills: list[str] | None = None) -> str:
     checks = (
         ("machine-learning", ("data scientist", "machine learning", "ml engineer", "mlops engineer", "ai engineer", "applied scientist", "nlp engineer", "llm engineer")),
         ("data-engineering", ("data engineer", "data platform engineer", "data infrastructure engineer", "analytics engineer", "etl engineer", "pipeline engineer", "big data engineer", "database engineer")),
-        ("data-analytics", ("data analyst", "business analyst", "business intelligence", "bi analyst", "product analyst", "growth analyst", "reporting analyst", "operations analyst")),
+        ("data-analytics", ("data analyst", "business analyst", "business intelligence", "bi analyst", "product analyst", "growth analyst", "reporting analyst", "operations analyst", "strategy analyst", "strategic analyst", "innovation analyst", "sales analyst", "revenue analyst", "financial analyst")),
         ("cloud-devops", ("cloud engineer", "devops", "devsecops", "site reliability", "sre", "platform engineer", "infrastructure engineer", "systems engineer", "azure engineer")),
         ("software-engineering", ("software engineer", "software developer", "backend engineer", "backend developer", "full stack", "full-stack", "frontend engineer", "front-end engineer", "application engineer", "swe", "sde")),
     )
@@ -189,6 +195,8 @@ def classify_profile(title: str, skills: list[str] | None = None) -> str:
         return "machine-learning"
     if any(x in skill_text for x in ("apache airflow", "dbt", "kafka", "etl/elt", "data warehousing")):
         return "data-engineering"
+    if any(x in skill_text for x in ("sales analysis", "kpi reporting", "operational analytics", "variance analysis", "business intelligence", "data visualization")):
+        return "data-analytics"
     if any(x in skill_text for x in ("terraform", "kubernetes", "docker", "microsoft azure", "jenkins", "ansible")):
         return "cloud-devops"
     return "general-technical"
