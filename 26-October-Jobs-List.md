@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — October 26, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-26 22:39:19 MST
+
+📊 **4 new jobs this batch:**
+- Mastercard: 1 job
+- Nvidia: 1 job
+- Target: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-294517) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0fb95772513513e9) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Network Software Engineer, Automation and Intelligence | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Network-Software-Engineer--Automation-and-Intelligence_JR2028694) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c99d0842581ce1a4) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **Target** | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | Sr AI Engineer - Advanced AI (applied ML, Gen AI, ML ops) | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-AI-Engineer---Advanced-AI--applied-ML--Gen-AI--ML-ops-_R0000478792) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=809bad4c0441b952) | [Careers](https://target.wd5.myworkdayjobs.com/en-US/targetcareers) | Posted Today |
+| **Target** | 7000 Target Pkwy N,NCD-0375 Brooklyn Park,MN 55445 | Sr Engineer - Forward Deployed Engineer (FDE) AI Platforms team | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/7000-Target-Pkwy-NNCD-0375-Brooklyn-ParkMN-55445/Sr-Engineer---Forward-Deployed-Engineer--FDE--AI-Platforms-team_R0000475428-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d1ea3aad651f001e) | [Careers](https://target.wd5.myworkdayjobs.com/en-US/targetcareers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-26 17:31:39 MST
 
 📊 **5 new jobs this batch:**
