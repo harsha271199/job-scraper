@@ -111,8 +111,9 @@
     const titleText = String(title || "").toLowerCase();
     if (/data scientist|machine learning|\bml engineer|mlops engineer|ai engineer|applied scientist|nlp engineer|llm engineer/.test(titleText)) return "machine-learning";
     if (/data engineer|data platform engineer|data infrastructure engineer|analytics engineer|etl engineer|pipeline engineer|big data engineer|database engineer/.test(titleText)) return "data-engineering";
-    if (/data analyst|business analyst|business intelligence|bi analyst|product analyst|growth analyst|reporting analyst|operations analyst|strategy analyst|strategic analyst|innovation analyst|sales analyst|revenue analyst|financial analyst/.test(titleText)) return "data-analytics";
-    if (/cloud engineer|devops|devsecops|site reliability|\bsre\b|platform engineer|infrastructure engineer|systems engineer|azure engineer/.test(titleText)) return "cloud-devops";
+    if (/data analyst|business analyst|business intelligence|bi analyst|product analyst|growth analyst|reporting analyst|operations analyst|strategy analyst|strategic analyst|innovation analyst|sales analyst|revenue analyst|financial analyst|production support engineer|intelligent manufacturing engineer/.test(titleText)) return "data-analytics";
+    if (/intelligent amhs engineer/.test(titleText)) return "general-technical";
+    if (/cloud engineer|devops|devsecops|site reliability|\bsre\b|platform engineer|infrastructure engineer|systems engineer|azure engineer|fab it service engineer|it client services engineer/.test(titleText)) return "cloud-devops";
     if (/software engineer|software developer|backend engineer|backend developer|full[- ]?stack|front[- ]?end engineer|application engineer|\bswe\b|\bsde\b/.test(titleText)) return "software-engineering";
 
     if (/machine learning|deep learning|pytorch|tensorflow|nlp|large language model|\bllm\b/.test(text)) return "machine-learning";
