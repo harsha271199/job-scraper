@@ -12,7 +12,7 @@ const MASTER_KEY = "jobScraper.privateMaster.v1";
 const TOP_JD_SKILLS = 10;
 const MAX_RELATED_SKILLS = 9;
 const MAX_SKILLS = TOP_JD_SKILLS + MAX_RELATED_SKILLS;
-const MAX_PROJECTS = 2;
+const MAX_PROJECTS = 3;
 
 const ROLE_CORE_SKILLS = {
   "data-engineering": [
@@ -85,11 +85,20 @@ const DEFAULT_FOCUS = {
 };
 
 const EXPERIENCE_LIMITS = {
+  "data-engineering": {"aramark-data-ops": 4, "ltimindtree-cloud": 4, "infra-developers-web": 1},
+  "software-engineering": {"aramark-data-ops": 4, "ltimindtree-cloud": 4, "infra-developers-web": 2},
+  "cloud-devops": {"aramark-data-ops": 3, "ltimindtree-cloud": 5, "infra-developers-web": 1},
+  "machine-learning": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 1},
+  "data-analytics": {"aramark-data-ops": 5, "ltimindtree-cloud": 3, "infra-developers-web": 1},
+  "general-technical": {"aramark-data-ops": 4, "ltimindtree-cloud": 4, "infra-developers-web": 1}
+};
+
+const EXPERIENCE_MINIMUMS = {
   "data-engineering": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 1},
-  "software-engineering": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 2},
+  "software-engineering": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 1},
   "cloud-devops": {"aramark-data-ops": 2, "ltimindtree-cloud": 4, "infra-developers-web": 1},
   "machine-learning": {"aramark-data-ops": 2, "ltimindtree-cloud": 2, "infra-developers-web": 1},
-  "data-analytics": {"aramark-data-ops": 5, "ltimindtree-cloud": 2, "infra-developers-web": 1},
+  "data-analytics": {"aramark-data-ops": 4, "ltimindtree-cloud": 2, "infra-developers-web": 1},
   "general-technical": {"aramark-data-ops": 3, "ltimindtree-cloud": 3, "infra-developers-web": 1}
 };
 
@@ -302,7 +311,7 @@ function scoreBullet(bullet, job, profile, projectId = "", sourceId = "") {
   return score;
 }
 
-function selectBullets(entry, job, profile, maxBullets, projectId = "") {
+function selectBullets(entry, job, profile, maxBullets, projectId = "", minBullets = 1) {
   const verified = (entry.bullets || [])
     .filter((b) => b.verified === true)
     .map((b, index) => ({ ...b, _score: scoreBullet(b, job, profile, projectId, entry.id), _index: index }))
@@ -310,13 +319,28 @@ function selectBullets(entry, job, profile, maxBullets, projectId = "") {
 
   if (!verified.length) return [];
   const positive = verified.filter((b) => b._score > 0);
-  return (positive.length ? positive : verified.slice(0, 1)).slice(0, maxBullets);
+  const chosen = [...positive];
+  const seen = new Set(chosen.map((b) => b._index));
+  for (const bullet of verified) {
+    if (chosen.length >= Math.min(maxBullets, Math.max(minBullets, positive.length))) break;
+    if (!seen.has(bullet._index)) {
+      chosen.push(bullet);
+      seen.add(bullet._index);
+    }
+  }
+  return chosen.slice(0, maxBullets);
 }
 
 function experienceLimit(profile, entryId) {
   return EXPERIENCE_LIMITS[profile]?.[entryId]
     ?? EXPERIENCE_LIMITS["general-technical"]?.[entryId]
     ?? 3;
+}
+
+function experienceMinimum(profile, entryId) {
+  return EXPERIENCE_MINIMUMS[profile]?.[entryId]
+    ?? EXPERIENCE_MINIMUMS["general-technical"]?.[entryId]
+    ?? 1;
 }
 
 function resolveFocus(entry, profile) {
@@ -376,6 +400,41 @@ function candidateMetrics(master, job, profile) {
       if (exact.length) return exact;
     }
   }
+
+  const catalog = Array.isArray(master?.metric_catalog) ? master.metric_catalog : [];
+  if (catalog.length) {
+    const jdText = key([
+      job?.title,
+      ...(job?.top_jd_skills || []),
+      ...(job?.detected_skills || []),
+      ...(job?.signal_terms || []),
+    ].join(" "));
+    const ranked = catalog
+      .filter((m) => clean(m?.value) && clean(m?.label))
+      .map((m, index) => {
+        let score = 0;
+        const profiles = Array.isArray(m.profiles) ? m.profiles.map(key) : [];
+        if (profiles.includes(key(profile))) score += 10;
+        for (const term of m.keywords || []) {
+          if (jdText.includes(key(term))) score += 8;
+        }
+        return { ...m, _score: score, _index: index };
+      })
+      .filter((m) => m._score > 0)
+      .sort((a, b) => b._score - a._score || a._index - b._index);
+
+    const selected = [];
+    const seen = new Set();
+    for (const item of ranked) {
+      const metricKey = key(item.value + " " + item.label);
+      if (seen.has(metricKey)) continue;
+      selected.push({ value: clean(item.value), label: clean(item.label) });
+      seen.add(metricKey);
+      if (selected.length >= 4) break;
+    }
+    if (selected.length >= 3) return selected;
+  }
+
   return normalizeMetrics(master?.profile_metrics?.[profile] || master?.profile_metrics?.["general-technical"] || []);
 }
 
@@ -403,7 +462,9 @@ function buildCandidate(master, job) {
       entry,
       scoringJob,
       profile,
-      experienceLimit(profile, entry.id)
+      experienceLimit(profile, entry.id),
+      "",
+      experienceMinimum(profile, entry.id)
     );
     return {
       ...entry,
@@ -517,8 +578,8 @@ function textParagraph(text, options = {}) {
 function sectionHeading(text) {
   return new Paragraph({
     spacing: { before: 125, after: 45 },
-    border: { bottom: { color: "FFC627", size: 8, style: BorderStyle.SINGLE } },
-    children: [new TextRun({ text, bold: true, size: 20, font: "Arial", color: "8C1D40" })],
+    border: { bottom: { color: "CBD5E1", size: 8, style: BorderStyle.SINGLE } },
+    children: [new TextRun({ text, bold: true, size: 20, font: "Arial", color: "1F4E79" })],
   });
 }
 
@@ -670,189 +731,266 @@ function pdfText(doc, text, x, y, width, size = 8, style = "normal", lineHeight 
   return y + Math.max(1, lines.length) * lineHeight;
 }
 
-function candidatePdfBlob(candidate) {
+function candidatePdfVariant(candidate, options = {}) {
+  const clone = {
+    ...candidate,
+    experience: (candidate.experience || []).map((exp) => ({
+      ...exp,
+      selectedBullets: [...(exp.selectedBullets || [])].slice(0, options.expCapPerEntry || 99),
+    })),
+    projects: [...(candidate.projects || [])].slice(0, options.projectCap ?? 99).map((p) => ({
+      ...p,
+      selectedBullets: [...(p.selectedBullets || [])].slice(0, options.projectBulletCap || 2),
+    })),
+  };
+  return clone;
+}
+
+const PDF_LAYOUTS = [
+  { name: "spacious", body: 8.25, bodyLine: 9.85, bullet: 8.0, bulletLine: 9.55, section: 9.0, sectionGap: 12.4, role: 8.3, skill: 7.65, skillLine: 8.95, metricValue: 10.5, metricLabel: 6.0, metricH: 36.5, gapScale: 1.08 },
+  { name: "standard", body: 8.0, bodyLine: 9.45, bullet: 7.75, bulletLine: 9.1, section: 8.8, sectionGap: 11.7, role: 8.15, skill: 7.45, skillLine: 8.65, metricValue: 10.1, metricLabel: 5.8, metricH: 35, gapScale: 1.0 },
+  { name: "compact", body: 7.7, bodyLine: 9.0, bullet: 7.45, bulletLine: 8.65, section: 8.55, sectionGap: 11.0, role: 7.95, skill: 7.2, skillLine: 8.35, metricValue: 9.7, metricLabel: 5.6, metricH: 33.5, gapScale: 0.92 },
+];
+
+function renderCandidatePdf(candidate, spec) {
   const doc = new jsPDF({ orientation: "portrait", unit: "pt", format: "letter", compress: true });
   doc.setProperties({ title: "", subject: "", author: "", keywords: "", creator: "" });
 
-  const pageW = 612, pageH = 792, left = 30, right = 30, contentW = 552, bottom = 26;
-  const MAROON = [140, 29, 64], GOLD = [255, 198, 39], TEXT = [31, 41, 55], MUTED = [75, 85, 99], PALE = [255, 248, 222];
-  let y = 30;
+  const pageW = 612, pageH = 792, left = 30, right = 30, contentW = 552, bottom = 24;
+  const NAVY = [31, 78, 121], TEXT = [31, 41, 55], MUTED = [71, 85, 105], LINE = [203, 213, 225], PALE = [248, 250, 252];
+  let y = 29;
+  let overflowed = false;
 
   const textColor = (rgb) => doc.setTextColor(rgb[0], rgb[1], rgb[2]);
-  const ensure = (needed = 28) => {
-    if (y + needed > pageH - bottom) {
-      doc.addPage();
-      y = 30;
-    }
+  const need = (height = 20) => {
+    if (y + height > pageH - bottom) overflowed = true;
+    return !overflowed;
   };
   const section = (title) => {
-    ensure(22);
-    y += 4;
+    if (!need(20)) return;
+    y += 3.7 * spec.gapScale;
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(8.8);
-    textColor(MAROON);
+    doc.setFontSize(spec.section);
+    textColor(NAVY);
     doc.text(title.toUpperCase(), left, y);
-    doc.setDrawColor(GOLD[0], GOLD[1], GOLD[2]);
-    doc.setLineWidth(1.15);
-    doc.line(left, y + 3.3, pageW - right, y + 3.3);
-    y += 12;
+    doc.setDrawColor(LINE[0], LINE[1], LINE[2]);
+    doc.setLineWidth(0.8);
+    doc.line(left, y + 3.1, pageW - right, y + 3.1);
+    y += spec.sectionGap;
     textColor(TEXT);
+  };
+  const blockText = (text, x, width, size, lineHeight, style = "normal") => {
+    doc.setFont("helvetica", style);
+    doc.setFontSize(size);
+    const lines = doc.splitTextToSize(clean(text), width);
+    if (!need(Math.max(1, lines.length) * lineHeight + 1)) return;
+    doc.text(lines, x, y);
+    y += Math.max(1, lines.length) * lineHeight;
   };
   const bullet = (text) => {
-    ensure(22);
     doc.setFont("helvetica", "normal");
-    doc.setFontSize(7.8);
+    doc.setFontSize(spec.bullet);
     textColor(TEXT);
     const lines = doc.splitTextToSize(clean(text), contentW - 13);
-    doc.text("•", left + 1, y);
+    const h = Math.max(1, lines.length) * spec.bulletLine + 2.0 * spec.gapScale;
+    if (!need(h)) return;
+    doc.text("-", left + 2, y);
     doc.text(lines, left + 11, y);
-    y += Math.max(1, lines.length) * 9.15 + 2.1;
+    y += h;
   };
   const metrics = () => {
-    if (!candidate.metrics?.length) return;
-    ensure(42);
-    const boxH = 35;
-    const boxW = contentW / candidate.metrics.length;
+    if (!candidate.metrics?.length || !need(spec.metricH + 4)) return;
+    const boxH = spec.metricH, boxW = contentW / candidate.metrics.length;
     doc.setFillColor(PALE[0], PALE[1], PALE[2]);
-    doc.setDrawColor(MAROON[0], MAROON[1], MAROON[2]);
+    doc.setDrawColor(LINE[0], LINE[1], LINE[2]);
     doc.setLineWidth(0.55);
     doc.rect(left, y, contentW, boxH, "FD");
     candidate.metrics.forEach((m, i) => {
       const x = left + i * boxW;
       if (i > 0) {
-        doc.setDrawColor(GOLD[0], GOLD[1], GOLD[2]);
-        doc.setLineWidth(0.45);
+        doc.setDrawColor(LINE[0], LINE[1], LINE[2]);
         doc.line(x, y, x, y + boxH);
       }
       doc.setFont("helvetica", "bold");
-      doc.setFontSize(10.2);
-      textColor(MAROON);
+      doc.setFontSize(spec.metricValue);
+      textColor(NAVY);
       doc.text(clean(m.value), x + boxW / 2, y + 12, { align: "center" });
       doc.setFont("helvetica", "normal");
-      doc.setFontSize(5.9);
+      doc.setFontSize(spec.metricLabel);
       textColor(MUTED);
       const label = doc.splitTextToSize(clean(m.label), boxW - 10).slice(0, 2);
       doc.text(label, x + boxW / 2, y + 21, { align: "center" });
     });
-    y += boxH + 4;
+    y += boxH + 3.5 * spec.gapScale;
     textColor(TEXT);
   };
 
   doc.setFont("helvetica", "bold");
   doc.setFontSize(17.2);
-  textColor(MAROON);
+  textColor(NAVY);
   doc.text(clean(candidate.contact.name).toUpperCase(), pageW / 2, y, { align: "center" });
-  y += 15;
+  y += 15.2 * spec.gapScale;
 
-  doc.setFontSize(9.2);
+  doc.setFontSize(9.25);
   textColor(TEXT);
   doc.text(clean(candidate.headline), pageW / 2, y, { align: "center" });
-  y += 10;
+  y += 9.8 * spec.gapScale;
 
   doc.setFont("helvetica", "normal");
-  doc.setFontSize(7.0);
+  doc.setFontSize(7.05);
   textColor(MUTED);
   doc.text(clean(candidate.descriptor), pageW / 2, y, { align: "center" });
-  y += 9;
+  y += 8.7 * spec.gapScale;
 
   const contact = [candidate.contact.location, candidate.contact.phone, candidate.contact.email, ...(candidate.contact.links || [])].filter(Boolean).join(" | ");
   const contactLines = doc.splitTextToSize(contact, contentW);
-  doc.setFontSize(7.1);
-  doc.text(contactLines, pageW / 2, y, { align: "center" });
-  y += contactLines.length * 7.8 + 3;
+  doc.setFontSize(7.05);
+  if (need(contactLines.length * 7.8 + 5)) {
+    doc.text(contactLines, pageW / 2, y, { align: "center" });
+    y += contactLines.length * 7.8 + 4;
+  }
 
-  doc.setFillColor(GOLD[0], GOLD[1], GOLD[2]);
-  doc.rect(left, y, contentW, 3.2, "F");
-  y += 5;
-  doc.setDrawColor(MAROON[0], MAROON[1], MAROON[2]);
-  doc.setLineWidth(0.8);
+  doc.setDrawColor(NAVY[0], NAVY[1], NAVY[2]);
+  doc.setLineWidth(1.15);
   doc.line(left, y, pageW - right, y);
-  y += 3;
+  y += 3.5 * spec.gapScale;
 
   section("Summary");
-  y = pdfText(doc, candidate.summary, left, y, contentW, 8.0, "normal", 9.55) + 1.5;
+  textColor(TEXT);
+  blockText(candidate.summary, left, contentW, spec.body, spec.bodyLine, "normal");
+  y += 1.2 * spec.gapScale;
   metrics();
 
-  if (candidate.skills.length) {
+  if (candidate.skills.length && !overflowed) {
     section("Technical Skills");
     for (const [label, values] of groupedSkills(candidate.skills)) {
-      ensure(15);
       doc.setFont("helvetica", "bold");
-      doc.setFontSize(7.45);
+      doc.setFontSize(spec.skill);
       textColor(TEXT);
-      doc.text(label + ":", left, y);
-      const labelW = doc.getTextWidth(label + ": ");
-      doc.setFont("helvetica", "normal");
+      const prefix = label + ":";
+      const labelW = doc.getTextWidth(prefix + " ");
       const lines = doc.splitTextToSize(values.join(", "), contentW - labelW);
+      const h = Math.max(1, lines.length) * spec.skillLine + 1.2 * spec.gapScale;
+      if (!need(h)) break;
+      doc.text(prefix, left, y);
+      doc.setFont("helvetica", "normal");
       doc.text(lines, left + labelW, y);
-      y += Math.max(1, lines.length) * 8.75 + 1.5;
+      y += h;
     }
   }
 
-  section("Experience");
-  for (const exp of candidate.experience) {
-    if (!exp.selectedBullets?.length) continue;
-    ensure(34);
+  if (!overflowed) section("Experience");
+  for (const exp of candidate.experience || []) {
+    if (overflowed || !exp.selectedBullets?.length) break;
+    const dateText = exp.start && exp.end ? `${exp.start} - ${exp.end}` : "";
     doc.setFont("helvetica", "bold");
-    doc.setFontSize(8.15);
+    doc.setFontSize(spec.role);
     textColor(TEXT);
     const leftText = [clean(exp.title), clean(exp.company)].filter(Boolean).join(" | ");
-    doc.text(leftText, left, y);
-    const dateText = exp.start && exp.end ? `${exp.start} - ${exp.end}` : "";
+    const roleLines = doc.splitTextToSize(leftText, dateText ? contentW - 120 : contentW);
+    const roleH = Math.max(1, roleLines.length) * 8.8 + 1.5;
+    if (!need(roleH + 12)) break;
+    doc.text(roleLines, left, y);
     if (dateText) {
       doc.setFont("helvetica", "normal");
-      doc.setFontSize(7.2);
+      doc.setFontSize(7.0);
       textColor(MUTED);
       doc.text(dateText, pageW - right, y, { align: "right" });
     }
-    y += 9.4;
-    for (const item of exp.selectedBullets) bullet(item.text);
-    y += 0.5;
+    y += roleH;
+    for (const item of exp.selectedBullets) {
+      if (overflowed) break;
+      bullet(item.text);
+    }
+    y += 0.5 * spec.gapScale;
   }
 
-  if (candidate.projects.length) {
+  if (candidate.projects.length && !overflowed) {
     section("Selected Projects");
     for (const project of candidate.projects) {
-      ensure(27);
+      if (overflowed) break;
       doc.setFont("helvetica", "bold");
-      doc.setFontSize(8.0);
+      doc.setFontSize(spec.role - 0.1);
       textColor(TEXT);
       const projectLine = [clean(project.name), clean(project.subtitle)].filter(Boolean).join(" | ");
       const projectLines = doc.splitTextToSize(projectLine, contentW);
+      const ph = Math.max(1, projectLines.length) * 8.7 + 1;
+      if (!need(ph + 10)) break;
       doc.text(projectLines, left, y);
-      y += Math.max(1, projectLines.length) * 8.8 + 1;
-      for (const item of project.selectedBullets) bullet(item.text);
+      y += ph;
+      for (const item of project.selectedBullets) {
+        if (overflowed) break;
+        bullet(item.text);
+      }
     }
   }
 
-  if (candidate.education.length) {
+  if (candidate.education.length && !overflowed) {
     section("Education");
     for (const edu of candidate.education) {
-      ensure(18);
+      if (overflowed) break;
       doc.setFont("helvetica", "bold");
-      doc.setFontSize(7.8);
+      doc.setFontSize(7.7);
       textColor(TEXT);
       const schoolLine = [clean(edu.school), clean(edu.degree)].filter(Boolean).join(" | ");
-      doc.text(schoolLine, left, y);
       const dates = edu.start && edu.end ? `${edu.start} - ${edu.end}` : clean(edu.end);
+      if (!need(18)) break;
+      doc.text(doc.splitTextToSize(schoolLine, dates ? contentW - 110 : contentW), left, y);
       if (dates) {
         doc.setFont("helvetica", "normal");
-        doc.setFontSize(7.0);
+        doc.setFontSize(6.9);
         textColor(MUTED);
         doc.text(dates, pageW - right, y, { align: "right" });
       }
-      y += 8.8;
+      y += 8.6;
       for (const detail of edu.details || []) {
-        y = pdfText(doc, detail, left + 5, y, contentW - 5, 7.25, "normal", 8.25);
+        if (overflowed) break;
+        blockText(detail, left + 5, contentW - 5, 7.15, 8.15, "normal");
       }
     }
   }
 
-  if (candidate.certifications.length) {
+  if (candidate.certifications.length && !overflowed) {
     section("Certifications");
-    y = pdfText(doc, candidate.certifications.join(" | "), left, y, contentW, 7.2, "normal", 8.3);
+    blockText(candidate.certifications.join(" | "), left, contentW, 7.1, 8.1, "normal");
   }
-  return doc.output("blob");
+
+  return { doc, y, overflowed };
+}
+
+function chooseOnePagePdf(candidate) {
+  const variants = [
+    candidatePdfVariant(candidate, { projectCap: 3, projectBulletCap: 2, expCapPerEntry: 99 }),
+    candidatePdfVariant(candidate, { projectCap: 2, projectBulletCap: 2, expCapPerEntry: 99 }),
+    candidatePdfVariant(candidate, { projectCap: 2, projectBulletCap: 1, expCapPerEntry: 4 }),
+    candidatePdfVariant(candidate, { projectCap: 1, projectBulletCap: 1, expCapPerEntry: 4 }),
+  ];
+
+  const successful = [];
+  for (const variant of variants) {
+    for (const spec of PDF_LAYOUTS) {
+      const rendered = renderCandidatePdf(variant, spec);
+      if (!rendered.overflowed && rendered.y <= 768) {
+        successful.push({ ...rendered, spec, variant, distance: Math.abs(744 - rendered.y) });
+      }
+    }
+    if (successful.length) break;
+  }
+
+  if (!successful.length) {
+    const fallback = renderCandidatePdf(
+      candidatePdfVariant(candidate, { projectCap: 1, projectBulletCap: 1, expCapPerEntry: 3 }),
+      PDF_LAYOUTS[2]
+    );
+    return fallback.doc;
+  }
+
+  successful.sort((a, b) => a.distance - b.distance);
+  return successful[0].doc;
+}
+
+function candidatePdfBlob(candidate) {
+  return chooseOnePagePdf(candidate).output("blob");
 }
 
 async function downloadPdfResume() {
