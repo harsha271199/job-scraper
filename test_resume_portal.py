@@ -200,7 +200,7 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn("clean(job?.title)", js)
         self.assertIn("DEFAULT_FOCUS", js)
         self.assertIn("resolveFocus", js)
-        self.assertIn("const MAX_PROJECTS = 2", js)
+        self.assertIn("const MAX_PROJECTS = 3", js)
         self.assertIn("Download PDF + Open Application", html)
         self.assertIn('id="downloadPdf"', html)
         self.assertIn('id="downloadDocx"', html)
