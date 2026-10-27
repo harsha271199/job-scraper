@@ -1,6 +1,31 @@
 # 📢 Job Listings for Harsha — October 26, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-26 17:06:32 MST
+
+📊 **9 new jobs this batch:**
+- Anthropic: 1 job
+- Apple: 1 job
+- Baseten: 2 jobs
+- Booz Allen Hamilton: 2 jobs
+- Motorola Solutions: 1 job
+- OpenAI: 1 job
+- Waymo: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | Remote-Friendly (Travel Required) | San Francisco, CA | Security Data Engineer | [Apply](https://harsha271199.github.io/job-scraper/?job=62c6fdfe8ba62789) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-26T18:47:43-04:00 |
+| **Apple** | N/A | Software Engineer - Developer Productivity Engineering | [Apply](https://jobs.apple.com/en-us/details/200691740-3337/software-engineer-developer-productivity-engineering?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f72b441b4c01bbfa) | [Careers](https://jobs.apple.com/en-us/search) | Oct 26, 2026 |
+| **Baseten** | San Francisco | Software Engineer, Compute and Isolation | [Apply](https://jobs.ashbyhq.com/baseten/7c0ba27d-2f09-42f2-9277-1b756076b00b) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1d652cfaa1818168) | [Careers](https://jobs.ashbyhq.com/baseten) | 2026-10-26T23:47:29.816+00:00 |
+| **Baseten** | San Francisco | Software Engineer, Networking (Agent Infra) | [Apply](https://jobs.ashbyhq.com/baseten/d7e9ee32-dee8-459f-9d8a-538d65df51ae) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=81b2c48f5dda32ea) | [Careers](https://jobs.ashbyhq.com/baseten) | 2026-10-26T23:51:31.378+00:00 |
+| **Booz Allen Hamilton** | McLean, VA | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Analyst_R0252346) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7aec15934f50336d) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0252365) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=12790bcf74c545e6) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Motorola Solutions** | Schaumburg, IL | Data Scientist | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Data-Scientist_R64936) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ea0a650d5564d237) | [Careers](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | Posted Today |
+| **OpenAI** | San Francisco | Software Engineer, Physical Engineering | [Apply](https://jobs.ashbyhq.com/openai/2c646ef9-6f93-4124-9d51-964d2c5aa783) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8ab38dd8ace0b13d) | [Careers](https://openai.com/careers/search/) | 2026-10-26T22:18:02.107+00:00 |
+| **Waymo** | Mountain View, CA, USA | Onboard Developer Platform Software Engineer | [Apply](https://careers.withwaymo.com/jobs?gh_jid=7461052) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=af892db9f4b79991) | [Careers](https://boards.greenhouse.io/waymo) | 2025-12-15T16:24:08-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-26 13:34:34 MST
 
 📊 **5 new jobs this batch:**
