@@ -632,7 +632,7 @@ function groupedSkills(skills) {
 
 async function candidateBlob(candidate) {
   const children = [];
-  children.push(textParagraph(candidate.contact.name, { bold: true, size: 30, center: true, after: 20, color: "8C1D40" }));
+  children.push(textParagraph(candidate.contact.name, { bold: true, size: 30, center: true, after: 20, color: "1F4E79" }));
   children.push(textParagraph(candidate.headline, { bold: true, size: 19, center: true, after: 18 }));
   children.push(textParagraph(candidate.descriptor, { size: 16, center: true, after: 30 }));
 
@@ -648,7 +648,7 @@ async function candidateBlob(candidate) {
   children.push(textParagraph(candidate.summary, { after: 45 }));
   if (candidate.metrics.length) {
     const metricLine = candidate.metrics.map((m) => `${m.value} — ${m.label}`).join("   |   ");
-    children.push(textParagraph(metricLine, { bold: true, size: 16, center: true, after: 48, color: "8C1D40" }));
+    children.push(textParagraph(metricLine, { bold: true, size: 16, center: true, after: 48, color: "1F4E79" }));
   }
 
   if (candidate.skills.length) {
