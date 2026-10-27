@@ -219,11 +219,14 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn('"Variance Analysis"', js)
         self.assertIn('"software-engineering": {"aramark-data-ops": 8', js)
         self.assertIn("candidateMetrics", js)
+        self.assertIn("metric_catalog", js)
+        self.assertIn("EXPERIENCE_MINIMUMS", js)
+        self.assertIn("candidatePdfVariant", js)
         self.assertIn("resumeMetricStrip", js)
-        self.assertIn("8C1D40", js)
-        self.assertIn("FFC627", js)
-        self.assertIn("ASU-style recruiter-first resume", html)
-        self.assertIn("--asu-maroon:#8C1D40", Path("portal/styles.css").read_text(encoding="utf-8"))
+        self.assertIn("PDF_LAYOUTS", js)
+        self.assertIn("chooseOnePagePdf", js)
+        self.assertIn("one-page recruiter-first resume", html)
+        self.assertIn("--resume-navy:#1F4E79", Path("portal/styles.css").read_text(encoding="utf-8"))
         self.assertEqual(4, rp.JD_SKILL_VERSION)
 
     def test_public_feed_contains_no_resume_private_data(self):
