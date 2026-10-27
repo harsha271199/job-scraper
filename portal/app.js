@@ -747,9 +747,9 @@ function candidatePdfVariant(candidate, options = {}) {
 }
 
 const PDF_LAYOUTS = [
-  { name: "spacious", body: 8.25, bodyLine: 9.85, bullet: 8.0, bulletLine: 9.55, section: 9.0, sectionGap: 12.4, role: 8.3, skill: 7.65, skillLine: 8.95, metricValue: 10.5, metricLabel: 6.0, metricH: 36.5, gapScale: 1.08 },
-  { name: "standard", body: 8.0, bodyLine: 9.45, bullet: 7.75, bulletLine: 9.1, section: 8.8, sectionGap: 11.7, role: 8.15, skill: 7.45, skillLine: 8.65, metricValue: 10.1, metricLabel: 5.8, metricH: 35, gapScale: 1.0 },
-  { name: "compact", body: 7.7, bodyLine: 9.0, bullet: 7.45, bulletLine: 8.65, section: 8.55, sectionGap: 11.0, role: 7.95, skill: 7.2, skillLine: 8.35, metricValue: 9.7, metricLabel: 5.6, metricH: 33.5, gapScale: 0.92 },
+  { name: "full", body: 9.2, bodyLine: 11.3, bullet: 8.7, bulletLine: 10.5, section: 10.0, sectionGap: 13.0, role: 9.0, skill: 8.4, skillLine: 9.7, metricValue: 11.5, metricLabel: 6.5, metricH: 37.0, gapScale: 1.08 },
+  { name: "standard", body: 8.55, bodyLine: 10.25, bullet: 8.15, bulletLine: 9.75, section: 9.35, sectionGap: 12.2, role: 8.55, skill: 7.9, skillLine: 9.15, metricValue: 10.7, metricLabel: 6.1, metricH: 35.5, gapScale: 1.0 },
+  { name: "compact", body: 7.8, bodyLine: 9.15, bullet: 7.5, bulletLine: 8.75, section: 8.6, sectionGap: 11.1, role: 8.0, skill: 7.25, skillLine: 8.4, metricValue: 9.8, metricLabel: 5.6, metricH: 33.5, gapScale: 0.92 },
 ];
 
 function renderCandidatePdf(candidate, spec) {
@@ -971,7 +971,7 @@ function chooseOnePagePdf(candidate) {
     for (const spec of PDF_LAYOUTS) {
       const rendered = renderCandidatePdf(variant, spec);
       if (!rendered.overflowed && rendered.y <= 768) {
-        successful.push({ ...rendered, spec, variant, distance: Math.abs(744 - rendered.y) });
+        successful.push({ ...rendered, spec, variant, distance: Math.abs(714 - rendered.y) });
       }
     }
     if (successful.length) break;
