@@ -25,7 +25,7 @@ FEED_PATH = Path("job_signals.json")
 INVENTORY_PATH = Path("resume_skill_inventory.json")
 REQUEST_TIMEOUT = 12
 PORTAL_CHECK_TIMEOUT = 5
-JD_SKILL_VERSION = 3
+JD_SKILL_VERSION = 4
 TOP_JD_SKILLS = 10
 
 _SIGNAL_TERMS = (
@@ -179,11 +179,13 @@ def portal_is_live(*, force: bool = False) -> bool:
 def classify_profile(title: str, skills: list[str] | None = None) -> str:
     """Classify from the title first; use detected skills only as fallback."""
     title_text = str(title or "").casefold()
+    if "intelligent amhs engineer" in title_text:
+        return "general-technical"
     checks = (
         ("machine-learning", ("data scientist", "machine learning", "ml engineer", "mlops engineer", "ai engineer", "applied scientist", "nlp engineer", "llm engineer")),
         ("data-engineering", ("data engineer", "data platform engineer", "data infrastructure engineer", "analytics engineer", "etl engineer", "pipeline engineer", "big data engineer", "database engineer")),
-        ("data-analytics", ("data analyst", "business analyst", "business intelligence", "bi analyst", "product analyst", "growth analyst", "reporting analyst", "operations analyst", "strategy analyst", "strategic analyst", "innovation analyst", "sales analyst", "revenue analyst", "financial analyst")),
-        ("cloud-devops", ("cloud engineer", "devops", "devsecops", "site reliability", "sre", "platform engineer", "infrastructure engineer", "systems engineer", "azure engineer")),
+        ("data-analytics", ("data analyst", "business analyst", "business intelligence", "bi analyst", "product analyst", "growth analyst", "reporting analyst", "operations analyst", "strategy analyst", "strategic analyst", "innovation analyst", "sales analyst", "revenue analyst", "financial analyst", "production support engineer", "intelligent manufacturing engineer")),
+        ("cloud-devops", ("cloud engineer", "devops", "devsecops", "site reliability", "sre", "platform engineer", "infrastructure engineer", "systems engineer", "azure engineer", "fab it service engineer", "it client services engineer")),
         ("software-engineering", ("software engineer", "software developer", "backend engineer", "backend developer", "full stack", "full-stack", "frontend engineer", "front-end engineer", "application engineer", "swe", "sde")),
     )
     for profile, terms in checks:
