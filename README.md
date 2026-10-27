@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — October 27, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-27 16:49:26 MST
+
+📊 **2 new jobs this batch:**
+- Apple: 1 job
+- Booz Allen Hamilton: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Machine Learning Engineer, Evaluation and Quality, Creativity Apps | [Apply](https://jobs.apple.com/en-us/details/200691707/machine-learning-engineer-evaluation-and-quality-creativity-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=69165888497ba875) | [Careers](https://jobs.apple.com/en-us/search) | Oct 27, 2026 |
+| **Booz Allen Hamilton** | Pearl Harbor, HI | Platform and Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Pearl-Harbor-HI/Platform-and-Data-Engineer_R0252450) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=071b09650854fd98) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-27 14:01:10 MST
 
 📊 **14 new jobs this batch:**
