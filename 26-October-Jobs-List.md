@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — October 26, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-26 17:31:39 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 3 jobs
+- Baseten: 1 job
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Applied AI Engineer, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200691639-0157/applied-ai-engineer-apple-ads?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c7fcd2996233f9d7) | [Careers](https://jobs.apple.com/en-us/search) | Oct 26, 2026 |
+| **Apple** | N/A | Applied AI Engineer, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200691639-0836/applied-ai-engineer-apple-ads?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=51ba6316af4e2efe) | [Careers](https://jobs.apple.com/en-us/search) | Oct 26, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, Answers Knowledge and Information - Proactive | [Apply](https://jobs.apple.com/en-us/details/200686840-3337/machine-learning-engineer-answers-knowledge-and-information-proactive?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2dedba074b9d7178) | [Careers](https://jobs.apple.com/en-us/search) | Oct 26, 2026 |
+| **Baseten** | San Francisco | Software Engineer, Storage Systems (Agent Infra) | [Apply](https://jobs.ashbyhq.com/baseten/ed8ab178-e7a4-4524-8714-7ef55d574c7d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8d1e0d76add10d08) | [Careers](https://jobs.ashbyhq.com/baseten) | 2026-10-27T00:19:32.917+00:00 |
+| **Nvidia** | US, CA, Santa Clara | Software DevOps Engineer, Networking | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Software-DevOps-Engineer--Networking_JR2025882) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4a87b4fba424ce48) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-26 17:06:32 MST
 
 📊 **9 new jobs this batch:**
