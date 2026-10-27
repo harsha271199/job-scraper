@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 27, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-27 12:44:42 MST
+
+📊 **1 new jobs this batch:**
+- Northrop Grumman: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Northrop Grumman** | United States-California-Azusa | 2027 Associate Software Engineer - Azusa CA | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Associate-Software-Engineer---Azusa-CA_R10257890) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cabd4084bca90c95) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-27 12:28:04 MST
 
 📊 **9 new jobs this batch:**
