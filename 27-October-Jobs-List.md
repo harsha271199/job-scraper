@@ -1,6 +1,35 @@
 # 📢 Job Listings for Harsha — October 27, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-27 14:01:10 MST
+
+📊 **14 new jobs this batch:**
+- Booz Allen Hamilton: 3 jobs
+- Databricks: 2 jobs
+- Motorola Solutions: 1 job
+- Northrop Grumman: 4 jobs
+- Target: 1 job
+- xAI: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Camp Lejeune, NC | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Lejeune-NC/Data-Engineer_R0252430) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=36b69378af143bae) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | M365 Platform Engineer and Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/M365-Platform-Engineer-and-Developer_R0251289) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5412922d79380c46) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Ashburn, VA | Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Ashburn-VA/Software-Engineer_R0252417) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=391c83d74040e7a7) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Databricks** | Bellevue, Washington; Mountain View, California; San Francisco, California; Vancouver, Canada | Software Engineer - New Grad (2027 Start) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865698002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a2bbd5c39a689a2a) | [Careers](https://www.databricks.com/company/careers/open-positions) | 2023-08-04T12:20:33-04:00 |
+| **Databricks** | Bellevue, Washington; Mountain View, California | Software Engineer - New Grad, Distributed Data Systems (2027 Start) | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=6865704002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=50490c9a68399ddd) | [Careers](https://www.databricks.com/company/careers/open-positions) | 2023-08-04T12:21:44-04:00 |
+| **Motorola Solutions** | Illinois Remote Work, More... | DevOps Engineer (US Remote) | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Illinois-Remote-Work/DevOps-Engineer--US-Remote-_R69983) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2e2e18a0dc7c363c) | [Careers](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | 2027 Associate Software Engineer - Boulder CO | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Boulder-CO_R10257908) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7c454063a03bf7fc) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-California-Azusa | 2027 Software Engineer Intern - Azusa CA | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Azusa/XMLNAME-2027-Software-Engineer-Intern---Azusa-CA_R10257903) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e685bf19bc7b70a4) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Alabama-Huntsville | Associate Software Engineer (BM/SRM) (26-464) | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/Associate-Software-Engineer--BM-SRM---26-464-_R10257823) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=75f68b93616442e8) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Colorado Springs | Associate Software Engineer - Colorado Springs | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/Associate-Software-Engineer---Colorado-Springs_R10257912) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=45e78b63e3274926) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Target** | 1000 Nicollet Mall, Minneapolis,MN 55403-2542 | Sr Data Analyst, Ecommerce & Product Analytics (Experimentation, Math/Stats, A/B testing, ML) | [Apply](https://target.wd5.myworkdayjobs.com/en-US/targetcareers/job/1000-Nicollet-Mall-MinneapolisMN-55403-2542/Sr-Data-Analyst--Ecommerce---Product-Analytics--Experimentation--Math-Stats--A-B-testing--ML-_R0000476814) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0b46c5f6768955e3) | [Careers](https://target.wd5.myworkdayjobs.com/en-US/targetcareers) | Posted Today |
+| **xAI** | Palo Alto, CA; New York, NY | Software Engineer, iOS | [Apply](https://job-boards.greenhouse.io/xai/jobs/4985386007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7d0fa0a47715e6a7) | [Careers](https://boards.greenhouse.io/xai) | 2025-11-18T14:26:38-05:00 |
+| **xAI** | Palo Alto, CA | Software Engineer, RL Inference | [Apply](https://job-boards.greenhouse.io/xai/jobs/5180223007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=63da45e43b471964) | [Careers](https://boards.greenhouse.io/xai) | 2026-07-06T10:59:58-04:00 |
+| **xAI** | Palo Alto, CA | Software Engineer, RL Training Framework | [Apply](https://job-boards.greenhouse.io/xai/jobs/5186992007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1dc7b041700c7ee5) | [Careers](https://boards.greenhouse.io/xai) | 2026-07-14T15:52:27-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-27 12:44:42 MST
 
 📊 **1 new jobs this batch:**
