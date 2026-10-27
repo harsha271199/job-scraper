@@ -26,6 +26,11 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertEqual("data-analytics", rp.classify_profile("Data Analyst"))
         self.assertEqual("data-analytics", rp.classify_profile("Strategy & Innovation Analyst"))
         self.assertEqual("data-analytics", rp.classify_profile("Sales Analyst"))
+        self.assertEqual("cloud-devops", rp.classify_profile("Fab IT Service Engineer"))
+        self.assertEqual("cloud-devops", rp.classify_profile("IT Client Services Engineer"))
+        self.assertEqual("data-analytics", rp.classify_profile("Production Support Engineer"))
+        self.assertEqual("data-analytics", rp.classify_profile("Intelligent Manufacturing Engineer"))
+        self.assertEqual("general-technical", rp.classify_profile("Intelligent AMHS Engineer"))
         self.assertEqual(
             "data-engineering",
             rp.classify_profile("Data Engineer", ["Machine Learning", "Python"]),
@@ -213,6 +218,13 @@ class ResumePortalFeedTests(unittest.TestCase):
         self.assertIn('"Operational Analytics"', js)
         self.assertIn('"Variance Analysis"', js)
         self.assertIn('"software-engineering": {"aramark-data-ops": 8', js)
+        self.assertIn("candidateMetrics", js)
+        self.assertIn("resumeMetricStrip", js)
+        self.assertIn("8C1D40", js)
+        self.assertIn("FFC627", js)
+        self.assertIn("ASU-style recruiter-first resume", html)
+        self.assertIn("--asu-maroon:#8C1D40", Path("portal/styles.css").read_text(encoding="utf-8"))
+        self.assertEqual(4, rp.JD_SKILL_VERSION)
 
     def test_public_feed_contains_no_resume_private_data(self):
         record = rp.build_record({
