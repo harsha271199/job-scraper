@@ -185,12 +185,12 @@ function profileDescriptor(profile) {
 
 function profileSummary(profile) {
   const summaries = {
-    "data-engineering": "Data engineer with 3+ years across Azure cloud engineering and operational data platforms. Built BigQuery ELT and PostgreSQL/Supabase systems handling 5,000+ records per event, plus Kafka, Redshift, dbt, and Airflow projects.",
-    "software-engineering": "Software engineer with full-stack JavaScript/PostgreSQL/Supabase experience and 2+ years in Azure production engineering. Built a role-based platform for a 45,000+ seat venue, real-estate websites for two clients, and cloud automation used in production support.",
-    "cloud-devops": "Cloud/DevOps engineer with 2+ years on a Microsoft Azure VM vendor team, progressing from Junior Engineer to SME. Guided 40–50 investigations a week and automated Azure work with PowerShell, Terraform, Docker, and Kubernetes.",
-    "machine-learning": "Data/ML engineer and M.S. Data Science candidate with PyTorch, NLP, streaming pipelines, and GPU/HPC experience. Fine-tuned Qwen2.5-Coder-7B on a 624K+ row dataset and brings 2+ years of Azure engineering experience.",
-    "data-analytics": "Data analyst with 3+ years across operational analytics and cloud engineering. Uses SQL, Excel, BigQuery, and PostgreSQL to analyze high-volume event operations, including $200K+ football sales per game, 5,000+ records per event, and validation workflows that improved discrepancy detection by 30%.",
-    "general-technical": "Engineer with 3+ years across Azure cloud infrastructure, operational data platforms, full-stack web development, and technical projects. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University."
+    "data-engineering": "Data engineer with 4+ years of total experience across Azure cloud engineering, operational data platforms, and web development. Built BigQuery ELT and PostgreSQL/Supabase systems handling 5,000+ records per event, plus Kafka, Redshift, dbt, and Airflow projects.",
+    "software-engineering": "Software engineer with 4+ years of total experience across full-stack development, operational platforms, and Azure production engineering. Built a JavaScript/PostgreSQL/Supabase platform for a 45,000+ seat venue, real-estate websites for two clients, and cloud automation used in production support.",
+    "cloud-devops": "Cloud/DevOps engineer with 4+ years of total experience, including 2+ years on a Microsoft Azure VM vendor team where I progressed from Junior Engineer to SME. Guided 40–50 investigations a week and automated Azure work with PowerShell, Terraform, Docker, and Kubernetes.",
+    "machine-learning": "Data/ML engineer with 4+ years of total experience across cloud engineering, operational data, and applied ML. Fine-tuned Qwen2.5-Coder-7B on a 624K+ row dataset and brings hands-on PyTorch, NLP, streaming-pipeline, and GPU/HPC experience.",
+    "data-analytics": "Data analyst with 4+ years of total experience across operational analytics, cloud engineering, and reporting. Uses SQL, Excel, BigQuery, and PostgreSQL to analyze high-volume event operations, including $200K+ football sales per game, 5,000+ records per event, and validation workflows that improved discrepancy detection by 30%.",
+    "general-technical": "Engineer with 4+ years of total experience across Azure cloud infrastructure, operational data platforms, full-stack web development, and technical projects. Currently completing an M.S. in Data Science, Analytics & Engineering at Arizona State University with a 4.0 GPA."
   };
   return summaries[profile] || summaries["general-technical"];
 }
@@ -358,6 +358,27 @@ function selectProjects(master, job, profile) {
   return projects.filter((p) => p.selectedBullets.length && p._score > 0).slice(0, MAX_PROJECTS);
 }
 
+function normalizeMetrics(values) {
+  return (Array.isArray(values) ? values : [])
+    .map((item) => ({
+      value: clean(item?.value),
+      label: clean(item?.label),
+    }))
+    .filter((item) => item.value && item.label)
+    .slice(0, 4);
+}
+
+function candidateMetrics(master, job, profile) {
+  const titleKey = key(job?.title);
+  for (const [title, values] of Object.entries(master?.role_metrics || {})) {
+    if (key(title) === titleKey) {
+      const exact = normalizeMetrics(values);
+      if (exact.length) return exact;
+    }
+  }
+  return normalizeMetrics(master?.profile_metrics?.[profile] || master?.profile_metrics?.["general-technical"] || []);
+}
+
 function validateMaster(master) {
   if (!master || typeof master !== "object") throw new Error("The selected JSON is not a resume master object.");
   if (!clean(master?.contact?.name)) throw new Error("master.contact.name is required.");
@@ -398,6 +419,7 @@ function buildCandidate(master, job) {
     headline: targetHeadline(job, profile),
     descriptor: profileDescriptor(profile),
     summary: profileSummary(profile),
+    metrics: candidateMetrics(master, job, profile),
     skills: skillBundle.all,
     topJdSkills: skillBundle.topJd,
     jdSkills: skillBundle.jd,
@@ -435,6 +457,9 @@ function renderCandidate(candidate) {
   const parts = [];
   parts.push(`<h3>TARGET POSITION</h3><p><strong>${escapeHtml(candidate.headline)}</strong> <span class="tiny muted">• ${escapeHtml(candidate.descriptor)}</span></p>`);
   parts.push(`<h3>SUMMARY</h3><p>${escapeHtml(candidate.summary)}</p>`);
+  if (candidate.metrics.length) {
+    parts.push(`<div class="resumeMetricStrip">${candidate.metrics.map((m) => `<div><strong>${escapeHtml(m.value)}</strong><span>${escapeHtml(m.label)}</span></div>`).join("")}</div>`);
+  }
   parts.push(`<h3>RELEVANT VERIFIED SKILLS</h3><p>${escapeHtml(candidate.skills.join(" • ") || "No verified skills available")}</p>`);
   if (candidate.topJdSkills.length) {
     parts.push(`<p class="tiny muted"><strong>Top JD skills detected:</strong> ${escapeHtml(candidate.topJdSkills.join(" • "))}</p>`);
@@ -451,6 +476,7 @@ function renderCandidate(candidate) {
 
   parts.push("<h3>EXPERIENCE</h3>");
   for (const exp of candidate.experience) {
+    if (!exp.selectedBullets.length) continue;
     parts.push(`<h4>${escapeHtml(exp.title)} — ${escapeHtml(exp.company)}</h4>`);
     parts.push(`<p class="muted">${escapeHtml([exp.location, exp.start && exp.end ? `${exp.start} – ${exp.end}` : ""].filter(Boolean).join(" • "))}</p>`);
     if (exp.matchedSignals.length) {
@@ -483,6 +509,7 @@ function textParagraph(text, options = {}) {
       italics: !!options.italics,
       size: options.size || 20,
       font: "Arial",
+      color: options.color || undefined,
     })],
   });
 }
@@ -490,8 +517,8 @@ function textParagraph(text, options = {}) {
 function sectionHeading(text) {
   return new Paragraph({
     spacing: { before: 125, after: 45 },
-    border: { bottom: { color: "AAB2C0", size: 6, style: BorderStyle.SINGLE } },
-    children: [new TextRun({ text, bold: true, size: 20, font: "Arial" })],
+    border: { bottom: { color: "FFC627", size: 8, style: BorderStyle.SINGLE } },
+    children: [new TextRun({ text, bold: true, size: 20, font: "Arial", color: "8C1D40" })],
   });
 }
 
@@ -544,7 +571,7 @@ function groupedSkills(skills) {
 
 async function candidateBlob(candidate) {
   const children = [];
-  children.push(textParagraph(candidate.contact.name, { bold: true, size: 30, center: true, after: 20 }));
+  children.push(textParagraph(candidate.contact.name, { bold: true, size: 30, center: true, after: 20, color: "8C1D40" }));
   children.push(textParagraph(candidate.headline, { bold: true, size: 19, center: true, after: 18 }));
   children.push(textParagraph(candidate.descriptor, { size: 16, center: true, after: 30 }));
 
@@ -557,7 +584,11 @@ async function candidateBlob(candidate) {
   children.push(textParagraph(contactLine, { center: true, size: 17, after: 75 }));
 
   children.push(sectionHeading("SUMMARY"));
-  children.push(textParagraph(candidate.summary, { after: 55 }));
+  children.push(textParagraph(candidate.summary, { after: 45 }));
+  if (candidate.metrics.length) {
+    const metricLine = candidate.metrics.map((m) => `${m.value} — ${m.label}`).join("   |   ");
+    children.push(textParagraph(metricLine, { bold: true, size: 16, center: true, after: 48, color: "8C1D40" }));
+  }
 
   if (candidate.skills.length) {
     children.push(sectionHeading("TECHNICAL SKILLS"));
@@ -574,6 +605,7 @@ async function candidateBlob(candidate) {
 
   children.push(sectionHeading("EXPERIENCE"));
   for (const exp of candidate.experience) {
+    if (!exp.selectedBullets.length) continue;
     children.push(roleParagraph(exp));
     for (const bullet of exp.selectedBullets) children.push(bulletParagraph(bullet.text));
   }
@@ -641,58 +673,185 @@ function pdfText(doc, text, x, y, width, size = 8, style = "normal", lineHeight 
 function candidatePdfBlob(candidate) {
   const doc = new jsPDF({ orientation: "portrait", unit: "pt", format: "letter", compress: true });
   doc.setProperties({ title: "", subject: "", author: "", keywords: "", creator: "" });
-  const pageW = 612, pageH = 792, left = 32, right = 32, contentW = 548, bottom = 32;
-  let y = 35;
-  const ensure = (needed = 28) => { if (y + needed > pageH - bottom) { doc.addPage(); y = 34; } };
+
+  const pageW = 612, pageH = 792, left = 30, right = 30, contentW = 552, bottom = 26;
+  const MAROON = [140, 29, 64], GOLD = [255, 198, 39], TEXT = [31, 41, 55], MUTED = [75, 85, 99], PALE = [255, 248, 222];
+  let y = 30;
+
+  const textColor = (rgb) => doc.setTextColor(rgb[0], rgb[1], rgb[2]);
+  const ensure = (needed = 28) => {
+    if (y + needed > pageH - bottom) {
+      doc.addPage();
+      y = 30;
+    }
+  };
   const section = (title) => {
-    ensure(24); y += 5; doc.setFont("helvetica", "bold"); doc.setFontSize(8.6); doc.text(title.toUpperCase(), left, y);
-    doc.setDrawColor(80); doc.setLineWidth(0.55); doc.line(left, y + 3, pageW - right, y + 3); y += 12;
+    ensure(22);
+    y += 4;
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(8.8);
+    textColor(MAROON);
+    doc.text(title.toUpperCase(), left, y);
+    doc.setDrawColor(GOLD[0], GOLD[1], GOLD[2]);
+    doc.setLineWidth(1.15);
+    doc.line(left, y + 3.3, pageW - right, y + 3.3);
+    y += 12;
+    textColor(TEXT);
   };
   const bullet = (text) => {
-    ensure(22); doc.setFont("helvetica", "normal"); doc.setFontSize(7.9);
-    const lines = doc.splitTextToSize(clean(text), contentW - 13); doc.text("-", left + 2, y); doc.text(lines, left + 11, y);
-    y += Math.max(1, lines.length) * 9.3 + 2.4;
+    ensure(22);
+    doc.setFont("helvetica", "normal");
+    doc.setFontSize(7.8);
+    textColor(TEXT);
+    const lines = doc.splitTextToSize(clean(text), contentW - 13);
+    doc.text("•", left + 1, y);
+    doc.text(lines, left + 11, y);
+    y += Math.max(1, lines.length) * 9.15 + 2.1;
   };
-  doc.setFont("helvetica", "bold"); doc.setFontSize(16); doc.text(clean(candidate.contact.name).toUpperCase(), pageW / 2, y, { align: "center" });
-  y += 16; doc.setFontSize(9); doc.text(clean(candidate.headline), pageW / 2, y, { align: "center" });
-  y += 11; doc.setFont("helvetica", "normal"); doc.setFontSize(7.5); doc.text(clean(candidate.descriptor), pageW / 2, y, { align: "center" });
+  const metrics = () => {
+    if (!candidate.metrics?.length) return;
+    ensure(42);
+    const boxH = 35;
+    const boxW = contentW / candidate.metrics.length;
+    doc.setFillColor(PALE[0], PALE[1], PALE[2]);
+    doc.setDrawColor(MAROON[0], MAROON[1], MAROON[2]);
+    doc.setLineWidth(0.55);
+    doc.rect(left, y, contentW, boxH, "FD");
+    candidate.metrics.forEach((m, i) => {
+      const x = left + i * boxW;
+      if (i > 0) {
+        doc.setDrawColor(GOLD[0], GOLD[1], GOLD[2]);
+        doc.setLineWidth(0.45);
+        doc.line(x, y, x, y + boxH);
+      }
+      doc.setFont("helvetica", "bold");
+      doc.setFontSize(10.2);
+      textColor(MAROON);
+      doc.text(clean(m.value), x + boxW / 2, y + 12, { align: "center" });
+      doc.setFont("helvetica", "normal");
+      doc.setFontSize(5.9);
+      textColor(MUTED);
+      const label = doc.splitTextToSize(clean(m.label), boxW - 10).slice(0, 2);
+      doc.text(label, x + boxW / 2, y + 21, { align: "center" });
+    });
+    y += boxH + 4;
+    textColor(TEXT);
+  };
+
+  doc.setFont("helvetica", "bold");
+  doc.setFontSize(17.2);
+  textColor(MAROON);
+  doc.text(clean(candidate.contact.name).toUpperCase(), pageW / 2, y, { align: "center" });
+  y += 15;
+
+  doc.setFontSize(9.2);
+  textColor(TEXT);
+  doc.text(clean(candidate.headline), pageW / 2, y, { align: "center" });
   y += 10;
+
+  doc.setFont("helvetica", "normal");
+  doc.setFontSize(7.0);
+  textColor(MUTED);
+  doc.text(clean(candidate.descriptor), pageW / 2, y, { align: "center" });
+  y += 9;
+
   const contact = [candidate.contact.location, candidate.contact.phone, candidate.contact.email, ...(candidate.contact.links || [])].filter(Boolean).join(" | ");
-  const contactLines = doc.splitTextToSize(contact, contentW); doc.text(contactLines, pageW / 2, y, { align: "center" }); y += contactLines.length * 8.2 + 3;
-  section("Summary"); y = pdfText(doc, candidate.summary, left, y, contentW, 8.1, "normal", 9.8) + 2;
+  const contactLines = doc.splitTextToSize(contact, contentW);
+  doc.setFontSize(7.1);
+  doc.text(contactLines, pageW / 2, y, { align: "center" });
+  y += contactLines.length * 7.8 + 3;
+
+  doc.setFillColor(GOLD[0], GOLD[1], GOLD[2]);
+  doc.rect(left, y, contentW, 3.2, "F");
+  y += 5;
+  doc.setDrawColor(MAROON[0], MAROON[1], MAROON[2]);
+  doc.setLineWidth(0.8);
+  doc.line(left, y, pageW - right, y);
+  y += 3;
+
+  section("Summary");
+  y = pdfText(doc, candidate.summary, left, y, contentW, 8.0, "normal", 9.55) + 1.5;
+  metrics();
+
   if (candidate.skills.length) {
     section("Technical Skills");
     for (const [label, values] of groupedSkills(candidate.skills)) {
-      ensure(16); doc.setFont("helvetica", "bold"); doc.setFontSize(7.75); doc.text(label + ":", left, y);
-      const labelW = doc.getTextWidth(label + ": "); doc.setFont("helvetica", "normal");
-      const lines = doc.splitTextToSize(values.join(", "), contentW - labelW); doc.text(lines, left + labelW, y); y += Math.max(1, lines.length) * 9.1 + 1.8;
+      ensure(15);
+      doc.setFont("helvetica", "bold");
+      doc.setFontSize(7.45);
+      textColor(TEXT);
+      doc.text(label + ":", left, y);
+      const labelW = doc.getTextWidth(label + ": ");
+      doc.setFont("helvetica", "normal");
+      const lines = doc.splitTextToSize(values.join(", "), contentW - labelW);
+      doc.text(lines, left + labelW, y);
+      y += Math.max(1, lines.length) * 8.75 + 1.5;
     }
   }
+
   section("Experience");
   for (const exp of candidate.experience) {
-    ensure(36); doc.setFont("helvetica", "bold"); doc.setFontSize(8.35);
-    const leftText = [clean(exp.title), clean(exp.company)].filter(Boolean).join(" | "); doc.text(leftText, left, y);
-    const dateText = exp.start && exp.end ? `${exp.start} - ${exp.end}` : ""; if (dateText) doc.text(dateText, pageW - right, y, { align: "right" });
-    y += 10; for (const item of exp.selectedBullets) bullet(item.text); y += 1;
+    if (!exp.selectedBullets?.length) continue;
+    ensure(34);
+    doc.setFont("helvetica", "bold");
+    doc.setFontSize(8.15);
+    textColor(TEXT);
+    const leftText = [clean(exp.title), clean(exp.company)].filter(Boolean).join(" | ");
+    doc.text(leftText, left, y);
+    const dateText = exp.start && exp.end ? `${exp.start} - ${exp.end}` : "";
+    if (dateText) {
+      doc.setFont("helvetica", "normal");
+      doc.setFontSize(7.2);
+      textColor(MUTED);
+      doc.text(dateText, pageW - right, y, { align: "right" });
+    }
+    y += 9.4;
+    for (const item of exp.selectedBullets) bullet(item.text);
+    y += 0.5;
   }
+
   if (candidate.projects.length) {
-    section("Projects");
+    section("Selected Projects");
     for (const project of candidate.projects) {
-      ensure(29); doc.setFont("helvetica", "bold"); doc.setFontSize(8.25);
-      const projectLine = [clean(project.name), clean(project.subtitle)].filter(Boolean).join(" | "); doc.text(doc.splitTextToSize(projectLine, contentW), left, y);
-      y += 10; for (const item of project.selectedBullets) bullet(item.text); y += 1;
+      ensure(27);
+      doc.setFont("helvetica", "bold");
+      doc.setFontSize(8.0);
+      textColor(TEXT);
+      const projectLine = [clean(project.name), clean(project.subtitle)].filter(Boolean).join(" | ");
+      const projectLines = doc.splitTextToSize(projectLine, contentW);
+      doc.text(projectLines, left, y);
+      y += Math.max(1, projectLines.length) * 8.8 + 1;
+      for (const item of project.selectedBullets) bullet(item.text);
     }
   }
+
   if (candidate.education.length) {
     section("Education");
     for (const edu of candidate.education) {
-      ensure(20); doc.setFont("helvetica", "bold"); doc.setFontSize(8.0);
-      const schoolLine = [clean(edu.school), clean(edu.degree)].filter(Boolean).join(" | "); doc.text(schoolLine, left, y);
-      const dates = edu.start && edu.end ? `${edu.start} - ${edu.end}` : clean(edu.end); if (dates) doc.text(dates, pageW - right, y, { align: "right" });
-      y += 9.5; for (const detail of edu.details || []) y = pdfText(doc, detail, left + 5, y, contentW - 5, 7.6, "normal", 8.8);
+      ensure(18);
+      doc.setFont("helvetica", "bold");
+      doc.setFontSize(7.8);
+      textColor(TEXT);
+      const schoolLine = [clean(edu.school), clean(edu.degree)].filter(Boolean).join(" | ");
+      doc.text(schoolLine, left, y);
+      const dates = edu.start && edu.end ? `${edu.start} - ${edu.end}` : clean(edu.end);
+      if (dates) {
+        doc.setFont("helvetica", "normal");
+        doc.setFontSize(7.0);
+        textColor(MUTED);
+        doc.text(dates, pageW - right, y, { align: "right" });
+      }
+      y += 8.8;
+      for (const detail of edu.details || []) {
+        y = pdfText(doc, detail, left + 5, y, contentW - 5, 7.25, "normal", 8.25);
+      }
     }
   }
-  if (candidate.certifications.length) { section("Certifications"); y = pdfText(doc, candidate.certifications.join(" | "), left, y, contentW, 7.6, "normal", 8.8); }
+
+  if (candidate.certifications.length) {
+    section("Certifications");
+    y = pdfText(doc, candidate.certifications.join(" | "), left, y, contentW, 7.2, "normal", 8.3);
+  }
   return doc.output("blob");
 }
 
