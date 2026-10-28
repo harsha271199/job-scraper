@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — October 28, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-28 16:36:06 MST
+
+📊 **6 new jobs this batch:**
+- Apple: 6 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Applied AI Engineer | [Apply](https://jobs.apple.com/en-us/details/200689594-0836/applied-ai-engineer?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c623137cbd500a66) | [Careers](https://jobs.apple.com/en-us/search) | Oct 28, 2026 |
+| **Apple** | N/A | Data Engineer, Apple Ads | [Apply](https://jobs.apple.com/en-us/details/200692322-0157/data-engineer-apple-ads?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1972a5d199729de9) | [Careers](https://jobs.apple.com/en-us/search) | Oct 28, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, Computer Vision | [Apply](https://jobs.apple.com/en-us/details/200691173-0836/machine-learning-engineer-computer-vision?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=74067588ce3e70da) | [Careers](https://jobs.apple.com/en-us/search) | Oct 28, 2026 |
+| **Apple** | N/A | Site Reliability Engineer, Enterprise Technology Services | [Apply](https://jobs.apple.com/en-us/details/200686672-0157/site-reliability-engineer-enterprise-technology-services?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5ad3e0064f1a0eda) | [Careers](https://jobs.apple.com/en-us/search) | Oct 28, 2026 |
+| **Apple** | N/A | Software Development Engineer in Test (SDET), Creative Apps | [Apply](https://jobs.apple.com/en-us/details/200692290-0836/software-development-engineer-in-test-sdet-creative-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=319b6cc6baf3fc23) | [Careers](https://jobs.apple.com/en-us/search) | Oct 28, 2026 |
+| **Apple** | N/A | Software Development Engineer in Test (SDET), Creative Apps | [Apply](https://jobs.apple.com/en-us/details/200692290-3543/software-development-engineer-in-test-sdet-creative-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7b924688c656d15c) | [Careers](https://jobs.apple.com/en-us/search) | Oct 28, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-10-28 16:16:55 MST
 
 📊 **14 new jobs this batch:**
