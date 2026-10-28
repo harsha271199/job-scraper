@@ -447,6 +447,53 @@ function validateMaster(master) {
   }
 }
 
+
+// User-approved public experience bullet bank. Never substitute an unverified metric.
+const APPROVED_ROLE_BULLETS = {
+  "software-engineering": [
+    "Designed and built a full-stack workforce operations platform using JavaScript, PostgreSQL, and Supabase, including database schemas, backend logic, and role-based reporting.",
+    "Implemented authentication, role-based access control, and audit logging to protect workforce records and track changes across application workflows.",
+    "Load-tested the platform with 400+ concurrent users, achieving a 100% success rate in the recorded test.",
+    "Built SQL-backed reporting features and validation workflows for operational records, reducing manual data cleanup by 20%.",
+    "Developed application functionality supporting workforce operations at a 45,000+ seat athletics venue.",
+    "Built responsive web interfaces and data-entry workflows to help staff access scheduling and workforce information."
+  ],
+  "data-analytics": [
+    "Analyzed and reconciled 5,000+ workforce records per event cycle using Excel and SQL to identify missing records, duplicates, and scheduling discrepancies.",
+    "Supported reporting for football operations generating $200K+ in sales per high-attendance game, tracking staffing and operational activity.",
+    "Built Excel reporting and SQL validation workflows that improved discrepancy detection by 30%.",
+    "Standardized scheduling, reporting, and documentation processes, reducing manual data cleanup by 20%.",
+    "Developed operational reporting for 400+ student employees, helping teams track scheduling, attendance, and workforce activity."
+  ],
+  "data-engineering": [
+    "Designed PostgreSQL/Supabase database schemas and SQL-based transformation workflows for workforce tracking and operational reporting.",
+    "Built ELT workflows to prepare operational data for BigQuery reporting and downstream analysis.",
+    "Processed and reconciled 5,000+ workforce records per event cycle, validating data completeness, consistency, and accuracy.",
+    "Implemented data validation checks that improved discrepancy detection by 30%.",
+    "Built role-based access controls and audit logging to track changes to operational records.",
+    "Standardized data preparation and reporting workflows, reducing manual cleanup by 20%."
+  ]
+};
+const CONFIRMED_LTM_DEVOPS_BULLETS = [
+  "Built and maintained CI/CD pipelines using Azure DevOps Pipelines, Jenkins, and GitHub Actions for infrastructure deployment and configuration workflows.",
+  "Used Terraform and Ansible to automate Azure infrastructure provisioning and configuration.",
+  "Developed PowerShell and Azure CLI scripts to automate VM provisioning, configuration changes, and infrastructure troubleshooting.",
+  "Worked with Docker and Kubernetes for containerized workloads, deployment configuration, and troubleshooting."
+];
+function approvedExperienceEntry(entry, profile) {
+  const isAramark = entry.id === "aramark-data-ops" || /aramark/i.test(clean(entry.company));
+  const isLtm = entry.id === "ltimindtree-cloud" || /ltimindtree|\bltm\b/i.test(clean(entry.company));
+  let additions = [];
+  if (isAramark) additions = APPROVED_ROLE_BULLETS[profile] || [];
+  if (isLtm && profile === "cloud-devops") additions = CONFIRMED_LTM_DEVOPS_BULLETS;
+  if (!additions.length) return entry;
+  const existing = new Set((entry.bullets || []).map(b => key(b.text)));
+  const newBullets = additions.filter(t => !existing.has(key(t))).map(t => ({
+    text: t, verified: true, skills: [], keywords: []
+  }));
+  return { ...entry, bullets: [...newBullets, ...(entry.bullets || [])] };
+}
+
 function buildCandidate(master, job) {
   validateMaster(master);
   const profile = job.profile || "general-technical";
@@ -457,7 +504,8 @@ function buildCandidate(master, job) {
     top_jd_skills: skillBundle.topJd,
   };
 
-  const experience = (master.experience || []).map((entry) => {
+  const experience = (master.experience || []).map((originalEntry) => {
+    const entry = approvedExperienceEntry(originalEntry, profile);
     const selectedBullets = selectBullets(
       entry,
       scoringJob,
