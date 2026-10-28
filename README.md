@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 28, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-28 06:34:24 MST
+
+📊 **1 new jobs this batch:**
+- Guidehouse: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Guidehouse** | US - MD, Bethesda | Research Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Research-Scientist_45890) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=aafdaf85e346a795) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-28 06:05:19 MST
 
 📊 **6 new jobs this batch:**
