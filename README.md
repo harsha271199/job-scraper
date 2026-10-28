@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 27, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-27 17:46:09 MST
+
+📊 **1 new jobs this batch:**
+- Nvidia: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Nvidia** | US, CA, Santa Clara | Research Scientist, Electronic Design Automation - New College Grad 2026 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Research-Scientist--Electronic-Design-Automation---New-College-Grad-2026_JR2012979) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c118116fb39eceb3) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-27 16:49:26 MST
 
 📊 **2 new jobs this batch:**
