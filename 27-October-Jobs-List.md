@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — October 27, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-27 22:50:53 MST
+
+📊 **4 new jobs this batch:**
+- Boeing: 1 job
+- Mastercard: 1 job
+- Snowflake: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Boeing** | USA - Maryland Heights, MO | Entry-Level Software Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Maryland-Heights-MO/Entry-Level-Software-Engineer_JR2026527992-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=58eb8ebbde018fbe) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-293377) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=042fc503adaaa50b) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **Snowflake** | IN-Pune | Data Engineer | [Apply](https://jobs.ashbyhq.com/snowflake/1af751fb-d53e-43b0-a3bc-6fcc4004cafb) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bb08b05f197d424a) | [Careers](https://careers.snowflake.com/us/en) | 2026-10-28T04:55:42.433+00:00 |
+| **xAI** | Palo Alto, CA | Software Engineer, Mid-training | [Apply](https://job-boards.greenhouse.io/xai/jobs/4965893007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7591f8f10435376c) | [Careers](https://boards.greenhouse.io/xai) | 2025-10-31T19:21:47-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-27 17:46:09 MST
 
 📊 **1 new jobs this batch:**
