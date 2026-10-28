@@ -1,6 +1,186 @@
 {
   "version": 1,
   "jobs": {
+    "a0f6b99283727a4c": {
+      "id": "a0f6b99283727a4c",
+      "company": "xAI",
+      "title": "Software Engineer, Voice Product",
+      "location": "Palo Alto, CA",
+      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5051970007",
+      "official_url": "https://boards.greenhouse.io/xai",
+      "posted": "2026-03-17T12:37:21-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Python",
+        "GitHub"
+      ],
+      "top_jd_skills": [
+        "Python",
+        "GitHub"
+      ],
+      "verified_skills": [
+        "Python",
+        "GitHub"
+      ],
+      "unverified_skills": [],
+      "signal_terms": [
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-10-28T13:09:10.950560+00:00"
+    },
+    "37f12005d4e844a4": {
+      "id": "37f12005d4e844a4",
+      "company": "xAI",
+      "title": "Software Engineer, Imagine Model",
+      "location": "Palo Alto, CA",
+      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5051985007",
+      "official_url": "https://boards.greenhouse.io/xai",
+      "posted": "2026-03-05T19:44:12-05:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Machine Learning",
+        "Python",
+        "PyTorch",
+        "C++",
+        "Apache Spark",
+        "GitHub",
+        "Communication",
+        "Data Quality"
+      ],
+      "top_jd_skills": [
+        "Machine Learning",
+        "Python",
+        "PyTorch",
+        "C++",
+        "Apache Spark",
+        "GitHub",
+        "Communication",
+        "Data Quality"
+      ],
+      "verified_skills": [
+        "Machine Learning",
+        "Python",
+        "PyTorch",
+        "Apache Spark",
+        "GitHub",
+        "Data Quality"
+      ],
+      "unverified_skills": [
+        "C++",
+        "Communication"
+      ],
+      "signal_terms": [
+        "api",
+        "data quality",
+        "machine learning",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-10-28T13:09:10.551995+00:00"
+    },
+    "26bae779968a2b66": {
+      "id": "26bae779968a2b66",
+      "company": "xAI",
+      "title": "Software Engineer, Grok Product",
+      "location": "Palo Alto, CA",
+      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5051984007",
+      "official_url": "https://boards.greenhouse.io/xai",
+      "posted": "2026-03-05T14:44:25-05:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "REST APIs",
+        "Experimentation",
+        "ETL/ELT",
+        "Monitoring",
+        "TypeScript",
+        "Python",
+        "Kubernetes",
+        "Observability",
+        "GitHub"
+      ],
+      "top_jd_skills": [
+        "REST APIs",
+        "Experimentation",
+        "ETL/ELT",
+        "Monitoring",
+        "TypeScript",
+        "Python",
+        "Kubernetes",
+        "Observability",
+        "GitHub"
+      ],
+      "verified_skills": [
+        "REST APIs",
+        "ETL/ELT",
+        "Python",
+        "Kubernetes",
+        "GitHub"
+      ],
+      "unverified_skills": [
+        "Experimentation",
+        "Monitoring",
+        "TypeScript",
+        "Observability"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "data pipelines",
+        "api",
+        "observability",
+        "monitoring",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-10-28T13:09:10.307279+00:00"
+    },
+    "63d1214803976fdc": {
+      "id": "63d1214803976fdc",
+      "company": "Northrop Grumman",
+      "title": "2027 Associate Software Engineer / Software Engineer - Huntsville AL",
+      "location": "United States-Alabama-Huntsville",
+      "apply_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Alabama-Huntsville/XMLNAME-2027-Associate-Software-Engineer---Software-Engineer---Huntsville-AL_R10257986",
+      "official_url": "https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication"
+      ],
+      "top_jd_skills": [
+        "Communication"
+      ],
+      "verified_skills": [],
+      "unverified_skills": [
+        "Communication"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-10-28T13:09:10.088374+00:00"
+    },
+    "ace192788f2f2824": {
+      "id": "ace192788f2f2824",
+      "company": "Apple",
+      "title": "iOS Software Engineer",
+      "location": "N/A",
+      "apply_url": "https://jobs.apple.com/en-us/details/200692106-0836/ios-software-engineer?team=SFTWR",
+      "official_url": "https://jobs.apple.com/en-us/search",
+      "posted": "Oct 28, 2026",
+      "profile": "software-engineering",
+      "detected_skills": [],
+      "top_jd_skills": [],
+      "verified_skills": [],
+      "unverified_skills": [],
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-10-28T13:09:09.664378+00:00"
+    },
     "af8260c57382fb60": {
       "id": "af8260c57382fb60",
       "company": "Northrop Grumman",
@@ -26,7 +206,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:24:02.974395+00:00"
+      "captured_at": "2026-10-28T13:09:07.138615+00:00"
     },
     "954a62798dec4d75": {
       "id": "954a62798dec4d75",
@@ -53,7 +233,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:24:02.588007+00:00"
+      "captured_at": "2026-10-28T13:09:06.741447+00:00"
     },
     "dde078aa8f98145e": {
       "id": "dde078aa8f98145e",
@@ -80,7 +260,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:24:02.163720+00:00"
+      "captured_at": "2026-10-28T13:09:06.354200+00:00"
     },
     "1e008e6227a3ad64": {
       "id": "1e008e6227a3ad64",
@@ -123,7 +303,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:24:01.728828+00:00"
+      "captured_at": "2026-10-28T13:09:05.962890+00:00"
     },
     "04758190d6556de0": {
       "id": "04758190d6556de0",
@@ -163,7 +343,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:24:01.452703+00:00"
+      "captured_at": "2026-10-28T13:09:05.661091+00:00"
     },
     "c4a9146962e2d720": {
       "id": "c4a9146962e2d720",
@@ -183,7 +363,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:24:01.072901+00:00"
+      "captured_at": "2026-10-28T13:09:05.211956+00:00"
     },
     "80e548c03321df9a": {
       "id": "80e548c03321df9a",
@@ -203,7 +383,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:56.894628+00:00"
+      "captured_at": "2026-10-28T13:09:02.307125+00:00"
     },
     "c300cbbea1b5fb8a": {
       "id": "c300cbbea1b5fb8a",
@@ -223,7 +403,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:53.459741+00:00"
+      "captured_at": "2026-10-28T13:09:00.649567+00:00"
     },
     "1dc7b041700c7ee5": {
       "id": "1dc7b041700c7ee5",
@@ -265,7 +445,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:50.989318+00:00"
+      "captured_at": "2026-10-28T13:08:58.114362+00:00"
     },
     "63da45e43b471964": {
       "id": "63da45e43b471964",
@@ -309,7 +489,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:50.751968+00:00"
+      "captured_at": "2026-10-28T13:08:57.855101+00:00"
     },
     "7d0fa0a47715e6a7": {
       "id": "7d0fa0a47715e6a7",
@@ -341,7 +521,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:50.495782+00:00"
+      "captured_at": "2026-10-28T13:08:57.635279+00:00"
     },
     "45e78b63e3274926": {
       "id": "45e78b63e3274926",
@@ -365,7 +545,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:50.172999+00:00"
+      "captured_at": "2026-10-28T13:08:57.398939+00:00"
     },
     "75f68b93616442e8": {
       "id": "75f68b93616442e8",
@@ -407,7 +587,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:49.820174+00:00"
+      "captured_at": "2026-10-28T13:08:56.646417+00:00"
     },
     "7c454063a03bf7fc": {
       "id": "7c454063a03bf7fc",
@@ -431,7 +611,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:49.462467+00:00"
+      "captured_at": "2026-10-28T13:08:53.521475+00:00"
     },
     "36b69378af143bae": {
       "id": "36b69378af143bae",
@@ -484,7 +664,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:49.045197+00:00"
+      "captured_at": "2026-10-28T13:08:53.102228+00:00"
     },
     "69165888497ba875": {
       "id": "69165888497ba875",
@@ -511,7 +691,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:48.647289+00:00"
+      "captured_at": "2026-10-28T13:08:52.590233+00:00"
     },
     "c118116fb39eceb3": {
       "id": "c118116fb39eceb3",
@@ -558,7 +738,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:43.147601+00:00"
+      "captured_at": "2026-10-28T13:08:49.077920+00:00"
     },
     "7591f8f10435376c": {
       "id": "7591f8f10435376c",
@@ -595,7 +775,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:42.543249+00:00"
+      "captured_at": "2026-10-28T13:08:48.441592+00:00"
     },
     "bb08b05f197d424a": {
       "id": "bb08b05f197d424a",
@@ -613,7 +793,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:42.245340+00:00"
+      "captured_at": "2026-10-28T13:08:48.203361+00:00"
     },
     "58eb8ebbde018fbe": {
       "id": "58eb8ebbde018fbe",
@@ -662,7 +842,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:41.996240+00:00"
+      "captured_at": "2026-10-28T13:08:47.758113+00:00"
     },
     "0a9810dbee2663a9": {
       "id": "0a9810dbee2663a9",
@@ -709,7 +889,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:41.579703+00:00"
+      "captured_at": "2026-10-28T13:08:47.311400+00:00"
     },
     "9e2ebd782645061a": {
       "id": "9e2ebd782645061a",
@@ -753,7 +933,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:39.234153+00:00"
+      "captured_at": "2026-10-28T13:08:46.801145+00:00"
     },
     "d5d7c767655a47b5": {
       "id": "d5d7c767655a47b5",
@@ -790,47 +970,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:37.187404+00:00"
-    },
-    "162591c5f4f70f00": {
-      "id": "162591c5f4f70f00",
-      "company": "Roblox",
-      "title": "Software Engineer, Frontend - Economy",
-      "location": "San Mateo, CA, United States",
-      "apply_url": "https://careers.roblox.com/jobs/8259453?gh_jid=8259453",
-      "official_url": "https://careers.roblox.com/",
-      "posted": "2026-10-26T12:12:59-04:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Machine Learning",
-        "Experimentation",
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "Communication"
-      ],
-      "top_jd_skills": [
-        "Machine Learning",
-        "Experimentation",
-        "JavaScript",
-        "TypeScript",
-        "React",
-        "Communication"
-      ],
-      "verified_skills": [
-        "Machine Learning",
-        "JavaScript"
-      ],
-      "unverified_skills": [
-        "Experimentation",
-        "TypeScript",
-        "React",
-        "Communication"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:36.865258+00:00"
+      "captured_at": "2026-10-28T13:08:46.228270+00:00"
     },
     "edfea0a9556ba193": {
       "id": "edfea0a9556ba193",
@@ -856,7 +996,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:36.260694+00:00"
+      "captured_at": "2026-10-28T13:08:45.278569+00:00"
     },
     "12bbbd2c095a35ca": {
       "id": "12bbbd2c095a35ca",
@@ -898,7 +1038,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:35.983034+00:00"
+      "captured_at": "2026-10-28T13:08:44.920996+00:00"
     },
     "8470c8180ed7f2e8": {
       "id": "8470c8180ed7f2e8",
@@ -943,7 +1083,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:35.631768+00:00"
+      "captured_at": "2026-10-28T13:08:44.467142+00:00"
     },
     "4b05b5e9da2fa834": {
       "id": "4b05b5e9da2fa834",
@@ -961,7 +1101,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:35.230031+00:00"
+      "captured_at": "2026-10-28T13:08:44.018034+00:00"
     },
     "5c87d338bb01bdf3": {
       "id": "5c87d338bb01bdf3",
@@ -1006,7 +1146,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:34.910641+00:00"
+      "captured_at": "2026-10-28T13:08:43.561232+00:00"
     },
     "a8e85cd42e529431": {
       "id": "a8e85cd42e529431",
@@ -1051,7 +1191,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:34.401632+00:00"
+      "captured_at": "2026-10-28T13:08:43.286576+00:00"
     },
     "02b7bb87cc51df5d": {
       "id": "02b7bb87cc51df5d",
@@ -1095,7 +1235,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:33.890985+00:00"
+      "captured_at": "2026-10-28T13:08:42.962500+00:00"
     },
     "f48a375f453ddf25": {
       "id": "f48a375f453ddf25",
@@ -1141,7 +1281,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:33.589128+00:00"
+      "captured_at": "2026-10-28T13:08:42.636167+00:00"
     },
     "c7a9cc1b51fb8955": {
       "id": "c7a9cc1b51fb8955",
@@ -1193,7 +1333,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:33.035062+00:00"
+      "captured_at": "2026-10-28T13:08:42.193014+00:00"
     },
     "39665888048c0bdd": {
       "id": "39665888048c0bdd",
@@ -1245,7 +1385,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:32.590434+00:00"
+      "captured_at": "2026-10-28T13:08:41.330010+00:00"
     },
     "6d7dfc8e6bb9a5d7": {
       "id": "6d7dfc8e6bb9a5d7",
@@ -1265,7 +1405,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:31.865601+00:00"
+      "captured_at": "2026-10-28T13:08:40.729880+00:00"
     },
     "3ce20922390af4a0": {
       "id": "3ce20922390af4a0",
@@ -1285,7 +1425,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:29.423236+00:00"
+      "captured_at": "2026-10-28T13:08:38.195914+00:00"
     },
     "6f57d256b5ee23ed": {
       "id": "6f57d256b5ee23ed",
@@ -1306,7 +1446,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:26.699993+00:00"
+      "captured_at": "2026-10-28T13:08:35.921039+00:00"
     },
     "d485d099a3b16220": {
       "id": "d485d099a3b16220",
@@ -1327,7 +1467,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:24.003280+00:00"
+      "captured_at": "2026-10-28T13:08:32.584517+00:00"
     },
     "c307ba727851cc02": {
       "id": "c307ba727851cc02",
@@ -1348,7 +1488,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:17.117828+00:00"
+      "captured_at": "2026-10-28T13:08:28.354573+00:00"
     },
     "3396c8fd1b2eb682": {
       "id": "3396c8fd1b2eb682",
@@ -1369,7 +1509,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:13.459742+00:00"
+      "captured_at": "2026-10-28T13:08:24.664485+00:00"
     },
     "b4efd8668ea53e20": {
       "id": "b4efd8668ea53e20",
@@ -1390,7 +1530,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:09.321534+00:00"
+      "captured_at": "2026-10-28T13:08:21.597120+00:00"
     },
     "58965d0f778674a4": {
       "id": "58965d0f778674a4",
@@ -1411,7 +1551,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:04.691518+00:00"
+      "captured_at": "2026-10-28T13:08:16.664214+00:00"
     },
     "305b54f502c5da2f": {
       "id": "305b54f502c5da2f",
@@ -1444,7 +1584,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:00.681911+00:00"
+      "captured_at": "2026-10-28T13:08:12.656601+00:00"
     },
     "b33b7094457551e7": {
       "id": "b33b7094457551e7",
@@ -1496,7 +1636,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:23:00.258627+00:00"
+      "captured_at": "2026-10-28T13:08:12.216059+00:00"
     },
     "eee9de9c1c0f9048": {
       "id": "eee9de9c1c0f9048",
@@ -1516,7 +1656,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:59.825047+00:00"
+      "captured_at": "2026-10-28T13:08:11.706344+00:00"
     },
     "89af599e271bfdcf": {
       "id": "89af599e271bfdcf",
@@ -1536,7 +1676,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:50.008717+00:00"
+      "captured_at": "2026-10-28T13:08:08.517422+00:00"
     },
     "ed5697088c6cb2ef": {
       "id": "ed5697088c6cb2ef",
@@ -1556,7 +1696,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:40.346604+00:00"
+      "captured_at": "2026-10-28T13:08:04.880679+00:00"
     },
     "8ab38dd8ace0b13d": {
       "id": "8ab38dd8ace0b13d",
@@ -1574,7 +1714,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:36.281234+00:00"
+      "captured_at": "2026-10-28T13:08:01.872860+00:00"
     },
     "81b2c48f5dda32ea": {
       "id": "81b2c48f5dda32ea",
@@ -1598,7 +1738,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:35.990423+00:00"
+      "captured_at": "2026-10-28T13:08:01.500091+00:00"
     },
     "1d652cfaa1818168": {
       "id": "1d652cfaa1818168",
@@ -1616,7 +1756,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:35.778576+00:00"
+      "captured_at": "2026-10-28T13:08:01.195319+00:00"
     },
     "f72b441b4c01bbfa": {
       "id": "f72b441b4c01bbfa",
@@ -1636,7 +1776,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:35.601705+00:00"
+      "captured_at": "2026-10-28T13:08:00.936749+00:00"
     },
     "8d1e0d76add10d08": {
       "id": "8d1e0d76add10d08",
@@ -1654,7 +1794,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:32.722162+00:00"
+      "captured_at": "2026-10-28T13:07:58.205623+00:00"
     },
     "2dedba074b9d7178": {
       "id": "2dedba074b9d7178",
@@ -1681,7 +1821,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:32.524851+00:00"
+      "captured_at": "2026-10-28T13:07:57.941596+00:00"
     },
     "51ba6316af4e2efe": {
       "id": "51ba6316af4e2efe",
@@ -1701,7 +1841,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:29.222808+00:00"
+      "captured_at": "2026-10-28T13:07:55.046416+00:00"
     },
     "c7fcd2996233f9d7": {
       "id": "c7fcd2996233f9d7",
@@ -1721,7 +1861,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:20.246677+00:00"
+      "captured_at": "2026-10-28T13:07:50.757615+00:00"
     },
     "fcd41cd1aa01505f": {
       "id": "fcd41cd1aa01505f",
@@ -1765,7 +1905,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:17.187090+00:00"
+      "captured_at": "2026-10-28T13:07:46.956173+00:00"
     },
     "d236e85cab75d77d": {
       "id": "d236e85cab75d77d",
@@ -1815,7 +1955,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:16.814932+00:00"
+      "captured_at": "2026-10-28T13:07:46.492138+00:00"
     },
     "818f3d39827edc74": {
       "id": "818f3d39827edc74",
@@ -1869,7 +2009,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:16.509825+00:00"
+      "captured_at": "2026-10-28T13:07:46.188949+00:00"
     },
     "f20ecf6d9985513d": {
       "id": "f20ecf6d9985513d",
@@ -1887,7 +2027,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:16.194548+00:00"
+      "captured_at": "2026-10-28T13:07:44.659281+00:00"
     },
     "eaf2b823b1bd3dc9": {
       "id": "eaf2b823b1bd3dc9",
@@ -1913,7 +2053,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:15.731514+00:00"
+      "captured_at": "2026-10-28T13:07:43.908696+00:00"
     },
     "2a64dc0f5efc5490": {
       "id": "2a64dc0f5efc5490",
@@ -1931,7 +2071,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:12.203500+00:00"
+      "captured_at": "2026-10-28T13:07:41.974680+00:00"
     },
     "24eecb05a2221c5c": {
       "id": "24eecb05a2221c5c",
@@ -1949,7 +2089,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:11.930451+00:00"
+      "captured_at": "2026-10-28T13:07:41.636624+00:00"
     },
     "d4f96a7f616fa35a": {
       "id": "d4f96a7f616fa35a",
@@ -1981,7 +2121,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:11.673425+00:00"
+      "captured_at": "2026-10-28T13:07:40.507841+00:00"
     },
     "1b3f580a83fdb6fd": {
       "id": "1b3f580a83fdb6fd",
@@ -2034,7 +2174,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:11.440512+00:00"
+      "captured_at": "2026-10-28T13:07:40.251520+00:00"
     },
     "f370d235aab80c59": {
       "id": "f370d235aab80c59",
@@ -2054,7 +2194,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:11.048228+00:00"
+      "captured_at": "2026-10-28T13:07:39.310170+00:00"
     },
     "7cfd7259a03f7cdd": {
       "id": "7cfd7259a03f7cdd",
@@ -2074,7 +2214,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:03.221349+00:00"
+      "captured_at": "2026-10-28T13:07:37.558147+00:00"
     },
     "d4378aaeb475f3a5": {
       "id": "d4378aaeb475f3a5",
@@ -2094,7 +2234,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:22:00.267589+00:00"
+      "captured_at": "2026-10-28T13:07:34.605499+00:00"
     },
     "c72b1bfde31b434e": {
       "id": "c72b1bfde31b434e",
@@ -2114,7 +2254,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:56.164951+00:00"
+      "captured_at": "2026-10-28T13:07:31.680225+00:00"
     },
     "9b31ef5bca9c4a5f": {
       "id": "9b31ef5bca9c4a5f",
@@ -2134,7 +2274,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:52.092336+00:00"
+      "captured_at": "2026-10-28T13:07:28.484512+00:00"
     },
     "d29e7c10c824916f": {
       "id": "d29e7c10c824916f",
@@ -2154,7 +2294,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:46.919697+00:00"
+      "captured_at": "2026-10-28T13:07:25.212711+00:00"
     },
     "64dc154e9889b351": {
       "id": "64dc154e9889b351",
@@ -2199,7 +2339,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:43.192383+00:00"
+      "captured_at": "2026-10-28T13:07:20.899353+00:00"
     },
     "2def15dec839cd23": {
       "id": "2def15dec839cd23",
@@ -2219,7 +2359,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:42.571458+00:00"
+      "captured_at": "2026-10-28T13:07:20.024309+00:00"
     },
     "9c051e330c5a7975": {
       "id": "9c051e330c5a7975",
@@ -2237,7 +2377,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:41.816880+00:00"
+      "captured_at": "2026-10-28T13:07:19.210792+00:00"
     },
     "f7725d16721978c3": {
       "id": "f7725d16721978c3",
@@ -2257,7 +2397,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:41.577192+00:00"
+      "captured_at": "2026-10-28T13:07:18.010876+00:00"
     },
     "44e90b78b5558ffd": {
       "id": "44e90b78b5558ffd",
@@ -2310,7 +2450,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:41.483867+00:00"
+      "captured_at": "2026-10-28T13:07:17.661035+00:00"
     },
     "c2efe071483fad05": {
       "id": "c2efe071483fad05",
@@ -2330,7 +2470,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:41.086415+00:00"
+      "captured_at": "2026-10-28T13:07:17.294768+00:00"
     },
     "66cb166fc9d3ed63": {
       "id": "66cb166fc9d3ed63",
@@ -2350,7 +2490,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:36.987701+00:00"
+      "captured_at": "2026-10-28T13:07:13.563603+00:00"
     },
     "14524f266a5f5572": {
       "id": "14524f266a5f5572",
@@ -2370,7 +2510,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:32.463361+00:00"
+      "captured_at": "2026-10-28T13:07:10.909387+00:00"
     },
     "29cae04d97d704b0": {
       "id": "29cae04d97d704b0",
@@ -2413,7 +2553,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:29.583560+00:00"
+      "captured_at": "2026-10-28T13:07:06.986701+00:00"
     },
     "cdc463f4eb4a8ab2": {
       "id": "cdc463f4eb4a8ab2",
@@ -2433,7 +2573,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:29.195503+00:00"
+      "captured_at": "2026-10-28T13:07:06.369737+00:00"
     },
     "e8b49ea526ac94d2": {
       "id": "e8b49ea526ac94d2",
@@ -2453,7 +2593,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:22.897922+00:00"
+      "captured_at": "2026-10-28T13:07:00.838356+00:00"
     },
     "9a3ac3d94654b7c1": {
       "id": "9a3ac3d94654b7c1",
@@ -2473,7 +2613,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:15.419793+00:00"
+      "captured_at": "2026-10-28T13:06:56.455760+00:00"
     },
     "bbd39231436128c6": {
       "id": "bbd39231436128c6",
@@ -2493,7 +2633,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:21:08.741332+00:00"
+      "captured_at": "2026-10-28T13:06:51.794789+00:00"
     },
     "2f9d2734b4356a2a": {
       "id": "2f9d2734b4356a2a",
@@ -2508,10 +2648,12 @@
       "top_jd_skills": [],
       "verified_skills": [],
       "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:57.820013+00:00"
+      "captured_at": "2026-10-28T13:06:47.315075+00:00"
     },
     "296857c204153d37": {
       "id": "296857c204153d37",
@@ -2531,7 +2673,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:45.712242+00:00"
+      "captured_at": "2026-10-28T13:06:42.788817+00:00"
     },
     "1beadf6881c678b7": {
       "id": "1beadf6881c678b7",
@@ -2551,7 +2693,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:41.436852+00:00"
+      "captured_at": "2026-10-28T13:06:38.298857+00:00"
     },
     "61d90b2a622828ec": {
       "id": "61d90b2a622828ec",
@@ -2571,7 +2713,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:35.367143+00:00"
+      "captured_at": "2026-10-28T13:06:33.096342+00:00"
     },
     "80105186c2953098": {
       "id": "80105186c2953098",
@@ -2591,7 +2733,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:28.634739+00:00"
+      "captured_at": "2026-10-28T13:06:27.694619+00:00"
     },
     "97a0455601dcbe27": {
       "id": "97a0455601dcbe27",
@@ -2611,7 +2753,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:22.153367+00:00"
+      "captured_at": "2026-10-28T13:06:22.361428+00:00"
     },
     "97494e0d2154e60b": {
       "id": "97494e0d2154e60b",
@@ -2646,7 +2788,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:13.197709+00:00"
+      "captured_at": "2026-10-28T13:06:17.714062+00:00"
     },
     "2d1c379690d18d68": {
       "id": "2d1c379690d18d68",
@@ -2681,7 +2823,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:12.738553+00:00"
+      "captured_at": "2026-10-28T13:06:17.222756+00:00"
     },
     "84f7f5113cb777f2": {
       "id": "84f7f5113cb777f2",
@@ -2716,7 +2858,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:12.334332+00:00"
+      "captured_at": "2026-10-28T13:06:16.615724+00:00"
     },
     "82eb3baaf67975eb": {
       "id": "82eb3baaf67975eb",
@@ -2751,7 +2893,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:11.735582+00:00"
+      "captured_at": "2026-10-28T13:06:16.094041+00:00"
     },
     "1ebdf399d46ff300": {
       "id": "1ebdf399d46ff300",
@@ -2786,7 +2928,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:11.308873+00:00"
+      "captured_at": "2026-10-28T13:06:15.583249+00:00"
     },
     "0ad3e8f470144c28": {
       "id": "0ad3e8f470144c28",
@@ -2821,7 +2963,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:10.924286+00:00"
+      "captured_at": "2026-10-28T13:06:15.088380+00:00"
     },
     "4a002901f0ba5e5e": {
       "id": "4a002901f0ba5e5e",
@@ -2872,7 +3014,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:09.907382+00:00"
+      "captured_at": "2026-10-28T13:06:13.806678+00:00"
     },
     "8916b952c4414259": {
       "id": "8916b952c4414259",
@@ -2890,7 +3032,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:09.403828+00:00"
+      "captured_at": "2026-10-28T13:06:12.100862+00:00"
     },
     "d39d138702d39dc7": {
       "id": "d39d138702d39dc7",
@@ -2937,7 +3079,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:08.696716+00:00"
+      "captured_at": "2026-10-28T13:06:11.352178+00:00"
     },
     "a7b481c25b7d3920": {
       "id": "a7b481c25b7d3920",
@@ -2955,7 +3097,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:06.488642+00:00"
+      "captured_at": "2026-10-28T13:06:10.241341+00:00"
     },
     "606223ef51bb520b": {
       "id": "606223ef51bb520b",
@@ -2973,7 +3115,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:06.284871+00:00"
+      "captured_at": "2026-10-28T13:06:10.070493+00:00"
     },
     "9e2244de3d797917": {
       "id": "9e2244de3d797917",
@@ -2991,7 +3133,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:06.096353+00:00"
+      "captured_at": "2026-10-28T13:06:09.828147+00:00"
     },
     "263a65682a557516": {
       "id": "263a65682a557516",
@@ -3009,7 +3151,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:05.929236+00:00"
+      "captured_at": "2026-10-28T13:06:09.546929+00:00"
     },
     "e5ff0382253a4db2": {
       "id": "e5ff0382253a4db2",
@@ -3029,7 +3171,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:20:05.712200+00:00"
+      "captured_at": "2026-10-28T13:06:08.936831+00:00"
     },
     "87a38f8cb9755567": {
       "id": "87a38f8cb9755567",
@@ -3049,7 +3191,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:55.033914+00:00"
+      "captured_at": "2026-10-28T13:06:05.027940+00:00"
     },
     "d62480283790915f": {
       "id": "d62480283790915f",
@@ -3067,7 +3209,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:44.722436+00:00"
+      "captured_at": "2026-10-28T13:06:01.320060+00:00"
     },
     "d3ada9340738283a": {
       "id": "d3ada9340738283a",
@@ -3085,7 +3227,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:44.405773+00:00"
+      "captured_at": "2026-10-28T13:06:00.739141+00:00"
     },
     "cc05a6ed449e5835": {
       "id": "cc05a6ed449e5835",
@@ -3103,7 +3245,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:44.049528+00:00"
+      "captured_at": "2026-10-28T13:06:00.286897+00:00"
     },
     "dd38bba0be0a5293": {
       "id": "dd38bba0be0a5293",
@@ -3121,7 +3263,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:43.846730+00:00"
+      "captured_at": "2026-10-28T13:06:00.193197+00:00"
     },
     "0c58eeecb5c16aed": {
       "id": "0c58eeecb5c16aed",
@@ -3160,7 +3302,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:43.654770+00:00"
+      "captured_at": "2026-10-28T13:06:00.109890+00:00"
     },
     "c05d6adae2138df4": {
       "id": "c05d6adae2138df4",
@@ -3180,7 +3322,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:43.116911+00:00"
+      "captured_at": "2026-10-28T13:05:59.570376+00:00"
     },
     "be0bb3b1b63d53d9": {
       "id": "be0bb3b1b63d53d9",
@@ -3200,7 +3342,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:38.927798+00:00"
+      "captured_at": "2026-10-28T13:05:56.889333+00:00"
     },
     "bde09122515e4d11": {
       "id": "bde09122515e4d11",
@@ -3243,7 +3385,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:30.628733+00:00"
+      "captured_at": "2026-10-28T13:05:53.201726+00:00"
     },
     "abf4b650a1d33b95": {
       "id": "abf4b650a1d33b95",
@@ -3261,7 +3403,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:30.054924+00:00"
+      "captured_at": "2026-10-28T13:05:52.167985+00:00"
     },
     "6791b37cdd869e9d": {
       "id": "6791b37cdd869e9d",
@@ -3315,7 +3457,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:28.521328+00:00"
+      "captured_at": "2026-10-28T13:05:50.721997+00:00"
     },
     "79493dc314b3e34b": {
       "id": "79493dc314b3e34b",
@@ -3369,7 +3511,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:27.150451+00:00"
+      "captured_at": "2026-10-28T13:05:50.397512+00:00"
     },
     "b49464824fd7981e": {
       "id": "b49464824fd7981e",
@@ -3387,7 +3529,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:26.027686+00:00"
+      "captured_at": "2026-10-28T13:05:46.946369+00:00"
     },
     "db0cd7c9fe190ff4": {
       "id": "db0cd7c9fe190ff4",
@@ -3414,7 +3556,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:25.938645+00:00"
+      "captured_at": "2026-10-28T13:05:46.840553+00:00"
     },
     "2e33b5c661b79b40": {
       "id": "2e33b5c661b79b40",
@@ -3441,7 +3583,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:24.935854+00:00"
+      "captured_at": "2026-10-28T13:05:45.665341+00:00"
     },
     "4247e415159a78ec": {
       "id": "4247e415159a78ec",
@@ -3467,7 +3609,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:20.704112+00:00"
+      "captured_at": "2026-10-28T13:05:43.044328+00:00"
     },
     "816cbac7be8d693b": {
       "id": "816cbac7be8d693b",
@@ -3488,10 +3630,12 @@
         "Machine Learning"
       ],
       "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:16.899968+00:00"
+      "captured_at": "2026-10-28T13:05:40.302741+00:00"
     },
     "9aa71d0a3b28dd9f": {
       "id": "9aa71d0a3b28dd9f",
@@ -3517,7 +3661,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:04.811750+00:00"
+      "captured_at": "2026-10-28T13:05:37.656012+00:00"
     },
     "84beef34dcdeef91": {
       "id": "84beef34dcdeef91",
@@ -3570,7 +3714,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:01.767078+00:00"
+      "captured_at": "2026-10-28T13:05:35.275398+00:00"
     },
     "be8c3dff3a24424a": {
       "id": "be8c3dff3a24424a",
@@ -3621,7 +3765,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:01.446719+00:00"
+      "captured_at": "2026-10-28T13:05:34.968751+00:00"
     },
     "48d07143146c8c64": {
       "id": "48d07143146c8c64",
@@ -3668,7 +3812,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:01.123315+00:00"
+      "captured_at": "2026-10-28T13:05:34.641419+00:00"
     },
     "e78a14a3d137bd2f": {
       "id": "e78a14a3d137bd2f",
@@ -3695,7 +3839,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:19:00.649112+00:00"
+      "captured_at": "2026-10-28T13:05:34.108563+00:00"
     },
     "a08a05ee27664b3f": {
       "id": "a08a05ee27664b3f",
@@ -3721,7 +3865,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:18:51.317573+00:00"
+      "captured_at": "2026-10-28T13:05:31.365654+00:00"
     },
     "f784422578a8e5e4": {
       "id": "f784422578a8e5e4",
@@ -3747,7 +3891,106 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-10-28T06:18:43.742589+00:00"
+      "captured_at": "2026-10-28T13:05:28.238888+00:00"
+    },
+    "2a9d96aa93b511de": {
+      "id": "2a9d96aa93b511de",
+      "company": "xAI",
+      "title": "Software Engineer, Imagine Product",
+      "location": "Palo Alto, CA",
+      "apply_url": "https://job-boards.greenhouse.io/xai/jobs/5052027007",
+      "official_url": "https://boards.greenhouse.io/xai",
+      "posted": "2026-03-06T17:24:17-05:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Observability",
+        "System Design",
+        "Monitoring",
+        "Python",
+        "Distributed Systems",
+        "Docker",
+        "Kubernetes",
+        "GitHub",
+        "Problem Solving",
+        "ETL/ELT"
+      ],
+      "top_jd_skills": [
+        "Observability",
+        "System Design",
+        "Monitoring",
+        "Python",
+        "Distributed Systems",
+        "Docker",
+        "Kubernetes",
+        "GitHub",
+        "Problem Solving",
+        "ETL/ELT"
+      ],
+      "verified_skills": [
+        "Python",
+        "Docker",
+        "Kubernetes",
+        "GitHub",
+        "ETL/ELT"
+      ],
+      "unverified_skills": [
+        "Observability",
+        "System Design",
+        "Monitoring",
+        "Distributed Systems",
+        "Problem Solving"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "data pipelines",
+        "distributed systems",
+        "observability",
+        "monitoring",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-10-28T13:05:06.879883+00:00"
+    },
+    "162591c5f4f70f00": {
+      "id": "162591c5f4f70f00",
+      "company": "Roblox",
+      "title": "Software Engineer, Frontend - Economy",
+      "location": "San Mateo, CA, United States",
+      "apply_url": "https://careers.roblox.com/jobs/8259453?gh_jid=8259453",
+      "official_url": "https://careers.roblox.com/",
+      "posted": "2026-10-26T12:12:59-04:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Machine Learning",
+        "Experimentation",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Communication"
+      ],
+      "top_jd_skills": [
+        "Machine Learning",
+        "Experimentation",
+        "JavaScript",
+        "TypeScript",
+        "React",
+        "Communication"
+      ],
+      "verified_skills": [
+        "Machine Learning",
+        "JavaScript"
+      ],
+      "unverified_skills": [
+        "Experimentation",
+        "TypeScript",
+        "React",
+        "Communication"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-10-28T06:23:36.865258+00:00"
     },
     "648e95d95d0edf1d": {
       "id": "648e95d95d0edf1d",
@@ -79555,5 +79798,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-10-28T05:50:53.692815+00:00"
+  "generated_at": "2026-10-28T13:05:19.796833+00:00"
 }
