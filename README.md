@@ -1,6 +1,41 @@
 # 📢 Job Listings for Harsha — October 28, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-28 16:16:55 MST
+
+📊 **14 new jobs this batch:**
+- Airbnb: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Databricks: 1 job
+- Guidehouse: 1 job
+- Intel: 2 jobs
+- Motorola Solutions: 1 job
+- Northrop Grumman: 1 job
+- OpenAI: 1 job
+- Salesforce: 1 job
+- Twilio: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airbnb** | Remote, USA | Software Engineer, Payments | [Apply](https://careers.airbnb.com/positions/8332157?gh_jid=8332157) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=452a7daced02edbe) | [Careers](https://careers.airbnb.com/positions/) | 2026-10-28T16:41:33-04:00 |
+| **Boeing** | USA - Eglin AFB, FL | Entry-Level F-15 Flight Test Data Engineer | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Eglin-AFB-FL/Entry-Level-F-15-Flight-Test-Data-Engineer_JR2026506850-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=59158e1792bcd8ae) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | Lorton, VA | Augmented Reality Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0252553) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ca515930b8e71047) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Alexandria, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Data-Scientist--Mid_R0252513) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ca6b870637477ff2) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Databricks** | United States | Software Engineer, Infrastructure | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8829039002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5005ea767ec07d5c) | [Careers](https://www.databricks.com/company/careers/open-positions) | 2026-10-28T17:46:24-04:00 |
+| **Guidehouse** | US - DC, Washington | Junior Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---DC-Washington/Junior-Data-Scientist_45736) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cd22832799dcb833) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Intel** | US, Oregon, Hillsboro | EDA Tools Software Engineer | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/EDA-Tools-Software-Engineer_JR0287371) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1cb05276ced8367a) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **Intel** | US, Oregon, Hillsboro | EDA Tools Software Engineer | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-Oregon-Hillsboro/EDA-Tools-Software-Engineer_JR0288250) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e605e0e3f49112b6) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **Motorola Solutions** | Schaumburg, IL, More... | Software Engineer - Java / Python | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Schaumburg-IL/Software-Engineer---Java---Python_R69271) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7505c7dff108bfbe) | [Careers](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Aurora | Associate Software Engineer - Pathways Program - Aurora CO | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Aurora/Associate-Software-Engineer---Pathways-Program---Aurora-CO_R10258160) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a0a81e9f089d4f95) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **OpenAI** | San Francisco | Data Scientist, Cloud Distribution & Growth | [Apply](https://jobs.ashbyhq.com/openai/b82699a2-5819-4276-a402-fd88f56f9246) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cbfe4a1766a44f9c) | [Careers](https://openai.com/careers/search/) | 2026-10-28T19:59:03.385+00:00 |
+| **Salesforce** | California - San Francisco | Software Engineer II - Slack Developer Workspaces | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineer-II---Slack-Developer-Workspaces_JR366007-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a2a418e5665b9e84) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **Twilio** | Remote - US | Machine Learning Engineer 2 | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8240487) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4e79008d8867fffd) | [Careers](https://jobs.twilio.com/) | 2026-10-28T16:28:37-04:00 |
+| **Zoox** | Foster City, CA | Data Scientist - Behavior Evaluation | [Apply](https://jobs.lever.co/zoox/acaafc9a-486d-4045-80d7-12b09e39330e) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8174a324dc88c6fb) | [Careers](https://jobs.lever.co/zoox) | 2022-05-04 17:43 |
+
+---
+
 ### 🕐 Batch at 2026-10-28 12:08:16 MST
 
 📊 **2 new jobs this batch:**
