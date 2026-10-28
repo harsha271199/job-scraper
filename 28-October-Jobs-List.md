@@ -1,6 +1,18 @@
 # 📢 Job Listings for Harsha — October 28, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-28 12:08:16 MST
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | McLean, VA | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Engineer_R0252145) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=45722af327ba5946) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Cloud-Engineer_R0252146) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7aa23566d8acbbec) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-28 11:54:45 MST
 
 📊 **16 new jobs this batch:**
