@@ -516,6 +516,7 @@ function buildCandidate(master, job) {
     );
     return {
       ...entry,
+      title: (entry.id === "aramark-data-ops" || /aramark/i.test(clean(entry.company))) ? "Data & Operations Analyst Intern" : entry.title,
       functionalFocus: resolveFocus(entry, profile),
       selectedBullets,
       matchedSignals: selectedEntryMatches({ selectedBullets }, scoringJob),
