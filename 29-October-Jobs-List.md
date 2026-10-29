@@ -1,6 +1,28 @@
 # 📢 Job Listings for Harsha — October 29, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-29 14:51:05 MST
+
+📊 **8 new jobs this batch:**
+- Airbnb: 1 job
+- Apple: 4 jobs
+- Booz Allen Hamilton: 1 job
+- Fireworks AI: 1 job
+- xAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airbnb** | United States | Backend Engineer, Profile & Community | [Apply](https://careers.airbnb.com/positions/8334926?gh_jid=8334926) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b5f956985557bc37) | [Careers](https://careers.airbnb.com/positions/) | 2026-10-29T15:24:15-04:00 |
+| **Apple** | N/A | AIML - ML Engineer, Safety Human Evaluation | [Apply](https://jobs.apple.com/en-us/details/200692531-1242/aiml-ml-engineer-safety-human-evaluation?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e0ad604f0bb6ce7f) | [Careers](https://jobs.apple.com/en-us/search) | Oct 29, 2026 |
+| **Apple** | N/A | Battery Algorithm ML Engineer | [Apply](https://jobs.apple.com/en-us/details/200692363-0836/battery-algorithm-ml-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6a0279871be5ae6c) | [Careers](https://jobs.apple.com/en-us/search) | Oct 29, 2026 |
+| **Apple** | N/A | DevOps Engineer - Retail Engineering Apps & Services | [Apply](https://jobs.apple.com/en-us/details/200690998-0157/devops-engineer-retail-engineering-apps-services?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ef48477c3b332bd4) | [Careers](https://jobs.apple.com/en-us/search) | Oct 29, 2026 |
+| **Apple** | N/A | Software Engineer (Framework Solutions), AI & Data Platforms (AiDP) | [Apply](https://jobs.apple.com/en-us/details/200660661-0157/software-engineer-framework-solutions-ai-data-platforms-aidp?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e37ec75df30ffd5a) | [Careers](https://jobs.apple.com/en-us/search) | Oct 29, 2026 |
+| **Booz Allen Hamilton** | Albuquerque, NM | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Albuquerque-NM/Data-Scientist_R0252615) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b79bf8d69e90bc05) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Fireworks AI** | San Mateo | Founding Data Scientist, Capacity & Pricing Optimization | [Apply](https://jobs.ashbyhq.com/fireworks/5bae43a4-aa7b-4b56-821a-a03ede683d0f) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=63d9647d885e1a10) | [Careers](https://fireworks.ai/careers) | 2026-10-29T20:07:04.897+00:00 |
+| **xAI** | Palo Alto, CA | Software Engineer, Evaluation Infrastructure | [Apply](https://job-boards.greenhouse.io/xai/jobs/5252714007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=710e19965664f1a8) | [Careers](https://boards.greenhouse.io/xai) | 2026-09-30T15:41:34-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-29 10:06:31 MST
 
 📊 **1 new jobs this batch:**
