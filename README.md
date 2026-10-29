@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 29, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-29 15:02:21 MST
+
+📊 **1 new jobs this batch:**
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Zoox** | Foster City, CA | Contract Student Worker - Software Engineer (40 hrs/wk) | [Apply](https://jobs.lever.co/zoox/67982bee-811b-453b-8596-b53c13f7a78d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5b2ca50132b6548b) | [Careers](https://jobs.lever.co/zoox) | 2026-10-28 15:38 |
+
+---
+
 ### 🕐 Batch at 2026-10-29 14:51:05 MST
 
 📊 **8 new jobs this batch:**
