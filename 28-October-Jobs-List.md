@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — October 28, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-28 19:34:50 MST
+
+📊 **6 new jobs this batch:**
+- HP: 2 jobs
+- Mastercard: 1 job
+- OpenAI: 1 job
+- Stripe: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **HP** | San Francisco, California, United States of America | Software Engineering Intern - HP IQ | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern---HP-IQ_UNI4806-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=08090cb7bf7cd907) | [Careers](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) | Posted Today |
+| **HP** | San Francisco, California, United States of America | Software Engineering Intern, Connectivity - HP IQ | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--Connectivity---HP-IQ_UNI4812-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c76c157e2763785d) | [Careers](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-294519) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d25929cc43c3f471) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **OpenAI** | San Francisco | Software Engineer, IP Infrastructure | [Apply](https://jobs.ashbyhq.com/openai/33acf0e2-5c11-46d7-9dc9-417f5537139b) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c4bb32e3b266ece7) | [Careers](https://openai.com/careers/search/) | 2026-10-29T01:58:58.904+00:00 |
+| **Stripe** | Seattle, WA | Software Engineer - Full stack | [Apply](https://stripe.com/jobs/search?gh_jid=8332676) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d550b6572b9c2467) | [Careers](https://stripe.com/careers/search) | 2026-10-28T19:38:42-04:00 |
+| **Stripe** | South San Francisco, CA | Software Engineer, Fraud System Interventions | [Apply](https://stripe.com/jobs/search?gh_jid=8332718) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=73e24946e99fb276) | [Careers](https://stripe.com/careers/search) | 2026-10-28T20:01:17-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-28 16:36:06 MST
 
 📊 **6 new jobs this batch:**
