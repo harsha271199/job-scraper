@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 30, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-30 14:04:47 MST
+
+📊 **1 new jobs this batch:**
+- Apple: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Wireless Bluetooth Software Engineer, Wireless Technologies & Ecosystems | [Apply](https://jobs.apple.com/en-us/details/200692525-3543/wireless-bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f4bce5141a753ba4) | [Careers](https://jobs.apple.com/en-us/search) | Oct 30, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-10-30 13:52:01 MST
 
 📊 **20 new jobs this batch:**
