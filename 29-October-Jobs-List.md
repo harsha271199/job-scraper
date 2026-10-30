@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — October 29, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-29 19:00:03 MST
+
+📊 **7 new jobs this batch:**
+- Anthropic: 2 jobs
+- Apple: 2 jobs
+- General Motors: 1 job
+- Nvidia: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | Research Scientist, Life Sciences (Large Molecules, Antibody Design) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5467092008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e02b270ea0ede474) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-29T19:45:44-04:00 |
+| **Anthropic** | San Francisco, CA | Research Scientist, Life Sciences (Large Molecules, Process Development) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5467099008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bcc1229efa97df63) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-29T19:48:00-04:00 |
+| **Apple** | N/A | Software Developer in Test - Core I/O | [Apply](https://jobs.apple.com/en-us/details/200692119-0836/software-developer-in-test-core-i-o?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=54b4d9f96a6616f9) | [Careers](https://jobs.apple.com/en-us/search) | Oct 29, 2026 |
+| **Apple** | N/A | Software Engineer, Employee Experience & Productivity | [Apply](https://jobs.apple.com/en-us/details/200678553-0670/software-engineer-employee-experience-productivity?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2e90a1ccce9032dc) | [Careers](https://jobs.apple.com/en-us/search) | Oct 29, 2026 |
+| **General Motors** | Sunnyvale, California, United States of America | 2027 Summer Intern - AI/ML Engineer - Autonomous Vehicles | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---AI-ML-Engineer---Autonomous-Vehicles_JR-202623439) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=55c18983ca75c887) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **Nvidia** | US, TX, Austin | AI Systems Software Engineering Intern – Summer 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-TX-Austin/AI-Systems-Software-Engineering-Intern---Summer-2027_JR2027170) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9b9ebaa7363cd596) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **Nvidia** | US, WA, Redmond | Compiler Software Engineering Intern - Summer 2027 | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-WA-Redmond/Compiler-Software-Engineering-Intern---Summer-2027_JR2028607) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6db29ce52b078994) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-10-29 15:02:21 MST
 
 📊 **1 new jobs this batch:**
