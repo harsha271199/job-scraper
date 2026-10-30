@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — October 29, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-29 19:10:10 MST
+
+📊 **1 new jobs this batch:**
+- Apple: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | AIML - Machine Learning Engineer, Evaluation - Responsible AI and Safety | [Apply](https://jobs.apple.com/en-us/details/200692531-1242/aiml-machine-learning-engineer-evaluation-responsible-ai-and-safety?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=33ce2b46078b8017) | [Careers](https://jobs.apple.com/en-us/search) | Oct 29, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-10-29 19:00:03 MST
 
 📊 **7 new jobs this batch:**
