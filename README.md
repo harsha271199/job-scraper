@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — October 30, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-10-30 17:51:31 MST
+
+📊 **7 new jobs this batch:**
+- Anthropic: 1 job
+- Chime: 2 jobs
+- Handshake: 1 job
+- Salesforce: 1 job
+- xAI: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | New York City, NY; Seattle, WA | Data Engineer | [Apply](https://harsha271199.github.io/job-scraper/?job=1d2f04ef86864e21) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-10-30T19:34:18-04:00 |
+| **Chime** | San Francisco, CA, USA | Software Engineer, Jade - AI Financial Partner | [Apply](https://boards.greenhouse.io/chime/jobs/8868948002?gh_jid=8868948002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8f539e380db79b36) | [Careers](https://boards.greenhouse.io/chime) | 2026-10-30T20:06:33-04:00 |
+| **Chime** | San Francisco, CA, USA | Software Engineer, Membership Experience | [Apply](https://boards.greenhouse.io/chime/jobs/8922481002?gh_jid=8922481002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=84b2473a785b5783) | [Careers](https://boards.greenhouse.io/chime) | 2026-10-30T20:07:32-04:00 |
+| **Handshake** | San Francisco, CA | Software Engineer I, Promotions | [Apply](https://jobs.ashbyhq.com/handshake/c2cea12b-4dba-4782-ac2d-279c6865a4b7) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9172d10a2af8b3bf) | [Careers](https://jobs.ashbyhq.com/handshake) | 2026-10-30T22:39:38.777+00:00 |
+| **Salesforce** | Texas - Dallas | Software Engineer, Full Stack & AI-Native Development (MTS) | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/Texas---Dallas/Software-Engineer--Full-Stack---AI-Native-Development--MTS-_JR365146) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5d451626c7e1b6eb) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+| **xAI** | Palo Alto, CA; Seattle, WA | Software Engineer, Linux Kernel | [Apply](https://job-boards.greenhouse.io/xai/jobs/5202187007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=28e3d9e18211e1c5) | [Careers](https://boards.greenhouse.io/xai) | 2026-08-03T16:27:25-04:00 |
+| **xAI** | Palo Alto, CA | Software Engineer, Platform Infrastructure | [Apply](https://job-boards.greenhouse.io/xai/jobs/5191142007) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c32c576feb44cdc8) | [Careers](https://boards.greenhouse.io/xai) | 2026-07-20T15:48:01-04:00 |
+
+---
+
 ### 🕐 Batch at 2026-10-30 14:04:47 MST
 
 📊 **1 new jobs this batch:**
