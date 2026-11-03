@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — November 02, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-02 18:38:37 MST
+
+📊 **3 new jobs this batch:**
+- SpaceX: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **SpaceX** | Redmond, WA | Data Scientist (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8920514002?gh_jid=8920514002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6a0f352ad2ee5720) | [Careers](https://new.spacex.com/careers) | 2026-11-02T15:33:12-05:00 |
+| **SpaceX** | Palo Alto, CA | Software Engineer (Starlink Enteprise) | [Apply](https://boards.greenhouse.io/spacex/jobs/8927257002?gh_jid=8927257002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1682271e17699c6f) | [Careers](https://new.spacex.com/careers) | 2026-11-02T20:12:49-05:00 |
+| **SpaceX** | Redmond, WA | Software Engineer (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8922361002?gh_jid=8922361002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ceb453de8ff396bb) | [Careers](https://new.spacex.com/careers) | 2026-11-02T15:33:43-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-02 17:04:10 MST
 
 📊 **20 new jobs this batch:**
