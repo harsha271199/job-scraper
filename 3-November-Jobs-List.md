@@ -1,6 +1,41 @@
 # 📢 Job Listings for Harsha — November 03, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-03 14:17:10 MST
+
+📊 **15 new jobs this batch:**
+- Anthropic: 1 job
+- Apple: 1 job
+- Boeing: 1 job
+- Booz Allen Hamilton: 1 job
+- Guidehouse: 1 job
+- HP: 2 jobs
+- Northrop Grumman: 3 jobs
+- Roblox: 1 job
+- Samsara: 1 job
+- SpaceX: 2 jobs
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | Data Scientist, Finance Forecasting | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5467893008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3b01123d832d0d61) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-11-03T13:42:48-05:00 |
+| **Apple** | N/A | Software Engineer - VE | [Apply](https://jobs.apple.com/en-us/details/200693002-0836/software-engineer-ve?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cfdae835b97ab2e5) | [Careers](https://jobs.apple.com/en-us/search) | Nov 03, 2026 |
+| **Boeing** | USA - Seattle, WA | Solution Architect/Data Scientist | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Seattle-WA/Solution-Architect-Data-Scientist_JR2026527870-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b0a1f42505b26561) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist--Mid_R0252763) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=247b04e3c29361ff) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Guidehouse** | US - PA, Mechanicsburg | Data Scientist II | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---PA-Mechanicsburg/Data-Scientist-II_45741) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=23b6d8d9c6e8250f) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **HP** | San Francisco, California, United States of America | Software Engineering Intern, AIML Platform - HP IQ | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Engineering-Intern--AIML-Platform---HP-IQ_UNI4800-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e24207433910e57b) | [Careers](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) | Posted Today |
+| **HP** | San Francisco, California, United States of America | Software Engineering Intern, Product & Developer Productivity - HP IQ | [Apply](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite/job/San-Francisco-California-United-States-of-America/Software-Quality-Assurance-Intern_UNI4803-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1cdf129d00fccb84) | [Careers](https://hp.wd5.myworkdayjobs.com/en-US/ExternalCareerSite) | Posted Today |
+| **Northrop Grumman** | United States-California-Manhattan Beach | 2027 Associate Flight Software Engineer - Manhattan Beach CA | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Associate-Flight-Software-Engineer---Manhattan-Beach-CA_R10259061) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1ce0210f91f82a42) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-California-Manhattan Beach | 2027 Flight Software Engineer Intern - Redondo Beach CA | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Manhattan-Beach/XMLNAME-2027-Flight-Software-Engineer-Intern---Redondo-Beach-CA_R10259032) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3f7c8238dd0d65b5) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | 2027 Ground Software Engineer Intern - Redondo Beach CA | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/XMLNAME-2027-Ground-Software-Engineer-Intern---Redondo-Beach-CA_R10259057) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6d7d4cb5e6c21208) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Engine Productivity | [Apply](https://careers.roblox.com/jobs/8325759?gh_jid=8325759) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1e3f8795872b2acc) | [Careers](https://careers.roblox.com/) | 2026-11-03T14:34:49-05:00 |
+| **Samsara** | Remote - Seattle | Sr. Software Engineer I | [Apply](https://www.samsara.com/company/careers/roles/7985175?gh_jid=7985175) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c15e5573f5a9b6f7) | [Careers](https://boards.greenhouse.io/samsara) | 2026-11-03T15:11:23-05:00 |
+| **SpaceX** | Hawthorne, CA | Propulsion Software Engineer (Falcon Engineering) | [Apply](https://boards.greenhouse.io/spacex/jobs/8927858002?gh_jid=8927858002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6bd88cbf9597ffbf) | [Careers](https://new.spacex.com/careers) | 2026-11-03T14:22:16-05:00 |
+| **SpaceX** | Hawthorne, CA | Software Engineer, Full Stack (Data & Video Analysis) | [Apply](https://boards.greenhouse.io/spacex/jobs/8927919002?gh_jid=8927919002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a465dc920810bd0c) | [Careers](https://new.spacex.com/careers) | 2026-11-03T13:22:57-05:00 |
+| **Twilio** | Remote - US | Software Engineer (L3) Email | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8026199) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=25fa85172a94fadb) | [Careers](https://jobs.twilio.com/) | 2026-11-03T13:22:02-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-03 10:53:48 MST
 
 📊 **10 new jobs this batch:**
