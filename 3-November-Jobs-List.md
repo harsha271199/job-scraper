@@ -1,6 +1,23 @@
 # 📢 Job Listings for Harsha — November 03, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-03 16:28:36 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 2 jobs
+- Booz Allen Hamilton: 2 jobs
+- PayPal: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | AI Software Engineer, App Intelligence | [Apply](https://jobs.apple.com/en-us/details/200693199-0836/ai-software-engineer-app-intelligence?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c139d6c5f9e07a18) | [Careers](https://jobs.apple.com/en-us/search) | Nov 03, 2026 |
+| **Apple** | N/A | Battery Algorithm ML Engineer | [Apply](https://jobs.apple.com/en-us/details/200692554-0836/battery-algorithm-ml-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=87e92e1e6553a89c) | [Careers](https://jobs.apple.com/en-us/search) | Nov 03, 2026 |
+| **Booz Allen Hamilton** | Rome, NY | CNO Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Rome-NY/CNO-Software-Engineer_R0252924) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=afa111a4bb171e57) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Atlanta, GA | Health Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Atlanta-GA/Health-Data-Scientist_R0252701) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=94494703efe800a3) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Data Scientist | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Data-Scientist_R0137881) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2cddc2c580bbd98e) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-03 14:17:10 MST
 
 📊 **15 new jobs this batch:**
