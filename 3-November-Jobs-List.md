@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — November 03, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-03 23:34:55 MST
+
+📊 **3 new jobs this batch:**
+- Motorola Solutions: 1 job
+- Nvidia: 1 job
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Motorola Solutions** | Texas Remote Work, More... | Systems Software Engineer - US Remote | [Apply](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers/job/Texas-Remote-Work/Systems-Software-Engineer---US-Remote_R69428) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=26c30aa97ca1eaa8) | [Careers](https://motorolasolutions.wd5.myworkdayjobs.com/en-US/Careers) | Posted Today |
+| **Nvidia** | US, CA, Santa Clara | Network Site Reliability Engineer | [Apply](https://nvidia.wd5.myworkdayjobs.com/en-US/NVIDIAExternalCareerSite/job/US-CA-Santa-Clara/Network-Site-Reliability-Engineer_JR2029104) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=531d3846ae95e751) | [Careers](https://jobs.nvidia.com/) | Posted Today |
+| **OpenAI** | San Francisco | Data Scientist, Analytics Enablement | [Apply](https://jobs.ashbyhq.com/openai/5ceff3dd-3503-4ea0-9ade-eeb36b29f14e) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=dfc5a00df4134708) | [Careers](https://openai.com/careers/search/) | 2026-11-04T02:20:48.500+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-03 18:41:43 MST
 
 📊 **9 new jobs this batch:**
