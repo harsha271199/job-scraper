@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — November 04, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-04 09:37:20 MST
+
+📊 **2 new jobs this batch:**
+- Booz Allen Hamilton: 1 job
+- Opendoor: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Colorado Springs, CO | Cloud Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Colorado-Springs-CO/Cloud-Engineer_R0252962) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ff4487579316f52a) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Opendoor** | Miami, FL · Tempe, AZ | AI Engineer - Escrow | [Apply](https://www.opendoor.com/careers/open-positions/jobs/osn/ai-engineer-escrow-5f284472-83aa-434c-bd48-eac7b22ebd93) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=12f1c0add3d3accd) | [Careers](https://www.opendoor.com/careers/open-positions) | N/A |
+
+---
+
 ### 🕐 Batch at 2026-11-04 08:30:13 MST
 
 📊 **6 new jobs this batch:**
