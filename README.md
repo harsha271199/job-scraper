@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — November 03, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-03 18:41:43 MST
+
+📊 **9 new jobs this batch:**
+- Apple: 4 jobs
+- Writer: 5 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Bluetooth Software Engineer, Wireless Technologies & Ecosystems | [Apply](https://jobs.apple.com/en-us/details/200680546-3543/bluetooth-software-engineer-wireless-technologies-ecosystems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a8c72b00d25feb51) | [Careers](https://jobs.apple.com/en-us/search) | Nov 04, 2026 |
+| **Apple** | N/A | Software Engineer in Natural Language Processing (NLP) and Machine Learning (ML) | [Apply](https://jobs.apple.com/en-us/details/200693310-3337/software-engineer-in-natural-language-processing-nlp-and-machine-learning-ml?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=484e580805e04536) | [Careers](https://jobs.apple.com/en-us/search) | Nov 04, 2026 |
+| **Apple** | N/A | Software Engineer, Content Management Systems - Retail & Marcom Engineering | [Apply](https://jobs.apple.com/en-us/details/200690757-0157/software-engineer-content-management-systems-retail-marcom-engineering?team=CORSV) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6dcee2467f909255) | [Careers](https://jobs.apple.com/en-us/search) | Nov 03, 2026 |
+| **Apple** | N/A | Software Engineering Systems | [Apply](https://jobs.apple.com/en-us/details/200693309-0836/software-engineering-systems?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6fbfa239c555ebf2) | [Careers](https://jobs.apple.com/en-us/search) | Nov 04, 2026 |
+| **Writer** | San Francisco, CA | AI engineer | [Apply](https://jobs.ashbyhq.com/writer/93fbe5ce-2ce9-41ea-a998-a433c0f7f085) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bb9dbcb465557a37) | [Careers](https://jobs.ashbyhq.com/writer) | 2026-11-03T23:27:08.037+00:00 |
+| **Writer** | San Francisco, CA | AI research scientist | [Apply](https://jobs.ashbyhq.com/writer/f84935a9-9589-4db1-af82-be9b1cab48a4) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d73abd480d670751) | [Careers](https://jobs.ashbyhq.com/writer) | 2026-11-03T23:38:08.759+00:00 |
+| **Writer** | New York City, NY | Software engineer, agents | [Apply](https://jobs.ashbyhq.com/writer/ce86adec-e8ce-4bbf-a706-43795a982de6) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f227acc7c7cf8b97) | [Careers](https://jobs.ashbyhq.com/writer) | 2026-11-03T23:40:50.564+00:00 |
+| **Writer** | San Francisco, CA | Software engineer, connectors & MCP | [Apply](https://jobs.ashbyhq.com/writer/47dd1728-97f7-4e0d-9a7a-39009aa212a5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6ed17b6957d70c4b) | [Careers](https://jobs.ashbyhq.com/writer) | 2026-11-03T23:48:51.372+00:00 |
+| **Writer** | San Francisco, CA | Software engineer, generative AI | [Apply](https://jobs.ashbyhq.com/writer/2170c74d-7726-4d8f-910e-7f4ef7ac4fd1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=613fbcf7546a79d6) | [Careers](https://jobs.ashbyhq.com/writer) | 2026-11-03T23:50:21.799+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-03 16:28:36 MST
 
 📊 **5 new jobs this batch:**
