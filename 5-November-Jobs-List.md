@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — November 05, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-05 12:01:16 MST
+
+📊 **3 new jobs this batch:**
+- Anthropic: 1 job
+- SpaceX: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Anthropic** | San Francisco, CA | Research Scientist, Discovery (Engineering & Applied Sciences) | [Apply](https://job-boards.greenhouse.io/anthropic/jobs/5468937008) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=97ac92ef5917068c) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-11-05T13:52:27-05:00 |
+| **SpaceX** | Memphis, TN | Site Reliability Engineer (Infrastructure, Virtualization, & Compute) | [Apply](https://boards.greenhouse.io/spacex/jobs/8931114002?gh_jid=8931114002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e4690c590021aa7f) | [Careers](https://new.spacex.com/careers) | 2026-11-05T12:19:25-05:00 |
+| **SpaceX** | Hawthorne, CA | Space Operations Software Engineer | [Apply](https://boards.greenhouse.io/spacex/jobs/8931476002?gh_jid=8931476002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b3d9a7ad45f0577e) | [Careers](https://new.spacex.com/careers) | 2026-11-05T10:34:29-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-05 11:49:01 MST
 
 📊 **13 new jobs this batch:**
