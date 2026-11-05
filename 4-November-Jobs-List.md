@@ -1,6 +1,26 @@
 # 📢 Job Listings for Harsha — November 04, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-04 19:32:09 MST
+
+📊 **6 new jobs this batch:**
+- Apple: 2 jobs
+- Guidehouse: 1 job
+- Mastercard: 1 job
+- Notion: 1 job
+- Workday: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer, Triage Services | [Apply](https://jobs.apple.com/en-us/details/200693271-0836/software-engineer-triage-services?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5fcdc4d0dc0cf308) | [Careers](https://jobs.apple.com/en-us/search) | Nov 04, 2026 |
+| **Apple** | N/A | Traffic and Secure Services Network SRE Engineer | [Apply](https://jobs.apple.com/en-us/details/200693333-0836/traffic-and-secure-services-network-sre-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fbee250928f847f0) | [Careers](https://jobs.apple.com/en-us/search) | Nov 04, 2026 |
+| **Guidehouse** | US - VA, Arlington | Data Engineer | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---VA-Arlington/Data-Engineer_46033) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b4fbbb0cd0f06cc1) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Mastercard** | O'Fallon, Missouri | Software Engineer II | [Apply](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers/job/OFallon-Missouri/Software-Engineer-II_R-292400) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=66c6cb7bd9cadf81) | [Careers](https://mastercard.wd1.myworkdayjobs.com/en-US/CorporateCareers) | Posted Today |
+| **Notion** | San Francisco, California | Software Engineer, Growth | [Apply](https://jobs.ashbyhq.com/notion/f524ef6b-6a8a-4d73-b7ff-eac85bd6c887) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7388efe2273657de) | [Careers](https://jobs.ashbyhq.com/notion) | 2026-11-04T23:19:02.513+00:00 |
+| **Workday** | USA, CA, Pleasanton | P2 SRE and Platform Engineer - Sana Search (US Federal) | [Apply](https://workday.wd5.myworkdayjobs.com/en-US/Workday/job/USA-CA-Pleasanton/P2-SRE-and-Platform-Engineer---Sana-Search--US-Federal-_JR-0111102) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3a3e32a53e2e5639) | [Careers](https://workday.wd5.myworkdayjobs.com/en-US/Workday) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-04 15:15:12 MST
 
 📊 **1 new jobs this batch:**
