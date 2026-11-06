@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — November 06, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-06 14:34:01 MST
+
+📊 **2 new jobs this batch:**
+- Abnormal Security: 1 job
+- Apple: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Abnormal Security** | Remote - USA | Software Engineer II, Attack Detection | [Apply](https://abnormal.ai/careers/jobs/8197230003?gh_jid=8197230003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0a5b9789b52af2a0) | [Careers](https://boards.greenhouse.io/abnormalsecurity) | 2026-11-06T16:17:02-05:00 |
+| **Apple** | N/A | Wi-Fi Software Engineer, Wireless Technologies & Ecosystems | [Apply](https://jobs.apple.com/en-us/details/200665281-0836/wi-fi-software-engineer-wireless-technologies-ecosystems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=669d1513565afa1b) | [Careers](https://jobs.apple.com/en-us/search) | Nov 06, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-11-06 14:06:29 MST
 
 📊 **36 new jobs this batch:**
