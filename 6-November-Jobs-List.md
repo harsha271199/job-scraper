@@ -1,6 +1,36 @@
 # 📢 Job Listings for Harsha — November 06, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-06 18:16:43 MST
+
+📊 **13 new jobs this batch:**
+- Affirm: 1 job
+- Apple: 4 jobs
+- Booz Allen Hamilton: 1 job
+- Intel: 1 job
+- OpenAI: 2 jobs
+- Qualtrics: 1 job
+- Ramp: 2 jobs
+- Woven by Toyota: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Affirm** | Remote US | Software Engineer II, Backend | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8196112003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c35c8253e34f9cb5) | [Careers](https://boards.greenhouse.io/affirm) | 2026-11-06T17:47:37-05:00 |
+| **Apple** | N/A | Machine Learning Engineer, AI/ML Model Quality | [Apply](https://jobs.apple.com/en-us/details/200667346-0157/machine-learning-engineer-ai-ml-model-quality?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=67a60968bac99e74) | [Careers](https://jobs.apple.com/en-us/search) | Nov 06, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, AI/ML Model Quality | [Apply](https://jobs.apple.com/en-us/details/200667346-0836/machine-learning-engineer-ai-ml-model-quality?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b67bffc24e146c7a) | [Careers](https://jobs.apple.com/en-us/search) | Nov 06, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, AI/ML Model Quality | [Apply](https://jobs.apple.com/en-us/details/200667346-2459/machine-learning-engineer-ai-ml-model-quality?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9223f950978558a0) | [Careers](https://jobs.apple.com/en-us/search) | Nov 06, 2026 |
+| **Apple** | N/A | Machine Learning Engineer, AI/ML Model Quality | [Apply](https://jobs.apple.com/en-us/details/200667346-3543/machine-learning-engineer-ai-ml-model-quality?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=39cfdfeef25b1b70) | [Careers](https://jobs.apple.com/en-us/search) | Nov 06, 2026 |
+| **Booz Allen Hamilton** | Honolulu, HI | Platform and Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Honolulu-HI/Platform-and-Data-Engineer_R0253126) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6aaf0fefe9b661a2) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Intel** | US, California, Santa Clara | Software Engineer – Datacenter | [Apply](https://intel.wd1.myworkdayjobs.com/en-US/External/job/US-California-Santa-Clara/Software-Engineer---Datacenter_JR0288917) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=df3fc2ad1cc85db5) | [Careers](https://jobs.intel.com/) | Posted Today |
+| **OpenAI** | San Francisco | Applied AI Engineer, Enterprise - EDU | [Apply](https://jobs.ashbyhq.com/openai/087aa4f5-1192-413a-ba34-3ae324cf90e5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3a311772ebd3b33e) | [Careers](https://openai.com/careers/search/) | 2026-11-06T22:37:49.715+00:00 |
+| **OpenAI** | San Francisco | Applied AI Engineer, Enterprise - Healthcare Life Sciences (HLS) | [Apply](https://jobs.ashbyhq.com/openai/6fc25168-bc4c-47a0-8601-583dfaf7fcbd) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=83082fb7c28f5206) | [Careers](https://openai.com/careers/search/) | 2026-11-06T22:33:48.426+00:00 |
+| **Qualtrics** | Reston, Virginia, United States | Software Engineer II - Discover Studio | [Apply](https://www.qualtrics.com/careers/us/en/job/8357630?gh_jid=8357630) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=817552b4b59122a6) | [Careers](https://boards.greenhouse.io/qualtrics) | 2026-11-06T18:18:46-05:00 |
+| **Ramp** | New York, NY (HQ) | Backend Engineer | Accounts Receivable | [Apply](https://harsha271199.github.io/job-scraper/?job=33cfc1f839275686) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-10-20T13:26:07.649+00:00 |
+| **Ramp** | New York, NY (HQ) | Backend Engineer | AI Spend Management | [Apply](https://harsha271199.github.io/job-scraper/?job=6d6d7c4cd9af3774) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-10-20T13:40:20.264+00:00 |
+| **Woven by Toyota** | Ann Arbor, MI | Software Engineer II, Arene Applied Engineering | [Apply](https://jobs.lever.co/woven-by-toyota/67fbf85b-6c59-4a29-ad1d-335658aaa5ae) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=83b184c710bf09b3) | [Careers](https://jobs.lever.co/woven-by-toyota) | 2026-11-06 22:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-06 14:34:01 MST
 
 📊 **2 new jobs this batch:**
