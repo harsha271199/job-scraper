@@ -1,6 +1,41 @@
 # 📢 Job Listings for Harsha — November 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-09 15:27:54 MST
+
+📊 **16 new jobs this batch:**
+- Adobe: 1 job
+- Apple: 2 jobs
+- Booz Allen Hamilton: 6 jobs
+- Coinbase: 1 job
+- Crusoe: 1 job
+- Gusto: 1 job
+- Medtronic: 1 job
+- Northrop Grumman: 1 job
+- Snowflake: 1 job
+- Verily: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Adobe** | San Jose | 2027 University Graduate - Data Engineer | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3597cb9fbe46924a) | [Careers](https://careers.adobe.com/us/en/) | Posted Today |
+| **Apple** | N/A | Health Research Data Engineer | [Apply](https://jobs.apple.com/en-us/details/200694134-3956/health-research-data-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1f66d6549576327f) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
+| **Apple** | Software Engineer Software and Services Nov 09, 2026 | Location Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200692268-3543/location-software-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0e44a4a0df9a536f) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
+| **Booz Allen Hamilton** | Arlington, VA | Agentic AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Agentic-AI-Engineer_R0253281) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e47689396a626ab6) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Annapolis Junction, MD | Agentic AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Agentic-AI-Engineer_R0253216) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=681103abf95bb40e) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | AI/ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-ML-Engineer_R0253242) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=736ddbc85e904e60) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0253276) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f49ccad125a600dd) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0253275) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a5ec3418df2ee419) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0253273) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fc464eee166a99f8) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Coinbase** | Remote - USA | Software Engineer-1 | [Apply](https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c21bf865863c9275) | [Careers](https://www.coinbase.com/careers/positions) | 2026-11-09T14:43:45-05:00 |
+| **Crusoe** | San Francisco, CA - US | Software Engineering Intern, Summer 2027 | [Apply](https://jobs.ashbyhq.com/Crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f847df4b284ad06f) | [Careers](https://jobs.ashbyhq.com/crusoe) | 2026-10-29T17:19:45.691+00:00 |
+| **Gusto** | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | Software Engineer, Financial Data & Payments | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8360497) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=56fda541897fe33b) | [Careers](https://boards.greenhouse.io/gusto) | 2026-11-09T15:25:24-05:00 |
+| **Medtronic** | Minneapolis, Minnesota, United States of America | Sr Software Engineer | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Software-Engineer_R80163-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1508385d75550872) | [Careers](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers) | Posted Today |
+| **Northrop Grumman** | United States-Remote | Backend Software Engineer - Agent Foundation | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Remote/Backend-Software-Engineer---Agent-Foundation_R10259809) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=460c7f6ed3e924fb) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Snowflake** | US-VA-McLean | Software Engineer - NatSec | [Apply](https://jobs.ashbyhq.com/snowflake/9850b749-fbbd-4e8d-854b-356538397da5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=934175fca655da2a) | [Careers](https://careers.snowflake.com/us/en) | 2026-11-04T01:25:28.447+00:00 |
+| **Verily** | Boston, Massachusetts | Software Engineer, Platform agents | [Apply](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Boston-Massachusetts/Software-Engineer---Platform-agents_REQ-804) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d67d62305d1adf15) | [Careers](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-09 10:50:56 MST
 
 📊 **11 new jobs this batch:**
