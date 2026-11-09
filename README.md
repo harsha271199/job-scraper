@@ -1,36 +1,32 @@
-# 📢 Job Listings for Harsha — November 08, 2026
+# 📢 Job Listings for Harsha — November 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
-### 🕐 Batch at 2026-11-08 19:43:10 MST
+### 🕐 Batch at 2026-11-09 10:50:56 MST
 
-📊 **2 new jobs this batch:**
-- SpaceX: 2 jobs
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
-|---|---|---|---|---|---|---|
-| **SpaceX** | Hawthorne, CA | Full Stack Software Engineer, Internal Platforms | [Apply](https://boards.greenhouse.io/spacex/jobs/8934563002?gh_jid=8934563002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=66bcfbe033dba6ec) | [Careers](https://new.spacex.com/careers) | 2026-11-08T20:15:11-05:00 |
-| **SpaceX** | Starbase, TX | Full Stack Software Engineer, Internal Platforms | [Apply](https://boards.greenhouse.io/spacex/jobs/8934566002?gh_jid=8934566002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=516613bb8fade45e) | [Careers](https://new.spacex.com/careers) | 2026-11-08T20:18:42-05:00 |
-
----
-
-### 🕐 Batch at 2026-11-08 15:56:18 MST
-
-📊 **1 new jobs this batch:**
-- Apple: 1 job
+📊 **11 new jobs this batch:**
+- Anthropic: 1 job
+- Apple: 2 jobs
+- Booz Allen Hamilton: 1 job
+- Chime: 1 job
+- Coinbase: 1 job
+- CrowdStrike: 1 job
+- Morgan Stanley: 1 job
+- Northrop Grumman: 1 job
+- Notion: 1 job
+- PayPal: 1 job
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
 |---|---|---|---|---|---|---|
-| **Apple** | N/A | Machine Learning System Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200693933-3956/machine-learning-system-software-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1061dd0f1d4d3336) | [Careers](https://jobs.apple.com/en-us/search) | Nov 08, 2026 |
-
----
-
-### 🕐 Batch at 2026-11-08 13:47:35 MST
-
-📊 **1 new jobs this batch:**
-- Apple: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
-|---|---|---|---|---|---|---|
-| **Apple** | N/A | Wireless Software Engineer, Wireless Technologies & Ecosystems | [Apply](https://jobs.apple.com/en-us/details/200687778-0836/wireless-software-engineer-wireless-technologies-ecosystems?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=75e73333e6bd4a05) | [Careers](https://jobs.apple.com/en-us/search) | Nov 08, 2026 |
+| **Anthropic** | San Francisco, CA | New York City, NY | Research Scientist, Discovery (Engineering & Applied Sciences) | [Apply](https://harsha271199.github.io/job-scraper/?job=4a1f0b10f002ae4a) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-11-09T08:26:21-05:00 |
+| **Apple** | N/A | Americas Reseller Operations Business Analyst | [Apply](https://jobs.apple.com/en-us/details/200692995-0157/americas-reseller-operations-business-analyst?team=OPMFG) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3e9fab530894f494) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
+| **Apple** | N/A | Site Reliability Engineer, Apple Data Platform | [Apply](https://jobs.apple.com/en-us/details/200690525-0157/site-reliability-engineer-apple-data-platform?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f875ef2c8261f77a) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
+| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0253248) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5f90ced1063a9e1d) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Chime** | Chicago, IL, USA | Data Scientist, Dispute Risk | [Apply](https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b18f04f2cc93d75c) | [Careers](https://boards.greenhouse.io/chime) | 2026-11-09T10:31:59-05:00 |
+| **Coinbase** | Remote - USA | Software Engineer, Wallets, Liquidity and Bridging Team | [Apply](https://www.coinbase.com/careers/positions/8139750?gh_jid=8139750) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=657574bfeb3ed0ab) | [Careers](https://www.coinbase.com/careers/positions) | 2026-11-09T11:23:20-05:00 |
+| **CrowdStrike** | USA - Sunnyvale, CA | Sr. Backend Engineer II, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-II-Full-Stack-Engineer--Cloud-Native---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29791) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ff04b9dc70eb1831) | [Careers](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | Posted Today |
+| **Morgan Stanley** | Alpharetta, Georgia, United States of America | Associate, Software Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR042814) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9c92be4d0b213c06) | [Careers](https://ms.wd5.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Northrop Grumman** | United States-Texas-San Antonio | 2027 - Associate Cyber Software Engineer - San Antonio TX | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8bfbc4f08fc40193) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Notion** | San Francisco, California | Software Engineer, Web Infrastructure | [Apply](https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=66adf0eb0efbbb58) | [Careers](https://jobs.ashbyhq.com/notion) | 2026-11-09T16:42:45.703+00:00 |
+| **PayPal** | Scottsdale, Arizona, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer_R0139000) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b36c1e84b64b09b3) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
 
 ---
