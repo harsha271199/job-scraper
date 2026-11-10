@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — November 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-10 10:19:31 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 1 job
+- Morgan Stanley: 1 job
+- PayPal: 1 job
+- Pfizer: 1 job
+- Stripe: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | DevOps Engineer - Retail Engineering Apps & Services | [Apply](https://jobs.apple.com/en-us/details/200693083-3956/devops-engineer-retail-engineering-apps-services?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c61c1e2a7eeac096) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
+| **Morgan Stanley** | Alpharetta GA 3 | Associate, Software Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-GA-3/Associate--Software-Engineer_JR024846-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b24fac6011c26cfe) | [Careers](https://ms.wd5.myworkdayjobs.com/en-US/External) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Software-Engineer_R0138380) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=964a27aa298df2e6) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
+| **Pfizer** | United States - Massachusetts - Cambridge | Informatics and AI Engineer, Biotherapeutics | [Apply](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers/job/United-States---Massachusetts---Cambridge/Informatics-and-AI-Engineer--Biotherapeutics_4966440-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=115be21036739dee) | [Careers](https://pfizer.wd1.myworkdayjobs.com/en-US/PfizerCareers) | Posted Today |
+| **Stripe** | Seattle, New York City | Machine Learning Engineer, Transaction Risk | [Apply](https://stripe.com/jobs/search?gh_jid=8187574) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fc73419eef1f84fd) | [Careers](https://stripe.com/careers/search) | 2026-11-10T10:52:46-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-10 01:52:22 MST
 
 📊 **17 new jobs this batch:**
