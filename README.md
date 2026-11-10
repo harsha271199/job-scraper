@@ -1,106 +1,29 @@
-# 📢 Job Listings for Harsha — November 09, 2026
+# 📢 Job Listings for Harsha — November 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
-### 🕐 Batch at 2026-11-09 21:39:44 MST
+### 🕐 Batch at 2026-11-10 01:52:22 MST
 
-📊 **1 new jobs this batch:**
-- Apple: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
-|---|---|---|---|---|---|---|
-| **Apple** | N/A | Software Engineer, Deployment Compliance | [Apply](https://jobs.apple.com/en-us/details/200691617-3337/software-engineer-deployment-compliance?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9ce2421369cb9149) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
-
----
-
-### 🕐 Batch at 2026-11-09 18:47:30 MST
-
-📊 **13 new jobs this batch:**
-- Apple: 6 jobs
-- Booz Allen Hamilton: 1 job
-- Cursor: 1 job
-- OpenAI: 1 job
-- Ramp: 3 jobs
-- Zoox: 1 job
+📊 **17 new jobs this batch:**
+- Cursor: 17 jobs
 
 | 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
 |---|---|---|---|---|---|---|
-| **Apple** | N/A | AI Software Engineer - Calendar Intelligence | [Apply](https://jobs.apple.com/en-us/details/200694215-0836/ai-software-engineer-calendar-intelligence?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8a1b64956e50f7a1) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
-| **Apple** | N/A | Applied Scientist | [Apply](https://jobs.apple.com/en-us/details/200694181-0157/applied-scientist?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9a0b9f6a812352ae) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
-| **Apple** | N/A | Software Engineer, Contacts | [Apply](https://jobs.apple.com/en-us/details/200693896-0836/software-engineer-contacts?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4ad1d5b41d03e0da) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
-| **Apple** | N/A | Software Engineer, Deployment Platform MultiCloud | [Apply](https://jobs.apple.com/en-us/details/200694167-0836/software-engineer-deployment-platform-multicloud?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b8b79014f7a6a562) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
-| **Apple** | N/A | Software Engineer, Deployment Platform MultiCloud | [Apply](https://jobs.apple.com/en-us/details/200694167-3543/software-engineer-deployment-platform-multicloud?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=71b15552618fc35e) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
-| **Apple** | N/A | Software Engineer, Deployment Platform MultiCloud | [Apply](https://jobs.apple.com/en-us/details/200694167-3337/software-engineer-deployment-platform-multicloud?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a349e0a6fe398602) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
-| **Booz Allen Hamilton** | McLean, VA | Palantir Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Palantir-Data-Engineer_R0253282) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=44843bd39903d368) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
-| **Cursor** | Palo Alto, CA | Software Engineer, ML Platform | [Apply](https://jobs.ashbyhq.com/cursor/5b744208-cb2c-4c31-9217-e0cbbf8ad7af) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cdfba0b391b61045) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:19:31.394+00:00 |
-| **OpenAI** | San Francisco | Full-Stack Software Engineer, Child Safety Tools & Systems | [Apply](https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3d6269e2bc9c8c15) | [Careers](https://openai.com/careers/search/) | 2026-11-09T22:58:12.042+00:00 |
-| **Ramp** | New York, NY (HQ) | Software Engineer, Android | [Apply](https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2c52a71c37397272) | [Careers](https://jobs.ashbyhq.com/ramp) | 2025-07-31T21:58:34.674+00:00 |
-| **Ramp** | Remote (US) | Software Engineer, Backend, Comms Platform | [Apply](https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2c8c9075e547c32a) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-11-09T18:22:09.221+00:00 |
-| **Ramp** | New York, NY (HQ) | Software Engineer, iOS | [Apply](https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=18926e8660e53bab) | [Careers](https://jobs.ashbyhq.com/ramp) | 2025-07-31T21:50:51.242+00:00 |
-| **Zoox** | Foster City, CA | Machine Learning Engineer, 3D Simulation | [Apply](https://jobs.lever.co/zoox/2d73563c-8039-4d1b-844c-3953259ba6b1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c2fff24adcf79504) | [Careers](https://jobs.lever.co/zoox) | 2024-06-10 23:00 |
-
----
-
-### 🕐 Batch at 2026-11-09 15:27:54 MST
-
-📊 **16 new jobs this batch:**
-- Adobe: 1 job
-- Apple: 2 jobs
-- Booz Allen Hamilton: 6 jobs
-- Coinbase: 1 job
-- Crusoe: 1 job
-- Gusto: 1 job
-- Medtronic: 1 job
-- Northrop Grumman: 1 job
-- Snowflake: 1 job
-- Verily: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
-|---|---|---|---|---|---|---|
-| **Adobe** | San Jose | 2027 University Graduate - Data Engineer | [Apply](https://adobe.wd5.myworkdayjobs.com/en-US/external_experienced/job/San-Jose/XMLNAME-2027-University-Graduate---Data-Engineer_R173455) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3597cb9fbe46924a) | [Careers](https://careers.adobe.com/us/en/) | Posted Today |
-| **Apple** | N/A | Health Research Data Engineer | [Apply](https://jobs.apple.com/en-us/details/200694134-3956/health-research-data-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1f66d6549576327f) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
-| **Apple** | Software Engineer Software and Services Nov 09, 2026 | Location Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200692268-3543/location-software-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0e44a4a0df9a536f) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
-| **Booz Allen Hamilton** | Arlington, VA | Agentic AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Agentic-AI-Engineer_R0253281) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e47689396a626ab6) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
-| **Booz Allen Hamilton** | Annapolis Junction, MD | Agentic AI Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Annapolis-Junction-MD/Agentic-AI-Engineer_R0253216) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=681103abf95bb40e) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
-| **Booz Allen Hamilton** | Arlington, VA | AI/ML Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/AI-ML-Engineer_R0253242) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=736ddbc85e904e60) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
-| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0253276) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f49ccad125a600dd) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
-| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0253275) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a5ec3418df2ee419) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
-| **Booz Allen Hamilton** | Arlington, VA | Data Scientist, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Data-Scientist--Mid_R0253273) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fc464eee166a99f8) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
-| **Coinbase** | Remote - USA | Software Engineer-1 | [Apply](https://www.coinbase.com/careers/positions/8278991?gh_jid=8278991) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c21bf865863c9275) | [Careers](https://www.coinbase.com/careers/positions) | 2026-11-09T14:43:45-05:00 |
-| **Crusoe** | San Francisco, CA - US | Software Engineering Intern, Summer 2027 | [Apply](https://jobs.ashbyhq.com/Crusoe/07a8a6a9-975e-471c-ac31-b5aaa97f9af5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f847df4b284ad06f) | [Careers](https://jobs.ashbyhq.com/crusoe) | 2026-10-29T17:19:45.691+00:00 |
-| **Gusto** | Denver, CO - Hybrid; New York, NY - Hybrid; San Francisco, CA - Hybrid; Seattle, WA - Remote | Software Engineer, Financial Data & Payments | [Apply](https://job-boards.greenhouse.io/gusto/jobs/8360497) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=56fda541897fe33b) | [Careers](https://boards.greenhouse.io/gusto) | 2026-11-09T15:25:24-05:00 |
-| **Medtronic** | Minneapolis, Minnesota, United States of America | Sr Software Engineer | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Sr-Software-Engineer_R80163-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1508385d75550872) | [Careers](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers) | Posted Today |
-| **Northrop Grumman** | United States-Remote | Backend Software Engineer - Agent Foundation | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Remote/Backend-Software-Engineer---Agent-Foundation_R10259809) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=460c7f6ed3e924fb) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
-| **Snowflake** | US-VA-McLean | Software Engineer - NatSec | [Apply](https://jobs.ashbyhq.com/snowflake/9850b749-fbbd-4e8d-854b-356538397da5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=934175fca655da2a) | [Careers](https://careers.snowflake.com/us/en) | 2026-11-04T01:25:28.447+00:00 |
-| **Verily** | Boston, Massachusetts | Software Engineer, Platform agents | [Apply](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers/job/Boston-Massachusetts/Software-Engineer---Platform-agents_REQ-804) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d67d62305d1adf15) | [Careers](https://verily.wd1.myworkdayjobs.com/en-US/Verily_Careers) | Posted Today |
-
----
-
-### 🕐 Batch at 2026-11-09 10:50:56 MST
-
-📊 **11 new jobs this batch:**
-- Anthropic: 1 job
-- Apple: 2 jobs
-- Booz Allen Hamilton: 1 job
-- Chime: 1 job
-- Coinbase: 1 job
-- CrowdStrike: 1 job
-- Morgan Stanley: 1 job
-- Northrop Grumman: 1 job
-- Notion: 1 job
-- PayPal: 1 job
-
-| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
-|---|---|---|---|---|---|---|
-| **Anthropic** | San Francisco, CA | New York City, NY | Research Scientist, Discovery (Engineering & Applied Sciences) | [Apply](https://harsha271199.github.io/job-scraper/?job=4a1f0b10f002ae4a) | [Careers](https://www.anthropic.com/careers/jobs) | 2026-11-09T08:26:21-05:00 |
-| **Apple** | N/A | Americas Reseller Operations Business Analyst | [Apply](https://jobs.apple.com/en-us/details/200692995-0157/americas-reseller-operations-business-analyst?team=OPMFG) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3e9fab530894f494) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
-| **Apple** | N/A | Site Reliability Engineer, Apple Data Platform | [Apply](https://jobs.apple.com/en-us/details/200690525-0157/site-reliability-engineer-apple-data-platform?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f875ef2c8261f77a) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
-| **Booz Allen Hamilton** | Washington, DC | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Data-Scientist_R0253248) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5f90ced1063a9e1d) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
-| **Chime** | Chicago, IL, USA | Data Scientist, Dispute Risk | [Apply](https://boards.greenhouse.io/chime/jobs/8904126002?gh_jid=8904126002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b18f04f2cc93d75c) | [Careers](https://boards.greenhouse.io/chime) | 2026-11-09T10:31:59-05:00 |
-| **Coinbase** | Remote - USA | Software Engineer, Wallets, Liquidity and Bridging Team | [Apply](https://www.coinbase.com/careers/positions/8139750?gh_jid=8139750) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=657574bfeb3ed0ab) | [Careers](https://www.coinbase.com/careers/positions) | 2026-11-09T11:23:20-05:00 |
-| **CrowdStrike** | USA - Sunnyvale, CA | Sr. Backend Engineer II, Cloud Native - AI Detection and Response (AIDR) (Hybrid, Sunnyvale) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-II-Full-Stack-Engineer--Cloud-Native---AI-Detection-and-Response--AIDR---Hybrid--Sunnyvale-_R29791) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ff04b9dc70eb1831) | [Careers](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | Posted Today |
-| **Morgan Stanley** | Alpharetta, Georgia, United States of America | Associate, Software Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/Alpharetta-Georgia-United-States-of-America/Associate--Software-Engineer_JR042814) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9c92be4d0b213c06) | [Careers](https://ms.wd5.myworkdayjobs.com/en-US/External) | Posted Today |
-| **Northrop Grumman** | United States-Texas-San Antonio | 2027 - Associate Cyber Software Engineer - San Antonio TX | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Texas-San-Antonio/XMLNAME-2027----Associate-Cyber-Software-Engineer---San-Antonio-TX_R10259762) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8bfbc4f08fc40193) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
-| **Notion** | San Francisco, California | Software Engineer, Web Infrastructure | [Apply](https://jobs.ashbyhq.com/notion/06c2599d-4dd5-4f97-843f-7194b546f042) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=66adf0eb0efbbb58) | [Careers](https://jobs.ashbyhq.com/notion) | 2026-11-09T16:42:45.703+00:00 |
-| **PayPal** | Scottsdale, Arizona, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer_R0139000) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b36c1e84b64b09b3) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
+| **Cursor** | San Francisco, CA | Software Engineer, Billing | [Apply](https://jobs.ashbyhq.com/cursor/6222602a-f0ca-4558-8364-06970723e917) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=40cd458719b5e739) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:09:12.078+00:00 |
+| **Cursor** | New York, NY | Software Engineer, Bugbot | [Apply](https://jobs.ashbyhq.com/cursor/b810bd30-f3b8-45b4-8afd-d2916ce5ee93) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e958eeedddbe6ec0) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:10:02.546+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, Client Infrastructure | [Apply](https://jobs.ashbyhq.com/cursor/39386c17-568f-4f9c-b8de-e641c092deaa) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=47fdf3c18c97b5db) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:10:43.762+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, Compute Infra | [Apply](https://jobs.ashbyhq.com/cursor/bb1e7f02-d30c-49fa-8d67-9a35ecc59462) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6bc240126f33ecb4) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:11:17.199+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, Core Services | [Apply](https://jobs.ashbyhq.com/cursor/9d756f3e-ec33-4820-9971-f803de7b2d63) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cd0b1b815ec2ee89) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:12:19.414+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, Developer Productivity | [Apply](https://jobs.ashbyhq.com/cursor/f7dd8f73-e204-4e34-bb4a-2e7fccc4f3f8) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5e4cc2eb0bf2b54e) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:13:20.725+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, Enterprise | [Apply](https://jobs.ashbyhq.com/cursor/39928fa7-8acc-41b9-9143-97b760774f05) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=32819abc2299e87a) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:13:58.327+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, Enterprise Platform | [Apply](https://jobs.ashbyhq.com/cursor/5bbbd83b-2299-4a5e-9f49-d260fd9ca02e) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=433afe0b91c45480) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T02:11:59.262+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, Infrastructure | [Apply](https://jobs.ashbyhq.com/cursor/359cb8e6-77e8-4a77-be67-a39eb46d2c10) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b1cfd8447ba7f4bf) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:12:31.175+00:00 |
+| **Cursor** | New York, NY | Software Engineer, Model Lifecycle and Signals | [Apply](https://jobs.ashbyhq.com/cursor/5eca4fb7-1ae0-4eb2-8f87-fa470b3c1d17) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=24b8d371f3ec717d) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:20:00.182+00:00 |
+| **Cursor** | New York, NY | Software Engineer, Model Routing & Inference | [Apply](https://jobs.ashbyhq.com/cursor/378409f3-a9d9-4b5e-bc91-8112a582d24c) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5f0f1def5b88839c) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T06:34:45.313+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, New Grad 2027 | [Apply](https://jobs.ashbyhq.com/cursor/164e27cd-289e-4bcd-8aaf-5280e75c5ed6) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=85ab08971b048d34) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:20:41.676+00:00 |
+| **Cursor** | Palo Alto, CA | Software Engineer, Pretraining Data | [Apply](https://jobs.ashbyhq.com/cursor/d06d229f-eb2c-46d7-8e0f-96da5ecaec88) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0d7241254cf69c4e) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:21:25.124+00:00 |
+| **Cursor** | Palo Alto, CA | Software Engineer, Research Tooling | [Apply](https://jobs.ashbyhq.com/cursor/06675830-9b99-4347-8436-8110ca9c99a4) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0d4b70051d5cc2ed) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:22:31.090+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, Security | [Apply](https://jobs.ashbyhq.com/cursor/6f67c0c9-717c-4eb2-919b-5ab7d54e9a8b) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a9dbfd619d93bec0) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:24:39.244+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, Services Platform | [Apply](https://jobs.ashbyhq.com/cursor/cebcf532-f723-4b14-a366-765d04b80d4c) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7f25ccdce7a28aaf) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:25:39.853+00:00 |
+| **Cursor** | San Francisco, CA | Software Engineer, Storage | [Apply](https://jobs.ashbyhq.com/cursor/b236a81e-6c5b-45ce-8b4a-0810ae82ca82) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3ddb8ba510019109) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:25:34.486+00:00 |
 
 ---
