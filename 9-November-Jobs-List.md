@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — November 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-09 21:39:44 MST
+
+📊 **1 new jobs this batch:**
+- Apple: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer, Deployment Compliance | [Apply](https://jobs.apple.com/en-us/details/200691617-3337/software-engineer-deployment-compliance?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9ce2421369cb9149) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-11-09 18:47:30 MST
 
 📊 **13 new jobs this batch:**
