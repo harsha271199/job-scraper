@@ -1,6 +1,47 @@
 # 📢 Job Listings for Harsha — November 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-10 13:52:47 MST
+
+📊 **21 new jobs this batch:**
+- Apple: 2 jobs
+- Autodesk: 1 job
+- Blue Origin: 1 job
+- Boeing: 2 jobs
+- Booz Allen Hamilton: 6 jobs
+- Cox Enterprises: 1 job
+- General Motors: 1 job
+- Morgan Stanley: 1 job
+- Northrop Grumman: 1 job
+- Palantir: 3 jobs
+- PayPal: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Simulation Synthetic Data Engineer - Special Projects | [Apply](https://jobs.apple.com/en-us/details/200637194-0836/simulation-synthetic-data-engineer-special-projects?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=720ab4f79ef9b74f) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
+| **Apple** | N/A | Software Engineer, Applied ML | [Apply](https://jobs.apple.com/en-us/details/200694108-0836/software-engineer-applied-ml?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d6cbe9db5fcd8dbb) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
+| **Autodesk** | Novi, MI, USA | Software Engineer | [Apply](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext/job/Novi-MI-USA/Software-Engineer_26WD102129-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a9cb130dbf538e9b) | [Careers](https://autodesk.wd1.myworkdayjobs.com/en-US/Ext) | Posted Today |
+| **Blue Origin** | Denver, CO | Sr Software Engineer - Core Platform Infrastructure | [Apply](https://blueorigin.wd5.myworkdayjobs.com/en-US/BlueOrigin/job/Denver-CO/Sr-Software-Engineer---Core-Platform-Infrastructure_R75571) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5a3a5497c2689570) | [Careers](https://www.blueorigin.com/careers/search) | Posted Today |
+| **Boeing** | USA - Hialeah, FL | Experienced Data Scientist | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Hialeah-FL/Experienced-Data-Scientist_JR2026529275-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6505d003c5b18591) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Boeing** | USA - Dallas, TX | Experienced Data Scientist | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Dallas-TX/Experienced-Data-Scientist_JR2026525625-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3dcf26f3236699e6) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | Huntsville, AL | Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Data-Engineer_R0253321-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bd96227b67f4c8e8) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Stafford, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Stafford-VA/Data-Scientist_R0253322) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b397b06b24817010) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | McLean, VA | Data Scientist | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Data-Scientist_R0253332) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1b0fc18ecb839c86) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Washington, DC | Health Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Washington-DC/Health-Data-Analyst_R0253254-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b360afbfc4eae80b) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Norfolk, VA | Shared Services Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Norfolk-VA/Shared-Services-Data-Analyst_R0253329) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=07f4e1db24ea3400) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Huntsville, AL | Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Huntsville-AL/Software-Developer_R0253313) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9617051b50cfdfd2) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Cox Enterprises** | Atlanta GA | Software Engineer I - 19025 | [Apply](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1/job/Atlanta-GA/Software-Engineer-I---19025_R202684623) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1af2f1b827a0921d) | [Careers](https://cox.wd1.myworkdayjobs.com/en-US/Cox_External_Career_Site_1) | Posted Today |
+| **General Motors** | Sunnyvale, California, United States of America | 2027 Summer Intern - Machine Learning Engineer, Embodied AI | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Sunnyvale-California-United-States-of-America/XMLNAME-2027-Summer-Intern---Machine-Learning-Engineer--Embodied-AI_JR-202624034) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=909c371e4836d030) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **Morgan Stanley** | New York, New York, United States of America | Equity Derivatives Pricing Platform Engineer | [Apply](https://ms.wd5.myworkdayjobs.com/en-US/External/job/New-York-New-York-United-States-of-America/Equity-Derivatives-Pricing-Platform-Engineer_PT-JR046069) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=806069337a1dd4cc) | [Careers](https://ms.wd5.myworkdayjobs.com/en-US/External) | Posted Today |
+| **Northrop Grumman** | United States-California-Redondo Beach | Software Engineer (CUDA/GPU) - Level 4 | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-California-Redondo-Beach/Software-Engineer--CUDA-GPU----Level-4_R10260050) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=04c10d2b8f1c808e) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Palantir** | New York, NY | Software Engineer, Intern - Connectivity Platform and Product | [Apply](https://jobs.lever.co/palantir/130ee501-bd22-4d44-b651-39581ef97743) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=01ade1793cbea4ff) | [Careers](https://www.palantir.com/careers/open-positions/) | 2026-11-04 20:41 |
+| **Palantir** | Denver, CO | Software Engineer, Intern - Connectivity Platform and Product | [Apply](https://jobs.lever.co/palantir/eb496d6a-a960-43d3-a09b-e3843052f54e) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f70e00b33472d49e) | [Careers](https://www.palantir.com/careers/open-positions/) | 2026-11-10 16:40 |
+| **Palantir** | New York, NY | Software Engineer, Internship - Data Connectors | [Apply](https://jobs.lever.co/palantir/45e4617d-d658-4b30-8dc9-378ca84a027a) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f88b9f04b3d3f62b) | [Careers](https://www.palantir.com/careers/open-positions/) | 2026-11-04 20:38 |
+| **PayPal** | San Jose, California, United States of America | Sr Data Scientist | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Data-Scientist_R0139069) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9bce93313ff22545) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
+| **PayPal** | San Jose, California, United States of America | Sr Data Scientist | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/San-Jose-California-United-States-of-America/Sr-Data-Scientist_R0139066) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=18339459297f2fcd) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-10 10:19:31 MST
 
 📊 **5 new jobs this batch:**
