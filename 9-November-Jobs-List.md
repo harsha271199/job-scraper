@@ -1,6 +1,34 @@
 # 📢 Job Listings for Harsha — November 09, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-09 18:47:30 MST
+
+📊 **13 new jobs this batch:**
+- Apple: 6 jobs
+- Booz Allen Hamilton: 1 job
+- Cursor: 1 job
+- OpenAI: 1 job
+- Ramp: 3 jobs
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | AI Software Engineer - Calendar Intelligence | [Apply](https://jobs.apple.com/en-us/details/200694215-0836/ai-software-engineer-calendar-intelligence?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8a1b64956e50f7a1) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
+| **Apple** | N/A | Applied Scientist | [Apply](https://jobs.apple.com/en-us/details/200694181-0157/applied-scientist?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9a0b9f6a812352ae) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
+| **Apple** | N/A | Software Engineer, Contacts | [Apply](https://jobs.apple.com/en-us/details/200693896-0836/software-engineer-contacts?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4ad1d5b41d03e0da) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
+| **Apple** | N/A | Software Engineer, Deployment Platform MultiCloud | [Apply](https://jobs.apple.com/en-us/details/200694167-0836/software-engineer-deployment-platform-multicloud?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b8b79014f7a6a562) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
+| **Apple** | N/A | Software Engineer, Deployment Platform MultiCloud | [Apply](https://jobs.apple.com/en-us/details/200694167-3543/software-engineer-deployment-platform-multicloud?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=71b15552618fc35e) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
+| **Apple** | N/A | Software Engineer, Deployment Platform MultiCloud | [Apply](https://jobs.apple.com/en-us/details/200694167-3337/software-engineer-deployment-platform-multicloud?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a349e0a6fe398602) | [Careers](https://jobs.apple.com/en-us/search) | Nov 09, 2026 |
+| **Booz Allen Hamilton** | McLean, VA | Palantir Data Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/McLean-VA/Palantir-Data-Engineer_R0253282) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=44843bd39903d368) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Cursor** | Palo Alto, CA | Software Engineer, ML Platform | [Apply](https://jobs.ashbyhq.com/cursor/5b744208-cb2c-4c31-9217-e0cbbf8ad7af) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cdfba0b391b61045) | [Careers](https://jobs.ashbyhq.com/cursor) | 2026-11-10T00:19:31.394+00:00 |
+| **OpenAI** | San Francisco | Full-Stack Software Engineer, Child Safety Tools & Systems | [Apply](https://jobs.ashbyhq.com/openai/d7dfc19d-e508-4522-91fa-e31c3b612a47) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3d6269e2bc9c8c15) | [Careers](https://openai.com/careers/search/) | 2026-11-09T22:58:12.042+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Android | [Apply](https://jobs.ashbyhq.com/ramp/f564dcf9-9390-4a3f-896f-8047a5086040) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2c52a71c37397272) | [Careers](https://jobs.ashbyhq.com/ramp) | 2025-07-31T21:58:34.674+00:00 |
+| **Ramp** | Remote (US) | Software Engineer, Backend, Comms Platform | [Apply](https://jobs.ashbyhq.com/ramp/939892e5-5273-4bfc-8c41-a6c51cabb228) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2c8c9075e547c32a) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-11-09T18:22:09.221+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineer, iOS | [Apply](https://jobs.ashbyhq.com/ramp/4859cd5e-f2a9-44d7-81f7-8bfc0e62369f) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=18926e8660e53bab) | [Careers](https://jobs.ashbyhq.com/ramp) | 2025-07-31T21:50:51.242+00:00 |
+| **Zoox** | Foster City, CA | Machine Learning Engineer, 3D Simulation | [Apply](https://jobs.lever.co/zoox/2d73563c-8039-4d1b-844c-3953259ba6b1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c2fff24adcf79504) | [Careers](https://jobs.lever.co/zoox) | 2024-06-10 23:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-09 15:27:54 MST
 
 📊 **16 new jobs this batch:**
