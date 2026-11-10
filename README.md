@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — November 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-10 15:33:25 MST
+
+📊 **6 new jobs this batch:**
+- Apple: 4 jobs
+- Booz Allen Hamilton: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation | [Apply](https://jobs.apple.com/en-us/details/200694380-3337/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c33a8d627821bc49) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
+| **Apple** | N/A | AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation | [Apply](https://jobs.apple.com/en-us/details/200694380-3956/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3e748d20ed9f6d52) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
+| **Apple** | N/A | AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation | [Apply](https://jobs.apple.com/en-us/details/200694379-3337/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d5c7ff0096deff1d) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
+| **Apple** | N/A | AI Research Scientist: Multimodal Foundation Models - Architecture, Pre-Training & Distillation | [Apply](https://jobs.apple.com/en-us/details/200694379-3956/ai-research-scientist-multimodal-foundation-models-architecture-pre-training-distillation?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=42e4e3743273e509) | [Careers](https://jobs.apple.com/en-us/search) | Nov 10, 2026 |
+| **Booz Allen Hamilton** | Camp Pendleton, CA | Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Camp-Pendleton-CA/Data-Analyst_R0253330) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e11fa0313dc7dfe7) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Salesforce** | New York - New York | Software Engineering PMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Software-Engineering-PMTS_JR367532) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2cac12453aa92366) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-10 13:52:47 MST
 
 📊 **21 new jobs this batch:**
