@@ -1,6 +1,21 @@
 # 📢 Job Listings for Harsha — November 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-10 18:17:42 MST
+
+📊 **3 new jobs this batch:**
+- Apple: 1 job
+- Roblox: 1 job
+- SoFi: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Machine Learning Engineer, (Applied Machine Learning), AI & Data Platforms (AiDP) | [Apply](https://jobs.apple.com/en-us/details/200693613-3956/machine-learning-engineer-applied-machine-learning-ai-data-platforms-aidp?team=CORSV) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a4cbc5ee31b5ebfd) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, ROS Open Platform & AI Enablement | [Apply](https://careers.roblox.com/jobs/8356764?gh_jid=8356764) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=eea825b846f89104) | [Careers](https://careers.roblox.com/) | 2026-11-10T19:11:57-05:00 |
+| **SoFi** | WA - Seattle | Software Engineer, Streaming and Workflows | [Apply](https://sofi.com/careers/job/8198207003?gh_jid=8198207003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=84c544ccff72104b) | [Careers](https://boards.greenhouse.io/sofi) | 2026-11-10T17:15:09-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-10 15:33:25 MST
 
 📊 **6 new jobs this batch:**
