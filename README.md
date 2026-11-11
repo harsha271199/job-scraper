@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — November 11, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-11 09:15:29 MST
+
+📊 **5 new jobs this batch:**
+- Boeing: 1 job
+- GE HealthCare: 1 job
+- Northrop Grumman: 2 jobs
+- Snowflake: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Boeing** | USA - El Segundo, CA | Software Engineer - Developer (Associate or Experienced) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---El-Segundo-CA/Software-Engineer---Developer--Associate-or-Experienced-_JR2026526838-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=75e6947994601bc8) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **GE HealthCare** | Haifa HEALTHCARE HA IL 2 | Algorithm Software Engineer- Medical Imaging | [Apply](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite/job/Haifa-HEALTHCARE-HA-IL-2/Algorithm-Software-Engineer--Medical-Imaging_R4049367) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=17174ca23f9f2855) | [Careers](https://gehc.wd5.myworkdayjobs.com/en-US/GEHC_ExternalSite) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Boulder | 2027 Associate Software Engineer - Pathways - Boulder CO | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Boulder/XMLNAME-2027-Associate-Software-Engineer---Pathways---Boulder-CO_R10260171) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=33e102488b8bcdeb) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Northrop Grumman** | United States-Colorado-Colorado Springs | 2027 Associate Software Engineer - Pathways - Colorado Springs | [Apply](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site/job/United-States-Colorado-Colorado-Springs/XMLNAME-2027-Associate-Software-Engineer---Pathways---Colorado-Springs_R10260174) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=aa9ec07d0f1a4181) | [Careers](https://ngc.wd1.myworkdayjobs.com/en-US/Northrop_Grumman_External_Site) | Posted Today |
+| **Snowflake** | DE-Berlin-Trion Building | Software Engineer - Database Search | [Apply](https://jobs.ashbyhq.com/snowflake/bc74e54d-04d7-4946-9a2c-e2e48f67a251) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c96a38b4be6eaeb3) | [Careers](https://careers.snowflake.com/us/en) | 2026-11-11T16:02:36.703+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-11 00:50:44 MST
 
 📊 **4 new jobs this batch:**
