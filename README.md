@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — November 10, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-10 19:17:40 MST
+
+📊 **9 new jobs this batch:**
+- Apple: 9 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer (Platform Software Engineer), G&A Solutions Engineering (GSE) | [Apply](https://jobs.apple.com/en-us/details/200693547-0240/software-engineer-platform-software-engineer-g-a-solutions-engineering-gse?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=65b2d6eacc16479e) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Apple** | N/A | Software Engineer - 3D Vision & Perception | [Apply](https://jobs.apple.com/en-us/details/200694390-3956/software-engineer-3d-vision-perception?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=2bb41e1c44f2d2a1) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Apple** | N/A | Software Engineer – Digital Asset Management, Retail & Marcom Engineering | [Apply](https://jobs.apple.com/en-us/details/200693621-0157/software-engineer-digital-asset-management-retail-marcom-engineering?team=CORSV) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a0d4b5782baced62) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Apple** | N/A | Software Engineer, G&A Solutions Engineering (GSE) | [Apply](https://jobs.apple.com/en-us/details/200693583-0157/software-engineer-g-a-solutions-engineering-gse?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d66f0db37a7bc7c4) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Apple** | N/A | Sr iOS Software Engineer, Creativity Apps | [Apply](https://jobs.apple.com/en-us/details/200694335-1435/sr-ios-software-engineer-creativity-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=91c76166ad14f212) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Apple** | N/A | Sr iOS Software Engineer, Creativity Apps | [Apply](https://jobs.apple.com/en-us/details/200694335-0836/sr-ios-software-engineer-creativity-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a667ca398736774d) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Apple** | N/A | Sr iOS Software Engineer, Creativity Apps | [Apply](https://jobs.apple.com/en-us/details/200694335-3543/sr-ios-software-engineer-creativity-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=00f4d91ea2d91ad9) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Apple** | N/A | Sr iOS Software Engineer, Creativity Apps | [Apply](https://jobs.apple.com/en-us/details/200694335-3337/sr-ios-software-engineer-creativity-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1a87293040914f3c) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Apple** | N/A | Sr iOS Software Engineer, Creativity Apps | [Apply](https://jobs.apple.com/en-us/details/200694335-3673/sr-ios-software-engineer-creativity-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=27d9d3edf79fda64) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-11-10 18:17:42 MST
 
 📊 **3 new jobs this batch:**
