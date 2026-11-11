@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — November 11, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-11 11:05:21 MST
+
+📊 **5 new jobs this batch:**
+- Apple: 2 jobs
+- Brex: 1 job
+- Guidehouse: 1 job
+- PayPal: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Compute Runtime Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200687791-3337/compute-runtime-software-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f623f30674785d22) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Apple** | N/A | System Software Developer | [Apply](https://jobs.apple.com/en-us/details/200694530-0836/system-software-developer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f32d7a8d7dd74d86) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Brex** | San Francisco, California, United States | Software Engineer, Intern (Summer 2027) | [Apply](https://www.brex.com/careers/8936403002?gh_jid=8936403002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9dd5cb86de49ec31) | [Careers](https://boards.greenhouse.io/brex) | 2026-11-11T11:23:25-05:00 |
+| **Guidehouse** | US - MD, Baltimore | Neuroscience Research Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Baltimore/Neuroscience-Research-Scientist_46467) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3be1fc37e352c02c) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+| **PayPal** | Scottsdale, Arizona, United States of America | Software Engineer | [Apply](https://paypal.wd1.myworkdayjobs.com/en-US/jobs/job/Scottsdale-Arizona-United-States-of-America/Software-Engineer_R0138924) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=843034056d2fd751) | [Careers](https://paypal.wd1.myworkdayjobs.com/en-US/jobs) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-11 09:15:29 MST
 
 📊 **5 new jobs this batch:**
