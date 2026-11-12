@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — November 11, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-11 18:02:20 MST
+
+📊 **3 new jobs this batch:**
+- Apple: 2 jobs
+- Writer: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Machine Learning Engineer, Intelligent Sensing Technology - Incubation | [Apply](https://jobs.apple.com/en-us/details/200694120-0836/machine-learning-engineer-intelligent-sensing-technology-incubation?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e6de4088a6980141) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Apple** | N/A | Systems Software Engineer - Human Interface Devices | [Apply](https://jobs.apple.com/en-us/details/200693935-3956/systems-software-engineer-human-interface-devices?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f297b29d267be8a7) | [Careers](https://jobs.apple.com/en-us/search) | Nov 11, 2026 |
+| **Writer** | San Francisco, CA | AI research scientist | [Apply](https://jobs.ashbyhq.com/WRITER/2934dd8c-cf65-4a2c-a1b4-6693772cc6a1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=02fe7e31ec34522e) | [Careers](https://jobs.ashbyhq.com/writer) | 2026-11-12T00:51:04.732+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-11 15:48:36 MST
 
 📊 **19 new jobs this batch:**
