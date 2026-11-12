@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — November 12, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-12 15:54:01 MST
+
+📊 **8 new jobs this batch:**
+- Booz Allen Hamilton: 2 jobs
+- Ramp: 3 jobs
+- Snowflake: 1 job
+- Stripe: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Booz Allen Hamilton** | Alexandria, VA | Cloud Engineer, Mid | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Alexandria-VA/Cloud-Engineer--Mid_R0253451) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=97e515e02cea9162) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Chantilly, VA | Intelligence Data Analyst | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Chantilly-VA/Intelligence-Data-Analyst_R0253449) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6b05998d6f34dbb4) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Security, Cloud | [Apply](https://jobs.ashbyhq.com/ramp/34413f8d-26bf-4bbc-8ade-eb309a0e2245) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=32073b927dd530c4) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-04-07T17:12:35.753+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Security, Privacy | [Apply](https://jobs.ashbyhq.com/ramp/95f450a1-0d38-4d58-9aac-9d7e655adc36) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=de40d19eb0e0b7af) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-01-20T21:47:19.654+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Security, Product | [Apply](https://jobs.ashbyhq.com/ramp/7c26780b-7923-42d5-8111-9825ff996966) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b0d075ffa0b73bcc) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-01-20T21:47:15.308+00:00 |
+| **Snowflake** | US-WA-Bellevue | Software Engineer, Identity & Access Management | [Apply](https://jobs.ashbyhq.com/snowflake/d699971b-0c25-48e4-8733-7e8bd2328536) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6a238772c9dc0704) | [Careers](https://careers.snowflake.com/us/en) | 2026-11-12T20:54:32.604+00:00 |
+| **Stripe** | Seattle, WA | Software Engineer – Backend Engineer – Tax Engineering | [Apply](https://stripe.com/jobs/search?gh_jid=8384325) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=75e1a60e77adb759) | [Careers](https://stripe.com/careers/search) | 2026-11-12T16:33:57-05:00 |
+| **Stripe** | New York, NY | Software Engineer, Full Stack | [Apply](https://stripe.com/jobs/search?gh_jid=8384287) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6636492e277c42fd) | [Careers](https://stripe.com/careers/search) | 2026-11-12T16:33:50-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-12 13:53:15 MST
 
 📊 **14 new jobs this batch:**
