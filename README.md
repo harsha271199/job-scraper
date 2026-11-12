@@ -1,6 +1,22 @@
 # 📢 Job Listings for Harsha — November 11, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-11 20:52:28 MST
+
+📊 **5 new jobs this batch:**
+- Medtronic: 1 job
+- MongoDB: 4 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Medtronic** | Minneapolis, Minnesota, United States of America | Software Engineer II - CRM | [Apply](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers/job/Minneapolis-Minnesota-United-States-of-America/Software-Engineer-II---CRM_R81671) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f179483ce2dede5c) | [Careers](https://medtronic.wd1.myworkdayjobs.com/en-US/MedtronicCareers) | Posted Today |
+| **MongoDB** | New York City | Software Engineer 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8366703) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f96210bdb6e41e4c) | [Careers](https://www.mongodb.com/company/careers/see-jobs) | 2026-11-11T22:14:32-05:00 |
+| **MongoDB** | New York City | Software Engineer 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8367902) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e3d104a10d8911b6) | [Careers](https://www.mongodb.com/company/careers/see-jobs) | 2026-11-11T22:12:10-05:00 |
+| **MongoDB** | New York City | Software Engineer 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8351199) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8d2f3fa959235086) | [Careers](https://www.mongodb.com/company/careers/see-jobs) | 2026-11-11T22:09:08-05:00 |
+| **MongoDB** | New York City | Software Engineer 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8348102) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=69dcef9aa84e9e84) | [Careers](https://www.mongodb.com/company/careers/see-jobs) | 2026-11-11T22:16:57-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-11 18:02:20 MST
 
 📊 **3 new jobs this batch:**
