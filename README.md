@@ -1,6 +1,29 @@
 # 📢 Job Listings for Harsha — November 12, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-12 20:37:54 MST
+
+📊 **8 new jobs this batch:**
+- Abnormal Security: 1 job
+- Affirm: 1 job
+- Apple: 2 jobs
+- Booz Allen Hamilton: 2 jobs
+- SpaceX: 1 job
+- Zoox: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Abnormal Security** | Remote - USA | Software Engineer I, Data Platforms | [Apply](https://abnormal.ai/careers/jobs/8196352003?gh_jid=8196352003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6945acd074715b13) | [Careers](https://boards.greenhouse.io/abnormalsecurity) | 2026-11-12T21:06:01-05:00 |
+| **Affirm** | Remote US | Software Engineer I, Backend (Continuous Delivery) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8181183003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d8e8acbf4a9aa96a) | [Careers](https://boards.greenhouse.io/affirm) | 2026-11-12T18:15:54-05:00 |
+| **Apple** | N/A | Machine Learning Engineer, Evaluation and Quality, Creativity Apps | [Apply](https://jobs.apple.com/en-us/details/200691707-7141/machine-learning-engineer-evaluation-and-quality-creativity-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=8bfd066b3dd5bbca) | [Careers](https://jobs.apple.com/en-us/search) | Nov 12, 2026 |
+| **Apple** | N/A | UI Software Engineer - Apple TV | [Apply](https://jobs.apple.com/en-us/details/200694832-3543/ui-software-engineer-apple-tv?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f2a74a5d01c4c0b0) | [Careers](https://jobs.apple.com/en-us/search) | Nov 12, 2026 |
+| **Booz Allen Hamilton** | Lorton, VA | Augmented Reality Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Lorton-VA/Augmented-Reality-Software-Engineer_R0253494) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=dd6d5c89f22b0b60) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Fayetteville, NC | Special Missions Software Engineer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Fayetteville-NC/Special-Missions-Software-Engineer_R0253467) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=572bf46f11cbd0e7) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **SpaceX** | Starbase, TX | LNG Pipeline Engineer (Starship) | [Apply](https://boards.greenhouse.io/spacex/jobs/8933294002?gh_jid=8933294002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=35a1a9180c33ae49) | [Careers](https://new.spacex.com/careers) | 2026-11-12T21:31:18-05:00 |
+| **Zoox** | Foster City, CA | Data Scientist Intern [Summer 2027] | [Apply](https://jobs.lever.co/zoox/0f42ac76-3821-4805-8b59-446477d1e1db) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=071107a7cc009ba7) | [Careers](https://jobs.lever.co/zoox) | 2026-11-12 20:45 |
+
+---
+
 ### 🕐 Batch at 2026-11-12 15:54:01 MST
 
 📊 **8 new jobs this batch:**
