@@ -1,6 +1,19 @@
 # 📢 Job Listings for Harsha — November 17, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-17 16:11:00 MST
+
+📊 **2 new jobs this batch:**
+- Airbnb: 1 job
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airbnb** | United States | Software Engineer, DevAI | [Apply](https://careers.airbnb.com/positions/8397762?gh_jid=8397762) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=79c3af626e204816) | [Careers](https://careers.airbnb.com/positions/) | 2026-11-17T18:01:50-05:00 |
+| **Salesforce** | New York - New York | Software Engineer | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/New-York---New-York/Software-Engineer_JR367393) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c477ce354d558496) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-17 15:57:50 MST
 
 📊 **13 new jobs this batch:**
