@@ -1,6 +1,36 @@
 # 📢 Job Listings for Harsha — November 17, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-17 15:57:50 MST
+
+📊 **13 new jobs this batch:**
+- Apple: 3 jobs
+- Benchling: 3 jobs
+- Kodiak: 1 job
+- OpenAI: 2 jobs
+- Ramp: 1 job
+- Roblox: 1 job
+- Socure: 1 job
+- Twilio: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Machine Learning Engineer Platform - iCloud Mail Intelligence | [Apply](https://jobs.apple.com/en-us/details/200695220-3543/machine-learning-engineer-platform-icloud-mail-intelligence?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ef941e9a9d4721e0) | [Careers](https://jobs.apple.com/en-us/search) | Nov 17, 2026 |
+| **Apple** | N/A | Site Reliability Engineer — Info Apps | [Apply](https://jobs.apple.com/en-us/details/200695296-0157/site-reliability-engineer-info-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=35d7319bc471f227) | [Careers](https://jobs.apple.com/en-us/search) | Nov 17, 2026 |
+| **Apple** | N/A | Site Reliability Engineer — Info Apps | [Apply](https://jobs.apple.com/en-us/details/200695296-0836/site-reliability-engineer-info-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6b0a5ce323df19b3) | [Careers](https://jobs.apple.com/en-us/search) | Nov 17, 2026 |
+| **Benchling** | San Francisco, CA | Software Engineer, Big Data Infrastructure | [Apply](https://jobs.ashbyhq.com/benchling/6183438d-1ff6-4389-aff9-a0128ff3a407) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=88dfe2d4faa269f5) | [Careers](https://jobs.ashbyhq.com/benchling) | 2026-11-17T19:32:51.300+00:00 |
+| **Benchling** | San Francisco, CA | Software Engineer, CDC | [Apply](https://jobs.ashbyhq.com/benchling/baa78673-4c25-4d61-8888-2eac4c63d8c5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=af7738bd3fa82499) | [Careers](https://jobs.ashbyhq.com/benchling) | 2026-11-17T19:32:40.554+00:00 |
+| **Benchling** | San Francisco, CA | Software Engineer, CDC | [Apply](https://jobs.ashbyhq.com/benchling/7b1ffaaf-2374-4b09-8495-899cc4847862) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=42cf8404874d301c) | [Careers](https://jobs.ashbyhq.com/benchling) | 2026-11-17T19:32:42.994+00:00 |
+| **Kodiak** | Mountain View, CA | Data Scientist | [Apply](https://job-boards.greenhouse.io/kodiak/jobs/4511215009) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=de7c7e5eb4283821) | [Careers](https://boards.greenhouse.io/kodiak) | 2026-11-17T15:36:44-05:00 |
+| **OpenAI** | San Francisco | Full Stack Software Engineer, Dots for Companies | [Apply](https://jobs.ashbyhq.com/openai/7447dd43-9bf5-445f-bb8c-ba57756c8d04) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=88b8daff5eca8deb) | [Careers](https://openai.com/careers/search/) | 2026-11-17T21:50:05.840+00:00 |
+| **OpenAI** | San Francisco | Software Engineer, Presence | [Apply](https://jobs.ashbyhq.com/openai/1327d083-c932-4aed-aadc-57586521ee60) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=abab69173b0e052e) | [Careers](https://openai.com/careers/search/) | 2026-11-17T17:15:22.443+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Backend, AI Ventures | [Apply](https://jobs.ashbyhq.com/ramp/3cfbf693-58e3-423f-87a8-a93dbd0839b0) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fe6a690f8eb32155) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-11-17T17:52:33.611+00:00 |
+| **Roblox** | San Mateo, CA, United States | Software Engineer, Communication Safety | [Apply](https://careers.roblox.com/jobs/8386848?gh_jid=8386848) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9b17f66efa2962d5) | [Careers](https://careers.roblox.com/) | 2026-11-17T12:39:36-05:00 |
+| **Socure** | New York - Remote | Data Scientist ll - RiskOS | [Apply](https://jobs.ashbyhq.com/socure/5337e747-bc84-4c2d-8f5e-042cf64bc80e) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=db047abe74c56d12) | [Careers](https://jobs.ashbyhq.com/socure) | 2026-09-17T22:13:29.106+00:00 |
+| **Twilio** | Remote - US | Staff, Fullstack Software Engineer (L4) | [Apply](https://job-boards.greenhouse.io/twilio/jobs/8393931) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fea121b84d3d2729) | [Careers](https://jobs.twilio.com/) | 2026-11-17T15:21:04-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-17 07:34:40 MST
 
 📊 **13 new jobs this batch:**
