@@ -1,6 +1,24 @@
 # 📢 Job Listings for Harsha — November 17, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-17 21:44:28 MST
+
+📊 **5 new jobs this batch:**
+- Benchling: 1 job
+- OpenAI: 1 job
+- SpaceX: 2 jobs
+- Twitch: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Benchling** | San Francisco, CA | Data Engineer | [Apply](https://jobs.ashbyhq.com/benchling/c97e5668-29ee-4810-b7cc-35331ac123f5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=4a8852ef47bc222a) | [Careers](https://jobs.ashbyhq.com/benchling) | 2026-11-18T01:41:03.029+00:00 |
+| **OpenAI** | San Francisco | Full Stack Software Engineer, DotCom | [Apply](https://jobs.ashbyhq.com/openai/60f8bcbc-3ca5-42f4-a73b-e864a6340a16) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=900855478ef93dab) | [Careers](https://openai.com/careers/search/) | 2026-11-17T23:57:20.997+00:00 |
+| **SpaceX** | Memphis, TN | Site Reliability Engineer, Kubernetes | [Apply](https://boards.greenhouse.io/spacex/jobs/8930994002?gh_jid=8930994002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=61762770c43c9213) | [Careers](https://new.spacex.com/careers) | 2026-11-17T18:57:21-05:00 |
+| **SpaceX** | Bastrop, TX | Software Engineer (Starship) | [Apply](https://boards.greenhouse.io/spacex/jobs/8949363002?gh_jid=8949363002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=62fd25ff5101ebc9) | [Careers](https://new.spacex.com/careers) | 2026-11-17T18:51:49-05:00 |
+| **Twitch** | Seattle, WA | Software Engineer I, Commerce | [Apply](https://job-boards.greenhouse.io/twitch/jobs/8949388002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c9c737bdc3879c81) | [Careers](https://boards.greenhouse.io/twitch) | 2026-11-17T19:30:12-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-17 16:11:00 MST
 
 📊 **2 new jobs this batch:**
