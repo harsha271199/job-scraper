@@ -1,6 +1,18 @@
 # 📢 Job Listings for Harsha — November 18, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-18 07:09:10 MST
+
+📊 **2 new jobs this batch:**
+- Apple: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer, Satellite Operations | [Apply](https://jobs.apple.com/en-us/details/200695636-3543/software-engineer-satellite-operations?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6af8bc85ec17a81e) | [Careers](https://jobs.apple.com/en-us/search) | Nov 18, 2026 |
+| **Apple** | N/A | Software Engineer, Satellite Operations | [Apply](https://jobs.apple.com/en-us/details/200695636-3749/software-engineer-satellite-operations?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f368b4cf86402472) | [Careers](https://jobs.apple.com/en-us/search) | Nov 18, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-11-18 06:31:30 MST
 
 📊 **11 new jobs this batch:**
