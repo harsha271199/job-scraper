@@ -1,6 +1,38 @@
 # 📢 Job Listings for Harsha — November 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-19 15:13:20 MST
+
+📊 **14 new jobs this batch:**
+- Apple: 2 jobs
+- Boeing: 1 job
+- Booz Allen Hamilton: 2 jobs
+- Broadcom: 1 job
+- CrowdStrike: 1 job
+- Decagon: 1 job
+- General Motors: 1 job
+- Hopper: 2 jobs
+- Snowflake: 3 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | AIML - ML Engineer, Responsible AI and Safety | [Apply](https://jobs.apple.com/en-us/details/200696034-0836/aiml-ml-engineer-responsible-ai-and-safety?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0e27acc094e7f89a) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Apple** | N/A | Creative Intelligence & Aesthetics - Machine Learning Engineer | [Apply](https://jobs.apple.com/en-us/details/200696004-0836/creative-intelligence-aesthetics-machine-learning-engineer?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f9649e15cfbcbe5b) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Boeing** | USA - Tukwila, WA | Business Intelligence Analyst (BI Analysis) | [Apply](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers/job/USA---Tukwila-WA/Business-Intelligence-Analyst--BI-Analysis-_JR2026528966-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9e1801fb0f2e6be6) | [Careers](https://boeing.wd1.myworkdayjobs.com/en-US/external_careers) | Posted Today |
+| **Booz Allen Hamilton** | San Diego, CA | AI Software Developer, 3 | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/San-Diego-CA/AI-Software-Developer--3_R0253882) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=91ab138f30983999) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Booz Allen Hamilton** | Arlington, VA | Software Developer | [Apply](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs/job/Arlington-VA/Software-Developer_R0253855) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=012c3f28a7bca2ce) | [Careers](https://bah.wd1.myworkdayjobs.com/en-US/BAH_Jobs) | Posted Today |
+| **Broadcom** | USA-CA San Jose Innovation Drive | Switch SDK Software Engineer | [Apply](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career/job/USA-CA-San-Jose-Innovation-Drive/Switch-SDK-Software-Engineer_R027875) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9ef76c3331fe355d) | [Careers](https://broadcom.wd1.myworkdayjobs.com/en-US/External_Career) | Posted Today |
+| **CrowdStrike** | USA - Sunnyvale, CA | Sr. Software Engineer II - Exposure Management (Hybrid, Sunnyvale) | [Apply](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers/job/USA---Sunnyvale-CA/Sr-Engineer---Risk-Platform--Hybrid--Sunnyvale-_R29174) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a382291870c5aadb) | [Careers](https://crowdstrike.wd5.myworkdayjobs.com/en-US/crowdstrikecareers) | Posted Today |
+| **Decagon** | San Francisco | Data Scientist, Analytics | [Apply](https://jobs.ashbyhq.com/decagon/da7b2a8d-e090-4ee3-b4fb-359827c6a3ec) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cbd4ac42551780a7) | [Careers](https://jobs.ashbyhq.com/decagon) | 2026-11-19T21:51:05.396+00:00 |
+| **General Motors** | Warren, Michigan, United States of America | Robotics Data Engineer / Data Scientist | [Apply](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Warren-Michigan-United-States-of-America/Robotics-Data-Engineer---Data-Scientist_JR-202623197) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=57b3e5f8de004aa7) | [Careers](https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM) | Posted Today |
+| **Hopper** | US - Remote | Forward Deployed AI Engineer, Travel Intelligence | [Apply](https://jobs.ashbyhq.com/hopper/1814729f-bf68-45cb-8710-aa733714a91b) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fe0f78248a0269c1) | [Careers](https://jobs.ashbyhq.com/hopper) | 2026-11-19T21:27:40.041+00:00 |
+| **Hopper** | US - Remote | Forward Deployed Engineer, Applied ML and Data | [Apply](https://jobs.ashbyhq.com/hopper/4142a491-9240-4a5c-837a-e5efc5a8ab1c) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f852019f3306bdf4) | [Careers](https://jobs.ashbyhq.com/hopper) | 2026-11-19T22:00:17.530+00:00 |
+| **Snowflake** | US-CA-Menlo Park | Software Engineer Intern (AI / ML) - Summer 2027 | [Apply](https://jobs.ashbyhq.com/snowflake/185d165c-09c7-4b57-9281-ff7c2c541907) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bb4291ab4b20254e) | [Careers](https://careers.snowflake.com/us/en) | 2026-11-19T21:34:53.479+00:00 |
+| **Snowflake** | US-CA-Menlo Park | Software Engineer Intern (Core, Infrastructure & Security) — Summer 2027 | [Apply](https://jobs.ashbyhq.com/snowflake/e194759e-3a20-47c9-868d-f47179613897) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0e3814861a299109) | [Careers](https://careers.snowflake.com/us/en) | 2026-11-19T21:36:05.815+00:00 |
+| **Snowflake** | US-CA-Menlo Park | Software Engineer Intern (Database Engineering) - Summer 2027 | [Apply](https://jobs.ashbyhq.com/snowflake/0223923d-4f0f-44e6-9649-0d1a9eda950d) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ca9a48e4e7d48093) | [Careers](https://careers.snowflake.com/us/en) | 2026-11-19T21:33:52.400+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-19 14:01:09 MST
 
 📊 **12 new jobs this batch:**
