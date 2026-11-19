@@ -1,6 +1,34 @@
 # 📢 Job Listings for Harsha — November 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-19 14:01:09 MST
+
+📊 **12 new jobs this batch:**
+- Apple: 6 jobs
+- Baseten: 1 job
+- Databricks: 1 job
+- Instacart: 1 job
+- Notion: 1 job
+- Ramp: 1 job
+- Spotify: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Backend Software Engineer - Developer Publications | [Apply](https://jobs.apple.com/en-us/details/200695937-3543/backend-software-engineer-developer-publications?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=e3b59fe37b516c9b) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Apple** | N/A | Full Stack Software Engineer - Developer Publications | [Apply](https://jobs.apple.com/en-us/details/200695936-3543/full-stack-software-engineer-developer-publications?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=b6674440bbbb6ea3) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Apple** | N/A | Research Scientist/Engineer - Multimodal Agents | [Apply](https://jobs.apple.com/en-us/details/200631338-3760/research-scientist-engineer-multimodal-agents?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=df86d01e548d3c3b) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Apple** | N/A | Research Scientist/Engineer - Multimodal Agents | [Apply](https://jobs.apple.com/en-us/details/200631338-3337/research-scientist-engineer-multimodal-agents?team=MLAI) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=00b7b36b309e8fc5) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Apple** | N/A | Software Engineer - iCloud | [Apply](https://jobs.apple.com/en-us/details/200695261-0836/software-engineer-icloud?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=cb419b7941d6333d) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Apple** | N/A | Software Engineer, Data Quality Tools & Automation — AIML Data Operations | [Apply](https://jobs.apple.com/en-us/details/200695274-0836/software-engineer-data-quality-tools-automation-aiml-data-operations?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=174f1343f9965a6e) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Baseten** | San Francisco | Software Engineer - Inference Product | [Apply](https://jobs.ashbyhq.com/baseten/fddec35f-9dbc-4344-b1df-b8ff6e05472a) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c9800e11749f3ac7) | [Careers](https://jobs.ashbyhq.com/baseten) | 2026-11-19T15:54:23.481+00:00 |
+| **Databricks** | United States | Specialist Solutions Architect - Azure Infrastructure & AI Platform | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8952028002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c86fa35a8c2fa161) | [Careers](https://www.databricks.com/company/careers/open-positions) | 2026-11-19T11:33:50-05:00 |
+| **Instacart** | Canada - Remote (ON, AB, BC, or NS Only) | Applied Scientist II - Advertiser Optimization | [Apply](https://instacart.careers/job/?gh_jid=8403432) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=762613cdef1ca6f5) | [Careers](https://boards.greenhouse.io/instacart) | 2026-11-19T15:24:42-05:00 |
+| **Notion** | San Francisco, California | Software Engineer, Collections Infra | [Apply](https://jobs.ashbyhq.com/notion/0fb1f7e2-ffe4-433c-a27d-62fa7f1d880f) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=75a62e9c2632a62e) | [Careers](https://jobs.ashbyhq.com/notion) | 2026-11-19T15:52:34.202+00:00 |
+| **Ramp** | New York, NY (HQ) | Software Engineer, Production Engineering, FinOps | [Apply](https://jobs.ashbyhq.com/ramp/da40ed6e-1c32-4284-89f5-2ad0813b8d49) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ef5679145e80ac30) | [Careers](https://jobs.ashbyhq.com/ramp) | 2026-11-19T18:02:36.287+00:00 |
+| **Spotify** | New York, NY | Backend Engineer - Data Infrastructure | [Apply](https://jobs.lever.co/spotify/ced2c220-6b5c-4e74-8e06-37d50985097c) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=adaf7404591790d7) | [Careers](https://jobs.lever.co/spotify) | 2026-11-05 17:27 |
+
+---
+
 ### 🕐 Batch at 2026-11-19 06:23:16 MST
 
 📊 **9 new jobs this batch:**
