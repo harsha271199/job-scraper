@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — November 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-19 06:23:16 MST
+
+📊 **9 new jobs this batch:**
+- Apple: 9 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Audio Software Engineer, Vision Products Software | [Apply](https://jobs.apple.com/en-us/details/200695564-0365/audio-software-engineer-vision-products-software?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3367aa4f622d91e3) | [Careers](https://jobs.apple.com/en-us/search) | Nov 18, 2026 |
+| **Apple** | N/A | Graphics Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200695771-0157/graphics-software-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7d5519f9f5e69603) | [Careers](https://jobs.apple.com/en-us/search) | Nov 18, 2026 |
+| **Apple** | N/A | Graphics Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200695736-0157/graphics-software-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a58db9c9168090e2) | [Careers](https://jobs.apple.com/en-us/search) | Nov 18, 2026 |
+| **Apple** | N/A | Graphics Software Engineer | [Apply](https://jobs.apple.com/en-us/details/200695611-0157/graphics-software-engineer?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=53a3cabd281afc5d) | [Careers](https://jobs.apple.com/en-us/search) | Nov 18, 2026 |
+| **Apple** | N/A | Site Reliability Engineer — Corporate Email Services | [Apply](https://jobs.apple.com/en-us/details/200695686-3956/site-reliability-engineer-corporate-email-services?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0e03268d8d7f057b) | [Careers](https://jobs.apple.com/en-us/search) | Nov 18, 2026 |
+| **Apple** | N/A | Software Engineer (HANA), AI & Data Platforms (AiDP) | [Apply](https://jobs.apple.com/en-us/details/200695064-3956/software-engineer-hana-ai-data-platforms-aidp?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=930ab9f6e4032b0f) | [Careers](https://jobs.apple.com/en-us/search) | Nov 18, 2026 |
+| **Apple** | N/A | Software Engineer, App Store Frameworks | [Apply](https://jobs.apple.com/en-us/details/200674464-0836/software-engineer-app-store-frameworks?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=6018ca294cfbee4d) | [Careers](https://jobs.apple.com/en-us/search) | Nov 18, 2026 |
+| **Apple** | N/A | Software Engineer, Enterprise Technology Services (IdMS) | [Apply](https://jobs.apple.com/en-us/details/200695814-0157/software-engineer-enterprise-technology-services-idms?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=3990c0a3c395cf8f) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Apple** | N/A | Software Engineer, Full Stack and Cloud | [Apply](https://jobs.apple.com/en-us/details/200695576-0836/software-engineer-full-stack-and-cloud?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=14e1105eae01a3c8) | [Careers](https://jobs.apple.com/en-us/search) | Nov 18, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-11-19 05:12:11 MST
 
 📊 **17 new jobs this batch:**
