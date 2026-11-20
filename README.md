@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — November 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-19 20:26:39 MST
+
+📊 **1 new jobs this batch:**
+- Apple: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer, Productivity Apps | [Apply](https://jobs.apple.com/en-us/details/200693165-3673/software-engineer-productivity-apps?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=fcd7ae5eb6a05bbc) | [Careers](https://jobs.apple.com/en-us/search) | Nov 20, 2026 |
+
+---
+
 ### 🕐 Batch at 2026-11-19 19:39:24 MST
 
 📊 **3 new jobs this batch:**
