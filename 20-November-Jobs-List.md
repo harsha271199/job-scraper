@@ -1,6 +1,27 @@
 # 📢 Job Listings for Harsha — November 20, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-20 14:13:27 MST
+
+📊 **6 new jobs this batch:**
+- Airbnb: 1 job
+- Apple: 1 job
+- Databricks: 1 job
+- MongoDB: 1 job
+- Okta: 1 job
+- SpaceX: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Airbnb** | US - Remote | Data Engineer Tech Foundations | [Apply](https://careers.airbnb.com/positions/8396777?gh_jid=8396777) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ad258bd9c187e583) | [Careers](https://careers.airbnb.com/positions/) | 2026-11-17T14:22:59-05:00 |
+| **Apple** | N/A | Systems Software Engineer, Platform Architecture | [Apply](https://jobs.apple.com/en-us/details/200695896-0836/systems-software-engineer-platform-architecture?team=HRDWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=f3285f12a35cf454) | [Careers](https://jobs.apple.com/en-us/search) | Nov 20, 2026 |
+| **Databricks** | United States | Specialist Solutions Architect - AWS Infrastructure & AI Platform | [Apply](https://databricks.com/company/careers/open-positions/job?gh_jid=8957103002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=47ef28dde9180fa0) | [Careers](https://www.databricks.com/company/careers/open-positions) | 2026-11-20T14:09:44-05:00 |
+| **MongoDB** | United States | Software Engineer 3 | [Apply](https://www.mongodb.com/careers/job/?gh_jid=8406812) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=1ca39c1786af5b9a) | [Careers](https://www.mongodb.com/company/careers/see-jobs) | 2026-11-20T14:03:01-05:00 |
+| **Okta** | San Francisco, CA, United States | Staff Software Engineer in Test | [Apply](https://www.okta.com/company/careers/opportunity/8396710?gh_jid=8396710) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a52b87a7e89b2107) | [Careers](https://boards.greenhouse.io/okta) | 2026-11-20T15:23:35-05:00 |
+| **SpaceX** | Redmond, WA | Software Engineer, Development Test (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8943795002?gh_jid=8943795002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d5c35b884d3a6c28) | [Careers](https://new.spacex.com/careers) | 2026-11-20T15:49:41-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-20 11:51:31 MST
 
 📊 **5 new jobs this batch:**
