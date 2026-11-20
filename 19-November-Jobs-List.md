@@ -1,6 +1,20 @@
 # 📢 Job Listings for Harsha — November 19, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-19 19:39:24 MST
+
+📊 **3 new jobs this batch:**
+- Apple: 2 jobs
+- Guidehouse: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Apple** | N/A | Software Engineer - Machine Learning and Intelligent Engineering Workflows | [Apply](https://jobs.apple.com/en-us/details/200696049-3543/software-engineer-machine-learning-and-intelligent-engineering-workflows?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d5199fcdf89a5d4f) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Apple** | N/A | Software Engineer- Spatial Media and Graphics, Vision Products Software | [Apply](https://jobs.apple.com/en-us/details/200695991-3956/software-engineer-spatial-media-and-graphics-vision-products-software?team=SFTWR) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a40d196b8bd82788) | [Careers](https://jobs.apple.com/en-us/search) | Nov 19, 2026 |
+| **Guidehouse** | US - MD, Bethesda | Research Scientist in Genetics and Tissue Analytics | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Research-Scientist-in-Genetics-and-Tissue-Analytics_46768) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=0c5608d1e5182ba4) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-19 15:13:20 MST
 
 📊 **14 new jobs this batch:**
