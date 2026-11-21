@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — November 20, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-20 19:25:27 MST
+
+📊 **1 new jobs this batch:**
+- Affirm: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Affirm** | Remote US | Software Engineer I, Backend (Streaming Infra) | [Apply](https://job-boards.greenhouse.io/affirm/jobs/8201469003) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=5bc0651c7311815c) | [Careers](https://boards.greenhouse.io/affirm) | 2026-11-20T20:09:09-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-20 17:58:42 MST
 
 📊 **12 new jobs this batch:**
