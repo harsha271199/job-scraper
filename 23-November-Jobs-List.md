@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — November 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-23 22:00:15 MST
+
+📊 **1 new jobs this batch:**
+- OpenAI: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **OpenAI** | San Francisco | Applied AI Engineer, Mid-Market Enterprise | [Apply](https://jobs.ashbyhq.com/openai/f568de05-d557-4e70-aa12-256c637c7ef5) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ecd571f1159f3be9) | [Careers](https://openai.com/careers/search/) | 2026-11-24T02:55:23.623+00:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-23 17:58:28 MST
 
 📊 **6 new jobs this batch:**
