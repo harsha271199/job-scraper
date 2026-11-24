@@ -1,6 +1,25 @@
 # 📢 Job Listings for Harsha — November 23, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-23 17:58:28 MST
+
+📊 **6 new jobs this batch:**
+- Decagon: 2 jobs
+- OpenAI: 1 job
+- SpaceX: 2 jobs
+- Woven by Toyota: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Decagon** | San Francisco | Software Engineer, Cloud Infrastructure | [Apply](https://jobs.ashbyhq.com/decagon/87d6c46a-365c-4d97-98ca-de7e29b6cf72) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=012ff07610d19f62) | [Careers](https://jobs.ashbyhq.com/decagon) | 2026-11-23T22:42:44.696+00:00 |
+| **Decagon** | San Francisco | Software Engineer, Developer Platform | [Apply](https://jobs.ashbyhq.com/decagon/491d67c4-b877-4ddc-895a-496eed6777ed) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=d0762d8605aa45d2) | [Careers](https://jobs.ashbyhq.com/decagon) | 2026-11-23T22:43:10.288+00:00 |
+| **OpenAI** | San Francisco | Applied AI Engineer, Mid-Market Enterprise | [Apply](https://jobs.ashbyhq.com/openai/1af2996f-046c-466f-bf35-4b13da116af4) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=9de814cc642adf3a) | [Careers](https://openai.com/careers/search/) | 2026-11-23T22:27:15.762+00:00 |
+| **SpaceX** | Bastrop, TX | Data Engineer, Hardware Reliability (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8957339002?gh_jid=8957339002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=7521ead502611dc3) | [Careers](https://new.spacex.com/careers) | 2026-11-23T18:28:17-05:00 |
+| **SpaceX** | Redmond, WA | Software Engineer, Ground Network (Starlink) | [Apply](https://boards.greenhouse.io/spacex/jobs/8958880002?gh_jid=8958880002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=bdaa40e184180ca3) | [Careers](https://new.spacex.com/careers) | 2026-11-23T16:41:28-05:00 |
+| **Woven by Toyota** | Ann Arbor, MI | Integration Software Engineer II, Arene Applied Engineering | [Apply](https://jobs.lever.co/woven-by-toyota/beb88d3e-3f05-4e2d-9718-2a7520cce9a0) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ba3c39a9a28d8b11) | [Careers](https://jobs.lever.co/woven-by-toyota) | 2026-11-23 23:35 |
+
+---
+
 ### 🕐 Batch at 2026-11-23 13:36:18 MST
 
 📊 **10 new jobs this batch:**
