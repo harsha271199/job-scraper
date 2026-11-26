@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — November 26, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-26 15:37:28 MST
+
+📊 **1 new jobs this batch:**
+- Citi: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Citi** | Ciudad De Mexico Distrito Federal Mexico | Regulatory Reporting Analyst | [Apply](https://citi.wd5.myworkdayjobs.com/en-US/2/job/Ciudad-De-Mexico-Distrito-Federal-Mexico/Regulatory-Reporting-Analyst_261012390-1) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=86fd62829a9a58f3) | [Careers](https://citi.wd5.myworkdayjobs.com/en-US/2) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-26 12:41:16 MST
 
 📊 **2 new jobs this batch:**
