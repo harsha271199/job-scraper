@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — November 25, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-25 20:10:07 MST
+
+📊 **1 new jobs this batch:**
+- Discord: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Discord** | San Francisco Bay Area | Data Engineer | [Apply](https://job-boards.greenhouse.io/discord/jobs/8942144002) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=a1c49ff9fe73175c) | [Careers](https://boards.greenhouse.io/discord) | 2026-11-25T20:13:44-05:00 |
+
+---
+
 ### 🕐 Batch at 2026-11-25 17:28:33 MST
 
 📊 **15 new jobs this batch:**
