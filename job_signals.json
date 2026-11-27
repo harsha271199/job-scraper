@@ -1,6 +1,37 @@
 {
   "version": 1,
   "jobs": {
+    "b7795762b83dffbb": {
+      "id": "b7795762b83dffbb",
+      "company": "Stripe",
+      "title": "Software Engineer",
+      "location": "South San Francisco, CA",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8421452",
+      "official_url": "https://stripe.com/careers/search",
+      "posted": "2026-11-27T15:56:05-05:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "ETL/ELT",
+        "Communication"
+      ],
+      "top_jd_skills": [
+        "ETL/ELT",
+        "Communication"
+      ],
+      "verified_skills": [
+        "ETL/ELT"
+      ],
+      "unverified_skills": [
+        "Communication"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "api"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-11-27T22:03:13.809963+00:00"
+    },
     "b568af75adf3682a": {
       "id": "b568af75adf3682a",
       "company": "SoFi",
@@ -25,7 +56,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:54.473870+00:00"
+      "captured_at": "2026-11-27T22:03:13.499817+00:00"
     },
     "58161da22c0c5f3f": {
       "id": "58161da22c0c5f3f",
@@ -49,7 +80,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:52.400240+00:00"
+      "captured_at": "2026-11-27T22:03:11.081352+00:00"
     },
     "86fd62829a9a58f3": {
       "id": "86fd62829a9a58f3",
@@ -67,7 +98,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:52.242011+00:00"
+      "captured_at": "2026-11-27T22:03:11.020070+00:00"
     },
     "92d1e272ce425ec8": {
       "id": "92d1e272ce425ec8",
@@ -118,7 +149,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:52.058423+00:00"
+      "captured_at": "2026-11-27T22:03:10.884715+00:00"
     },
     "31c7525ee76723c7": {
       "id": "31c7525ee76723c7",
@@ -169,7 +200,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:51.618633+00:00"
+      "captured_at": "2026-11-27T22:03:10.615873+00:00"
     },
     "80b151f74d5711e8": {
       "id": "80b151f74d5711e8",
@@ -213,7 +244,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:51.178078+00:00"
+      "captured_at": "2026-11-27T22:03:10.114906+00:00"
     },
     "e2342a7929a50b3c": {
       "id": "e2342a7929a50b3c",
@@ -257,7 +288,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:50.623594+00:00"
+      "captured_at": "2026-11-27T22:03:09.846763+00:00"
     },
     "f76985c046e93236": {
       "id": "f76985c046e93236",
@@ -305,7 +336,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:50.118542+00:00"
+      "captured_at": "2026-11-27T22:03:09.542945+00:00"
     },
     "ded7757ec2e1cdc5": {
       "id": "ded7757ec2e1cdc5",
@@ -353,7 +384,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:49.492142+00:00"
+      "captured_at": "2026-11-27T22:03:09.273992+00:00"
     },
     "d05dcffcd374d587": {
       "id": "d05dcffcd374d587",
@@ -392,7 +423,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:49.013302+00:00"
+      "captured_at": "2026-11-27T22:03:08.963545+00:00"
     },
     "caa92e1e581aba0d": {
       "id": "caa92e1e581aba0d",
@@ -431,7 +462,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:48.502188+00:00"
+      "captured_at": "2026-11-27T22:03:08.716846+00:00"
     },
     "406dd7d4bad24f50": {
       "id": "406dd7d4bad24f50",
@@ -470,7 +501,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:48.064891+00:00"
+      "captured_at": "2026-11-27T22:03:08.412340+00:00"
     },
     "8ae5f848a66f04fd": {
       "id": "8ae5f848a66f04fd",
@@ -514,7 +545,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:47.605319+00:00"
+      "captured_at": "2026-11-27T22:03:08.158514+00:00"
     },
     "b8b8be4686c138bb": {
       "id": "b8b8be4686c138bb",
@@ -558,7 +589,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:47.135261+00:00"
+      "captured_at": "2026-11-27T22:03:07.822958+00:00"
     },
     "1279a5520174886e": {
       "id": "1279a5520174886e",
@@ -573,12 +604,10 @@
       "top_jd_skills": [],
       "verified_skills": [],
       "unverified_skills": [],
-      "signal_terms": [
-        "cloud"
-      ],
-      "signal_source": "job-page",
+      "signal_terms": [],
+      "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:46.536162+00:00"
+      "captured_at": "2026-11-27T22:03:07.288692+00:00"
     },
     "c427443dd2e881cf": {
       "id": "c427443dd2e881cf",
@@ -622,7 +651,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:44.346773+00:00"
+      "captured_at": "2026-11-27T22:02:55.225630+00:00"
     },
     "4073b61806c1e2d2": {
       "id": "4073b61806c1e2d2",
@@ -668,7 +697,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:43.765239+00:00"
+      "captured_at": "2026-11-27T22:02:54.894231+00:00"
     },
     "20f86920ab109318": {
       "id": "20f86920ab109318",
@@ -686,7 +715,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:43.415465+00:00"
+      "captured_at": "2026-11-27T22:02:54.597323+00:00"
     },
     "f353b7d1810882bf": {
       "id": "f353b7d1810882bf",
@@ -704,7 +733,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:43.070148+00:00"
+      "captured_at": "2026-11-27T22:02:54.342311+00:00"
     },
     "efc6ca2a8b7fe8cb": {
       "id": "efc6ca2a8b7fe8cb",
@@ -722,7 +751,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:42.725025+00:00"
+      "captured_at": "2026-11-27T22:02:53.671184+00:00"
     },
     "4eb5fb8e710d4433": {
       "id": "4eb5fb8e710d4433",
@@ -740,7 +769,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:42.332837+00:00"
+      "captured_at": "2026-11-27T22:02:53.643130+00:00"
     },
     "2908c09b0ff7f4c7": {
       "id": "2908c09b0ff7f4c7",
@@ -758,7 +787,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:41.500681+00:00"
+      "captured_at": "2026-11-27T22:02:53.159207+00:00"
     },
     "586c28494a1d197f": {
       "id": "586c28494a1d197f",
@@ -778,7 +807,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:41.204545+00:00"
+      "captured_at": "2026-11-27T22:02:53.004439+00:00"
     },
     "b81431ea4dbb2663": {
       "id": "b81431ea4dbb2663",
@@ -796,7 +825,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:41.001531+00:00"
+      "captured_at": "2026-11-27T22:02:52.813090+00:00"
     },
     "f62cc8ef6fde9bf9": {
       "id": "f62cc8ef6fde9bf9",
@@ -814,7 +843,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:40.292016+00:00"
+      "captured_at": "2026-11-27T22:02:52.377159+00:00"
     },
     "2124ce919065234a": {
       "id": "2124ce919065234a",
@@ -834,7 +863,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:39.884726+00:00"
+      "captured_at": "2026-11-27T22:02:52.349085+00:00"
     },
     "9de814cc642adf3a": {
       "id": "9de814cc642adf3a",
@@ -852,7 +881,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:36.352763+00:00"
+      "captured_at": "2026-11-27T22:02:50.210598+00:00"
     },
     "d0762d8605aa45d2": {
       "id": "d0762d8605aa45d2",
@@ -870,7 +899,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:36.250620+00:00"
+      "captured_at": "2026-11-27T22:02:49.910314+00:00"
     },
     "012ff07610d19f62": {
       "id": "012ff07610d19f62",
@@ -890,7 +919,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:35.829966+00:00"
+      "captured_at": "2026-11-27T22:02:49.879199+00:00"
     },
     "ecd571f1159f3be9": {
       "id": "ecd571f1159f3be9",
@@ -908,7 +937,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:35.517841+00:00"
+      "captured_at": "2026-11-27T22:02:49.853138+00:00"
     },
     "b2beecda9ffe98ff": {
       "id": "b2beecda9ffe98ff",
@@ -926,7 +955,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:35.258996+00:00"
+      "captured_at": "2026-11-27T22:02:49.771832+00:00"
     },
     "f09a3054a836c560": {
       "id": "f09a3054a836c560",
@@ -944,7 +973,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:34.942278+00:00"
+      "captured_at": "2026-11-27T22:02:49.543531+00:00"
     },
     "17cfbd562dd63b55": {
       "id": "17cfbd562dd63b55",
@@ -962,7 +991,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:34.586063+00:00"
+      "captured_at": "2026-11-27T22:02:49.329036+00:00"
     },
     "5dae8be527f7e818": {
       "id": "5dae8be527f7e818",
@@ -980,7 +1009,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:34.293729+00:00"
+      "captured_at": "2026-11-27T22:02:49.099233+00:00"
     },
     "bc4640226d48a1ee": {
       "id": "bc4640226d48a1ee",
@@ -998,7 +1027,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:33.938476+00:00"
+      "captured_at": "2026-11-27T22:02:48.869347+00:00"
     },
     "107db2e718ae37b2": {
       "id": "107db2e718ae37b2",
@@ -1016,7 +1045,309 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T14:24:33.588229+00:00"
+      "captured_at": "2026-11-27T22:02:48.645368+00:00"
+    },
+    "5ddd0114cb610975": {
+      "id": "5ddd0114cb610975",
+      "company": "Stripe",
+      "title": "Software Engineer, Reporting Platform",
+      "location": "New York, NY",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8421367",
+      "official_url": "https://stripe.com/careers/search",
+      "posted": "2026-11-27T14:44:36-05:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Apache Airflow",
+        "Apache Spark",
+        "REST APIs",
+        "ETL/ELT",
+        "Java",
+        "Scala",
+        "Collaboration",
+        "Data Warehousing",
+        "Trino",
+        "Hadoop",
+        "Data Quality"
+      ],
+      "top_jd_skills": [
+        "Apache Airflow",
+        "Apache Spark",
+        "REST APIs",
+        "ETL/ELT",
+        "Java",
+        "Scala",
+        "Collaboration",
+        "Data Warehousing",
+        "Trino",
+        "Hadoop"
+      ],
+      "verified_skills": [
+        "Apache Airflow",
+        "Apache Spark",
+        "REST APIs",
+        "ETL/ELT",
+        "Scala",
+        "Data Quality"
+      ],
+      "unverified_skills": [
+        "Java",
+        "Collaboration",
+        "Data Warehousing",
+        "Trino",
+        "Hadoop"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "data pipelines",
+        "data warehouse",
+        "api",
+        "data quality",
+        "analytics"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-11-27T22:02:46.575302+00:00"
+    },
+    "f3522334d8612abf": {
+      "id": "f3522334d8612abf",
+      "company": "Stripe",
+      "title": "Software Engineer, Full Stack Atlas",
+      "location": "South San Francisco, CA",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8421000",
+      "official_url": "https://stripe.com/careers/search",
+      "posted": "2026-11-27T11:39:02-05:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "REST APIs",
+        "Observability",
+        "Experimentation",
+        "JSON",
+        "Monitoring",
+        "Prometheus",
+        "Grafana",
+        "ETL/ELT",
+        "Collaboration",
+        "Communication"
+      ],
+      "top_jd_skills": [
+        "REST APIs",
+        "Observability",
+        "Experimentation",
+        "JSON",
+        "Monitoring",
+        "Prometheus",
+        "Grafana",
+        "ETL/ELT",
+        "Collaboration",
+        "Communication"
+      ],
+      "verified_skills": [
+        "REST APIs",
+        "JSON",
+        "ETL/ELT"
+      ],
+      "unverified_skills": [
+        "Observability",
+        "Experimentation",
+        "Monitoring",
+        "Prometheus",
+        "Grafana",
+        "Collaboration",
+        "Communication"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "api",
+        "observability",
+        "monitoring"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-11-27T22:02:46.263292+00:00"
+    },
+    "21505e9b2a08e58b": {
+      "id": "21505e9b2a08e58b",
+      "company": "Stripe",
+      "title": "Software Engineer, Backend",
+      "location": "South San Francisco, CA",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8421387",
+      "official_url": "https://stripe.com/careers/search",
+      "posted": "2026-11-27T14:57:35-05:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "ETL/ELT",
+        "Observability",
+        "Monitoring",
+        "Java",
+        "Scala",
+        "Python",
+        "Testing",
+        "NoSQL",
+        "Distributed Systems",
+        "MongoDB",
+        "Cassandra",
+        "Data Modeling"
+      ],
+      "top_jd_skills": [
+        "ETL/ELT",
+        "Observability",
+        "Monitoring",
+        "Java",
+        "Scala",
+        "Python",
+        "Testing",
+        "NoSQL",
+        "Distributed Systems",
+        "MongoDB"
+      ],
+      "verified_skills": [
+        "ETL/ELT",
+        "Scala",
+        "Python",
+        "Data Modeling"
+      ],
+      "unverified_skills": [
+        "Observability",
+        "Monitoring",
+        "Java",
+        "Testing",
+        "NoSQL",
+        "Distributed Systems",
+        "MongoDB",
+        "Cassandra"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "distributed systems",
+        "api",
+        "observability",
+        "monitoring",
+        "data modeling",
+        "dashboard",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-11-27T22:02:45.947641+00:00"
+    },
+    "33775b1b2fe8a454": {
+      "id": "33775b1b2fe8a454",
+      "company": "Stripe",
+      "title": "Software Engineer, Backend",
+      "location": "Seattle, WA",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8421091",
+      "official_url": "https://stripe.com/careers/search",
+      "posted": "2026-11-27T12:11:31-05:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Communication",
+        "REST APIs",
+        "Java",
+        "Python",
+        "JavaScript",
+        "AWS",
+        "Collaboration",
+        "Testing",
+        "ETL/ELT",
+        "Stakeholder Management"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "REST APIs",
+        "Java",
+        "Python",
+        "JavaScript",
+        "AWS",
+        "Collaboration",
+        "Testing",
+        "ETL/ELT",
+        "Stakeholder Management"
+      ],
+      "verified_skills": [
+        "REST APIs",
+        "Python",
+        "JavaScript",
+        "AWS",
+        "ETL/ELT"
+      ],
+      "unverified_skills": [
+        "Communication",
+        "Java",
+        "Collaboration",
+        "Testing",
+        "Stakeholder Management"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "streaming",
+        "api",
+        "cloud",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-11-27T22:02:45.629085+00:00"
+    },
+    "8523462e620ff40b": {
+      "id": "8523462e620ff40b",
+      "company": "Stripe",
+      "title": "Software Engineer",
+      "location": "South San Francisco, CA",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8421434",
+      "official_url": "https://stripe.com/careers/search",
+      "posted": "2026-11-27T15:33:03-05:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Distributed Systems",
+        "AWS",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "Networking",
+        "Collaboration",
+        "Go",
+        "Kubernetes",
+        "Docker",
+        "Microservices",
+        "ETL/ELT"
+      ],
+      "top_jd_skills": [
+        "Distributed Systems",
+        "AWS",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "Networking",
+        "Collaboration",
+        "Go",
+        "Kubernetes",
+        "Docker",
+        "Microservices"
+      ],
+      "verified_skills": [
+        "AWS",
+        "Microsoft Azure",
+        "Kubernetes",
+        "Docker",
+        "ETL/ELT"
+      ],
+      "unverified_skills": [
+        "Distributed Systems",
+        "Google Cloud Platform",
+        "Networking",
+        "Collaboration",
+        "Go",
+        "Microservices"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "distributed systems",
+        "api",
+        "microservices",
+        "cloud"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-11-27T22:02:45.012363+00:00"
     },
     "b980ccaa042e1d65": {
       "id": "b980ccaa042e1d65",
@@ -111167,5 +111498,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-11-26T22:37:28.985719+00:00"
+  "generated_at": "2026-11-27T22:02:46.644288+00:00"
 }
