@@ -1,37 +1,6 @@
 {
   "version": 1,
   "jobs": {
-    "b7795762b83dffbb": {
-      "id": "b7795762b83dffbb",
-      "company": "Stripe",
-      "title": "Software Engineer",
-      "location": "South San Francisco, CA",
-      "apply_url": "https://stripe.com/jobs/search?gh_jid=8421452",
-      "official_url": "https://stripe.com/careers/search",
-      "posted": "2026-11-27T15:56:05-05:00",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "ETL/ELT",
-        "Communication"
-      ],
-      "top_jd_skills": [
-        "ETL/ELT",
-        "Communication"
-      ],
-      "verified_skills": [
-        "ETL/ELT"
-      ],
-      "unverified_skills": [
-        "Communication"
-      ],
-      "signal_terms": [
-        "data pipeline",
-        "api"
-      ],
-      "signal_source": "job-page",
-      "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:13.809963+00:00"
-    },
     "b568af75adf3682a": {
       "id": "b568af75adf3682a",
       "company": "SoFi",
@@ -56,7 +25,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:13.499817+00:00"
+      "captured_at": "2026-11-27T22:59:10.346074+00:00"
     },
     "58161da22c0c5f3f": {
       "id": "58161da22c0c5f3f",
@@ -68,19 +37,72 @@
       "posted": "Posted 2 Days Ago",
       "profile": "machine-learning",
       "detected_skills": [
-        "Machine Learning"
+        "Machine Learning",
+        "Communication",
+        "Data Visualization",
+        "Monitoring",
+        "SQL",
+        "Databricks",
+        "Large Language Models",
+        "Testing",
+        "ETL/ELT",
+        "Python",
+        "Git",
+        "REST APIs",
+        "Apache Spark",
+        "CI/CD",
+        "Streamlit",
+        "Tableau"
       ],
       "top_jd_skills": [
-        "Machine Learning"
+        "Machine Learning",
+        "Communication",
+        "Data Visualization",
+        "Monitoring",
+        "SQL",
+        "Databricks",
+        "Large Language Models",
+        "Testing",
+        "ETL/ELT",
+        "Python"
       ],
       "verified_skills": [
-        "Machine Learning"
+        "Machine Learning",
+        "SQL",
+        "ETL/ELT",
+        "Python",
+        "Git",
+        "REST APIs",
+        "Apache Spark",
+        "CI/CD",
+        "Streamlit",
+        "Tableau"
       ],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
+      "unverified_skills": [
+        "Communication",
+        "Data Visualization",
+        "Monitoring",
+        "Databricks",
+        "Large Language Models",
+        "Testing"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "data pipelines",
+        "elt",
+        "api",
+        "cloud",
+        "ci/cd",
+        "monitoring",
+        "machine learning",
+        "analytics",
+        "dashboard",
+        "sql",
+        "python"
+      ],
+      "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:11.081352+00:00"
+      "captured_at": "2026-11-27T22:59:08.561753+00:00"
     },
     "86fd62829a9a58f3": {
       "id": "86fd62829a9a58f3",
@@ -91,14 +113,28 @@
       "official_url": "https://citi.wd5.myworkdayjobs.com/en-US/2",
       "posted": "Posted Today",
       "profile": "data-analytics",
-      "detected_skills": [],
-      "top_jd_skills": [],
+      "detected_skills": [
+        "Communication",
+        "Problem Solving",
+        "Monitoring"
+      ],
+      "top_jd_skills": [
+        "Communication",
+        "Problem Solving",
+        "Monitoring"
+      ],
       "verified_skills": [],
-      "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
+      "unverified_skills": [
+        "Communication",
+        "Problem Solving",
+        "Monitoring"
+      ],
+      "signal_terms": [
+        "monitoring"
+      ],
+      "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:11.020070+00:00"
+      "captured_at": "2026-11-27T22:59:08.085474+00:00"
     },
     "92d1e272ce425ec8": {
       "id": "92d1e272ce425ec8",
@@ -149,7 +185,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:10.884715+00:00"
+      "captured_at": "2026-11-27T22:59:07.718429+00:00"
     },
     "31c7525ee76723c7": {
       "id": "31c7525ee76723c7",
@@ -200,7 +236,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:10.615873+00:00"
+      "captured_at": "2026-11-27T22:59:07.286495+00:00"
     },
     "80b151f74d5711e8": {
       "id": "80b151f74d5711e8",
@@ -244,7 +280,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:10.114906+00:00"
+      "captured_at": "2026-11-27T22:59:06.868811+00:00"
     },
     "e2342a7929a50b3c": {
       "id": "e2342a7929a50b3c",
@@ -288,7 +324,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:09.846763+00:00"
+      "captured_at": "2026-11-27T22:59:06.429100+00:00"
     },
     "f76985c046e93236": {
       "id": "f76985c046e93236",
@@ -336,7 +372,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:09.542945+00:00"
+      "captured_at": "2026-11-27T22:59:06.033899+00:00"
     },
     "ded7757ec2e1cdc5": {
       "id": "ded7757ec2e1cdc5",
@@ -384,7 +420,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:09.273992+00:00"
+      "captured_at": "2026-11-27T22:59:05.653291+00:00"
     },
     "d05dcffcd374d587": {
       "id": "d05dcffcd374d587",
@@ -423,7 +459,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:08.963545+00:00"
+      "captured_at": "2026-11-27T22:59:05.185530+00:00"
     },
     "caa92e1e581aba0d": {
       "id": "caa92e1e581aba0d",
@@ -462,7 +498,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:08.716846+00:00"
+      "captured_at": "2026-11-27T22:59:04.757471+00:00"
     },
     "406dd7d4bad24f50": {
       "id": "406dd7d4bad24f50",
@@ -501,7 +537,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:08.412340+00:00"
+      "captured_at": "2026-11-27T22:59:04.221013+00:00"
     },
     "8ae5f848a66f04fd": {
       "id": "8ae5f848a66f04fd",
@@ -545,7 +581,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:08.158514+00:00"
+      "captured_at": "2026-11-27T22:59:03.843143+00:00"
     },
     "b8b8be4686c138bb": {
       "id": "b8b8be4686c138bb",
@@ -589,7 +625,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:07.822958+00:00"
+      "captured_at": "2026-11-27T22:59:03.319765+00:00"
     },
     "1279a5520174886e": {
       "id": "1279a5520174886e",
@@ -604,10 +640,12 @@
       "top_jd_skills": [],
       "verified_skills": [],
       "unverified_skills": [],
-      "signal_terms": [],
-      "signal_source": "title-only",
+      "signal_terms": [
+        "cloud"
+      ],
+      "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:03:07.288692+00:00"
+      "captured_at": "2026-11-27T22:59:02.851399+00:00"
     },
     "c427443dd2e881cf": {
       "id": "c427443dd2e881cf",
@@ -651,7 +689,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:55.225630+00:00"
+      "captured_at": "2026-11-27T22:59:00.767660+00:00"
     },
     "4073b61806c1e2d2": {
       "id": "4073b61806c1e2d2",
@@ -697,7 +735,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:54.894231+00:00"
+      "captured_at": "2026-11-27T22:59:00.239224+00:00"
     },
     "20f86920ab109318": {
       "id": "20f86920ab109318",
@@ -715,7 +753,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:54.597323+00:00"
+      "captured_at": "2026-11-27T22:58:59.879792+00:00"
     },
     "f353b7d1810882bf": {
       "id": "f353b7d1810882bf",
@@ -733,7 +771,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:54.342311+00:00"
+      "captured_at": "2026-11-27T22:58:59.606501+00:00"
     },
     "efc6ca2a8b7fe8cb": {
       "id": "efc6ca2a8b7fe8cb",
@@ -751,7 +789,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:53.671184+00:00"
+      "captured_at": "2026-11-27T22:58:59.301270+00:00"
     },
     "4eb5fb8e710d4433": {
       "id": "4eb5fb8e710d4433",
@@ -769,7 +807,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:53.643130+00:00"
+      "captured_at": "2026-11-27T22:58:58.757152+00:00"
     },
     "2908c09b0ff7f4c7": {
       "id": "2908c09b0ff7f4c7",
@@ -787,7 +825,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:53.159207+00:00"
+      "captured_at": "2026-11-27T22:58:58.054978+00:00"
     },
     "586c28494a1d197f": {
       "id": "586c28494a1d197f",
@@ -807,7 +845,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:53.004439+00:00"
+      "captured_at": "2026-11-27T22:58:57.970951+00:00"
     },
     "b81431ea4dbb2663": {
       "id": "b81431ea4dbb2663",
@@ -825,7 +863,47 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:52.813090+00:00"
+      "captured_at": "2026-11-27T22:58:57.895130+00:00"
+    },
+    "cf5ece2ca7cf36d6": {
+      "id": "cf5ece2ca7cf36d6",
+      "company": "General Motors",
+      "title": "Software Engineer-Mechatronic SW Platform",
+      "location": "Milford, Michigan, United States of America",
+      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer-Mechatronic-SW-Platform_JR-202624594",
+      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Java",
+        "CI/CD",
+        "Agile",
+        "Communication",
+        "Networking",
+        "Testing"
+      ],
+      "top_jd_skills": [
+        "Java",
+        "CI/CD",
+        "Agile",
+        "Communication",
+        "Networking",
+        "Testing"
+      ],
+      "verified_skills": [
+        "CI/CD"
+      ],
+      "unverified_skills": [
+        "Java",
+        "Agile",
+        "Communication",
+        "Networking",
+        "Testing"
+      ],
+      "signal_terms": [],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-11-27T22:58:57.573135+00:00"
     },
     "f62cc8ef6fde9bf9": {
       "id": "f62cc8ef6fde9bf9",
@@ -843,7 +921,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:52.377159+00:00"
+      "captured_at": "2026-11-27T22:58:57.059639+00:00"
     },
     "2124ce919065234a": {
       "id": "2124ce919065234a",
@@ -863,7 +941,7 @@
       ],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:52.349085+00:00"
+      "captured_at": "2026-11-27T22:58:56.720843+00:00"
     },
     "9de814cc642adf3a": {
       "id": "9de814cc642adf3a",
@@ -881,7 +959,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:50.210598+00:00"
+      "captured_at": "2026-11-27T22:58:55.028452+00:00"
     },
     "d0762d8605aa45d2": {
       "id": "d0762d8605aa45d2",
@@ -899,7 +977,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:49.910314+00:00"
+      "captured_at": "2026-11-27T22:58:54.751504+00:00"
     },
     "012ff07610d19f62": {
       "id": "012ff07610d19f62",
@@ -919,7 +997,7 @@
       ],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:49.879199+00:00"
+      "captured_at": "2026-11-27T22:58:54.484650+00:00"
     },
     "ecd571f1159f3be9": {
       "id": "ecd571f1159f3be9",
@@ -937,7 +1015,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:49.853138+00:00"
+      "captured_at": "2026-11-27T22:58:54.245720+00:00"
     },
     "b2beecda9ffe98ff": {
       "id": "b2beecda9ffe98ff",
@@ -955,7 +1033,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:49.771832+00:00"
+      "captured_at": "2026-11-27T22:58:53.853843+00:00"
     },
     "f09a3054a836c560": {
       "id": "f09a3054a836c560",
@@ -973,7 +1051,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:49.543531+00:00"
+      "captured_at": "2026-11-27T22:58:53.538947+00:00"
     },
     "17cfbd562dd63b55": {
       "id": "17cfbd562dd63b55",
@@ -991,7 +1069,7 @@
       "signal_terms": [],
       "signal_source": "job-page",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:49.329036+00:00"
+      "captured_at": "2026-11-27T22:58:53.246692+00:00"
     },
     "5dae8be527f7e818": {
       "id": "5dae8be527f7e818",
@@ -1009,7 +1087,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:49.099233+00:00"
+      "captured_at": "2026-11-27T22:58:52.938473+00:00"
     },
     "bc4640226d48a1ee": {
       "id": "bc4640226d48a1ee",
@@ -1027,7 +1105,7 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:48.869347+00:00"
+      "captured_at": "2026-11-27T22:58:52.639013+00:00"
     },
     "107db2e718ae37b2": {
       "id": "107db2e718ae37b2",
@@ -1045,7 +1123,127 @@
       "signal_terms": [],
       "signal_source": "title-only",
       "jd_skill_version": 4,
-      "captured_at": "2026-11-27T22:02:48.645368+00:00"
+      "captured_at": "2026-11-27T22:58:52.331458+00:00"
+    },
+    "b7795762b83dffbb": {
+      "id": "b7795762b83dffbb",
+      "company": "Stripe",
+      "title": "Software Engineer",
+      "location": "South San Francisco, CA",
+      "apply_url": "https://stripe.com/jobs/search?gh_jid=8421452",
+      "official_url": "https://stripe.com/careers/search",
+      "posted": "2026-11-27T15:56:05-05:00",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "AWS",
+        "Go",
+        "Java",
+        "C++",
+        "Distributed Systems",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "ETL/ELT",
+        "PostgreSQL"
+      ],
+      "top_jd_skills": [
+        "AWS",
+        "Go",
+        "Java",
+        "C++",
+        "Distributed Systems",
+        "Microsoft Azure",
+        "Google Cloud Platform",
+        "Kubernetes",
+        "Terraform",
+        "Python"
+      ],
+      "verified_skills": [
+        "AWS",
+        "Microsoft Azure",
+        "Kubernetes",
+        "Terraform",
+        "Python",
+        "ETL/ELT",
+        "PostgreSQL"
+      ],
+      "unverified_skills": [
+        "Go",
+        "Java",
+        "C++",
+        "Distributed Systems",
+        "Google Cloud Platform"
+      ],
+      "signal_terms": [
+        "data pipeline",
+        "distributed systems",
+        "api",
+        "cloud",
+        "monitoring",
+        "python"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-11-27T22:58:51.645077+00:00"
+    },
+    "ab9dc46d8cf14dfa": {
+      "id": "ab9dc46d8cf14dfa",
+      "company": "Salesforce",
+      "title": "Software Engineering PMTS",
+      "location": "California - San Francisco",
+      "apply_url": "https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR368557",
+      "official_url": "https://careers.salesforce.com/en/jobs/",
+      "posted": "Posted Today",
+      "profile": "software-engineering",
+      "detected_skills": [
+        "Collaboration",
+        "Communication",
+        "Dashboarding",
+        "Testing",
+        "Monitoring",
+        "GitHub",
+        "Incident Response",
+        "Agile",
+        "Java",
+        "Scrum"
+      ],
+      "top_jd_skills": [
+        "Collaboration",
+        "Communication",
+        "Dashboarding",
+        "Testing",
+        "Monitoring",
+        "GitHub",
+        "Incident Response",
+        "Agile",
+        "Java",
+        "Scrum"
+      ],
+      "verified_skills": [
+        "GitHub",
+        "Incident Response"
+      ],
+      "unverified_skills": [
+        "Collaboration",
+        "Communication",
+        "Dashboarding",
+        "Testing",
+        "Monitoring",
+        "Agile",
+        "Java",
+        "Scrum"
+      ],
+      "signal_terms": [
+        "cloud",
+        "monitoring",
+        "incident response",
+        "dashboard"
+      ],
+      "signal_source": "job-page",
+      "jd_skill_version": 4,
+      "captured_at": "2026-11-27T22:58:49.987378+00:00"
     },
     "5ddd0114cb610975": {
       "id": "5ddd0114cb610975",
@@ -3777,46 +3975,6 @@
       "signal_source": "job-page",
       "jd_skill_version": 4,
       "captured_at": "2026-11-25T04:55:38.760222+00:00"
-    },
-    "cf5ece2ca7cf36d6": {
-      "id": "cf5ece2ca7cf36d6",
-      "company": "General Motors",
-      "title": "Software Engineer-Mechatronic SW Platform",
-      "location": "Milford, Michigan, United States of America",
-      "apply_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM/job/Milford-Michigan-United-States-of-America/Software-Engineer-Mechatronic-SW-Platform_JR-202624594",
-      "official_url": "https://generalmotors.wd5.myworkdayjobs.com/en-US/Careers_GM",
-      "posted": "Posted Today",
-      "profile": "software-engineering",
-      "detected_skills": [
-        "Java",
-        "CI/CD",
-        "Agile",
-        "Communication",
-        "Networking",
-        "Testing"
-      ],
-      "top_jd_skills": [
-        "Java",
-        "CI/CD",
-        "Agile",
-        "Communication",
-        "Networking",
-        "Testing"
-      ],
-      "verified_skills": [
-        "CI/CD"
-      ],
-      "unverified_skills": [
-        "Java",
-        "Agile",
-        "Communication",
-        "Networking",
-        "Testing"
-      ],
-      "signal_terms": [],
-      "signal_source": "job-page",
-      "jd_skill_version": 4,
-      "captured_at": "2026-11-25T01:09:07.796739+00:00"
     },
     "f3ac1eb948a53999": {
       "id": "f3ac1eb948a53999",
@@ -111498,5 +111656,5 @@
     }
   },
   "portal_live": true,
-  "generated_at": "2026-11-27T22:02:46.644288+00:00"
+  "generated_at": "2026-11-27T22:58:50.059204+00:00"
 }

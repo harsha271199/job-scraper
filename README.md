@@ -1,6 +1,17 @@
 # 📢 Job Listings for Harsha — November 27, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-27 15:58:50 MST
+
+📊 **1 new jobs this batch:**
+- Salesforce: 1 job
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Salesforce** | California - San Francisco | Software Engineering PMTS | [Apply](https://salesforce.wd12.myworkdayjobs.com/en-US/External_Career_Site/job/California---San-Francisco/Software-Engineering-PMTS_JR368557) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=ab9dc46d8cf14dfa) | [Careers](https://careers.salesforce.com/en/jobs/) | Posted Today |
+
+---
+
 ### 🕐 Batch at 2026-11-27 15:02:46 MST
 
 📊 **6 new jobs this batch:**
