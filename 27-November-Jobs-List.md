@@ -1,6 +1,18 @@
 # 📢 Job Listings for Harsha — November 27, 2026
 > Updated every hour. Newest batch first. Times shown in America/Phoenix.
 
+### 🕐 Batch at 2026-11-27 21:59:01 MST
+
+📊 **2 new jobs this batch:**
+- Guidehouse: 2 jobs
+
+| 🏢 Company | 📍 Location | 💼 Role | 🔗 Apply | 📄 Resume + Apply | 🏠 Official Careers | 📅 Posted |
+|---|---|---|---|---|---|---|
+| **Guidehouse** | US - MD, Bethesda | Neuroscience Data Scientist | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Neuroscience-Data-Scientist_46996) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=753bcc7f6e7e0862) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted 2 Days Ago |
+| **Guidehouse** | US - MD, Bethesda | Translational Research Scientist – Cancer Biology | [Apply](https://guidehouse.wd1.myworkdayjobs.com/en-US/External/job/US---MD-Bethesda/Translational-Research-Scientist---Cancer-Biology_46993) | [Resume + Apply](https://harsha271199.github.io/job-scraper/?job=c020c21190fed5e9) | [Careers](https://guidehouse.wd1.myworkdayjobs.com/en-US/External) | Posted 2 Days Ago |
+
+---
+
 ### 🕐 Batch at 2026-11-27 15:58:50 MST
 
 📊 **1 new jobs this batch:**
